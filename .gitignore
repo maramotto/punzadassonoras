@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Punzadas Sonoras: material de terceros (regenerable con 02_batch.sh) y config local
+.DS_Store
+.idea/
+podcast-data/transcripts/
+podcast-data/raw/
+podcast-data/transcribir/audio/
+podcast-data/transcribir/transcripciones/

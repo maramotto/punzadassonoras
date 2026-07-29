@@ -1,0 +1,268 @@
+[
+{"codigo":"1x01","tags":["presentación","amor","amistad","Barthes"],"refs":[
+ {"autor":"Roland Barthes","obra":"Fragmentos de un discurso amoroso","tipo":"libro","notas":"figuras «Habladuría», «Mutismo» y «Resonancia»"}]},
+
+{"codigo":"1x02","tags":["ausencia","amor","memoria","familia"],"refs":[
+ {"autor":"Roland Barthes","obra":"Fragmentos de un discurso amoroso","tipo":"libro","notas":"figura «Ausencia»"},
+ {"autor":"Joan Didion","obra":"","tipo":"autor mencionado"},
+ {"autor":"Vladimir Nabokov","obra":"Habla, memoria","tipo":"libro","notas":"la descripción dice solo «las memorias de Nabokov»; título inferido"},
+ {"autor":"Lucía Collini","obra":"","tipo":"colaboradora"},
+ {"autor":"Marta Granjo","obra":"","tipo":"colaboradora"}]},
+
+{"codigo":"1x03","tags":["exuberancia","dinero","clase social","influencers","intimidad"],"refs":[
+ {"autor":"Annie Ernaux","obra":"","tipo":"autor mencionado"},
+ {"autor":"Matthew Weiner","obra":"Mad Men","tipo":"serie"},
+ {"autor":"Jesse Armstrong","obra":"Succession","tipo":"serie"},
+ {"autor":"Mike White","obra":"The White Lotus","tipo":"serie"},
+ {"autor":"David E. Kelley","obra":"Big Little Lies","tipo":"serie"},
+ {"autor":"","obra":"Soy Georgina","tipo":"serie","notas":"en la descripción, «la serie de Georgina»"},
+ {"autor":"Julia Viejo","obra":"","tipo":"colaboradora"}]},
+
+{"codigo":"1x04","tags":["desrealidad","espacio","arquitectura","jerarquías sociales","cine"],"refs":[
+ {"autor":"Roland Barthes","obra":"Fragmentos de un discurso amoroso","tipo":"libro","notas":"figura «Desrealidad»"},
+ {"autor":"Georges Perec","obra":"","tipo":"autor mencionado"},
+ {"autor":"Henri Lefebvre","obra":"","tipo":"autor mencionado"},
+ {"autor":"Virginia Woolf","obra":"","tipo":"autor mencionado"},
+ {"autor":"Joachim Trier","obra":"La peor persona del mundo","tipo":"película"},
+ {"autor":"Audrey Diwan","obra":"El acontecimiento","tipo":"película"},
+ {"autor":"","obra":"Case Study Houses","tipo":"proyecto arquitectónico"},
+ {"autor":"","obra":"Debate Nixon–Jrushchov","tipo":"hecho histórico","notas":"el «debate de la cocina»"}],
+ "notas_episodio":"La bibliografía completa estaba en la carta «Desrealidad» de punzadas.substack.com, anterior a la ventana de 20 posts del feed actual."},
+
+{"codigo":"1x05","tags":["cartas","correspondencia","escritura","amor"],"refs":[
+ {"autor":"Immanuel Kant y Maria von Herbert","obra":"","tipo":"correspondencia"},
+ {"autor":"Martin Heidegger y Hannah Arendt","obra":"","tipo":"correspondencia"},
+ {"autor":"Lenin, Stalin y Tito","obra":"","tipo":"correspondencia"},
+ {"autor":"Ricardo Piglia","obra":"","tipo":"autor mencionado","notas":"sobre las cartas de Kafka"},
+ {"autor":"Franz Kafka","obra":"","tipo":"correspondencia"}]},
+
+{"codigo":"1x06","tags":["salida","crisis amorosa","matrimonio","arte"],"refs":[
+ {"autor":"Roland Barthes","obra":"Fragmentos de un discurso amoroso","tipo":"libro","notas":"las «ideas de solución»"},
+ {"autor":"Antón Chéjov","obra":"La novia","tipo":"cuento"},
+ {"autor":"Kate Chopin","obra":"El despertar","tipo":"libro"},
+ {"autor":"","obra":"Jeanne Baret","tipo":"figura histórica","notas":"primera mujer que dio la vuelta al mundo"},
+ {"autor":"Georgia O'Keeffe y Alfred Stieglitz","obra":"","tipo":"figura histórica","notas":"su matrimonio"},
+ {"autor":"Camila Paz","obra":"","tipo":"invitada"}]},
+
+{"codigo":"1x07","tags":["jardín","naturaleza","fotografía","escritura","Barthes"],"refs":[
+ {"autor":"Roland Barthes","obra":"La cámara lúcida","tipo":"libro","notas":"la foto del Jardín de Invierno"},
+ {"autor":"Emily Dickinson","obra":"","tipo":"autor mencionado","notas":"leen poemas suyos"},
+ {"autor":"María Sánchez","obra":"","tipo":"autor mencionado","notas":"leen poemas suyos"},
+ {"autor":"Mary Oliver","obra":"","tipo":"autor mencionado"},
+ {"autor":"Pia Pera","obra":"","tipo":"autor mencionado"},
+ {"autor":"Valeria Correa Fiz","obra":"","tipo":"colaboradora"}]},
+
+{"codigo":"1x08","tags":["cartas","arte","escritura asémica","correspondencia"],"refs":[
+ {"autor":"Mirtha Dermisache","obra":"","tipo":"obra de arte","notas":"escritura asémica"},
+ {"autor":"Sylvia Plath","obra":"","tipo":"correspondencia"},
+ {"autor":"Anaïs Nin y Henry Miller","obra":"","tipo":"correspondencia","notas":"con June Mansfield en el triángulo"},
+ {"autor":"Vincent van Gogh","obra":"","tipo":"correspondencia"},
+ {"autor":"Frida Kahlo","obra":"","tipo":"correspondencia"},
+ {"autor":"Claude Monet","obra":"","tipo":"correspondencia"}]},
+
+{"codigo":"1x09","tags":["noche","oscuridad","abusos sexuales","urbanismo feminista","literatura japonesa"],"refs":[
+ {"autor":"Roland Barthes","obra":"Fragmentos de un discurso amoroso","tipo":"libro","notas":"«en oscuridad» frente a «en tinieblas»"},
+ {"autor":"Federico García Lorca","obra":"","tipo":"autor mencionado"},
+ {"autor":"Manon Uphoff","obra":"","tipo":"autor mencionado","notas":"la descripción la llama danesa; es neerlandesa. Probablemente «Vacié la casa de mi padre»"},
+ {"autor":"","obra":"","tipo":"autor mencionado","notas":"los místicos españoles y la literatura japonesa de la sombra, sin títulos concretos en la descripción"}]},
+
+{"codigo":"1x10","tags":["traducción","lenguaje","identidad"],"refs":[
+ {"autor":"Roland Barthes","obra":"Fragmentos de un discurso amoroso","tipo":"libro","notas":"figuras «Átopos» y «Comprender»"},
+ {"autor":"Nuria Barrios","obra":"","tipo":"invitada","notas":"filósofa, escritora y traductora"},
+ {"autor":"Jorge Luis Borges","obra":"","tipo":"autor mencionado"},
+ {"autor":"Vladimir Nabokov","obra":"","tipo":"autor mencionado"},
+ {"autor":"Theodor Kallifatides","obra":"","tipo":"autor mencionado"},
+ {"autor":"Sara Mesa","obra":"","tipo":"autor mencionado"}]},
+
+{"codigo":"1x11","tags":["declaración","cortejo","amor","cine"],"refs":[
+ {"autor":"Eva Illouz","obra":"","tipo":"autor mencionado"},
+ {"autor":"Luca Guadagnino","obra":"Call Me by Your Name","tipo":"película"},
+ {"autor":"Greta Gerwig","obra":"Mujercitas","tipo":"película","notas":"citada como «Little Women»"},
+ {"autor":"Richard Linklater","obra":"Antes del atardecer","tipo":"película","notas":"citada como «Before Sunset»"}]},
+
+{"codigo":"1x12","tags":["noche","sueño","escepticismo","capitalismo","mitología"],"refs":[
+ {"autor":"Michel de Montaigne","obra":"","tipo":"autor mencionado","notas":"experimentos mentales escépticos sobre vigilia y sueño"},
+ {"autor":"","obra":"Nix, diosa de la noche","tipo":"mito","notas":"la diosa de la noche en la mitología antigua"}]},
+
+{"codigo":"2x01","tags":["recuerdo","olvido","lenguaje","series"],"refs":[
+ {"autor":"Siri Hustvedt","obra":"","tipo":"autor mencionado"},
+ {"autor":"","obra":"Los pirahã","tipo":"tema antropológico","notas":"tribu del Amazonas cuyo lenguaje no se acopla al tiempo"},
+ {"autor":"Ryan Condal y George R. R. Martin","obra":"La casa del dragón","tipo":"serie"}]},
+
+{"codigo":"2x02","tags":["dolor","enfermedad","cáncer","vulnerabilidad"],"refs":[
+ {"autor":"Marguerite Duras","obra":"","tipo":"autor mencionado"},
+ {"autor":"Simone de Beauvoir","obra":"","tipo":"autor mencionado"},
+ {"autor":"Annie Ernaux","obra":"","tipo":"autor mencionado"},
+ {"autor":"Anne Boyer","obra":"","tipo":"autor mencionado"},
+ {"autor":"Lydia Feito","obra":"","tipo":"autor mencionado","notas":"«vulnerabilidad antropológica»"},
+ {"autor":"Roland Barthes","obra":"","tipo":"autor mencionado"}]},
+
+{"codigo":"2x03","tags":["dolor ajeno","ética médica","vulnerabilidad"],"refs":[
+ {"autor":"Susan Sontag","obra":"","tipo":"autor mencionado"},
+ {"autor":"Peter Singer","obra":"","tipo":"autor mencionado"},
+ {"autor":"Lydia Feito","obra":"","tipo":"autor mencionado"},
+ {"autor":"Paula Fox","obra":"Personajes desesperados","tipo":"libro"},
+ {"autor":"Danny Strong","obra":"Dopesick","tipo":"serie"}]},
+
+{"codigo":"2x04","tags":["amistad","vínculos","toxicidad","Barthes"],"refs":[
+ {"autor":"Roland Barthes","obra":"Fragmentos de un discurso amoroso","tipo":"libro","notas":"figura «Mutismo»"},
+ {"autor":"Sigrid Nunez","obra":"","tipo":"autor mencionado"},
+ {"autor":"Anne Boyer","obra":"","tipo":"autor mencionado"},
+ {"autor":"Sara Mesa","obra":"","tipo":"autor mencionado"},
+ {"autor":"Rodrigo Sorogoyen","obra":"","tipo":"autor mencionado"}]},
+
+{"codigo":"2x05","tags":["lectura","ficción","erotismo","arte y moral"],"refs":[
+ {"autor":"Roland Barthes","obra":"El placer del texto","tipo":"libro"},
+ {"autor":"Vladimir Nabokov","obra":"Lolita","tipo":"libro"},
+ {"autor":"Pau Luque","obra":"","tipo":"autor mencionado"},
+ {"autor":"Sally Rooney","obra":"","tipo":"autor mencionado"},
+ {"autor":"Ricardo Piglia","obra":"","tipo":"autor mencionado"},
+ {"autor":"Elisenda Julibert","obra":"","tipo":"autor mencionado"},
+ {"autor":"Platón","obra":"","tipo":"autor mencionado"},
+ {"autor":"Juan Mayorga","obra":"","tipo":"autor mencionado"},
+ {"autor":"Jacques Rancière","obra":"","tipo":"autor mencionado"}]},
+
+{"codigo":"2x06","tags":["mito","ideología","publicidad","Barthes"],"refs":[
+ {"autor":"Roland Barthes","obra":"Mitologías","tipo":"libro"},
+ {"autor":"Ernst Cassirer","obra":"El mito del Estado","tipo":"libro"},
+ {"autor":"Nuria Barrios","obra":"Todo arde","tipo":"libro","notas":"a partir del mito de Orfeo y Eurídice"}]},
+
+{"codigo":"2x07","tags":["fiesta","alegría","tiempo","trabajo"],"refs":[
+ {"autor":"Roland Barthes","obra":"Fragmentos de un discurso amoroso","tipo":"libro","notas":"figura «Fiesta»"},
+ {"autor":"Vivian Gornick","obra":"El fin de la novela de amor","tipo":"libro"},
+ {"autor":"Kate Chopin","obra":"El despertar","tipo":"libro"},
+ {"autor":"Paul Lafargue","obra":"El derecho a la pereza","tipo":"libro"},
+ {"autor":"Tim Burton","obra":"Miércoles","tipo":"serie","notas":"el personaje de Wednesday Addams"},
+ {"autor":"","obra":"Laura Marx y Paul Lafargue","tipo":"figura histórica","notas":"su matrimonio"}]},
+
+{"codigo":"2x08","tags":["Annie Ernaux","autoficción","orígenes","clase social"],"refs":[
+ {"autor":"Annie Ernaux","obra":"","tipo":"autor mencionado","notas":"introducción a su obra: infancia en Yvetot, orígenes humildes, proyecto literario"}]},
+
+{"codigo":"2x09","tags":["exilio","lengua","imaginario amoroso","Historia"],"refs":[
+ {"autor":"Roland Barthes","obra":"Fragmentos de un discurso amoroso","tipo":"libro","notas":"figura «Exilio»"},
+ {"autor":"Agota Kristof","obra":"La analfabeta","tipo":"libro"},
+ {"autor":"Simone Weil","obra":"","tipo":"autor mencionado","notas":"su exilio"},
+ {"autor":"Edward Said","obra":"","tipo":"autor mencionado","notas":"apuntes sobre el exilio literario"},
+ {"autor":"Josef Koudelka","obra":"Exiles","tipo":"obra fotográfica"},
+ {"autor":"Mercedes López","obra":"","tipo":"colaboradora"},
+ {"autor":"Irene Ortiz","obra":"","tipo":"colaboradora"}]},
+
+{"codigo":"2x10","tags":["Annie Ernaux","clase social","tránsfuga de clase","universidad"],"refs":[
+ {"autor":"Annie Ernaux","obra":"Los años","tipo":"libro"},
+ {"autor":"Pierre Bourdieu","obra":"","tipo":"autor mencionado"},
+ {"autor":"Simone de Beauvoir","obra":"","tipo":"autor mencionado"},
+ {"autor":"Didier Eribon","obra":"","tipo":"autor mencionado"},
+ {"autor":"Édouard Louis","obra":"","tipo":"autor mencionado"}]},
+
+{"codigo":"2x11","tags":["Annie Ernaux","familia","aborto","escritura","duelo"],"refs":[
+ {"autor":"Annie Ernaux","obra":"El lugar","tipo":"libro"},
+ {"autor":"Annie Ernaux","obra":"Una mujer","tipo":"libro"},
+ {"autor":"Annie Ernaux","obra":"No he salido de mi noche","tipo":"libro"},
+ {"autor":"Annie Ernaux","obra":"La otra hija","tipo":"libro"},
+ {"autor":"Annie Ernaux","obra":"El acontecimiento","tipo":"libro"}]},
+
+{"codigo":"2x12","tags":["encuentro","duelo amoroso","urbanismo","espacio público"],"refs":[
+ {"autor":"Roland Barthes","obra":"Fragmentos de un discurso amoroso","tipo":"libro","notas":"figura «Encuentro»"},
+ {"autor":"Laura Mora","obra":"Matar a Jesús","tipo":"película"},
+ {"autor":"León Siminiani","obra":"Arquitectura emocional 1959","tipo":"cortometraje"},
+ {"autor":"Michael Sandel","obra":"","tipo":"autor mencionado"},
+ {"autor":"Lorenzo Rocha","obra":"","tipo":"autor mencionado"},
+ {"autor":"Héctor García Barnés","obra":"","tipo":"autor mencionado"},
+ {"autor":"Jorge Melguizo","obra":"","tipo":"autor mencionado"},
+ {"autor":"Manuel Jabois","obra":"","tipo":"autor mencionado"},
+ {"autor":"María Herrera","obra":"","tipo":"colaboradora","notas":"productora ejecutiva del corto"}]},
+
+{"codigo":"2x13","tags":["Annie Ernaux","pasión amorosa","deseo","celos","sexo"],"refs":[
+ {"autor":"Annie Ernaux","obra":"Pura pasión","tipo":"libro"},
+ {"autor":"Annie Ernaux","obra":"Perderse","tipo":"libro","notas":"los diarios en que se basa «Pura pasión»"},
+ {"autor":"Annie Ernaux","obra":"La ocupación","tipo":"libro"},
+ {"autor":"Annie Ernaux","obra":"La mujer helada","tipo":"libro"},
+ {"autor":"Annie Ernaux","obra":"Memoria de chica","tipo":"libro"},
+ {"autor":"Annie Ernaux","obra":"Texto sobre Vilain","tipo":"artículo","notas":"en inglés, comentado al final del episodio"}]},
+
+{"codigo":"2x14","tags":["escucha","sonido","ruido","ética","radio"],"refs":[
+ {"autor":"Roland Barthes","obra":"Fragmentos de un discurso amoroso","tipo":"libro","notas":"figura «Resonancia»"},
+ {"autor":"Roland Barthes","obra":"Lo obvio y lo obtuso","tipo":"libro"},
+ {"autor":"Elena López Riera","obra":"El agua","tipo":"película"},
+ {"autor":"Luigi Russolo","obra":"","tipo":"autor mencionado"},
+ {"autor":"Marcelo Cohen","obra":"","tipo":"autor mencionado"},
+ {"autor":"John Cheever","obra":"","tipo":"autor mencionado"},
+ {"autor":"Darwin Joaqui Robles y Dorys Noemy Ortiz","obra":"","tipo":"artículo","notas":"texto citado sin título en la newsletter"}]},
+
+{"codigo":"2x15","tags":["ruinas","memoria","ciudad","poesía","antropología"],"refs":[
+ {"autor":"Safo","obra":"","tipo":"autor mencionado","notas":"en las traducciones de Anne Carson y Aurora Luque"},
+ {"autor":"Ryszard Krynicki","obra":"Piedra, escarcha","tipo":"libro","editorial_mencionada":"Vaso Roto"},
+ {"autor":"Marc Augé","obra":"El tiempo en ruinas","tipo":"libro"},
+ {"autor":"Caspar David Friedrich","obra":"El mar de hielo","tipo":"obra de arte","notas":"1824"}]},
+
+{"codigo":"2x16","tags":["Katherine Mansfield","modernismo","cuento","biografía"],"refs":[
+ {"autor":"Katherine Mansfield","obra":"","tipo":"autor mencionado","notas":"vida y obra; centenario de su fallecimiento"},
+ {"autor":"Virginia Woolf","obra":"","tipo":"autor mencionado"},
+ {"autor":"D. H. Lawrence","obra":"","tipo":"autor mencionado"}]},
+
+{"codigo":"2x17","tags":["primavera","mito","crisis climática","mundo rural"],"refs":[
+ {"autor":"Virginia Mendoza","obra":"Detendrán mi río","tipo":"libro","editorial_mencionada":"Libros del K.O."},
+ {"autor":"T. S. Eliot","obra":"","tipo":"autor mencionado"},
+ {"autor":"Unica Zürn","obra":"","tipo":"autor mencionado"},
+ {"autor":"María Sánchez","obra":"","tipo":"autor mencionado"},
+ {"autor":"Ígor Stravinski","obra":"La consagración de la primavera","tipo":"obra musical","notas":"título inferido; la descripción solo dice «Stravinski»"},
+ {"autor":"","obra":"Mito de Perséfone","tipo":"mito"}]},
+
+{"codigo":"2x18","tags":["Janet Frame","salud mental","autobiografía","Nueva Zelanda"],"refs":[
+ {"autor":"Janet Frame","obra":"Un ángel en mi mesa","tipo":"libro","editorial_mencionada":"Seix Barral"},
+ {"autor":"Janet Frame","obra":"Rostros en el agua","tipo":"libro","editorial_mencionada":"Trotta"},
+ {"autor":"Jane Campion","obra":"Un ángel en mi mesa","tipo":"película"}]},
+
+{"codigo":"2x19","tags":["ligar","deseo","vulnerabilidad","aislacionismo amoroso","ética"],"refs":[
+ {"autor":"Roland Barthes","obra":"Fragmentos de un discurso amoroso","tipo":"libro","notas":"figura «Signos»"},
+ {"autor":"Katherine Angel","obra":"El mal sexo mañana","tipo":"libro"},
+ {"autor":"Ovidio","obra":"El arte de amar","tipo":"libro"},
+ {"autor":"Annie Ernaux","obra":"El hombre joven","tipo":"libro"},
+ {"autor":"Rayne Fisher-Quann","obra":"No good alone. Isolation is easy, living is hard","tipo":"artículo"},
+ {"autor":"Mercedes López","obra":"","tipo":"colaboradora"}]},
+
+{"codigo":"2x20","tags":["lectura","lector","bibliotecas","clásicos"],"refs":[
+ {"autor":"Roland Barthes","obra":"El susurro del lenguaje","tipo":"libro"},
+ {"autor":"Wolfgang Iser","obra":"","tipo":"autor mencionado"},
+ {"autor":"Daniel Pennac","obra":"","tipo":"autor mencionado"},
+ {"autor":"Vivian Gornick","obra":"","tipo":"autor mencionado"},
+ {"autor":"Ursula K. Le Guin","obra":"","tipo":"autor mencionado"},
+ {"autor":"Italo Calvino","obra":"","tipo":"autor mencionado","notas":"sus reflexiones sobre los clásicos"},
+ {"autor":"Rafael Chirbes","obra":"","tipo":"autor mencionado"}]},
+
+{"codigo":"2x21","tags":["agua","abismo","mito","filosofía griega","capitalismo"],"refs":[
+ {"autor":"Tales de Mileto","obra":"","tipo":"autor mencionado"},
+ {"autor":"Platón","obra":"","tipo":"autor mencionado"}]},
+
+{"codigo":"2x22","tags":["juego","infancia","violencia","Feria del Libro de Madrid"],"refs":[
+ {"autor":"Sara Navarro Rioboó","obra":"Quemando chasca","tipo":"libro","editorial_mencionada":"Editorial Dieciséis"},
+ {"autor":"Pedro Lemebel","obra":"Tengo miedo torero","tipo":"libro","editorial_mencionada":"Las afueras"},
+ {"autor":"Itamar Vieira Junior","obra":"Arado torcido","tipo":"libro","editorial_mencionada":"Pepitas de calabaza"},
+ {"autor":"Kay Dick","obra":"Ellos: secuencias del desasosiego","tipo":"libro","editorial_mencionada":"Automática"},
+ {"autor":"Dahlia de la Cerda","obra":"Perras de reserva","tipo":"libro","editorial_mencionada":"Sexto Piso"},
+ {"autor":"Emily Roberts","obra":"Parliament Hill","tipo":"libro","editorial_mencionada":"Vaso Roto"},
+ {"autor":"Chantal Maillard","obra":"La baba del caracol","tipo":"libro","editorial_mencionada":"Vaso Roto"},
+ {"autor":"Johan Huizinga","obra":"","tipo":"autor mencionado"},
+ {"autor":"Pierre Bourdieu","obra":"","tipo":"autor mencionado"},
+ {"autor":"Ludwig Wittgenstein","obra":"","tipo":"autor mencionado","notas":"los juegos del lenguaje"}]},
+
+{"codigo":"2x23","tags":["daño","crueldad","tortura","obsesión","culpa"],"refs":[
+ {"autor":"Roland Barthes","obra":"Fragmentos de un discurso amoroso","tipo":"libro","notas":"figuras «Demonios» y «Faltas»"},
+ {"autor":"Anne Carson","obra":"Eros dulce y amargo","tipo":"libro"},
+ {"autor":"Emily Brontë","obra":"Cumbres borrascosas","tipo":"libro"},
+ {"autor":"Bob Brecher","obra":"Tortura: hay una bomba a punto de estallar","tipo":"libro"},
+ {"autor":"Giuseppe Berto","obra":"Anónimo veneciano","tipo":"libro"},
+ {"autor":"","obra":"Desde las gradas","tipo":"libro","notas":"autoría no indicada en la newsletter"},
+ {"autor":"Paul Schrader","obra":"El maestro jardinero","tipo":"película"},
+ {"autor":"Ellie Foumbi","obra":"Mon père, le diable","tipo":"película"}]},
+
+{"codigo":"2x24","tags":["verano","memoria","turismo","identidad","Barthes"],"refs":[
+ {"autor":"Íñigo Domínguez","obra":"Polo de limón","tipo":"libro"},
+ {"autor":"Cesare Pavese","obra":"La playa","tipo":"libro"},
+ {"autor":"Jorge Dioni López","obra":"El malestar de las ciudades","tipo":"libro"},
+ {"autor":"Siri Hustvedt","obra":"El verano sin hombres","tipo":"libro"},
+ {"autor":"Julián Ayesta","obra":"Helena o el mar del verano","tipo":"libro"},
+ {"autor":"Marta Traba","obra":"Las ceremonias del verano","tipo":"libro"},
+ {"autor":"Maruja Mallo","obra":"Verbenas","tipo":"obra de arte","notas":"serie pictórica"},
+ {"autor":"Roland Barthes","obra":"Mitologías","tipo":"libro","notas":"«El escritor en vacaciones»"}]}
+]

@@ -1,0 +1,938 @@
+[
+ {
+  "codigo": "1x01",
+  "titulo": "Punzadas Sonoras: Presentación",
+  "fecha": "Sat, 19 Fe",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL5352898322.mp3?updated=1751619391",
+  "duracion_s": 1126
+ },
+ {
+  "codigo": "1x02",
+  "titulo": "Ausencia",
+  "fecha": "Sun, 13 Ma",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL2685962815.mp3?updated=1751622430",
+  "duracion_s": 1829
+ },
+ {
+  "codigo": "1x03",
+  "titulo": "Exuberancia",
+  "fecha": "Sat, 19 Ma",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL5657143588.mp3?updated=1751616975",
+  "duracion_s": 2826
+ },
+ {
+  "codigo": "1x04",
+  "titulo": "Desrealidad",
+  "fecha": "Sat, 09 Ap",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL1645090654.mp3?updated=1751617408",
+  "duracion_s": 2941
+ },
+ {
+  "codigo": "1x05",
+  "titulo": "Carta",
+  "fecha": "Sat, 30 Ap",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL8705848397.mp3?updated=1751615701",
+  "duracion_s": 2411
+ },
+ {
+  "codigo": "1x06",
+  "titulo": "Salida",
+  "fecha": "Sat, 14 Ma",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL4502962058.mp3?updated=1751621834",
+  "duracion_s": 2065
+ },
+ {
+  "codigo": "1x07",
+  "titulo": "Jardín de invierno",
+  "fecha": "Sun, 29 Ma",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL7373916932.mp3?updated=1751616217",
+  "duracion_s": 2332
+ },
+ {
+  "codigo": "1x08",
+  "titulo": "Carta II",
+  "fecha": "Sat, 18 Ju",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL1915733802.mp3?updated=1751615851",
+  "duracion_s": 2418
+ },
+ {
+  "codigo": "1x09",
+  "titulo": "Noche",
+  "fecha": "Sat, 25 Ju",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL7216682752.mp3?updated=1751622843",
+  "duracion_s": 2181
+ },
+ {
+  "codigo": "1x10",
+  "titulo": "Traducción",
+  "fecha": "Sat, 13 Au",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL5807738103.mp3?updated=1751615703",
+  "duracion_s": 2992
+ },
+ {
+  "codigo": "1x11",
+  "titulo": "Declaración",
+  "fecha": "Sun, 21 Au",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL8769702325.mp3?updated=1751620845",
+  "duracion_s": 3143
+ },
+ {
+  "codigo": "1x12",
+  "titulo": "NOCHE II",
+  "fecha": "Sun, 28 Au",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL9010725088.mp3?updated=1751616236",
+  "duracion_s": 2878
+ },
+ {
+  "codigo": "2x01",
+  "titulo": "Recuerdo",
+  "fecha": "Sat, 24 Se",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL3772652520.mp3?updated=1751616149",
+  "duracion_s": 2057
+ },
+ {
+  "codigo": "2x02",
+  "titulo": "Dolor",
+  "fecha": "Sat, 22 Oc",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL3617888232.mp3?updated=1751617132",
+  "duracion_s": 3339
+ },
+ {
+  "codigo": "2x03",
+  "titulo": "Dolor II",
+  "fecha": "Sat, 29 Oc",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL1536317827.mp3?updated=1751621898",
+  "duracion_s": 2493
+ },
+ {
+  "codigo": "2x04",
+  "titulo": "Amistad",
+  "fecha": "Wed, 16 No",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL8613482998.mp3?updated=1751617697",
+  "duracion_s": 2877
+ },
+ {
+  "codigo": "2x05",
+  "titulo": "El placer del texto",
+  "fecha": "Sat, 10 De",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL7260737213.mp3?updated=1751622048",
+  "duracion_s": 2598
+ },
+ {
+  "codigo": "2x06",
+  "titulo": "Mitologías",
+  "fecha": "Mon, 19 De",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL4941889456.mp3?updated=1751618350",
+  "duracion_s": 3228
+ },
+ {
+  "codigo": "2x07",
+  "titulo": "Fiesta",
+  "fecha": "Sat, 31 De",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL4555370564.mp3?updated=1751617637",
+  "duracion_s": 2630
+ },
+ {
+  "codigo": "2x08",
+  "titulo": "Especial Annie Ernaux: orígenes",
+  "fecha": "Wed, 18 Ja",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL1475612364.mp3?updated=1751623860",
+  "duracion_s": 1556
+ },
+ {
+  "codigo": "2x09",
+  "titulo": "Exilio",
+  "fecha": "Sat, 21 Ja",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL8836002815.mp3?updated=1751619742",
+  "duracion_s": 3069
+ },
+ {
+  "codigo": "2x10",
+  "titulo": "Especial Annie Ernaux: clase social",
+  "fecha": "Wed, 25 Ja",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL3534481826.mp3?updated=1751618319",
+  "duracion_s": 1584
+ },
+ {
+  "codigo": "2x11",
+  "titulo": "Especial Annie Ernaux: familia y aborto",
+  "fecha": "Thu, 02 Fe",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL8387417348.mp3?updated=1751622466",
+  "duracion_s": 1894
+ },
+ {
+  "codigo": "2x12",
+  "titulo": "Encuentro",
+  "fecha": "Sat, 04 Fe",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL2238967072.mp3?updated=1751622996",
+  "duracion_s": 3630
+ },
+ {
+  "codigo": "2x13",
+  "titulo": "Especial Annie Ernaux: pasión amorosa",
+  "fecha": "Sat, 11 Fe",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL8008825794.mp3?updated=1751617341",
+  "duracion_s": 2301
+ },
+ {
+  "codigo": "2x14",
+  "titulo": "Escucha",
+  "fecha": "Sun, 19 Fe",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL9344265010.mp3?updated=1751621976",
+  "duracion_s": 3299
+ },
+ {
+  "codigo": "2x15",
+  "titulo": "Ruinas",
+  "fecha": "Sun, 26 Fe",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL8678728345.mp3?updated=1751616398",
+  "duracion_s": 2707
+ },
+ {
+  "codigo": "2x16",
+  "titulo": "Especial Katherine Mansfield",
+  "fecha": "Sat, 18 Ma",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL7655671302.mp3?updated=1751623583",
+  "duracion_s": 2047
+ },
+ {
+  "codigo": "2x17",
+  "titulo": "Especial Primavera",
+  "fecha": "Sat, 01 Ap",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL1318385016.mp3?updated=1751618227",
+  "duracion_s": 2705
+ },
+ {
+  "codigo": "2x18",
+  "titulo": "Especial Janet Frame",
+  "fecha": "Wed, 05 Ap",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL4888772395.mp3?updated=1751620687",
+  "duracion_s": 2708
+ },
+ {
+  "codigo": "2x19",
+  "titulo": "Ligar",
+  "fecha": "Sun, 16 Ap",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL5587242733.mp3?updated=1751615120",
+  "duracion_s": 3407
+ },
+ {
+  "codigo": "2x20",
+  "titulo": "Sobre la lectura",
+  "fecha": "Wed, 26 Ap",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL3853858557.mp3?updated=1751618576",
+  "duracion_s": 4139
+ },
+ {
+  "codigo": "2x21",
+  "titulo": "Abismarse",
+  "fecha": "Sat, 03 Ju",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL2252748960.mp3?updated=1751618647",
+  "duracion_s": 4236
+ },
+ {
+  "codigo": "2x22",
+  "titulo": "Juego",
+  "fecha": "Sat, 17 Ju",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL8345439520.mp3?updated=1751620335",
+  "duracion_s": 5352
+ },
+ {
+  "codigo": "2x23",
+  "titulo": "Hacer daño",
+  "fecha": "Sat, 01 Ju",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL1512056368.mp3?updated=1751620706",
+  "duracion_s": 4084
+ },
+ {
+  "codigo": "2x24",
+  "titulo": "Verano",
+  "fecha": "Fri, 14 Ju",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL2746118696.mp3?updated=1751616396",
+  "duracion_s": 4761
+ },
+ {
+  "codigo": "3x01",
+  "titulo": "Anulación: amar el amor",
+  "fecha": "Thu, 14 Se",
+  "video_id": "sjB6jWugTi8",
+  "url_audio": "https://traffic.megaphone.fm/PMSL2159537026.mp3?updated=1699889342",
+  "duracion_s": 3470
+ },
+ {
+  "codigo": "3x02",
+  "titulo": "Sexo: grietas y silencios",
+  "fecha": "Thu, 28 Se",
+  "video_id": "LGX54Ywzt1s",
+  "url_audio": "https://traffic.megaphone.fm/PMSL9793334985.mp3?updated=1699889647",
+  "duracion_s": 4533
+ },
+ {
+  "codigo": "",
+  "titulo": "Islas: anomalías fragmentarias",
+  "fecha": "Thu, 19 Oc",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL6381724947.mp3?updated=1699889807",
+  "duracion_s": 3310
+ },
+ {
+  "codigo": "3x04",
+  "titulo": "Rapto: itinerarios de una caída",
+  "fecha": "Thu, 26 Oc",
+  "video_id": "h1mQzNoiClo",
+  "url_audio": "https://traffic.megaphone.fm/PMSL2387022079.mp3?updated=1698246433",
+  "duracion_s": 4380
+ },
+ {
+  "codigo": "3x05",
+  "titulo": "Imagen: pornografía de la muerte",
+  "fecha": "Thu, 09 No",
+  "video_id": "9pPUDlv8CjQ",
+  "url_audio": "https://traffic.megaphone.fm/PMSL5321701822.mp3?updated=1699890192",
+  "duracion_s": 4494
+ },
+ {
+  "codigo": "3x06",
+  "titulo": "Contingencia: aquello que no fue",
+  "fecha": "Thu, 23 No",
+  "video_id": "BX__c-sJ-lw",
+  "url_audio": "https://traffic.megaphone.fm/PMSL5655118493.mp3?updated=1704729838",
+  "duracion_s": 5042
+ },
+ {
+  "codigo": "3x07",
+  "titulo": "Luz: aprender a mirar",
+  "fecha": "Thu, 07 De",
+  "video_id": "iMfTa2lIxos",
+  "url_audio": "https://traffic.megaphone.fm/PMSL8980008144.mp3?updated=1704730240",
+  "duracion_s": 4022
+ },
+ {
+  "codigo": "3x08",
+  "titulo": "Deseo: carencia y necesidad",
+  "fecha": "Thu, 21 De",
+  "video_id": "ea1RYoOGb0Q",
+  "url_audio": "https://traffic.megaphone.fm/PMSL2641030097.mp3?updated=1704730397",
+  "duracion_s": 3980
+ },
+ {
+  "codigo": "3x09",
+  "titulo": "Narrarnos: sentido y memoria",
+  "fecha": "Thu, 11 Ja",
+  "video_id": "_X7YjXuNdV8",
+  "url_audio": "https://traffic.megaphone.fm/PMSL3751431111.mp3?updated=1704903771",
+  "duracion_s": 3964
+ },
+ {
+  "codigo": "3x10",
+  "titulo": "El nombre: custodia del existir",
+  "fecha": "Thu, 18 Ja",
+  "video_id": "MkrD_OiHa8c",
+  "url_audio": "https://traffic.megaphone.fm/PMSL6341067010.mp3?updated=1706632864",
+  "duracion_s": 3268
+ },
+ {
+  "codigo": "3x11",
+  "titulo": "Angustia: el dolor de un final",
+  "fecha": "Thu, 01 Fe",
+  "video_id": "dYPt6Q7SG2I",
+  "url_audio": "https://traffic.megaphone.fm/PMSL1636533022.mp3?updated=1706718616",
+  "duracion_s": 3518
+ },
+ {
+  "codigo": "3x12",
+  "titulo": "La fatiga: una arquitectura afectiva",
+  "fecha": "Thu, 15 Fe",
+  "video_id": "jo_BvB5r2jw",
+  "url_audio": "https://traffic.megaphone.fm/PMSL4121113477.mp3?updated=1708333769",
+  "duracion_s": 3557
+ },
+ {
+  "codigo": "",
+  "titulo": "Mirados y mirantes: simulacros de intimidad",
+  "fecha": "Thu, 29 Fe",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL3818807625.mp3?updated=1709197474",
+  "duracion_s": 4257
+ },
+ {
+  "codigo": "3x14",
+  "titulo": "Herencia: habitar la posteridad",
+  "fecha": "Thu, 14 Ma",
+  "video_id": "bIx6oy-eMow",
+  "url_audio": "https://traffic.megaphone.fm/PMSL5722623539.mp3?updated=1711550385",
+  "duracion_s": 4286
+ },
+ {
+  "codigo": "3x15",
+  "titulo": "Las madres que no",
+  "fecha": "Thu, 28 Ma",
+  "video_id": "txjxqS1IsFs",
+  "url_audio": "https://traffic.megaphone.fm/PMSL3890800879.mp3?updated=1751615432",
+  "duracion_s": 3648
+ },
+ {
+  "codigo": "3x16",
+  "titulo": "Mirar atrás: un gesto íntimo",
+  "fecha": "Thu, 11 Ap",
+  "video_id": "n_dA6EK_aCc",
+  "url_audio": "https://traffic.megaphone.fm/PMSL8763758424.mp3?updated=1751617843",
+  "duracion_s": 3498
+ },
+ {
+  "codigo": "",
+  "titulo": "El ritmo del habitar con Blanca Lacasa",
+  "fecha": "Thu, 25 Ap",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL2682413261.mp3?updated=1751615920",
+  "duracion_s": 3846
+ },
+ {
+  "codigo": "3x18",
+  "titulo": "Mirar atrás: un gesto compartido",
+  "fecha": "Thu, 09 Ma",
+  "video_id": "oyqKClovPkA",
+  "url_audio": "https://traffic.megaphone.fm/PMSL9175472986.mp3?updated=1751619283",
+  "duracion_s": 3949
+ },
+ {
+  "codigo": "3x19",
+  "titulo": "Tabú: límite y transgresión",
+  "fecha": "Thu, 23 Ma",
+  "video_id": "LT3LfDzSGkY",
+  "url_audio": "https://traffic.megaphone.fm/PMSL8576450856.mp3?updated=1751622927",
+  "duracion_s": 4512
+ },
+ {
+  "codigo": "3x20",
+  "titulo": "Orientaciones: coordenadas vitales",
+  "fecha": "Thu, 06 Ju",
+  "video_id": "_q5d2V5Lryo",
+  "url_audio": "https://traffic.megaphone.fm/PMSL3100755143.mp3?updated=1751616730",
+  "duracion_s": 3889
+ },
+ {
+  "codigo": "",
+  "titulo": "Matar al Autor: el destino del texto",
+  "fecha": "Thu, 20 Ju",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL7390189795.mp3?updated=1751617583",
+  "duracion_s": 4008
+ },
+ {
+  "codigo": "3x22",
+  "titulo": "Inercia: desenredar la trama",
+  "fecha": "Thu, 04 Ju",
+  "video_id": "UGtTCzTJrPE",
+  "url_audio": "https://traffic.megaphone.fm/PMSL3367025359.mp3?updated=1751615615",
+  "duracion_s": 4583
+ },
+ {
+  "codigo": "4x01",
+  "titulo": "Dependencia: habitar el segundo lugar",
+  "fecha": "Thu, 12 Se",
+  "video_id": "5a6P0wlWvlI",
+  "url_audio": "https://traffic.megaphone.fm/PMSL6788241145.mp3?updated=1751619286",
+  "duracion_s": 3788
+ },
+ {
+  "codigo": "4x02",
+  "titulo": "Nunca se logra hablar de lo que se ama",
+  "fecha": "Thu, 26 Se",
+  "video_id": "NX8LJAmuzdo",
+  "url_audio": "https://traffic.megaphone.fm/PMSL8654346710.mp3?updated=1751615773",
+  "duracion_s": 4039
+ },
+ {
+  "codigo": "",
+  "titulo": "Azul: en el extremo de lo visible",
+  "fecha": "Thu, 10 Oc",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL2166592086.mp3?updated=1751621132",
+  "duracion_s": 4035
+ },
+ {
+  "codigo": "4x04",
+  "titulo": "Empuñar el arma, sufrir la herida",
+  "fecha": "Thu, 24 Oc",
+  "video_id": "-mGCMPtvT18",
+  "url_audio": "https://traffic.megaphone.fm/PMSL2422915308.mp3?updated=1751622400",
+  "duracion_s": 4495
+ },
+ {
+  "codigo": "4x05",
+  "titulo": "Heredar el miedo con Elena López Riera",
+  "fecha": "Thu, 07 No",
+  "video_id": "XQLtYdOVF5w",
+  "url_audio": "https://traffic.megaphone.fm/PMSL3418745069.mp3?updated=1751623014",
+  "duracion_s": 4106
+ },
+ {
+  "codigo": "4x06",
+  "titulo": "Soledad, soledumbre, solitud",
+  "fecha": "Thu, 21 No",
+  "video_id": "0Gnor04fV9c",
+  "url_audio": "https://traffic.megaphone.fm/PMSL5152315064.mp3?updated=1751623253",
+  "duracion_s": 4308
+ },
+ {
+  "codigo": "",
+  "titulo": "Punziber: ¿Hay alguien ahí?",
+  "fecha": "Thu, 28 No",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL8608327767.mp3?updated=1751622301",
+  "duracion_s": 5217
+ },
+ {
+  "codigo": "4x07",
+  "titulo": "Pérdida: una naturaleza voraz",
+  "fecha": "Thu, 05 De",
+  "video_id": "0168slt23N0",
+  "url_audio": "https://traffic.megaphone.fm/PMSL2899592981.mp3?updated=1751618420",
+  "duracion_s": 4435
+ },
+ {
+  "codigo": "",
+  "titulo": "Ética y literatura: cruce de caminos, con Pau Luque",
+  "fecha": "Thu, 12 De",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL6288699688.mp3?updated=1751615241",
+  "duracion_s": 3223
+ },
+ {
+  "codigo": "4x09",
+  "titulo": "La filosofía: un camino de ida y vuelta",
+  "fecha": "Thu, 19 De",
+  "video_id": "_luAsMfsUqw",
+  "url_audio": "https://traffic.megaphone.fm/PMSL3769014802.mp3?updated=1751621737",
+  "duracion_s": 3084
+ },
+ {
+  "codigo": "4x10",
+  "titulo": "El amor y otras veredas, con Marta Jiménez Serrano",
+  "fecha": "Thu, 09 Ja",
+  "video_id": "t-TU_V3ikLo",
+  "url_audio": "https://traffic.megaphone.fm/PMSL7987631019.mp3?updated=1751619648",
+  "duracion_s": 3185
+ },
+ {
+  "codigo": "4x11",
+  "titulo": "Comienzo: un señuelo temporal",
+  "fecha": "Thu, 23 Ja",
+  "video_id": "h2QufDipuTE",
+  "url_audio": "https://traffic.megaphone.fm/PMSL1509160554.mp3?updated=1751621029",
+  "duracion_s": 4290
+ },
+ {
+  "codigo": "4x12",
+  "titulo": "El afuera: ¿cuál es nuestro lugar?",
+  "fecha": "Thu, 06 Fe",
+  "video_id": "zC2tyDWz6wA",
+  "url_audio": "https://traffic.megaphone.fm/PMSL6161837784.mp3?updated=1751618616",
+  "duracion_s": 4135
+ },
+ {
+  "codigo": "4x13",
+  "titulo": "¿Estoy enamorado? ―Sí, porque espero",
+  "fecha": "Thu, 20 Fe",
+  "video_id": "KGgKuI3jSko",
+  "url_audio": "https://traffic.megaphone.fm/PMSL9162015389.mp3?updated=1751617704",
+  "duracion_s": 5256
+ },
+ {
+  "codigo": "",
+  "titulo": "Los cuatro elementos: agua",
+  "fecha": "Thu, 27 Fe",
+  "video_id": "Q2_mu7AcC7s",
+  "url_audio": "https://traffic.megaphone.fm/PMSL6355545853.mp3?updated=1751620832",
+  "duracion_s": 2433
+ },
+ {
+  "codigo": "4x14",
+  "titulo": "Vacío: una desnudez radical",
+  "fecha": "Thu, 06 Ma",
+  "video_id": "97kgS4j0noA",
+  "url_audio": "https://traffic.megaphone.fm/PMSL9474737806.mp3?updated=1751616049",
+  "duracion_s": 3719
+ },
+ {
+  "codigo": "",
+  "titulo": "Los cuatro elementos: aire",
+  "fecha": "Thu, 13 Ma",
+  "video_id": "nxoQyuP-wQw",
+  "url_audio": "https://traffic.megaphone.fm/PMSL2099553681.mp3?updated=1751615478",
+  "duracion_s": 2245
+ },
+ {
+  "codigo": "4x15",
+  "titulo": "A vista de pájaro: reflexiones aéreas",
+  "fecha": "Thu, 20 Ma",
+  "video_id": "qJbP65I9ajo",
+  "url_audio": "https://traffic.megaphone.fm/PMSL6681174859.mp3?updated=1751623788",
+  "duracion_s": 4064
+ },
+ {
+  "codigo": "",
+  "titulo": "Lo que no se dice: cartografías del subtexto",
+  "fecha": "Thu, 03 Ap",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL1712560662.mp3?updated=1751624988",
+  "duracion_s": 4681
+ },
+ {
+  "codigo": "",
+  "titulo": "Los cuatro elementos: tierra",
+  "fecha": "Thu, 10 Ap",
+  "video_id": "_4Ksi77thP4",
+  "url_audio": "https://traffic.megaphone.fm/PMSL7715809725.mp3?updated=1751620456",
+  "duracion_s": 2540
+ },
+ {
+  "codigo": "4x17",
+  "titulo": "Real e irreal: una dicotomía incierta",
+  "fecha": "Thu, 17 Ap",
+  "video_id": "nDDJnWAO5wQ",
+  "url_audio": "https://traffic.megaphone.fm/PMSL8189717653.mp3?updated=1751623788",
+  "duracion_s": 4552
+ },
+ {
+  "codigo": "",
+  "titulo": "Los cuatro elementos: fuego",
+  "fecha": "Thu, 24 Ap",
+  "video_id": "QYuqsygSevU",
+  "url_audio": "https://traffic.megaphone.fm/PMSL4117603101.mp3?updated=1751615525",
+  "duracion_s": 2799
+ },
+ {
+  "codigo": "4x18",
+  "titulo": "Amor no correspondido: ¿Por qué?",
+  "fecha": "Wed, 30 Ap",
+  "video_id": "Xju0pUZPw2o",
+  "url_audio": "https://traffic.megaphone.fm/PMSL2043145084.mp3?updated=1751621785",
+  "duracion_s": 4346
+ },
+ {
+  "codigo": "",
+  "titulo": "Ver al otro: narrativa y democracia",
+  "fecha": "Thu, 15 Ma",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL3153660276.mp3?updated=1751617181",
+  "duracion_s": 4642
+ },
+ {
+  "codigo": "4x20",
+  "titulo": "Límite: lugar de enunciación",
+  "fecha": "Thu, 29 Ma",
+  "video_id": "amvcfXM1EIE",
+  "url_audio": "https://traffic.megaphone.fm/PMSL3439441041.mp3?updated=1751618149",
+  "duracion_s": 4503
+ },
+ {
+  "codigo": "4x21",
+  "titulo": "Artesano y artista: desnaturalizar la distinción",
+  "fecha": "Thu, 12 Ju",
+  "video_id": "9mQCg43tOUQ",
+  "url_audio": "https://traffic.megaphone.fm/PMSL3665741609.mp3?updated=1751620981",
+  "duracion_s": 4047
+ },
+ {
+  "codigo": "4x22",
+  "titulo": "Contra el plan: propuestas de apertura",
+  "fecha": "Thu, 26 Ju",
+  "video_id": "hGeVOenNSME",
+  "url_audio": "https://traffic.megaphone.fm/PMSL1466786185.mp3?updated=1751621362",
+  "duracion_s": 3935
+ },
+ {
+  "codigo": "4x23",
+  "titulo": "El delirio amoroso",
+  "fecha": "Thu, 10 Ju",
+  "video_id": "dtl3Zz2_C6g",
+  "url_audio": "https://traffic.megaphone.fm/PMSL7420519612.mp3?updated=1753916283",
+  "duracion_s": 4425
+ },
+ {
+  "codigo": "4x24",
+  "titulo": "Una despedida ecléctica: verano, invasión, huida",
+  "fecha": "Thu, 24 Ju",
+  "video_id": "St4_BbbTS9s",
+  "url_audio": "https://traffic.megaphone.fm/PMSL4191431684.mp3?updated=1753933954",
+  "duracion_s": 3973
+ },
+ {
+  "codigo": "5x01",
+  "titulo": "Hacerse cargo, mirarse a los ojos",
+  "fecha": "Thu, 25 Se",
+  "video_id": "Z6SN9atwDzA",
+  "url_audio": "https://traffic.megaphone.fm/PMSL4426093147.mp3",
+  "duracion_s": 4303
+ },
+ {
+  "codigo": "5x02",
+  "titulo": "En defensa de lo breve",
+  "fecha": "Thu, 09 Oc",
+  "video_id": "7JYy7M4yKi4",
+  "url_audio": "https://traffic.megaphone.fm/PMSL3002902483.mp3?updated=1760347508",
+  "duracion_s": 4352
+ },
+ {
+  "codigo": "",
+  "titulo": "Las Glosas: «Nefando», de Mónica Ojeda",
+  "fecha": "Thu, 16 Oc",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL2166308019.mp3?updated=1760617890",
+  "duracion_s": 2626
+ },
+ {
+  "codigo": "5x03",
+  "titulo": "La voyeur: un baile de miradas",
+  "fecha": "Thu, 23 Oc",
+  "video_id": "__0bHo70qnc",
+  "url_audio": "https://traffic.megaphone.fm/PMSL3441614243.mp3",
+  "duracion_s": 4092
+ },
+ {
+  "codigo": "5x04",
+  "titulo": "La familia: cárcel y refugio",
+  "fecha": "Thu, 06 No",
+  "video_id": "nVhK174pbI4",
+  "url_audio": "https://traffic.megaphone.fm/PMSL5812907165.mp3",
+  "duracion_s": 5084
+ },
+ {
+  "codigo": "",
+  "titulo": "Las Glosas: «La tragedia de los comunes», Garrett Hardin",
+  "fecha": "Thu, 13 No",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL3859661752.mp3",
+  "duracion_s": 2819
+ },
+ {
+  "codigo": "5x05",
+  "titulo": "Sacrificio: ritual, ascesis, violencia",
+  "fecha": "Thu, 20 No",
+  "video_id": "7oYHE9VAHN4",
+  "url_audio": "https://traffic.megaphone.fm/PMSL3647752436.mp3",
+  "duracion_s": 4392
+ },
+ {
+  "codigo": "5x06",
+  "titulo": "Saberlo todo del otro",
+  "fecha": "Thu, 04 De",
+  "video_id": "y-lZ6RtA6Io",
+  "url_audio": "https://traffic.megaphone.fm/PMSL4823372837.mp3",
+  "duracion_s": 4516
+ },
+ {
+  "codigo": "",
+  "titulo": "Las Glosas: «El futuro de la nostalgia», Svetlana Boym",
+  "fecha": "Thu, 11 De",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL1666069992.mp3",
+  "duracion_s": 2302
+ },
+ {
+  "codigo": "5x07",
+  "titulo": "Incidentes: Barthes y la homosexualidad",
+  "fecha": "Thu, 18 De",
+  "video_id": "-j5hwq9wNG8",
+  "url_audio": "https://traffic.megaphone.fm/PMSL4149324106.mp3",
+  "duracion_s": 4926
+ },
+ {
+  "codigo": "",
+  "titulo": "Las Glosas: «La cronología del agua», de Kristen Stewart",
+  "fecha": "Thu, 08 Ja",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL4333827090.mp3",
+  "duracion_s": 2335
+ },
+ {
+  "codigo": "5x08",
+  "titulo": "Hacer hablar al mundo: esquemas y categorías",
+  "fecha": "Thu, 15 Ja",
+  "video_id": "VhXZFpNQDN0",
+  "url_audio": "https://traffic.megaphone.fm/PMSL5911777178.mp3",
+  "duracion_s": 4663
+ },
+ {
+  "codigo": "5x09",
+  "titulo": "Compasión: me duele el otro",
+  "fecha": "Thu, 29 Ja",
+  "video_id": "q0jNVn0zCbM",
+  "url_audio": "https://traffic.megaphone.fm/PMSL9634725411.mp3",
+  "duracion_s": 3992
+ },
+ {
+  "codigo": "5x10",
+  "titulo": "Las tonalidades del silencio",
+  "fecha": "Thu, 12 Fe",
+  "video_id": "Or7_yGb_s7s",
+  "url_audio": "https://traffic.megaphone.fm/PMSL3780834232.mp3",
+  "duracion_s": 4218
+ },
+ {
+  "codigo": "",
+  "titulo": "Las Glosas: «El cuento de una noche de verano», de María Herrera",
+  "fecha": "Thu, 19 Fe",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL3364416568.mp3",
+  "duracion_s": 2256
+ },
+ {
+  "codigo": "",
+  "titulo": "Pensar el silencio: un gesto filosófico",
+  "fecha": "Thu, 26 Fe",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL9008452533.mp3",
+  "duracion_s": 3887
+ },
+ {
+  "codigo": "5x12",
+  "titulo": "Quien teme morir ya está muerto de miedo",
+  "fecha": "Thu, 12 Ma",
+  "video_id": "oElVEjIUXvk",
+  "url_audio": "https://traffic.megaphone.fm/PMSL5794336522.mp3",
+  "duracion_s": 4212
+ },
+ {
+  "codigo": "",
+  "titulo": "La culpa: asesinar, imaginar, sobrevivir",
+  "fecha": "Thu, 26 Ma",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL6164918572.mp3",
+  "duracion_s": 4320
+ },
+ {
+  "codigo": "",
+  "titulo": "Patrimonio: formar parte, darle vida",
+  "fecha": "Thu, 09 Ap",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL4527094457.mp3",
+  "duracion_s": 4379
+ },
+ {
+  "codigo": "",
+  "titulo": "Las Glosas: «Rodoreda, un bosque», (CCCB)",
+  "fecha": "Thu, 16 Ap",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL6084035234.mp3",
+  "duracion_s": 2065
+ },
+ {
+  "codigo": "5x15",
+  "titulo": "Decir el mar",
+  "fecha": "Thu, 23 Ap",
+  "video_id": "OAsgb1nKa2g",
+  "url_audio": "https://traffic.megaphone.fm/PMSL2182105501.mp3",
+  "duracion_s": 3680
+ },
+ {
+  "codigo": "",
+  "titulo": "Las Glosas: sobre la educación sexual",
+  "fecha": "Thu, 30 Ap",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL1216559268.mp3",
+  "duracion_s": 2267
+ },
+ {
+  "codigo": "5x16",
+  "titulo": "¿Qué sujeto puede permitirse morir?",
+  "fecha": "Thu, 07 Ma",
+  "video_id": "DLJkrd6rrg4",
+  "url_audio": "https://traffic.megaphone.fm/PMSL2711498093.mp3?updated=1778491761",
+  "duracion_s": 4481
+ },
+ {
+  "codigo": "",
+  "titulo": "Las Glosas: «Del miedo y los extranjeros», George Makari",
+  "fecha": "Thu, 14 Ma",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL8957199756.mp3",
+  "duracion_s": 3643
+ },
+ {
+  "codigo": "",
+  "titulo": "Pensar el museo",
+  "fecha": "Thu, 21 Ma",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL8612279643.mp3",
+  "duracion_s": 4428
+ },
+ {
+  "codigo": "",
+  "titulo": "El grano de la voz: música y filosofía",
+  "fecha": "Thu, 11 Ju",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL5942956995.mp3",
+  "duracion_s": 3815
+ },
+ {
+  "codigo": "5x19",
+  "titulo": "Un imaginario rural: la dimensión espacial del amor",
+  "fecha": "Thu, 18 Ju",
+  "video_id": "AR2CXddudq0",
+  "url_audio": "https://traffic.megaphone.fm/PMSL4417890472.mp3",
+  "duracion_s": 4875
+ },
+ {
+  "codigo": "",
+  "titulo": "Las Glosas: «Emplumes: la producción social de la pluma»",
+  "fecha": "Thu, 25 Ju",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL9946695739.mp3",
+  "duracion_s": 2542
+ },
+ {
+  "codigo": "5x20",
+  "titulo": "El valor de la crueldad: ética y literatura",
+  "fecha": "Thu, 02 Ju",
+  "video_id": "9zOs2kGDUtI",
+  "url_audio": "https://traffic.megaphone.fm/PMSL5065661570.mp3",
+  "duracion_s": 5121
+ },
+ {
+  "codigo": "5x21",
+  "titulo": "Dejar de amar: la ruptura amorosa",
+  "fecha": "Thu, 16 Ju",
+  "video_id": "KMPT0YIutUk",
+  "url_audio": "https://traffic.megaphone.fm/PMSL2911761661.mp3",
+  "duracion_s": 4017
+ }
+]
