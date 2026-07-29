@@ -53,7 +53,8 @@ punzadassonoras/                  repo: github.com/maramotto/punzadassonoras
     │   ├── feed.xml              feed RSS completo (117 episodios)
     │   ├── substack.xml          feed de la newsletter
     │   ├── refs_part1-4.json     extracción por lotes de T3-T5 (fuente de refs_all)
-    │   └── refs_t1t2.json        extracción de T1-T2 (fuente de refs_all)
+    │   ├── refs_t1t2.json        extracción de T1-T2 (fuente de refs_all)
+    │   └── tag_mapping.json      taxonomía controlada: mapea cada tag libre a uno de 37 tags temáticos
     ├── raw/                      .info.json de yt-dlp, uno por vídeo (34 MB)
     ├── transcripts/              65 subtítulos automáticos de YouTube (87 MB)
     ├── scripts/                  ver abajo
@@ -62,11 +63,15 @@ punzadassonoras/                  repo: github.com/maramotto/punzadassonoras
 
 Los scripts, por orden de uso: `02_batch.sh` (descarga desde YouTube, reanudable) ·
 `03_index.py` (construye episodios.json) · `06_unificar.py` (funde las dos fuentes en
-refs_all.json) · `04_enriquecer.py` (Open Library → cache, reanudable, acepta límite) ·
-`05_hoja.py` (genera el xlsx) · `07_ventanas.py` (ventanas de transcripción alrededor de un
-término: `python3 scripts/07_ventanas.py VIDEO_ID "término" 500`).
+refs_all.json) · `08_retag.py` (sustituye los tags libres de cada episodio por la taxonomía
+controlada de `data/tag_mapping.json`, conservando los originales en `tags_originales`) ·
+`04_enriquecer.py` (Open Library → cache, reanudable, acepta límite) · `05_hoja.py` (genera el
+xlsx) · `07_ventanas.py` (ventanas de transcripción alrededor de un término:
+`python3 scripts/07_ventanas.py VIDEO_ID "término" 500`).
 
-**Cadena de regeneración:** `06_unificar.py` → `04_enriquecer.py` → `05_hoja.py`.
+**Cadena de regeneración:** `06_unificar.py` → `08_retag.py` → `04_enriquecer.py` → `05_hoja.py`.
+Si se corre `06_unificar.py` de nuevo, vuelve a traer los tags libres desde las fuentes
+originales y pisa la taxonomía controlada — hay que relanzar `08_retag.py` después.
 
 ## Esquema de datos
 
@@ -82,7 +87,8 @@ término: `python3 scripts/07_ventanas.py VIDEO_ID "término" 500`).
   "url_youtube": "...", "url_spotify": "...", "url_audio": "...",
   "tiene_transcripcion": true,
   "fuente_datos": "descripción de YouTube",
-  "tags": ["amor", "ruptura amorosa"],
+  "tags": ["Amor y vínculos afectivos"],          // taxonomía controlada, 37 valores posibles
+  "tags_originales": ["amor", "ruptura amorosa"],  // tags libres previos, por si hay que revertir
   "refs": [
     {"autor": "Roland Barthes", "obra": "Fragmentos de un discurso amoroso",
      "tipo": "libro", "notas": "figura «Exilio»", "editorial_mencionada": "Katz"}
