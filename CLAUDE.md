@@ -16,6 +16,7 @@ deben quedar acreditadas y las fuentes citadas con claridad.
 | Episodios catalogados | **102** de 117 |
 | Referencias extraídas | **583** |
 | Autores distintos | **412** |
+| Enriquecimiento bibliográfico | **258 de 583 filas (44%)** con editorial/año, vía Open Library + Dialnet + MCU |
 | Fuente de las referencias | Solo texto (descripciones + newsletter). **Ninguna del audio todavía.** |
 | Entregable actual | `Punzadas_Sonoras_referencias.xlsx` (4 pestañas: Referencias, Episodios, Autores, Leyenda) |
 
@@ -54,7 +55,9 @@ punzadassonoras/                  repo: github.com/maramotto/punzadassonoras
     │   ├── substack.xml          feed de la newsletter
     │   ├── refs_part1-4.json     extracción por lotes de T3-T5 (fuente de refs_all)
     │   ├── refs_t1t2.json        extracción de T1-T2 (fuente de refs_all)
-    │   └── tag_mapping.json      taxonomía controlada: mapea cada tag libre a uno de 37 tags temáticos
+    │   ├── tag_mapping.json      taxonomía controlada: mapea cada tag libre a uno de 37 tags temáticos
+    │   ├── cache_dialnet.json    cache del enriquecimiento vía Dialnet (artículos y tesis)
+    │   └── cache_mcu.json        cache del enriquecimiento vía la base ISBN del Ministerio de Cultura
     ├── raw/                      .info.json de yt-dlp, uno por vídeo (34 MB)
     ├── transcripts/              65 subtítulos automáticos de YouTube (87 MB)
     ├── scripts/                  ver abajo
@@ -65,13 +68,16 @@ Los scripts, por orden de uso: `02_batch.sh` (descarga desde YouTube, reanudable
 `03_index.py` (construye episodios.json) · `06_unificar.py` (funde las dos fuentes en
 refs_all.json) · `08_retag.py` (sustituye los tags libres de cada episodio por la taxonomía
 controlada de `data/tag_mapping.json`, conservando los originales en `tags_originales`) ·
-`04_enriquecer.py` (Open Library → cache, reanudable, acepta límite) · `05_hoja.py` (genera el
-xlsx) · `07_ventanas.py` (ventanas de transcripción alrededor de un término:
-`python3 scripts/07_ventanas.py VIDEO_ID "término" 500`).
+`04_enriquecer.py` (Open Library → cache, reanudable, acepta límite) · `09_enriquecer_dialnet.py`
+(Dialnet → cache, para artículos y tesis que Open Library no cubre) · `10_enriquecer_mcu.py`
+(base ISBN del Ministerio de Cultura → cache, para libros/ensayo que Open Library no cubre) ·
+`05_hoja.py` (genera el xlsx) · `07_ventanas.py` (ventanas de transcripción alrededor de un
+término: `python3 scripts/07_ventanas.py VIDEO_ID "término" 500`).
 
-**Cadena de regeneración:** `06_unificar.py` → `08_retag.py` → `04_enriquecer.py` → `05_hoja.py`.
-Si se corre `06_unificar.py` de nuevo, vuelve a traer los tags libres desde las fuentes
-originales y pisa la taxonomía controlada — hay que relanzar `08_retag.py` después.
+**Cadena de regeneración:** `06_unificar.py` → `08_retag.py` → `04_enriquecer.py` →
+`09_enriquecer_dialnet.py` → `10_enriquecer_mcu.py` → `05_hoja.py`. Si se corre `06_unificar.py`
+de nuevo, vuelve a traer los tags libres desde las fuentes originales y pisa la taxonomía
+controlada — hay que relanzar `08_retag.py` después.
 
 ## Esquema de datos
 
@@ -150,12 +156,43 @@ Ve por lotes y guarda el progreso entre lotes; son 117 episodios.
 1. **Completar el catálogo** — faltan 15 episodios que están en el RSS pero no en la playlist
    de YouTube (3x03, 3x17, 3x21, 4x03, 4x08, 4x16, 4x19, 5x13, 5x14, 5x18 y algunas Glosas).
    Se extraen igual que T1-T2, desde `podcast-data/data/feed.xml`.
-2. **Mejorar el enriquecimiento** — es el punto flojo: Open Library dejó 410 de 583 filas sin
-   datos. Cubre mal el ensayo español de editorial pequeña, los artículos académicos y las
-   tesis. La columna **Traductor está vacía en todas las filas**. Ideas sin explorar: la base
-   ISBN del Ministerio de Cultura, Dialnet para artículos, Wikidata. Google Books devuelve 429
-   por cuota. `todostuslibros.com` no responde a peticiones automáticas: los enlaces de compra
-   son búsquedas construidas, no fichas verificadas.
+2. **Mejorar el enriquecimiento** — ya en marcha. Open Library dejaba 412 de 583 filas sin datos
+   (cubre mal el ensayo español de editorial pequeña, los artículos académicos y las tesis). Se
+   probaron tres fuentes alternativas sobre 10 casos reales antes de lanzar la pasada completa, y
+   luego se lanzó con las dos que funcionaron:
+   - **Dialnet** (artículos y tesis, vía `09_enriquecer_dialnet.py`): 100% de acierto en la
+     prueba de 10 casos; **31 de 59 filas (53%)** en la pasada completa sobre las 59 que Open
+     Library no cubría. Sin API pública, se scrapea el HTML de su buscador. Es muy sensible al
+     ritmo de peticiones — empieza a devolver 503 incluso a menos de una petición por segundo;
+     el script reintenta con espera creciente y aun así hubo que relanzarlo dos veces subiendo el
+     intervalo hasta 3.5 s entre consultas.
+   - **Base de datos ISBN del Ministerio de Cultura** (libros/ensayo, vía
+     `10_enriquecer_mcu.py`): 67% de acierto en la prueba de 10 casos; **56 de 100 filas (56%)**
+     en la pasada completa, de las cuales 30 «verificado» (título y autor coinciden) y 26
+     «inferido» (revísalas antes de publicar). Sin API pública tampoco: es una app con sesión
+     (`JSESSIONID`) que hay que scrapear con `curl` (vía `urllib` falla por un
+     `CERTIFICATE_VERIFY_FAILED` — su cadena de certificados no está en el bundle por defecto de
+     Python). A diferencia de Open Library, aquí buscar por «autor completo + título completo»
+     pegado falla casi siempre: hay que buscar solo por título (o apellido + primeras palabras),
+     lo que sube el riesgo de coincidir con un libro de otro autor con el mismo título exacto
+     (pasó con «La baba del caracol», que además de la edición de Chantal Maillard de 2014 tiene
+     una homónima de 1985/2019 de otro autor completamente distinto) — el script desempata
+     prefiriendo el candidato cuyo autor también coincide, pero **las filas marcadas
+     «MCU — inferido» en la hoja siguen mereciendo una revisión manual**, es el punto más frágil
+     de esta pasada.
+   - **Wikidata**: descartada, no se llegó a lanzar. 0 aciertos sobre los 10 casos, y ni siquiera
+     en el mejor caso posible (los originales de Barthes y Bourdieu, que sí están en Wikidata)
+     tiene editorial ni traductor de la edición *española* — solo autor, idioma y año de la obra
+     *original*.
+   - **Resultado combinado**: de 412 filas sin datos se pasó a **325** (171 ya las resolvía Open
+     Library, 87 más entre Dialnet y MCU; 175 nunca se van a poder resolver porque no tienen una
+     obra concreta — son autoras mencionadas, colaboradoras, etc.). Cobertura total: del 29% al
+     44% de las 583 referencias.
+   - **La columna Traductor sigue vacía**: ninguna de las tres fuentes la resuelve, tampoco en
+     libros claramente traducidos (comprobado con la biografía de Barthes de Samoyault, que ni
+     MCU ni Wikidata traen). Sigue pendiente — requeriría otra fuente específica de traducciones.
+   - Google Books devuelve 429 por cuota. `todostuslibros.com` no responde a peticiones
+     automáticas: los enlaces de compra son búsquedas construidas, no fichas verificadas.
 3. **La web** — va en `web/` (vacía), que está vacía a propósito. Decisión ya tomada: sitio estático
    que lee un JSON, desplegable en GitHub Pages o Netlify, con filtros por autor, obra,
    temporada, tipo y tag. Los campos blandos permiten además un grafo de obras en diálogo, que

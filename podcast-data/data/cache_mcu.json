@@ -1,0 +1,582 @@
+{
+ "anton chejov||la novia": {
+  "mcu_titulo": "La novia sefardí",
+  "mcu_autor": "Abécassis, Eliette (1969-)",
+  "editorial": "La Esfera de los Libros, S.L.",
+  "anio": "2011",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": false
+ },
+ "annie ernaux||la otra hija": {
+  "mcu_titulo": "La otra hija",
+  "mcu_autor": "Ernaux, Annie (1940-)",
+  "editorial": "KRK Ediciones",
+  "anio": "2014",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "marc auge||el tiempo en ruinas": {
+  "mcu_titulo": "El tiempo en ruinas",
+  "mcu_autor": "Augé, Marc (1935-2023)",
+  "editorial": "Gedisa",
+  "anio": "2003",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "katherine angel||el mal sexo manana": {
+  "sin_resultados": true
+ },
+ "annie ernaux||el hombre joven": {
+  "mcu_titulo": "La atracción sexual del hombre joven",
+  "mcu_autor": "Abajo de Pablos, Juan Julio de (1946-)",
+  "editorial": "Fancy Ediciones",
+  "anio": "2007",
+  "coincidencia_titulo": false,
+  "coincidencia_autor": false
+ },
+ "sara navarro rioboo||quemando chasca": {
+  "mcu_titulo": "Quemando chasca",
+  "mcu_autor": "Navarro Rioboó, Sara",
+  "editorial": "Editorial Dieciséis",
+  "anio": "2022",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "itamar vieira junior||arado torcido": {
+  "mcu_titulo": "Arado torcido",
+  "mcu_autor": "Vieira Junior, Itamar (1979-)",
+  "editorial": "Pepitas de calabaza",
+  "anio": "2024",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "kay dick||ellos secuencias del desasosiego": {
+  "sin_resultados": true
+ },
+ "chantal maillard||la baba del caracol": {
+  "mcu_titulo": "La baba del caracol",
+  "mcu_autor": "Maillard, Chantal (1951-)",
+  "editorial": "Vaso Roto Ediciones",
+  "anio": "2014",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "bob brecher||tortura hay una bomba a punto de estallar": {
+  "mcu_titulo": "Tortura : hay una bomba a punto de estallar",
+  "mcu_autor": "Brecher, Bob",
+  "editorial": "Altamarea Edición de Libros SL",
+  "anio": "2023",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "giuseppe berto||anonimo veneciano": {
+  "sin_resultados": true
+ },
+ "cesare pavese||la playa": {
+  "mcu_titulo": "La playa",
+  "mcu_autor": "Abadía, Ximo (1983-)",
+  "editorial": "Zahorí de Ideas",
+  "anio": "2022",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": false
+ },
+ "juanpe sanchez lopez||super emocional una defensa del amor": {
+  "sin_resultados": true
+ },
+ "federico bianchini||tu nombre no es tu nombre": {
+  "mcu_titulo": "Tu nombre no es tu nombre : historia de una identidad robada en la dictadura argentina",
+  "mcu_autor": "Bianchini, Federico",
+  "editorial": "Libros del KO, SLL",
+  "anio": "2023",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "laura alzola||no os recuerdo": {
+  "mcu_titulo": "No os recuerdo : una historia familiar de cuando Europa se desmoronaba",
+  "mcu_autor": "Alzola Kirschgens, Laura (1991-)",
+  "editorial": "Libros del KO, SLL",
+  "anio": "2021",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "sara ahmed||fenomenologia queer": {
+  "sin_resultados": true
+ },
+ "belen gopegui||pequenas heridas mortales": {
+  "sin_resultados": true
+ },
+ "audrey magee||la colonia": {
+  "mcu_titulo": "Historias de nuestro barrio y retrato de la colonia Virgen de las Gracias",
+  "mcu_autor": "Aguado Rubira, Pedro Francisco (1948- )",
+  "editorial": "Aguado Rubira, Pedro Francisco",
+  "anio": "2008",
+  "coincidencia_titulo": false,
+  "coincidencia_autor": false
+ },
+ "roland barthes||nunca se logra hablar de lo que se ama": {
+  "sin_resultados": true
+ },
+ "ana carrasco conde||decir el mal": {
+  "mcu_titulo": "Decir el mal : la destrucción del nosotros",
+  "mcu_autor": "Carrasco Conde, Ana",
+  "editorial": "Galaxia Gutenberg, S.L.",
+  "anio": "2021",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "leila slimani||sexo y mentiras la vida sexual en marruecos": {
+  "mcu_titulo": "Sexo y mentiras : la vida sexual en Marruecos",
+  "mcu_autor": "Slimani, Leïla (1981-)",
+  "editorial": "Editorial Cabaret Voltaire",
+  "anio": "2018",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "purificacio mascarell||como anillo al cuello la opresion matrimonial en la literatura femenina": {
+  "sin_resultados": true
+ },
+ "leslie jamison||gritar arder sofocar las llamas": {
+  "mcu_titulo": "Gritar, arder, sofocar las llamas : ensayos sobre la verdad y el dolor",
+  "mcu_autor": "Jamison, Leslie",
+  "editorial": "Editorial Anagrama S.A.U.",
+  "anio": "2024",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "juan gomez barcena||mapa de soledades": {
+  "sin_resultados": true
+ },
+ "juan navarro garcia||los rescoldos de la culebra": {
+  "mcu_titulo": "Los rescoldos de la Culebra : fuego y muerte en los incendios de Zamora",
+  "mcu_autor": "García Navarro, Juan",
+  "editorial": "Libros del KO, SLL",
+  "anio": "2024",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "kathryn schulz||una estela salvaje": {
+  "mcu_titulo": "Una estela salvaje",
+  "mcu_autor": "Schulz, Kathryn",
+  "editorial": "Gatopardo Ediciones",
+  "anio": "2023",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "edgardo scott||caminantes": {
+  "mcu_titulo": "Camiñantes : un itinerario filosófico",
+  "mcu_autor": "Agís Villaverde, Marcelino (1963-)",
+  "editorial": "Editorial Galaxia, S.A.",
+  "anio": "2009",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": false
+ },
+ "camila caneque||la ultima frase": {
+  "sin_resultados": true
+ },
+ "adriana cavarero||a pesar de platon": {
+  "sin_resultados": true
+ },
+ "nicolas teyssandier||nuestras primeras veces": {
+  "mcu_titulo": "Nuestras primeras veces : 30 (pre)historias extraordinarias",
+  "mcu_autor": "Teyssandier, Nicolas (1974-)",
+  "editorial": "Periférica",
+  "anio": "2024",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "claire marin||estar en su lugar": {
+  "mcu_titulo": "Estar en su lugar : habitar la vida, habitar el cuerpo",
+  "mcu_autor": "Marin, Claire (1974-)",
+  "editorial": "Editorial Anagrama S.A.U.",
+  "anio": "2024",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "margarita garcia robayo||el afuera": {
+  "mcu_titulo": "El tiempo afuera",
+  "mcu_autor": "Abreu Felippe, José (1947-)",
+  "editorial": "Editorial Verbum, S.L.",
+  "anio": "2001",
+  "coincidencia_titulo": false,
+  "coincidencia_autor": false
+ },
+ "annie ernaux||diario del afuera": {
+  "mcu_titulo": "Diario del afuera",
+  "mcu_autor": "Ernaux, Annie (1940-)",
+  "editorial": "Editorial Cabaret Voltaire",
+  "anio": "2024",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "andrea kohler||el tiempo regalado un ensayo sobre la espera": {
+  "mcu_titulo": "El tiempo regalado : un ensayo sobre la espera",
+  "mcu_autor": "Köhler, Andrea",
+  "editorial": "Libros del Asteroide S.L.U.",
+  "anio": "2018",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "noemi sabugal||laberinto mar": {
+  "mcu_titulo": "La Buhayrah : laberinto frente al mar",
+  "mcu_autor": "Galmés Conde, Vicente (1959-)",
+  "editorial": "Sar Alejandria Ediciones",
+  "anio": "2020",
+  "coincidencia_titulo": false,
+  "coincidencia_autor": false
+ },
+ "maria belmonte||los senderos del mar un viaje a pie": {
+  "mcu_titulo": "Los senderos del mar : un viaje a pie",
+  "mcu_autor": "Belmonte, María",
+  "editorial": "Acantilado",
+  "anio": "2021",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "laura casielles||mas adentro": {
+  "sin_resultados": true
+ },
+ "gabriel ventura||el mejor de los mundos posibles": {
+  "mcu_titulo": "El mejor de los mundos posibles : Gottfried Wilhelm Leibniz in seiner zeit",
+  "mcu_autor": "Kempe, Michael",
+  "editorial": "Taurus",
+  "anio": "2024",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": false
+ },
+ "sara mesa||oposicion": {
+  "sin_resultados": true
+ },
+ "aurea ortiz villeta||el arte de inventar la realidad": {
+  "sin_resultados": true
+ },
+ "han suyin||amor de invierno": {
+  "mcu_titulo": "Un amor de invierno",
+  "mcu_autor": "Armstrong, Evelyn S.",
+  "editorial": "Harlequin Ibérica",
+  "anio": "1991",
+  "coincidencia_titulo": false,
+  "coincidencia_autor": false
+ },
+ "michel foucault||la transgresion es un gesto que concierne al limite": {
+  "sin_resultados": true
+ },
+ "soetsu yanagi||la belleza del objeto cotidiano": {
+  "mcu_titulo": "La belleza del objeto cotidiano",
+  "mcu_autor": "Yanagi, Soetsu",
+  "editorial": "Editorial GG, SL",
+  "anio": "2020",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "e p thompson||costumbres en comun": {
+  "sin_resultados": true
+ },
+ "pierre bourdieu||la dominacion masculina": {
+  "sin_resultados": true
+ },
+ "tomas pollan||variaciones sobre el bricoleur": {
+  "sin_resultados": true
+ },
+ "james c scott||lo que ve el estado": {
+  "mcu_titulo": "Lo que ve el Estado : Cómo ciertos esquemas para mejorar la condición humana han fracasado",
+  "mcu_autor": "Scott, James C.",
+  "editorial": "Fondo de Cultura Económica de España, S.L.",
+  "anio": "2026",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "elaine showalter||el mal de las mujeres": {
+  "mcu_titulo": "Mal mor",
+  "mcu_autor": "Araúxo, Emilio",
+  "editorial": "Axóuxere Editora",
+  "anio": "2017",
+  "coincidencia_titulo": false,
+  "coincidencia_autor": false
+ },
+ "juan evaristo boix||el derecho a las cosas bellas vindicacion de la vida holgada": {
+  "mcu_titulo": "Breve estudio sobre la prostitución",
+  "mcu_autor": "Boix, Frederic",
+  "editorial": "Nova Terra, S.A.",
+  "anio": "1969",
+  "coincidencia_titulo": false,
+  "coincidencia_autor": true
+ },
+ "miranda july||a cuatro patas": {
+  "mcu_titulo": "Cuatro historias de cuatro patas",
+  "mcu_autor": "Behety, Ingrid",
+  "editorial": "Babidi-Bú",
+  "anio": "2025",
+  "coincidencia_titulo": false,
+  "coincidencia_autor": false
+ },
+ "jessica anthony||golpe magistral": {
+  "mcu_titulo": "Golpe magistral",
+  "mcu_autor": "Anthony, Jessica",
+  "editorial": "Gatopardo Ediciones",
+  "anio": "2025",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "nao cola yamazaki||amistad para adultos": {
+  "mcu_titulo": "Amistad para adultos",
+  "mcu_autor": "Yamazaki, Nao-Cola",
+  "editorial": "Shiro Libros",
+  "anio": "2024",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "rosana trivino y txetxu ausin eds||hacer o no hacer la responsabilidad por acciones y omisiones": {
+  "mcu_titulo": "Hacer o no hacer : la responsabilidad por acciones y omisiones",
+  "mcu_autor": "Ausín Díez, Txetxu (1966-)",
+  "editorial": "Plaza y Valdes, S.L.",
+  "anio": "2018",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": false
+ },
+ "pankaj mishra||el mundo despues de gaza": {
+  "sin_resultados": true
+ },
+ "daniele giglioli||critica de la victima": {
+  "sin_resultados": true
+ },
+ "guillermo carazo||facunda": {
+  "mcu_titulo": "Facunda",
+  "mcu_autor": "Carazo, Guillermo",
+  "editorial": "Comisura",
+  "anio": "2025",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "jean philippe postel||el affaire arnolfini": {
+  "sin_resultados": true
+ },
+ "anonimo||glosas emilianenses": {
+  "mcu_titulo": "Glosas emilianenses",
+  "mcu_autor": null,
+  "editorial": "Gobierno de La Rioja",
+  "anio": "2006",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": false
+ },
+ "estela sanchis||hasta aqui todo va bien": {
+  "sin_resultados": true
+ },
+ "pierre bourdieu||espiritu de familia": {
+  "sin_resultados": true
+ },
+ "melinda cooper||los valores de la familia": {
+  "mcu_titulo": "El cambio de valores en la sociedad andaluza, 1996-2006",
+  "mcu_autor": "Bericat Alastuey, Eduardo",
+  "editorial": "Instituto de Estadística y Cartografía de Andalucía",
+  "anio": "2012",
+  "coincidencia_titulo": false,
+  "coincidencia_autor": false
+ },
+ "sophie lewis||abolir la familia": {
+  "mcu_titulo": "Abolir la familia : un manifiesto por los cuidados y la liberación",
+  "mcu_autor": "Lewis, Sophie",
+  "editorial": "Traficantes de Sueños",
+  "anio": "2023",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "andrea bajani||el aniversario": {
+  "mcu_titulo": "El aniversario",
+  "mcu_autor": "Bajani, Andrea (1975-)",
+  "editorial": "Editorial Anagrama S.A.U.",
+  "anio": "2025",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "andres barba y carmen m caceres||un ano con los ojos cerrados": {
+  "sin_resultados": true
+ },
+ "tiphaine samoyault||roland barthes biografia": {
+  "sin_resultados": true
+ },
+ "mohamed chukri||el pan a secas": {
+  "mcu_titulo": "El pan a secas",
+  "mcu_autor": "Sukri, Muhammad (1935-2003)",
+  "editorial": "Editorial Cabaret Voltaire",
+  "anio": "2012",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": false
+ },
+ "abdela taia||digno de ser amado": {
+  "mcu_titulo": "El que es digno de ser amado",
+  "mcu_autor": "Taia, Abdelá (1973-)",
+  "editorial": "Editorial Cabaret Voltaire",
+  "anio": "2019",
+  "coincidencia_titulo": false,
+  "coincidencia_autor": true
+ },
+ "jorge luis borges||el idioma analitico de john wilkins": {
+  "sin_resultados": true
+ },
+ "molly roden winter||mas memorias de un matrimonio abierto": {
+  "sin_resultados": true
+ },
+ "italo calvino||la memoria del mundo": {
+  "mcu_titulo": "Las canciones populares tunecinas : Una memoria personal y cultural",
+  "mcu_autor": "Abdelkefi, Mohamed",
+  "editorial": "Abenójar Sanjuán, Óscar",
+  "anio": "2025",
+  "coincidencia_titulo": false,
+  "coincidencia_autor": false
+ },
+ "joan carles melich||una etica de la compasion": {
+  "sin_resultados": true
+ },
+ "laurence joseph||nuestros silencios por que callamos": {
+  "sin_resultados": true
+ },
+ "vicente luis mora||el libro blanco alfabeto de silencios": {
+  "sin_resultados": true
+ },
+ "ana garriga y carmen urbita||instruccion de novicias": {
+  "sin_resultados": true
+ },
+ "susan sontag||la estetica del silencio": {
+  "sin_resultados": true
+ },
+ "eugen gomringer||silencio": {
+  "sin_resultados": true
+ },
+ "marcos fernandez||la oscuridad de la razon": {
+  "sin_resultados": true
+ },
+ "sara ahmed||la politica cultural de las emociones": {
+  "sin_resultados": true
+ },
+ "vv aa||poemas del mar tres miradas europeas": {
+  "mcu_titulo": "Poemas del mar : Tres miradas europeas",
+  "mcu_autor": null,
+  "editorial": "Alba Editorial",
+  "anio": "2026",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": false
+ },
+ "maria angeles perez lopez||libro mediterraneo de los muertos": {
+  "sin_resultados": true
+ },
+ "roland barthes||la muerte del autor": {
+  "mcu_titulo": "La muerte del autor",
+  "mcu_autor": "Adair, Gilbert (1944-2011)",
+  "editorial": "Edicions 62",
+  "anio": "1995",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": false
+ },
+ "joanna kuciel frydryszak||campesinas la historia de nuestras abuelas": {
+  "sin_resultados": true
+ },
+ "laura sanz corada||galleteras la otra memoria de la galleta maria": {
+  "sin_resultados": true
+ },
+ "laura c vela y carlota visier||archivo para no desaparecer": {
+  "mcu_titulo": "Archivo para no desaparecer",
+  "mcu_autor": "Carrascosa Vela, Laura",
+  "editorial": "Comisura",
+  "anio": "2026",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": false
+ },
+ "alice procter||el cuadro completo la historia colonial del arte en nuestros museos": {
+  "mcu_titulo": "El cuadro completo",
+  "mcu_autor": "Procter, Alice (1915-1987)",
+  "editorial": "Capitán Swing Libros",
+  "anio": "2024",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "marina yuszczuk||historia natural": {
+  "mcu_titulo": "Historia natural",
+  "mcu_autor": "Yuszczuk, Marina",
+  "editorial": "Almadia Aljosan S.R.L.U.",
+  "anio": "2026",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "blanca arias||blandito blandito que le hacemos las feministas al arte": {
+  "sin_resultados": true
+ },
+ "bibiana collado cabrera||marcelino": {
+  "mcu_titulo": "Marcelino : Decires de un hombre",
+  "mcu_autor": "Collado Cabrera, Bibiana (1985-)",
+  "editorial": "Pepitas de calabaza",
+  "anio": "2026",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "valerie fritsch||limones": {
+  "mcu_titulo": "Limones y toda la pandi",
+  "mcu_autor": "Badenes Bou, María Elena",
+  "editorial": "Badenes Bou, María Elena",
+  "anio": "2022",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": false
+ },
+ "adriana cavarero||cuentame mi historia filosofia de la narracion": {
+  "sin_resultados": true
+ },
+ "svetlana boym||el futuro de la nostalgia": {
+  "mcu_titulo": "Nostalgia de futuro : transhumanismo y desafíos a la naturaleza humana",
+  "mcu_autor": "Esteban Duque, Roberto (1963-)",
+  "editorial": "Ediciones Encuentro, S.A.",
+  "anio": "2022",
+  "coincidencia_titulo": false,
+  "coincidencia_autor": false
+ },
+ "marina beloki||el traje del astronauta": {
+  "sin_resultados": true
+ },
+ "vv aa||h amor 5 humedo": {
+  "sin_resultados": true
+ },
+ "juli mesa||soo": {
+  "mcu_titulo": "Taekwon-do",
+  "mcu_autor": "Chong, Soo-Park",
+  "editorial": "De Vecchi Ediciones, S.A.",
+  "anio": "1996",
+  "coincidencia_titulo": false,
+  "coincidencia_autor": false
+ },
+ "susan griffin||mujer y naturaleza": {
+  "mcu_titulo": "Alquimia femenina : mujer & naturaleza",
+  "mcu_autor": "Álvarez Álvarez, Covadonga",
+  "editorial": "Álvarez Álvarez, Covadonga",
+  "anio": "2024",
+  "coincidencia_titulo": false,
+  "coincidencia_autor": false
+ },
+ "eduardo prieto||los laberintos del aire vientos miasmas y arquitectura en el renacimiento": {
+  "mcu_titulo": "Los laberintos del aire",
+  "mcu_autor": "Prieto González, Eduardo (1977-)",
+  "editorial": "Ediciones Asimétricas",
+  "anio": "2023",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "anonimo||enuma elish": {
+  "mcu_titulo": "Enuma Elish",
+  "mcu_autor": "Amundarain de Arriba, Unai (1993-)",
+  "editorial": "Rubric",
+  "anio": "2019",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": false
+ },
+ "federico garcia lorca||manana": {
+  "sin_resultados": true
+ },
+ "maria sanchez||fuego la sed": {
+  "mcu_titulo": "Fuego la sed",
+  "mcu_autor": "Sánchez, María (1989-)",
+  "editorial": "Editorial Anagrama S.A.U.",
+  "anio": "2024",
+  "coincidencia_titulo": true,
+  "coincidencia_autor": true
+ },
+ "w k c guthrie||historia de la filosofia griega tomo i": {
+  "sin_resultados": true
+ }
+}

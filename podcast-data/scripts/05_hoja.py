@@ -31,8 +31,33 @@ def confianza(i):
     return 'inferido'
 
 
+TIPOS_MCU = {'libro', 'ensayo', 'cuento', 'poema', 'relato', 'obra de teatro',
+             'texto medieval', 'texto mitológico'}
+TIPOS_DIALNET = {'artículo', 'tesis doctoral', 'tesis/tfm'}
+
+
+def fuente_adicional(tipo, autor, obra, cache_mcu, cache_dialnet):
+    """Editorial/institucion, anio y confianza de MCU o Dialnet, solo para lo
+    que Open Library no resolvio (04_enriquecer.py ya filtra por eso al
+    poblar estas caches)."""
+    t = norm(tipo)
+    if t in {norm(x) for x in TIPOS_MCU}:
+        info = cache_mcu.get(clave(autor, obra))
+        if info is None or not info.get('editorial'):
+            return '', '', ''
+        return info['editorial'], info.get('anio') or '', f'MCU — {confianza(info)}'
+    if t in {norm(x) for x in TIPOS_DIALNET}:
+        info = cache_dialnet.get(clave(autor, obra))
+        if info is None or not info.get('localizacion'):
+            return '', '', ''
+        return info['localizacion'], info.get('anio') or '', f'Dialnet — {confianza(info)}'
+    return '', '', ''
+
+
 eps = json.load(open(f'{BASE}/data/refs_all.json'))
 cache = json.load(open(f'{BASE}/data/cache_openlibrary.json'))
+cache_mcu = json.load(open(f'{BASE}/data/cache_mcu.json')) if os.path.exists(f'{BASE}/data/cache_mcu.json') else {}
+cache_dialnet = json.load(open(f'{BASE}/data/cache_dialnet.json')) if os.path.exists(f'{BASE}/data/cache_dialnet.json') else {}
 
 FILAS = []
 for e in eps:
@@ -44,6 +69,8 @@ for e in eps:
         obra_n = norm(r.get('obra', ''))
         literal = 'sí' if obra_n and obra_n in desc_n else ('' if not obra_n else 'no — título normalizado o inferido')
         comprable = r.get('obra') and r.get('tipo') in TIPOS_COMPRABLES
+        ed_extra, anio_extra, conf_extra = fuente_adicional(
+            r.get('tipo', ''), r.get('autor', ''), r.get('obra', ''), cache_mcu, cache_dialnet)
         FILAS.append({
             'Serie': e['serie'],
             'Temporada': e['temporada'] or '',
@@ -59,6 +86,9 @@ for e in eps:
             'Año 1ª edición': info.get('anio_primera_edicion') or '',
             'Traductor': '',
             'Confianza del enriquecimiento': confianza(info),
+            'Editorial/institución (fuente adicional)': ed_extra,
+            'Año (fuente adicional)': anio_extra,
+            'Fuente y confianza (adicional)': conf_extra,
             'Título citado literalmente': literal,
             'Notas': r.get('notas', ''),
             'Fuente de la referencia': e['fuente_datos'],
@@ -130,6 +160,9 @@ LEYENDA = [
     ['sin datos', 'Open Library no devolvió nada. Habitual en ensayo español de editorial pequeña, artículos académicos y tesis.'],
     ['(vacío)', 'No se buscó: son autores mencionados sin obra concreta, películas, series, obras de arte y otros formatos que no están en un catálogo de libros.'],
     ['', ''],
+    ['Editorial/institución (fuente adicional)', 'Solo se rellena cuando Open Library no dio nada. Para libro/ensayo/cuento/poema viene de la base de datos ISBN del Ministerio de Cultura (editorial); para artículo/tesis viene de Dialnet (revista, o universidad y director/a si es una tesis).'],
+    ['Fuente y confianza (adicional)', 'Indica de dónde sale el dato y con qué fiabilidad: «MCU — verificado» o «Dialnet — verificado» (título y autor coinciden); «MCU — inferido» o «Dialnet — inferido» (revísalo, sobre todo en MCU: al buscar solo por título, un título común puede coincidir con el libro de otra persona con el mismo nombre).'],
+    ['', ''],
     ['Título citado literalmente', 'Comprobación automática: «sí» significa que ese título aparece tal cual en la descripción del episodio. «no» marca títulos que he normalizado o inferido (por ejemplo, cuando solo dicen «la figura Rapto, de Barthes» o «las memorias de Nabokov»). Esas filas son las que conviene revisar primero.'],
     ['Link Spotify', 'Es el enlace al programa, no al episodio. Los enlaces por episodio requieren la API de Spotify con credenciales, que no tengo.'],
     ['Link audio (MP3)', 'Solo para T1 y T2: el archivo de audio directo que sirve el feed. Útil si más adelante se transcriben con Whisper.'],
@@ -170,6 +203,8 @@ ANCHOS = {'Serie': 16, 'Temporada': 11, 'Episodio': 11, 'Título del episodio': 
           'Fecha': 12, 'Autor': 30, 'Obra': 46, 'Tipo': 16, 'Tags del episodio': 34, 'Tags': 34,
           'Editorial (mencionada en el episodio)': 22, 'Editorial (Open Library)': 30,
           'Año 1ª edición': 13, 'Traductor': 18, 'Confianza del enriquecimiento': 16,
+          'Editorial/institución (fuente adicional)': 34, 'Año (fuente adicional)': 13,
+          'Fuente y confianza (adicional)': 20,
           'Título citado literalmente': 22, 'Notas': 40, 'Fuente de la referencia': 22,
           'Link YouTube': 44, 'Link Spotify': 46, 'Link audio (MP3)': 40, 'Link TodosTusLibros': 46,
           'Duración (min)': 13, 'Nº de referencias': 13, 'Fuente de los datos': 22,
