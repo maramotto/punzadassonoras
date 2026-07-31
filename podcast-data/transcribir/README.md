@@ -38,9 +38,14 @@ pip install pyannote.audio torch torchaudio
 El modelo que distingue quién habla es gratis, pero exige aceptar sus condiciones:
 
 1. Crea una cuenta en <https://huggingface.co/join>
-2. Entra en <https://huggingface.co/pyannote/speaker-diarization-3.1> y pulsa **Agree**
+2. Entra en <https://huggingface.co/pyannote/speaker-diarization-community-1> y pulsa **Agree**
 3. Entra en <https://huggingface.co/pyannote/segmentation-3.0> y pulsa **Agree**
 4. Ve a <https://huggingface.co/settings/tokens>, crea un token de tipo *Read* y cópialo
+
+(El modelo clásico `speaker-diarization-3.1` no hace falta: con la versión de
+`pyannote.audio` que se instala en el paso 1 sale muy desequilibrado —le adjudicaba
+el 99% del episodio a una sola voz en la prueba con el 5x21—, así que el script usa
+`speaker-diarization-community-1`, el pipeline pensado para esa versión.)
 
 Luego, en la Terminal:
 

@@ -104,11 +104,19 @@ def diarizar(wav):
         token = os.environ.get('HF_TOKEN')
         if not token:
             raise RuntimeError('Falta la variable de entorno HF_TOKEN (ver README).')
-        _pipeline = Pipeline.from_pretrained('pyannote/speaker-diarization-3.1',
-                                             use_auth_token=token)
+        # speaker-diarization-3.1 (el clasico) sale muy desequilibrado en
+        # pyannote.audio 4.x -- en la prueba con el 5x21, el 99% del tiempo
+        # se lo quedaba un solo hablante. community-1 es el pipeline pensado
+        # para esta version de la libreria y da un reparto realista.
+        _pipeline = Pipeline.from_pretrained('pyannote/speaker-diarization-community-1',
+                                             token=token)
         if torch.backends.mps.is_available():
             _pipeline.to(torch.device('mps'))
-    d = _pipeline(str(wav), num_speakers=N_HABLANTES)
+    salida = _pipeline(str(wav), num_speakers=N_HABLANTES)
+    # pyannote.audio 4.x devuelve un DiarizeOutput en vez de la Annotation de
+    # las versiones 3.x; .exclusive_speaker_diarization es la pensada para
+    # esto (no tiene solapes, un instante = un hablante).
+    d = getattr(salida, 'exclusive_speaker_diarization', salida)
     return [{'inicio': t.start, 'fin': t.end, 'hablante': etiq}
             for t, _, etiq in d.itertracks(yield_label=True)]
 

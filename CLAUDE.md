@@ -220,8 +220,8 @@ script asume dos voces y saldrá mal: hay que relanzarlos con `N_HABLANTES = 3`.
   texto, nunca al audio.
 - **Numeración de T1 y T2: es una reconstrucción, no oficial.** El feed no trae número de
   temporada ni de episodio. Se ordenó por fecha y se puso el corte en el parón de verano de
-  2022 (T1: feb–ago 2022, 12 eps; T2: sep 2022–jul 2023, 24 eps). **Pendiente de confirmar con
-  las autoras.**
+  2022 (T1: feb–ago 2022, 12 eps; T2: sep 2022–jul 2023, 24 eps). **Decisión (2026-07-31): se
+  queda así, no se va a contrastar con las autoras.**
 - **Enlaces de Spotify**: solo se tiene el del programa. Los enlaces por episodio requieren la
   API de Spotify con credenciales. `punzadas.com/punzadas-sonoras` tiene algunos sueltos de
   episodios en vivo.
