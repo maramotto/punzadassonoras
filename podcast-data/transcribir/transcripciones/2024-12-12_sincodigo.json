@@ -1,0 +1,5494 @@
+{
+ "slug": "2024-12-12_sincodigo",
+ "codigo": "",
+ "titulo": "Ética y literatura: cruce de caminos, con Pau Luque",
+ "fecha": "2024-12-12",
+ "video_id": "",
+ "url_audio": "https://traffic.megaphone.fm/PMSL6288699688.mp3?updated=1751615241",
+ "segmentos": [
+  {
+   "inicio": 0.0,
+   "fin": 3.6,
+   "texto": "¿Estás escuchando? Radio Primavera Sound.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 4.3,
+   "fin": 6.38,
+   "texto": "Proudly presented by Cucra.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 17.78,
+   "fin": 19.52,
+   "texto": "PUNZADAS SONORAS",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 19.52,
+   "fin": 22.400000000000002,
+   "texto": "Con Paula Ducay e Inés García.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 25.16,
+   "fin": 25.96,
+   "texto": "Paula, habla que no llego.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 25.96,
+   "fin": 26.26,
+   "texto": "Hola.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 27.62,
+   "fin": 29.46,
+   "texto": "Hola, México. Hola, Guadalajara.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 29.46,
+   "fin": 30.34,
+   "texto": "¿Cómo estáis?",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 30.54,
+   "fin": 31.060000000000002,
+   "texto": "¿Qué tal?",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 31.700000000000003,
+   "fin": 33.02,
+   "texto": "Me encanta que la gente...",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 33.02,
+   "fin": 35.2,
+   "texto": "Tenemos aquí el público tan cerquita que la gente responde.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 35.620000000000005,
+   "fin": 37.32,
+   "texto": "Esto no suele pasar cuando estamos en el estudio.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 38.42,
+   "fin": 39.96,
+   "texto": "Bueno, estamos muy contentas de estar aquí,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 40.06,
+   "fin": 41.86,
+   "texto": "de hacer nuestro primer directo fuera de España,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 42.42,
+   "fin": 43.8,
+   "texto": "aquí en la FIL de Guadalajara,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 44.120000000000005,
+   "fin": 46.6,
+   "texto": "en este espacio como tan íntimo y tan lindo.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 47.1,
+   "fin": 47.92,
+   "texto": "Sí, bueno, íntimo.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 48.44,
+   "fin": 50.72,
+   "texto": "Hay aquí como 100.000 personas metidas en este sitio.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 50.900000000000006,
+   "fin": 52.7,
+   "texto": "Sí, pero aquí estamos como recogiditos.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 52.8,
+   "fin": 53.3,
+   "texto": "Sí, es verdad.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 53.42,
+   "fin": 54.72,
+   "texto": "Es genial, en este pabellón de España.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 55.66,
+   "fin": 57.36,
+   "texto": "Y nada, vamos a empezar.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 57.64,
+   "fin": 58.46,
+   "texto": "Sí, porque hoy tenemos...",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 58.46,
+   "fin": 61.68,
+   "texto": "Tenemos un invitado misterioso al que habrá que darle paso en algún momento.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 62.120000000000005,
+   "fin": 62.22,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 62.4,
+   "fin": 63.82,
+   "texto": "Y por darle lo máximo tiempo.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 64.68,
+   "fin": 66.08,
+   "texto": "Misterioso, pero está aquí su libro, ¿no?",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 66.08,
+   "fin": 66.38,
+   "texto": "De siempre.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 66.62,
+   "fin": 67.26,
+   "texto": "Resolviendo el misterio.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 68.2,
+   "fin": 71.82,
+   "texto": "Bueno, pues en este episodio queremos pensar sobre un tema muy concreto,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 72.26,
+   "fin": 76.52,
+   "texto": "que es la filosofía y podríamos decir que específicamente la filosofía moral",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 76.52,
+   "fin": 83.26,
+   "texto": "y la literatura como caminos, siguiendo un poco el lema de esta feria de España como invitado.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 83.62,
+   "fin": 87.74000000000001,
+   "texto": "Y queríamos preguntarnos si se encuentran la filosofía y la literatura en algún punto,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 87.74,
+   "fin": 92.3,
+   "texto": "si hay algo así como un cruce de caminos o cómo se relacionan entre ellas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 92.82,
+   "fin": 98.17999999999999,
+   "texto": "Y lo primero de todo, queríamos preguntarnos a nosotras mismas por qué pensar en esto, en esta relación.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 98.6,
+   "fin": 103.0,
+   "texto": "Sí, venimos un poco a airear traumas, porque estudiando el grado de filosofía",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 103.0,
+   "fin": 107.69999999999999,
+   "texto": "a veces notábamos como que había cierto enfrentamiento entre la filosofía y la literatura.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 108.38,
+   "fin": 113.5,
+   "texto": "De hecho, no tuvimos como demasiadas lecturas de corte literario narrativo dentro de la carrera.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 113.5,
+   "fin": 117.82,
+   "texto": "era más bien anecdótico que un profesor o una profesora nos recomendase una novela para ilustrar ideas.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 119.12,
+   "fin": 123.28,
+   "texto": "Y entonces quizás esto, pensamos, tenga que ver con la creencia que está muy ampliamente extendida",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 123.28,
+   "fin": 129.06,
+   "texto": "de que el género en el que se escribe la filosofía es ensayo y que cualquier cosa que no sea ensayo no contiene ideas.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 129.38,
+   "fin": 135.36,
+   "texto": "Sí, incluso un tipo de ensayo muy concreto, porque luego vamos a ver con el invitado misterioso algunas cosas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 135.36,
+   "fin": 143.16,
+   "texto": "Sí, además también pensando que el hecho de que estemos aquí y de que hayamos estudiado filosofía",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 143.16,
+   "fin": 149.44,
+   "texto": "tiene sentido para preguntarnos sobre todo esto, porque se supone que nuestro podcast es de filosofía oficialmente,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 149.76,
+   "fin": 153.76,
+   "texto": "pero no podría existir sin la literatura y sin otros muchos géneros narrativos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 154.26,
+   "fin": 158.22,
+   "texto": "O sea que también estamos aquí, que solo vienen autores, nos hemos colado.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 158.35999999999999,
+   "fin": 161.28,
+   "texto": "Paula es autora, tiene un libro, La Ternura, está allí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 161.51999999999998,
+   "fin": 164.22,
+   "texto": "Muchas gracias. Inés será autora próximamente.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 164.44,
+   "fin": 167.96,
+   "texto": "La verdad es que seguramente no, pero bueno, que estoy aquí como de impostora.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 167.96,
+   "fin": 173.18,
+   "texto": "y entonces podríamos pensar que en nuestro podcast también sucede este cruce entre las dos disciplinas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 173.4,
+   "fin": 179.58,
+   "texto": "Sí, y como sabréis las que nos habéis escuchado antes, nos apasionan los autores y las autoras que son inclasificables",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 179.58,
+   "fin": 185.8,
+   "texto": "y por eso un poco elegimos basar nuestro podcast en Roland Barthes, que ahora os vamos a dar la chapa un poco con él,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 186.08,
+   "fin": 189.4,
+   "texto": "que hemos visto los fragmentos de un discurso amoroso y nos hemos emocionado.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 189.4,
+   "fin": 194.84,
+   "texto": "Esta anécdota, hemos ido al siglo XXI México porque en España está agotado hace un montón",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 194.84,
+   "fin": 197.44,
+   "texto": "y la gente lo compra de comprabando y estas cosas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 197.92000000000002,
+   "fin": 200.26,
+   "texto": "Y nosotras hemos ido, había una pila así de grande",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 200.26,
+   "fin": 202.76,
+   "texto": "y nos ha dicho el librero que había tres por dos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 202.76,
+   "fin": 205.26,
+   "texto": "y las dos temblándonos las manos en plan",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 205.26,
+   "fin": 207.0,
+   "texto": "¿cuántos tres por dos nos caben en la maleta?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 207.14000000000001,
+   "fin": 209.54,
+   "texto": "Todos los pesos que tenemos creo que van a ir destinados",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 209.54,
+   "fin": 211.86,
+   "texto": "no a comer, sino a comprar libros de barras.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 211.88,
+   "fin": 212.46,
+   "texto": "Los fragmentos.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 212.82,
+   "fin": 213.84,
+   "texto": "De hecho, la gente, perdón,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 214.2,
+   "fin": 215.94,
+   "texto": "es que nos han empezado a escribir por Instagram la gente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 215.94,
+   "fin": 218.56,
+   "texto": "diciendo que compremos y que los vendamos nosotras en España",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 218.56,
+   "fin": 219.32,
+   "texto": "por nuestra web.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 219.74,
+   "fin": 221.2,
+   "texto": "Como una cosa que nos van a meter en la cárcel.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 221.24,
+   "fin": 222.52,
+   "texto": "No, una cosa, un delirio, un delirio.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 222.7,
+   "fin": 224.6,
+   "texto": "La gente en España está realmente necesitando...",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 224.6,
+   "fin": 225.29999999999998,
+   "texto": "Están desesperados.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 226.22,
+   "fin": 230.01999999999998,
+   "texto": "Bueno, nos gustan mucho estos autores y autoras inclasificables",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 230.01999999999998,
+   "fin": 234.5,
+   "texto": "que no se dejan llevar por estos encorsetamientos de disciplinas concretas",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 234.5,
+   "fin": 237.07999999999998,
+   "texto": "y que transitan por caminos muy diversos.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 237.66,
+   "fin": 241.29999999999998,
+   "texto": "Y por eso hemos elegido al invitado misterioso que aparecerá más tarde.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 241.79999999999998,
+   "fin": 244.42,
+   "texto": "Y queríamos detenernos un momento en la figura de Roland Barthes,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 244.68,
+   "fin": 248.16,
+   "texto": "porque siempre nos pasa que cuando vamos a explicar quién es,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 248.68,
+   "fin": 250.79999999999998,
+   "texto": "a alguien que no le conoce, surge la eterna pregunta.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 251.1,
+   "fin": 251.79999999999998,
+   "texto": "¿Qué es Barthes?",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 251.8,
+   "fin": 256.26,
+   "texto": "Es un filósofo, es un pensador, es experto en semiótica, es un crítico literario.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 256.64,
+   "fin": 258.1,
+   "texto": "Lo único que tenemos claro es que es francés.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 258.26,
+   "fin": 260.36,
+   "texto": "No sabemos si es bueno o malo eso, lo dejamos ahí.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 261.3,
+   "fin": 266.52000000000004,
+   "texto": "Y en Wikipedia, por ejemplo, ellos no se pillan los dedos y lo definen como crítico, teórico literario,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 266.64,
+   "fin": 268.90000000000003,
+   "texto": "semiólogo, filósofo, estructuralista, francés.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 269.32,
+   "fin": 274.54,
+   "texto": "Pero podríamos preguntarnos qué camino define más a Bartes y qué camino define más su obra.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 274.76,
+   "fin": 277.1,
+   "texto": "Vamos a intentar contestar rápidamente a esta pregunta.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 277.1,
+   "fin": 288.92,
+   "texto": "Sí, y para ello traemos un libro que no lo hemos traído físicamente porque es como así de gordo, que se llama Bartes y es de Jonathan Cooler, que está editado en el Fondo de Cultura Económica, que también hemos estado aquí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 288.92,
+   "fin": 292.08000000000004,
+   "texto": "En un troncho ahí, como de... tiene el pabellón para ellos solos casi.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 292.84000000000003,
+   "fin": 299.22,
+   "texto": "Y el autor denomina a Bartes como un maestro de nuestro tiempo, pero acto seguido se pregunta, ¿maestro de qué?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 299.22,
+   "fin": 303.68,
+   "texto": "porque algunas de las palabras que se nos vienen a la cabeza cuando pensamos en él, como decía Paula,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 303.88000000000005,
+   "fin": 311.6,
+   "texto": "son semiótica, estructuralismo, placer, mito, Proust, muerte del autor, signo, fotografía, duelo y muchas más cosas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 311.84000000000003,
+   "fin": 317.56,
+   "texto": "Y los capítulos que propone él en el libro son historiador de la literatura, mitologista, crítico,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 317.70000000000005,
+   "fin": 322.18,
+   "texto": "polemista, semiólogo, estructuralista, escritor, o sea que vemos que hay muchísimas cosas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 322.18,
+   "fin": 328.8,
+   "texto": "Y Kuller dice, tal es Roland Barthes, una figura de contradicción, con una intrincada diversidad de teorías",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 328.8,
+   "fin": 333.76,
+   "texto": "y posturas que debemos elucidar. Y esto tiene que ver con el movimiento perpetuo, con la",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 333.76,
+   "fin": 338.34000000000003,
+   "texto": "indagación en temas que luego abandona, no era nada sistemático, sino que cogía caminos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 338.34000000000003,
+   "fin": 343.84000000000003,
+   "texto": "o veredas que rápidamente abandonaba para pasar a otra cosa. No se sentía sujeto a",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 343.84000000000003,
+   "fin": 349.1,
+   "texto": "las ataduras y aparecían constantemente nuevas perspectivas. Entonces no parece haber algo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 349.1,
+   "fin": 354.7,
+   "texto": "así como el verdadero Vartes, ¿no? No encontramos un hilo que subyace y vertebra todo su pensamiento.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 354.7,
+   "fin": 367.5,
+   "texto": "Y dice Kuller, en vez de buscar una unidad reductiva, deberíamos dejarlo conservar su vitalidad de hombre de talento comprometido con una diversidad de valiosos proyectos generales que puede que no tengan un denominador común.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 368.26,
+   "fin": 375.24,
+   "texto": "Y hay un filósofo español que se llama Luis García Soto que escribió un artículo llamado Roland Barthes es, sobre todo, un filósofo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 375.53999999999996,
+   "fin": 380.36,
+   "texto": "Él dijo, me la suda todo esto de que no se le puede clasificar. Es un filósofo. Y ya está, acabo con el debate.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 381.08,
+   "fin": 381.88,
+   "texto": "Igual está aquí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 382.53999999999996,
+   "fin": 382.74,
+   "texto": "¿Quién?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 382.86,
+   "fin": 383.56,
+   "texto": "Luis García Soto.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 383.59999999999997,
+   "fin": 384.18,
+   "texto": "No sé quién es.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 384.18,
+   "fin": 386.04,
+   "texto": "No sé su cara, Luis García Soto",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 386.04,
+   "fin": 388.0,
+   "texto": "Bueno, he de decir que vamos por la fil",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 388.0,
+   "fin": 389.42,
+   "texto": "Y hay autores importantísimos",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 389.42,
+   "fin": 391.16,
+   "texto": "Que a veces hemos leído y a veces no",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 391.16,
+   "fin": 392.62,
+   "texto": "Y nunca sabemos quiénes son",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 392.62,
+   "fin": 394.92,
+   "texto": "Hoy hemos desayunado con alrededor de toda la...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 394.92,
+   "fin": 396.68,
+   "texto": "Hoy había muchísimos estímulos en el desayuno",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 396.68,
+   "fin": 397.8,
+   "texto": "En plan Manuel Vilas",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 397.8,
+   "fin": 399.8,
+   "texto": "Y hacemos unas cosas para...",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 399.8,
+   "fin": 401.58,
+   "texto": "Les escuchamos las conversaciones",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 401.58,
+   "fin": 403.06,
+   "texto": "Lo buscamos en Google",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 403.06,
+   "fin": 406.72,
+   "texto": "Me vi el catálogo este de la fil tan chulo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 406.72,
+   "fin": 407.42,
+   "texto": "Que es así de gordo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 407.42,
+   "fin": 409.46000000000004,
+   "texto": "Para poner nombres a las caras que habíamos visto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 409.46000000000004,
+   "fin": 411.6,
+   "texto": "Haremos chistes específicos ya cuando no estemos aquí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 411.6,
+   "fin": 413.4,
+   "texto": "Además nadie nos conoce de ellos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 413.4,
+   "fin": 415.09999999999997,
+   "texto": "Entonces estamos como en la sombra.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 415.2,
+   "fin": 415.82,
+   "texto": "Sí, sí, está bien.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 416.4,
+   "fin": 420.59999999999997,
+   "texto": "Y entonces Luis García Soto admite que puede parecer una propuesta chocante decir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 420.59999999999997,
+   "fin": 426.62,
+   "texto": "es un filósofo por todo esto que hemos comentado, por los diversos métodos que exceden como a la filosofía tradicional.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 427.14,
+   "fin": 433.73999999999995,
+   "texto": "Y él explica que dependiendo del contexto cultural o del momento se han subrayado más algunas facetas de Bartes u otras.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 434.03999999999996,
+   "fin": 439.38,
+   "texto": "Y su opinión es que podemos llamarle filósofo teniendo en cuenta que la filosofía tal y como él la entiende",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 439.38,
+   "fin": 441.46,
+   "texto": "puede acoger todos estos matices.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 441.7,
+   "fin": 446.14,
+   "texto": "Y porque ve en el trabajo de Bartes, dice, una raíz y una textura filosóficas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 446.38,
+   "fin": 448.42,
+   "texto": "Sí, pero hay gente que no lo ve tan claro",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 448.42,
+   "fin": 452.14,
+   "texto": "y de hecho uno de los problemas que podrían argumentarse para clasificar a Bartes",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 452.14,
+   "fin": 455.71999999999997,
+   "texto": "es que sus libros escapan mucho de los sistemas filosóficos",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 455.71999999999997,
+   "fin": 458.04,
+   "texto": "porque a él le encanta el fragmento, evidentemente,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 458.48,
+   "fin": 463.21999999999997,
+   "texto": "le encanta lo discontinuo, lo que está alejado como de una verdad única e inamovible,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 463.58,
+   "fin": 466.3,
+   "texto": "le gusta mucho escribir desde la apertura, desde el movimiento",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 466.3,
+   "fin": 470.28000000000003,
+   "texto": "y cabría preguntarse también si esto es una buena práctica filosófica",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 470.28000000000003,
+   "fin": 473.58,
+   "texto": "y cómo se hace la filosofía, que es una pregunta bastante...",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 473.58,
+   "fin": 475.88,
+   "texto": "Bueno, no lo vamos a contestar aquí y probablemente nunca.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 476.54,
+   "fin": 479.98,
+   "texto": "Y qué es la diferencia de la literatura, que es un poco lo que veníamos a plantear hoy.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 480.40000000000003,
+   "fin": 484.32,
+   "texto": "Y para esto hemos leído otro libro, que es de Martha Nussbaum,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 484.68,
+   "fin": 487.34000000000003,
+   "texto": "que se llama El conocimiento del amor, que está en Antonio Machado.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 487.78000000000003,
+   "fin": 491.72,
+   "texto": "Y es un libro que recoge artículos en torno a esta relación entre la literatura y la filosofía,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 491.82,
+   "fin": 493.0,
+   "texto": "sobre todo la filosofía moral.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 493.0,
+   "fin": 498.64,
+   "texto": "y ahí Nussbaum propone que hay que trascender los límites que separan ambas disciplinas.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 499.34,
+   "fin": 502.46,
+   "texto": "Y en la introducción aborda, bueno, una de las preguntas que nos hacíamos nosotras,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 502.6,
+   "fin": 508.02,
+   "texto": "que es cómo se debería escribir, qué palabras se deberían elegir, qué formas, estructuras y organización,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 508.5,
+   "fin": 512.78,
+   "texto": "si lo que se busca es la comprensión, es decir, si eres básicamente un filósofo,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 512.86,
+   "fin": 514.98,
+   "texto": "si lo que quieres es que la gente entienda tus ideas.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 515.12,
+   "fin": 520.74,
+   "texto": "Claro, entonces Nussbaum considera fundamental hacerse esta pregunta porque para ella el estilo y la forma",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 520.74,
+   "fin": 526.62,
+   "texto": "no se pueden separar del contenido filosófico, o sea que cuando planteamos un pensamiento o una idea filosófica",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 526.62,
+   "fin": 528.2,
+   "texto": "tenemos que pensar cómo hacerlo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 528.6,
+   "fin": 532.34,
+   "texto": "Y dice que es una parte esencial de la búsqueda y de la exposición de la verdad,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 532.66,
+   "fin": 537.28,
+   "texto": "o sea que básicamente plantea que hay una estrecha relación entre la forma y el contenido.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 537.72,
+   "fin": 541.38,
+   "texto": "Y de hecho uno de los lemas del libro es de Iris Murdoch que dice",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 541.5600000000001,
+   "fin": 545.42,
+   "texto": "Puedes conocer una verdad, pero si es verdaderamente complicada,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 545.5600000000001,
+   "fin": 548.6,
+   "texto": "has de ser un artista para no pronunciarla como una mentira.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 548.6,
+   "fin": 551.8000000000001,
+   "texto": "Esto es lo que le pasaba a la mitad de nuestros profesores en el grado de filosofía",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 551.8000000000001,
+   "fin": 555.78,
+   "texto": "Que tenían muy clara una verdad pero no se entendía nada cuando lo ponían en palabras",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 555.78,
+   "fin": 557.6,
+   "texto": "Lo cual es un problema si eres profesor",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 557.6,
+   "fin": 559.52,
+   "texto": "¿Cuántas horas hemos pasado escuchando a Félix Duque?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 559.62,
+   "fin": 562.84,
+   "texto": "Que es como, bueno, no sé, como Jesucristo en la autónoma",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 562.84,
+   "fin": 564.44,
+   "texto": "Es hegeliano",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 564.44,
+   "fin": 568.5,
+   "texto": "Y en plan dos horas de ya dicho este señor, ¿eh?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 568.5400000000001,
+   "fin": 570.58,
+   "texto": "También porque se ponía a citar cosas en alemán",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 570.58,
+   "fin": 573.6,
+   "texto": "O en latín, y es como no estamos a este nivel",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 573.6,
+   "fin": 576.64,
+   "texto": "De repente decía Kant dijo, y lo decía en alemán",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 576.64,
+   "fin": 577.38,
+   "texto": "Y yo bueno",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 577.38,
+   "fin": 578.32,
+   "texto": "Y tontos apuntes",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 578.32,
+   "fin": 582.88,
+   "texto": "Bueno, nada, dejando caer el boli dramáticamente porque no sabes escribir esas palabras.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 583.2,
+   "fin": 588.62,
+   "texto": "Entonces ella piensa un poco en esto, en cómo contamos las verdades o las ideas filosóficas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 588.94,
+   "fin": 596.12,
+   "texto": "Y dice que la prosa filosófica tradicional puede ser insuficiente porque tiene un estilo muy plano y ella dice, falto de asombro.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 596.12,
+   "fin": 600.2800000000001,
+   "texto": "Y dice, quizá necesitamos formas más complejas, prestar atención al detalle.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 600.6800000000001,
+   "fin": 604.1,
+   "texto": "Que aquí está hablando básicamente de la filosofía en términos anglosajones.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 604.1,
+   "fin": 616.76,
+   "texto": "No sé si conocéis esta gran diferencia entre la filosofía continental y la analítica. La analítica es la que se escribe en inglés, podríamos decir, y siempre es un lenguaje como muy científico, muy concreto, que no tiene muchas florituras.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 617.0400000000001,
+   "fin": 624.36,
+   "texto": "Ella se está metiendo un poco con esto, porque dice que determinados pensamientos deben ser expresados con una determinada escritura y configuración.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 624.84,
+   "fin": 633.12,
+   "texto": "Y esto, dice, se consigue con el lenguaje del artista narrativo, que aquí encontramos un poco, que es lo que venimos hablando, ese cruce de caminos entre la filosofía y la literatura.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 633.12,
+   "fin": 652.9,
+   "texto": "La filosofía no tiene por qué rechazar este lenguaje narrativo, es lo que viene a decirnos. Y dice, respecto a determinados elementos de la vida humana, los términos del arte del novelista son atentas criaturas aladas, perceptivas cuando los romos términos del habla ordinaria o del discurso teórico abstracto son ciegos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 652.9,
+   "fin": 657.4,
+   "texto": "O sea, que hay que ir más allá de esa cosa que solo entienden unos pocos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 657.64,
+   "fin": 663.76,
+   "texto": "Y su tesis es que las obras literarias contribuyen justamente a analizar problemas filosóficos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 663.76,
+   "fin": 670.48,
+   "texto": "y que la vida debe ser contada y no simplemente presentada en artículos académicos o de determinada manera.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 670.72,
+   "fin": 673.0,
+   "texto": "Esto es lo que venimos a defender un poco aquí también, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 673.18,
+   "fin": 673.38,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 673.54,
+   "fin": 674.4599999999999,
+   "texto": "Que viva la literatura.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 674.56,
+   "fin": 675.5,
+   "texto": "Este es nuestro imperio romano.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 675.76,
+   "fin": 676.76,
+   "texto": "Sí, un poco sí, ¿eh?",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 676.92,
+   "fin": 677.22,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 677.78,
+   "fin": 679.26,
+   "texto": "El imperio romano de las chicas, sí.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 679.26,
+   "fin": 683.84,
+   "texto": "entonces Nussbaum analiza así esta vieja disputa entre filósofos y poetas",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 683.84,
+   "fin": 685.74,
+   "texto": "que ya evidentemente venía de Platón",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 685.74,
+   "fin": 688.74,
+   "texto": "como seguramente os sonará entre literatura y filosofía",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 688.74,
+   "fin": 692.74,
+   "texto": "y además es interesante que Nussbaum introduce esto hablando de su propia vida",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 692.74,
+   "fin": 694.92,
+   "texto": "Sí, ella cuenta que ha estado en Harvard",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 694.92,
+   "fin": 698.86,
+   "texto": "y ha tenido que aguantar como ella encontraba en la literatura",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 698.86,
+   "fin": 700.66,
+   "texto": "y sobre todo en la filología clásica",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 700.66,
+   "fin": 702.62,
+   "texto": "debates éticos que le interesaban mucho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 702.62,
+   "fin": 705.62,
+   "texto": "pero académicamente está tan encorsetado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 705.62,
+   "fin": 707.88,
+   "texto": "que siempre como que le reñían un poco",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 707.88,
+   "fin": 710.26,
+   "texto": "en el sentido de que te estás yendo hacia cosas que no son.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 710.58,
+   "fin": 714.54,
+   "texto": "O, por ejemplo, le molestaba mucho que se considerara que el banquete y el fedro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 714.54,
+   "fin": 718.52,
+   "texto": "eran las obras de Platón que podían ser estudiadas por la filología,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 719.06,
+   "fin": 720.34,
+   "texto": "pero no las filosóficas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 720.4399999999999,
+   "fin": 723.84,
+   "texto": "O sea, está el Platón filosófico y el Platón literario poético",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 723.84,
+   "fin": 726.9399999999999,
+   "texto": "y ella dice que estas distinciones le parecen absurdas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 727.38,
+   "fin": 731.48,
+   "texto": "Y de hecho distinguía un poco lo que la gente entiende por literatura en este sentido",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 731.48,
+   "fin": 733.62,
+   "texto": "y lo que entiende por filosofía.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 733.62,
+   "fin": 738.74,
+   "texto": "y ella expone que se piensa sobre la literatura que tiene un papel instrumental,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 739.0,
+   "fin": 743.04,
+   "texto": "o sea que no se cuenta con ella para narrar cuestiones complejas",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 743.04,
+   "fin": 746.38,
+   "texto": "o algunas verdades que pueden ser expresadas solo a través de eso,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 746.46,
+   "fin": 748.86,
+   "texto": "los ensayos como súper académicos y súper ordenados,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 749.36,
+   "fin": 753.2,
+   "texto": "que para la literatura solo importan las cuestiones filológicas o estéticas",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 753.2,
+   "fin": 755.14,
+   "texto": "y que no tienen conexión con temas éticos.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 755.44,
+   "fin": 756.86,
+   "texto": "¿Quién piensa esto? Es que hay que ser inventivos.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 756.88,
+   "fin": 761.86,
+   "texto": "Nuestros profesores a veces eran las novelitas ya para pasar el rato,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 761.86,
+   "fin": 765.92,
+   "texto": "que es una idea como súper cruel y que estaba muy extendida por desgracia.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 766.84,
+   "fin": 772.14,
+   "texto": "Y bueno, hablaba un poco de que la gente pensaba que las obras éticas no figuraban como parte de los programas de estudio,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 772.3000000000001,
+   "fin": 774.16,
+   "texto": "que es lo que nos contábamos antes que nos pasó a nosotros.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 774.7,
+   "fin": 778.58,
+   "texto": "Había como un desprecio y hay un desprecio por la crítica ética de la literatura",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 778.58,
+   "fin": 785.4,
+   "texto": "y que la literatura todo lo que hace es tener como esta actitud estética puramente que se aleja mucho del interés práctico.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 785.78,
+   "fin": 787.4200000000001,
+   "texto": "Aquí venimos a defender que no es así.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 787.42,
+   "fin": 796.12,
+   "texto": "Sí, y la filosofía en este sentido considera que el estilo es decorativo y relevante, que lo que importa es expresar bien el contenido, que da igual cómo esté escrito.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 796.42,
+   "fin": 800.8,
+   "texto": "Y el estilo, como os decía antes, tiene que ser simple, claro, general, no narrativo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 801.14,
+   "fin": 807.0999999999999,
+   "texto": "La literatura a veces es considerada en este sentido pensamiento popular, esto es lo del desprecio a las novelitas,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 807.4599999999999,
+   "fin": 812.88,
+   "texto": "que el interés es plenamente estético pero que no se puede encontrar ahí temas relevantes desde la ética o la política.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 812.88,
+   "fin": 819.6,
+   "texto": "y en este sentido estamos muy pegadas, no estamos generalizando a que toda la filosofía sea así,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 819.9399999999999,
+   "fin": 823.48,
+   "texto": "sino a la academización y la profesionalización de la filosofía.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 823.48,
+   "fin": 827.1,
+   "texto": "O sea que es escribir de la misma manera para que te publiquen en las mismas revistas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 827.1,
+   "fin": 830.54,
+   "texto": "y para llegar a los lugares a los que se quiere llegar.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 831.04,
+   "fin": 835.48,
+   "texto": "Y ella, Marta Nussbaum, lo explica diciendo que se trata de escritura de los profesionales para profesionales.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 836.36,
+   "fin": 840.76,
+   "texto": "Que aquí siempre me acuerdo de Daniel Dennett, que era un filósofo americano que falleció hace poco,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 840.76,
+   "fin": 846.8,
+   "texto": "que se metía mucho, decía, escribes una tesis doctoral que van a leer cinco personas en todo el mundo, o sea, por favor.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 846.9399999999999,
+   "fin": 850.02,
+   "texto": "Y las cinco comparten pasillo contigo en la facultad, o sea, es horrible.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 850.1,
+   "fin": 854.76,
+   "texto": "Sí, sí, o sea, ubícate, por qué escribir, por qué no hacer que el conocimiento llegue a muchas más personas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 855.38,
+   "fin": 861.96,
+   "texto": "Y Nussbaum considera que las formas de escribir no podemos considerarlas simplemente como vasijas en las que echamos contenidos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 862.4,
+   "fin": 866.7,
+   "texto": "Dice, la forma constituía en sí misma una afirmación, un contenido,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 866.7,
+   "fin": 879.36,
+   "texto": "Y por eso nos parece que está proponiendo un cruce de caminos, una desjerarquización del conocimiento en el que se den encuentros, entendimiento y diálogo entre la filosofía y literatura, pero también entre otras disciplinas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 879.9000000000001,
+   "fin": 893.58,
+   "texto": "Y para hablar sobre todo esto, como Martes está muerto, básicamente, no lo hemos podido traer, hemos traído a una persona que se le parece mucho en términos intelectuales.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 893.58,
+   "fin": 896.36,
+   "texto": "Que va a salir ahora y vosotras chicas tenéis que aplaudir, evidentemente.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 896.36,
+   "fin": 902.16,
+   "texto": "Y nos hace muchísima ilusión tenerla en Punzadas Sonoras porque es uno de nuestros pensadores de cabecera hace tiempo,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 902.26,
+   "fin": 905.88,
+   "texto": "porque estamos obsesionadas con leer a gente que está viva ahora mismo, que es lo que hay que hacer,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 906.22,
+   "fin": 909.8000000000001,
+   "texto": "aunque también está bien leer a los muertos, pero bueno, hay que hacer una balanza, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 910.12,
+   "fin": 910.38,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 910.6,
+   "fin": 912.36,
+   "texto": "Entonces, un aplauso para...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 913.38,
+   "fin": 913.76,
+   "texto": "¡Paulo!",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 922.84,
+   "fin": 923.28,
+   "texto": "Hola.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 923.48,
+   "fin": 924.14,
+   "texto": "Hola, Pau.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 924.14,
+   "fin": 926.88,
+   "texto": "Hola, soy el invitado misterioso",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 926.88,
+   "fin": 927.54,
+   "texto": "y estoy vivo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 927.54,
+   "fin": 930.88,
+   "texto": "Lo más importante, ya con todas las características",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 930.88,
+   "fin": 932.96,
+   "texto": "Sí, me encanta que la primera",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 932.96,
+   "fin": 934.88,
+   "texto": "pregunta que teníamos del guión para ti es",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 934.88,
+   "fin": 937.18,
+   "texto": "¿Quién eres? Porque pensábamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 937.18,
+   "fin": 939.26,
+   "texto": "en esta relación entre la filosofía",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 939.26,
+   "fin": 940.78,
+   "texto": "y la literatura y vimos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 940.78,
+   "fin": 942.78,
+   "texto": "que estudiaste Derecho, que has hecho el doctorado en",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 942.78,
+   "fin": 944.92,
+   "texto": "Filosofía del Derecho, has ganado el premio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 944.92,
+   "fin": 946.8,
+   "texto": "de Anagrama de Ensayo, que es",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 946.8,
+   "fin": 948.88,
+   "texto": "increíble con las cosas como son y otras fantasías",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 948.88,
+   "fin": 950.74,
+   "texto": "ahora has escrito New, entonces",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 950.74,
+   "fin": 952.9,
+   "texto": "como que en ti mismo pensábamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 952.9,
+   "fin": 954.9399999999999,
+   "texto": "hemos elegido genial, toma, como punto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 954.9399999999999,
+   "fin": 956.76,
+   "texto": "para nosotras, porque es como un ejemplo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 956.76,
+   "fin": 958.68,
+   "texto": "perfecto entre el cruce, entre la filosofía",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 958.68,
+   "fin": 961.0,
+   "texto": "la literatura y todo esto que estábamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 961.0,
+   "fin": 963.04,
+   "texto": "hablando. Sí, y todo esto lo hemos resumido",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 963.04,
+   "fin": 965.0799999999999,
+   "texto": "diciendo que ya te hemos dicho que eres la reencarnación",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 965.0799999999999,
+   "fin": 966.98,
+   "texto": "de Iris Murdoch. Y el que viene",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 966.98,
+   "fin": 968.9,
+   "texto": "después de Bartes. Y el que viene después de Bartes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 968.9,
+   "fin": 970.4599999999999,
+   "texto": "es que no podemos darte como más medallas",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 970.4599999999999,
+   "fin": 972.98,
+   "texto": "Bueno, estoy vivo, eso me favorece",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 972.98,
+   "fin": 974.74,
+   "texto": "respecto a ellos. Sí, les ganas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 974.74,
+   "fin": 977.04,
+   "texto": "en una pelea les ganas. Yo quería empezar a hablar",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 977.04,
+   "fin": 978.78,
+   "texto": "de todo lo que vamos a hablar, contando",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 978.78,
+   "fin": 980.76,
+   "texto": "una pequeñísima anécdota, que es que",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 980.76,
+   "fin": 982.0799999999999,
+   "texto": "yo tengo el libro",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 982.08,
+   "fin": 984.6,
+   "texto": "tu maravilloso ensayo que es Las cosas como son",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 984.6,
+   "fin": 986.6600000000001,
+   "texto": "y otras fantasías, que chicas si no lo habéis leído",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 986.6600000000001,
+   "fin": 988.5,
+   "texto": "leedlo, además lo podéis comprar en",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 988.5,
+   "fin": 990.2800000000001,
+   "texto": "la cosa esa rosa que hay ahí enorme",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 990.2800000000001,
+   "fin": 992.0,
+   "texto": "hay un montón de ejemplares",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 992.0,
+   "fin": 994.5400000000001,
+   "texto": "y cuando me lo dedicaste en su día me pusiste",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 994.5400000000001,
+   "fin": 995.86,
+   "texto": "para mi tocalla Paula",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 995.86,
+   "fin": 998.44,
+   "texto": "porque somos Pau y Pau, está todo pensado",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 998.44,
+   "fin": 1000.3000000000001,
+   "texto": "con más literatura que filosofía",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1000.3000000000001,
+   "fin": 1001.88,
+   "texto": "afortunadamente, o sea que",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1001.88,
+   "fin": 1004.5200000000001,
+   "texto": "te hemos elegido porque creemos que estás en este barco que vamos a",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1004.5200000000001,
+   "fin": 1006.5,
+   "texto": "defender hoy, de que la literatura",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1006.5,
+   "fin": 1008.62,
+   "texto": "puede expresar un montón",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1008.62,
+   "fin": 1010.0600000000001,
+   "texto": "de cosas y un montón de ideas",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1010.06,
+   "fin": 1017.9599999999999,
+   "texto": "Entonces queríamos un poco comentar cómo entiendes y cómo experimentas esta relación entre la filosofía y la literatura, esta vieja disputa de la que hemos hablado.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1019.14,
+   "fin": 1029.48,
+   "texto": "Hay un autor que también está muerto, naturalmente, que es un filósofo inglés que se llamaba Bernard Williams, que tenía una obra muy fragmentaria.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1030.1599999999999,
+   "fin": 1039.94,
+   "texto": "Y alguna vez le hicieron una entrevista y le preguntaban algo así como si le preocupaba que su obra fuera coherente o que fuera sistemática o algo así.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1040.06,
+   "fin": 1054.72,
+   "texto": "Y él respondía una cosa que yo repito siempre, no porque mi obra se parezca a la de Williams, sino porque me parece una buena idea, que es que él solo esperaba de su obra que las diversas partes conspiraran juntas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1054.72,
+   "fin": 1057.24,
+   "texto": "entonces pedir",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1057.24,
+   "fin": 1059.28,
+   "texto": "tener un sistema filosófico",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1059.28,
+   "fin": 1062.14,
+   "texto": "tener una teoría con T mayúscula",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1062.14,
+   "fin": 1063.84,
+   "texto": "yo creo que no tiene",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1063.84,
+   "fin": 1064.54,
+   "texto": "mucho sentido",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1064.54,
+   "fin": 1067.66,
+   "texto": "y si uno espera de todas las cosas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1067.66,
+   "fin": 1069.74,
+   "texto": "en las que trabaja que conspiren juntas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1069.74,
+   "fin": 1070.8600000000001,
+   "texto": "ya es suficiente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1070.8600000000001,
+   "fin": 1072.68,
+   "texto": "¿qué quiere decir que conspiren juntas?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1073.02,
+   "fin": 1074.32,
+   "texto": "nadie sabe muy bien qué quiere decir",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1074.32,
+   "fin": 1076.18,
+   "texto": "porque no se sabe para qué conspiran",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1076.18,
+   "fin": 1079.06,
+   "texto": "sobre la base de qué, dónde se quiere llegar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1079.06,
+   "fin": 1080.6200000000001,
+   "texto": "pero todo eso no importa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1080.6200000000001,
+   "fin": 1083.56,
+   "texto": "lo que importa es la idea del pensamiento",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1083.56,
+   "fin": 1089.48,
+   "texto": "como algo que se fragmenta pero que conspira hacia una misma dirección.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1089.84,
+   "fin": 1094.3,
+   "texto": "Y esa es una idea que a mí me resulta muy atractiva,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1094.76,
+   "fin": 1098.6399999999999,
+   "texto": "porque además cuando uno queda persuadido por esa idea,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1099.2,
+   "fin": 1104.4199999999998,
+   "texto": "entonces el puente entre filosofía y literatura básicamente se levanta solo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1105.1599999999999,
+   "fin": 1111.76,
+   "texto": "Uno de manera natural acude a la literatura como una continuación orgánica de la filosofía,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1111.76,
+   "fin": 1121.04,
+   "texto": "porque ve en la literatura lo mismo que en la filosofía, es decir, partes que conspiran juntas para llegar a algún lugar que nadie sabe cuál es.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1121.58,
+   "fin": 1127.56,
+   "texto": "Qué bonito. Bartes, en el placer del texto, habla de los fragmentos como islotes, como islas,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1127.9,
+   "fin": 1135.36,
+   "texto": "en vez de construir un pensamiento filosófico entendido como si fuera un troncho de tierra así muy cerrado y muy compacto.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1135.36,
+   "fin": 1139.58,
+   "texto": "Justo, perdón, es que tenemos una pantalla del tamaño de Australia justo detrás y estás diciendo islas.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1140.04,
+   "fin": 1143.7199999999998,
+   "texto": "Yo no sé si el dios de las pantallas te ha escuchado y de repente han aparecido los islotes.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1143.8799999999999,
+   "fin": 1149.3999999999999,
+   "texto": "Es verdad. Pues Bartes consideraba que tiene mucho más sentido esos islotes que pueden comunicarse o no,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1149.54,
+   "fin": 1154.8999999999999,
+   "texto": "que pueden rozarse o no y que están en continuo movimiento. O sea que es muy chulo, se parece mucho la idea.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1155.5,
+   "fin": 1159.3799999999999,
+   "texto": "Sí, de hecho, todas estas cosas que nos has contado ahora cristalizan muy bien en New,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1159.54,
+   "fin": 1162.9799999999998,
+   "texto": "que es este libro que has publicado este año, que nos encanta, la verdad, yo estoy fascinada.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1162.98,
+   "fin": 1166.32,
+   "texto": "y además es un libro que te hace reír, que esto es una cosa muy difícil de hacer,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1166.5,
+   "fin": 1169.8,
+   "texto": "es mucho más fácil hacer llorar a los lectores que hacerles reír y yo me he reído mucho con este libro.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1170.8,
+   "fin": 1173.48,
+   "texto": "Y se ha publicado un anagrama en la colección de narrativas hispánicas,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1173.94,
+   "fin": 1178.8600000000001,
+   "texto": "igual porque no sabían dónde ponerlo, porque es una cosa muy extraña en el mejor de los sentidos",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1178.8600000000001,
+   "fin": 1182.32,
+   "texto": "y todo el mundo que lo ha leído coincide en que es súper difícil clasificar New.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1182.66,
+   "fin": 1186.26,
+   "texto": "En la contracubierta dice que es entre el relato, la autobiografía y el ensayo,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1186.34,
+   "fin": 1189.74,
+   "texto": "que esos son los de marketing de anagrama diciendo, no lo sé, no lo sé, no sé qué es,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1189.74,
+   "fin": 1190.7,
+   "texto": "pero está bien definido",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1190.7,
+   "fin": 1192.08,
+   "texto": "y queríamos también",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1192.08,
+   "fin": 1192.66,
+   "texto": "preguntarte un poco",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1192.66,
+   "fin": 1193.18,
+   "texto": "de qué manera",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1193.18,
+   "fin": 1193.84,
+   "texto": "te sirve",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1193.84,
+   "fin": 1195.16,
+   "texto": "la ficción",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1195.16,
+   "fin": 1196.18,
+   "texto": "porque hay",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1196.18,
+   "fin": 1197.4,
+   "texto": "bueno yo intuyo",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1197.4,
+   "fin": 1198.1200000000001,
+   "texto": "que hay bastante ficción",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1198.1200000000001,
+   "fin": 1198.48,
+   "texto": "en este libro",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1198.48,
+   "fin": 1198.9,
+   "texto": "es verdad que",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1198.9,
+   "fin": 1199.7,
+   "texto": "a veces leyéndolo digo",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1199.7,
+   "fin": 1200.42,
+   "texto": "no sé que es verdad",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1200.42,
+   "fin": 1200.8,
+   "texto": "y que no",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1200.8,
+   "fin": 1201.64,
+   "texto": "pero tampoco importa",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1201.64,
+   "fin": 1202.1200000000001,
+   "texto": "quizás",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1202.1200000000001,
+   "fin": 1204.04,
+   "texto": "como de qué manera",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1204.04,
+   "fin": 1204.38,
+   "texto": "te sirve",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1204.38,
+   "fin": 1204.82,
+   "texto": "para ilustrar",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1204.82,
+   "fin": 1205.92,
+   "texto": "las ideas filosóficas",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1205.92,
+   "fin": 1207.82,
+   "texto": "y luego tengo una pregunta",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1207.82,
+   "fin": 1208.98,
+   "texto": "que solo entenderéis",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1208.98,
+   "fin": 1209.76,
+   "texto": "si habéis leído New",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1209.76,
+   "fin": 1210.76,
+   "texto": "que es cómo de bien",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1210.76,
+   "fin": 1211.3,
+   "texto": "te lo has pasado",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1211.3,
+   "fin": 1212.16,
+   "texto": "dialogando con",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1212.16,
+   "fin": 1212.92,
+   "texto": "Curiel Jordana",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1212.92,
+   "fin": 1213.72,
+   "texto": "que es una figura",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1213.72,
+   "fin": 1214.84,
+   "texto": "con la que yo estoy fascinada",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1214.84,
+   "fin": 1216.2,
+   "texto": "que es bueno",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1216.2,
+   "fin": 1217.26,
+   "texto": "pues esta poeta",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1217.26,
+   "fin": 1217.98,
+   "texto": "que ya aparece",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1217.98,
+   "fin": 1218.86,
+   "texto": "en las cosas como son",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1218.86,
+   "fin": 1219.4,
+   "texto": "que yo he buscado",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1219.4,
+   "fin": 1223.3600000000001,
+   "texto": "repetidas veces en Google, porque la quiero encontrar y no la voy a encontrar,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1223.5600000000002,
+   "fin": 1227.3200000000002,
+   "texto": "tardé mucho tiempo en darme cuenta, pero bueno, sí, queríamos hablar un poco de esto,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1227.38,
+   "fin": 1229.0800000000002,
+   "texto": "de New y su carácter como inclasificable.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1229.94,
+   "fin": 1235.72,
+   "texto": "Pues yo creo mucho en esa idea de Beckett de fracasar cada vez mejor,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1236.5400000000002,
+   "fin": 1244.24,
+   "texto": "y yo había intentado escribir como, no sé si ficción, pero sí narrativa más o menos canónica,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1244.24,
+   "fin": 1251.1200000000001,
+   "texto": "como en un relato que se desarrollara de manera lineal, continua, más o menos coherente, bla, bla, bla.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1251.78,
+   "fin": 1254.0,
+   "texto": "Y fracasé, fracasé una vez tras otra.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1254.26,
+   "fin": 1260.26,
+   "texto": "Y también había intentado escribir ensayo como más canónico y ahí me fue un poco mejor,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1260.26,
+   "fin": 1263.66,
+   "texto": "pero tampoco yo terminaba de quedar del todo contento.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1264.5,
+   "fin": 1269.2,
+   "texto": "Y tras un fracaso tras otro, fracasando cada vez mejor,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1270.32,
+   "fin": 1273.94,
+   "texto": "di con una cosa que dice también este filósofo Bernard Williams,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1274.24,
+   "fin": 1275.22,
+   "texto": "El muerto.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1275.52,
+   "fin": 1276.94,
+   "texto": "El muerto, uno de los muertos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1277.92,
+   "fin": 1283.86,
+   "texto": "Que él decía que cuando uno descubre el estilo con el que quiere hacer algo,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1284.46,
+   "fin": 1287.2,
+   "texto": "es solo entonces cuando descubre qué quiere hacer.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1288.38,
+   "fin": 1291.82,
+   "texto": "Y entonces yo me di cuenta de que tenía que abandonar toda esta cosa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1291.82,
+   "fin": 1294.66,
+   "texto": "de intentar hacer algo como más canónico, más lineal.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1295.06,
+   "fin": 1296.52,
+   "texto": "No me salía, simplemente no me salía.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1296.52,
+   "fin": 1305.86,
+   "texto": "y dejarme atraer y llevar por un estilo que no tuviera nada que ver con eso.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1306.32,
+   "fin": 1312.3,
+   "texto": "Que era un estilo probablemente que es más acorde con cómo yo veo el mundo y la vida,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1312.3,
+   "fin": 1319.08,
+   "texto": "que es como un montón de episodios solo casualmente conectados entre sí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1319.6,
+   "fin": 1323.4,
+   "texto": "La vida, las cosas que nos van ocurriendo en nuestra biografía,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1323.4,
+   "fin": 1327.8000000000002,
+   "texto": "son una serie de fragmentos que luego hilamos más o menos como podemos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1327.8000000000002,
+   "fin": 1332.3600000000001,
+   "texto": "y a los que intentamos dar sentido solo a posteriori.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1333.52,
+   "fin": 1338.2800000000002,
+   "texto": "Y una vez me encontré el estilo con el que quería decir las cosas,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1338.2800000000002,
+   "fin": 1342.8000000000002,
+   "texto": "pues ya todo lo demás fluyó más fácilmente.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1343.6200000000001,
+   "fin": 1348.5,
+   "texto": "Y también fluyó la idea esta de incorporar a Curiel,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1348.5,
+   "fin": 1355.6,
+   "texto": "que es esta querida amiga mía, poeta muy pasada de rosca, pero a la vez muy sensible.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1357.6,
+   "fin": 1367.96,
+   "texto": "Y como directamente, en lugar de buscar grandes tramas para decir lo que yo quería decir filosóficamente hablando,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1368.64,
+   "fin": 1376.4,
+   "texto": "pensé que había otra manera que a mí se me hacía mucho más natural de lidiar con la filosofía, que era con la conversación.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1376.4,
+   "fin": 1383.3200000000002,
+   "texto": "poner en marcha una conversación sobre los temas más aparentemente banales,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1383.46,
+   "fin": 1388.8000000000002,
+   "texto": "pero también profundos en algún sentido, no pedante de la palabra, pero también pedante.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1389.2,
+   "fin": 1396.22,
+   "texto": "Como que meter en esa conversación todo lo que me interesaba, pensar y darle vueltas,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1396.22,
+   "fin": 1400.96,
+   "texto": "para no llegar a ningún lado. Este sí era un objetivo clarísimo que yo tenía en el libro,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1401.42,
+   "fin": 1405.94,
+   "texto": "que si me iba a dejar guiar por la idea de que el estilo determina lo que quieres hacer,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1405.94,
+   "fin": 1407.42,
+   "texto": "no podía llegar a ningún lado.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1407.78,
+   "fin": 1410.52,
+   "texto": "Esto y hacer reír al lector",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1410.52,
+   "fin": 1413.6200000000001,
+   "texto": "era lo que más me interesaba en el libro.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1414.4,
+   "fin": 1417.26,
+   "texto": "Y a mí me llegó tarde.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1417.3600000000001,
+   "fin": 1419.54,
+   "texto": "Creo que esto lo hablamos una vez en Madrid tú y yo,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1420.1000000000001,
+   "fin": 1422.68,
+   "texto": "que hay gente a la que le llega muy temprano",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1422.68,
+   "fin": 1425.4,
+   "texto": "descubrir el estilo con el que quiere hacer las cosas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1425.96,
+   "fin": 1429.16,
+   "texto": "Y hay otros que somos muy lentos o muy vagos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1429.16,
+   "fin": 1430.8400000000001,
+   "texto": "o una combinación de lentos y vagos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1430.8400000000001,
+   "fin": 1433.94,
+   "texto": "y nos llega tarde, no tarde en la vida,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1433.94,
+   "fin": 1439.04,
+   "texto": "porque yo espero no entrar en la categoría de Williams, Martes y esta gente próximamente,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1439.24,
+   "fin": 1444.1000000000001,
+   "texto": "pero ya no era una persona joven cuando me di cuenta de esto.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1444.94,
+   "fin": 1447.2,
+   "texto": "Y estaba pensando, ¿cuál es tu relación con la academia?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1449.44,
+   "fin": 1450.92,
+   "texto": "¿Se va a convertir en terapia?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1451.4,
+   "fin": 1452.66,
+   "texto": "Bueno, puede ser, puede ser.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1452.66,
+   "fin": 1457.14,
+   "texto": "Es que Remedios Tafra habla mucho, que creo que también le dieron el premio a un saiyo de anagrama,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1457.24,
+   "fin": 1461.8200000000002,
+   "texto": "en plan esa persona, Remedios Tafra, no sé, muchos libros muy importantes y grandes ensayos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1461.82,
+   "fin": 1466.9399999999998,
+   "texto": "y luego ya cuenta que en términos académicos, cuando optas a un puesto o lo que sea,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1467.36,
+   "fin": 1471.62,
+   "texto": "lo que te dice la academia es, vale muy bien este libro que ha recibido el premio de ensayo de anagrama,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1471.9199999999998,
+   "fin": 1473.6,
+   "texto": "pero no encaja en nuestros estándares.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1474.02,
+   "fin": 1475.06,
+   "texto": "No te suma puntos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1475.12,
+   "fin": 1479.58,
+   "texto": "No te suma puntos porque esto se sale de nuestro circuito cerrado y entonces da igual que hayas hecho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1479.58,
+   "fin": 1485.28,
+   "texto": "como una maravilla en términos de contribuir al pensamiento, que como no encaja, pues...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1485.28,
+   "fin": 1489.74,
+   "texto": "Y una maravilla que se lee, porque volvemos al tema de antes de que a veces los académicos escriben",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1489.74,
+   "fin": 1492.66,
+   "texto": "para sí mismos y para sus otros tres colegas.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1493.2,
+   "fin": 1496.42,
+   "texto": "Y el hecho de que tu obra llegue a mucha gente parece que no cuenta tanto",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1496.42,
+   "fin": 1500.64,
+   "texto": "como que publiques en la revista que toca y que te den los puntos que toca.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1501.38,
+   "fin": 1510.32,
+   "texto": "Pues es una lógica muy perversa, porque se produjo la inversión,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1510.32,
+   "fin": 1515.56,
+   "texto": "para no decirlo de manera muy difícil, entre institución y función.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1515.76,
+   "fin": 1518.98,
+   "texto": "Hay determinadas instituciones que nacen con una función,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1518.98,
+   "fin": 1523.94,
+   "texto": "que en este caso es la academia producir conocimiento, ensayo y así,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1524.68,
+   "fin": 1529.48,
+   "texto": "y que con el desarrollo y la madurez de la propia institución se crea una nueva función",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1529.48,
+   "fin": 1532.88,
+   "texto": "que está destinada a asegurar la supervivencia de esa institución.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1533.28,
+   "fin": 1539.44,
+   "texto": "Y entonces lo que ocurre básicamente es que en lugar de publicar las cosas que uno,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1539.82,
+   "fin": 1542.68,
+   "texto": "de manera equivocada, porque en esto también nos podemos equivocar obviamente,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1543.04,
+   "fin": 1548.92,
+   "texto": "pues en lugar de publicar las cosas que a uno le interesan más y donde cree que está lo decisivo,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1548.98,
+   "fin": 1554.54,
+   "texto": "terminas publicando lo que más te ayuda a poder asegurar tu carrera.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1554.96,
+   "fin": 1561.02,
+   "texto": "Entonces es una perversión en que se ha invertido la función para la cual fue creada esa institución.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1562.48,
+   "fin": 1565.8600000000001,
+   "texto": "No sé, sospecho que no tiene mucho remedio.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1567.66,
+   "fin": 1573.22,
+   "texto": "Me gustaría ser un poco más optimista al respecto en esto y en muchas otras cosas,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1573.22,
+   "fin": 1574.3,
+   "texto": "pero la verdad es que no lo soy.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1574.3,
+   "fin": 1580.58,
+   "texto": "Nos pasa a veces, tenemos amigos que se están sacando el doctorado en filosofía y que están evidentemente desquiciados y desquiciadas",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1580.58,
+   "fin": 1586.3999999999999,
+   "texto": "y cuando vamos a verles a congresos y a charlas, ellos mismos se dan cuenta de que están repitiendo los patrones",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1586.3999999999999,
+   "fin": 1590.44,
+   "texto": "y la forma de comunicar de lo que han visto y lo que han aprendido y ellos mismos dicen",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1590.44,
+   "fin": 1594.56,
+   "texto": "es que no me gusta lo que estoy haciendo ni cómo lo estoy haciendo pero no tengo manera de salir de esta rueda.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1594.96,
+   "fin": 1603.1599999999999,
+   "texto": "Sí, además hay mucha gente que siente como frustración y realmente malestar al tener que performar ciertas cosas como los congresos o este tipo de cosas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1603.16,
+   "fin": 1609.64,
+   "texto": "O sea que creo que es verdad que hay malestar creciente, pero es verdad lo que dices de que es difícil romper con la rueda.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1610.5,
+   "fin": 1623.98,
+   "texto": "Pues sí, porque hay una serie de prebendas que te asegura la academia y no siempre es fácil, ni inteligente me atrevería a decir, renunciar a ellas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1623.98,
+   "fin": 1634.96,
+   "texto": "No soy un gran creyente en la idea de la academia como algo encerrado en sí mismo, que solo sirve para construir la propia carrera académica, etc.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1635.34,
+   "fin": 1637.7,
+   "texto": "Pero tampoco soy un gran creyente en la idea del autoboycott.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1639.02,
+   "fin": 1648.04,
+   "texto": "Creo que tampoco tiene mucho sentido y yo creo que lo ideal es buscar esta suerte de punto aristotélico entre estos dos extremos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1648.44,
+   "fin": 1651.5,
+   "texto": "Probablemente ahí es donde descansa la sabiduría práctica.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1651.5,
+   "fin": 1653.84,
+   "texto": "pero es difícil",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1653.84,
+   "fin": 1655.72,
+   "texto": "como a veces no",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1655.72,
+   "fin": 1658.18,
+   "texto": "autoboycotearte y a veces es muy difícil",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1658.18,
+   "fin": 1659.9,
+   "texto": "no performar algo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1659.9,
+   "fin": 1660.82,
+   "texto": "en lo que no crees",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1660.82,
+   "fin": 1664.02,
+   "texto": "en ese sentido la academia tiene la parte positiva",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1664.02,
+   "fin": 1665.68,
+   "texto": "que te entrena para el resto de",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1665.68,
+   "fin": 1668.5,
+   "texto": "para otros dominios de la vida en que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1668.5,
+   "fin": 1669.8,
+   "texto": "te ves obligado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1669.8,
+   "fin": 1672.22,
+   "texto": "a performar cosas en las que no terminas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1672.22,
+   "fin": 1674.04,
+   "texto": "de creer porque la alternativa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1674.04,
+   "fin": 1674.92,
+   "texto": "es pasar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1674.92,
+   "fin": 1677.48,
+   "texto": "al bando de",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1677.48,
+   "fin": 1678.9,
+   "texto": "Bartes y compañía",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1678.9,
+   "fin": 1680.64,
+   "texto": "civilmente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1680.64,
+   "fin": 1682.3000000000002,
+   "texto": "entonces",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1682.3000000000002,
+   "fin": 1684.64,
+   "texto": "digo, de todo se aprende algo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1684.64,
+   "fin": 1685.8600000000001,
+   "texto": "sí, es verdad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1685.8600000000001,
+   "fin": 1688.5600000000002,
+   "texto": "Paula y yo en la uni aprendimos a hacer exposiciones en clase",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1688.5600000000002,
+   "fin": 1690.0800000000002,
+   "texto": "que las hacíamos siempre juntas las dos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1690.0800000000002,
+   "fin": 1692.74,
+   "texto": "y estábamos la semana anterior enajenadas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1692.74,
+   "fin": 1694.18,
+   "texto": "pero a un nivel de enajenación",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1694.18,
+   "fin": 1696.8000000000002,
+   "texto": "en plan exagerado y ahora hacemos cosas delante de gente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1696.8000000000002,
+   "fin": 1697.3200000000002,
+   "texto": "todo el rato",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1697.3200000000002,
+   "fin": 1699.72,
+   "texto": "somos un Pokémon nuevo ahora",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1699.72,
+   "fin": 1701.5600000000002,
+   "texto": "porque estamos todo el rato hablando",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1701.5600000000002,
+   "fin": 1704.1000000000001,
+   "texto": "queremos callarnos ya la verdad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1704.1000000000001,
+   "fin": 1706.24,
+   "texto": "hemos estado mirando monasterios",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1706.24,
+   "fin": 1707.98,
+   "texto": "para ir de vacaciones",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1707.98,
+   "fin": 1710.22,
+   "texto": "hacer el podcast en monasterios",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1710.22,
+   "fin": 1711.26,
+   "texto": "No, no, no, a no hablar.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1711.26,
+   "fin": 1712.6000000000001,
+   "texto": "No, por Dios, a no hacer el podcast.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1712.8600000000001,
+   "fin": 1713.6200000000001,
+   "texto": "A voto de silencio.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1713.74,
+   "fin": 1715.66,
+   "texto": "¿Te imaginas hacer punzazonas para un grupo de monjas?",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1715.8,
+   "fin": 1717.2,
+   "texto": "Es que no saldría bien.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1717.38,
+   "fin": 1718.02,
+   "texto": "Oye, igual sí.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1718.42,
+   "fin": 1719.3,
+   "texto": "Yo tengo una tía monja.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1719.6000000000001,
+   "fin": 1719.8,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1720.56,
+   "fin": 1721.42,
+   "texto": "¿Tienes una tía monja?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1721.44,
+   "fin": 1722.02,
+   "texto": "Tengo una tía monja.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1722.06,
+   "fin": 1723.26,
+   "texto": "Pues vamos a decirle que escuche el...",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1723.26,
+   "fin": 1723.94,
+   "texto": "Una tía abuela monja.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1723.94,
+   "fin": 1726.28,
+   "texto": "A ver qué le parecen los chistes que hace su hija.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1726.54,
+   "fin": 1729.78,
+   "texto": "Su hija no, perdón, su sobrina, sobrina nieta.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1730.1200000000001,
+   "fin": 1732.16,
+   "texto": "Una monja con hijas es una historia muy interesante.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1732.24,
+   "fin": 1732.84,
+   "texto": "Sí, sí, sí.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1732.94,
+   "fin": 1733.46,
+   "texto": "Sí, sí.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1733.7,
+   "fin": 1734.04,
+   "texto": "Es verdad.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1734.28,
+   "fin": 1735.68,
+   "texto": "Eso se lo dejamos a las hijas de Felipe.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1735.98,
+   "fin": 1736.78,
+   "texto": "Un beso desde aquí.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1736.78,
+   "fin": 1737.96,
+   "texto": "que lo cuenta mejor.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 1738.62,
+   "fin": 1740.32,
+   "texto": "Entonces, por ir profundizando en algunos temas,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1740.54,
+   "fin": 1743.46,
+   "texto": "volviendo un poco a Marta Nussbaum para recoger esto que hemos contado,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1743.84,
+   "fin": 1745.62,
+   "texto": "en Las cosas como son y otras fantasías,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1745.84,
+   "fin": 1748.1399999999999,
+   "texto": "justo comentas este libro del que hemos estado hablando,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1748.66,
+   "fin": 1751.82,
+   "texto": "pero explicas que para Marta Nussbaum la novela ensancha",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1751.82,
+   "fin": 1754.26,
+   "texto": "nuestro entendimiento moral, lo que hemos dicho antes,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1754.26,
+   "fin": 1757.8999999999999,
+   "texto": "que abre nuevas ventanas a un nivel teórico,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1758.56,
+   "fin": 1761.7,
+   "texto": "pero tú crees que, igual ya no lo crees,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1762.16,
+   "fin": 1764.52,
+   "texto": "el Pau del pasado, cuando escribió el libro, creía,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1764.52,
+   "fin": 1771.76,
+   "texto": "que ensancha nuestra comprensión moral pero a un nivel como debería ser más intuitivo o más concreto.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1772.22,
+   "fin": 1773.86,
+   "texto": "Entonces, ¿podría explicarnos un poco esta idea?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1774.18,
+   "fin": 1778.96,
+   "texto": "¿Cómo se relaciona el nivel de abstracción y de concreción dentro de esto?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1779.52,
+   "fin": 1783.36,
+   "texto": "Bueno, pondré a mi abuela como ejemplo, que la uso siempre como ejemplo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1783.36,
+   "fin": 1787.4,
+   "texto": "Mi abuela era analfabeta, no sabía leer, no sabía escribir,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1788.36,
+   "fin": 1792.16,
+   "texto": "pero tenía un conocimiento moral mundano, ¿no?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1792.16,
+   "fin": 1797.44,
+   "texto": "que se proyectaba sobre algunos conceptos, pero sobre otros no.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1798.3000000000002,
+   "fin": 1799.28,
+   "texto": "¿A qué me refiero?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1799.98,
+   "fin": 1803.18,
+   "texto": "Si yo le preguntaba a mi abuela qué era una acción cruel,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1803.74,
+   "fin": 1806.66,
+   "texto": "ella me sabía describir perfectamente qué era una acción cruel.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1807.1000000000001,
+   "fin": 1809.22,
+   "texto": "Pero si yo le preguntaba a mi abuela qué es la justicia,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1810.8200000000002,
+   "fin": 1814.5,
+   "texto": "no tenía, digamos, no sé qué habría respondido,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1814.5,
+   "fin": 1816.7,
+   "texto": "o a lo mejor me habría respondido, no, es una acción cruel,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1817.14,
+   "fin": 1818.7,
+   "texto": "lo habría reducido a la idea de crueldad.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1818.7,
+   "fin": 1838.26,
+   "texto": "Y esto para mí sugiere que el conocimiento moral se encuentra en lo mundano, en aquello que incluso gente que no tiene los recursos intelectuales y cognitivos para articular grandes teorías ni grandes concepciones abstractas es capaz de identificar.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1838.26,
+   "fin": 1841.2,
+   "texto": "y que todo el...",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1841.2,
+   "fin": 1843.12,
+   "texto": "No todo, pero buena parte",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1843.12,
+   "fin": 1845.64,
+   "texto": "de este conocimiento moral abstracto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1845.64,
+   "fin": 1846.86,
+   "texto": "que tiene que ver con la idea de justicia,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1846.98,
+   "fin": 1849.08,
+   "texto": "con la idea de una teoría de la justicia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1849.08,
+   "fin": 1850.2,
+   "texto": "que es aún más abstracto,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1851.02,
+   "fin": 1853.12,
+   "texto": "es algo que se discute esencialmente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1853.12,
+   "fin": 1854.68,
+   "texto": "en seminarios académicos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1854.68,
+   "fin": 1857.68,
+   "texto": "a los que naturalmente nunca se llega a ningún acuerdo,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1858.46,
+   "fin": 1859.68,
+   "texto": "lo cual está bien",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1859.68,
+   "fin": 1861.46,
+   "texto": "porque eso justifica nuestro trabajo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1861.8,
+   "fin": 1863.6,
+   "texto": "Si resolviéramos eso nos quedaríamos sin trabajo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1864.48,
+   "fin": 1865.34,
+   "texto": "Y en ese sentido está bien,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1865.52,
+   "fin": 1866.68,
+   "texto": "pero en otro sentido está mal",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1866.68,
+   "fin": 1870.46,
+   "texto": "porque es posible, digo, esto es una pregunta abierta,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1870.54,
+   "fin": 1872.66,
+   "texto": "pero es posible que ahí no haya ningún tipo de conocimiento,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1873.04,
+   "fin": 1874.42,
+   "texto": "ni en una dirección ni en otra.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1874.8,
+   "fin": 1876.7,
+   "texto": "Pero donde sí sabemos que hay conocimiento",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1876.7,
+   "fin": 1879.72,
+   "texto": "es en estos conceptos como más mundanos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1879.72,
+   "fin": 1884.8400000000001,
+   "texto": "como qué es una acción cruel, qué es una acción piadosa,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1885.22,
+   "fin": 1889.72,
+   "texto": "qué es una traición, qué es una venganza.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1890.0600000000002,
+   "fin": 1892.6000000000001,
+   "texto": "En este tipo de conocimiento como más mundano",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1892.6000000000001,
+   "fin": 1895.78,
+   "texto": "probablemente ahí es donde está la acción.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1895.78,
+   "fin": 1908.84,
+   "texto": "Y yo creo que las novelas en general, probablemente la ficción en general, pero para reducir la discusión un poco, las novelas proporcionan conocimiento mundano.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1909.52,
+   "fin": 1921.92,
+   "texto": "No hay novelas sobre qué es la justicia, por lo menos que hayan tenido la misma recepción que ha tenido alguna novela sobre qué es la crueldad.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1921.92,
+   "fin": 1940.1200000000001,
+   "texto": "Y para mí esto sugiere que el conocimiento del amor, para decirlo como lo dice Nussbaum, tiene mucho más que ver con estas relaciones mundanas que tenemos los seres humanos y no tanto con las cosas que dicen los filósofos morales que es conocimiento moral.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1940.12,
+   "fin": 1962.02,
+   "texto": "Y yo creo que, a mí el libro de Nussbaum me gusta, pero creo que tiene, no diría ni que es una objeción, pero simplemente como que presupone toda una cosa acerca de qué es la moral, que la sitúa ahí en ese mundo abstracto al cual solo acceden los filósofos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1962.02,
+   "fin": 1963.96,
+   "texto": "y yo creo que no",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1963.96,
+   "fin": 1966.22,
+   "texto": "que si las novelas nos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1966.22,
+   "fin": 1968.12,
+   "texto": "descifran algo del mundo moral",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1968.12,
+   "fin": 1970.54,
+   "texto": "lo descifran al mismo nivel que mi abuela",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1970.54,
+   "fin": 1972.7,
+   "texto": "que era analfabeta, era capaz de entender",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1972.7,
+   "fin": 1973.86,
+   "texto": "total",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1973.86,
+   "fin": 1976.12,
+   "texto": "me ha recordado esto a los",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1976.12,
+   "fin": 1977.68,
+   "texto": "filósofos experimentales",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1977.68,
+   "fin": 1979.9,
+   "texto": "que son estas personas que han decidido",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1979.9,
+   "fin": 1982.24,
+   "texto": "que los filósofos tienen que ponerse como una bata",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1982.24,
+   "fin": 1984.02,
+   "texto": "de científico y salir al mundo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1984.02,
+   "fin": 1985.74,
+   "texto": "justo como en contra de esta cosa de",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1985.74,
+   "fin": 1988.26,
+   "texto": "por qué lo que dice un filósofo que es la justicia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1988.26,
+   "fin": 1990.32,
+   "texto": "tiene más relevancia que lo que decía tu abuela",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1990.32,
+   "fin": 1992.46,
+   "texto": "que era la justicia. Y me hace mucha gracia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1992.46,
+   "fin": 1994.28,
+   "texto": "la idea del filósofo científico,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1994.34,
+   "fin": 1996.6399999999999,
+   "texto": "como cómica en sí misma, pero ellos proponen",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1996.6399999999999,
+   "fin": 1998.86,
+   "texto": "justo salir a la calle y preguntar a la gente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1998.86,
+   "fin": 2000.84,
+   "texto": "qué es para ti la justicia.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2001.06,
+   "fin": 2002.74,
+   "texto": "Y hacen como encuestas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2002.74,
+   "fin": 2005.02,
+   "texto": "y luego hacen análisis cualitativo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2005.02,
+   "fin": 2006.62,
+   "texto": "o lo que sea, y así pretenden",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2006.62,
+   "fin": 2008.32,
+   "texto": "acercarse más a lo que es la justicia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2008.32,
+   "fin": 2011.24,
+   "texto": "de manera más concreta o más...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2011.24,
+   "fin": 2011.36,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2012.04,
+   "fin": 2013.82,
+   "texto": "Yo creo que eso está destinado a...",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2013.82,
+   "fin": 2016.6399999999999,
+   "texto": "Es una ridiculez. Yo hice el TFM sobre eso.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2016.6399999999999,
+   "fin": 2018.62,
+   "texto": "¿Ah, sí? Yo en una época también",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2018.62,
+   "fin": 2019.56,
+   "texto": "me interesó",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2019.56,
+   "fin": 2022.3799999999999,
+   "texto": "leer sobre eso.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2023.44,
+   "fin": 2024.6799999999998,
+   "texto": "Porque siento que eran",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2024.6799999999998,
+   "fin": 2027.1799999999998,
+   "texto": "como una suerte de experimentos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2027.56,
+   "fin": 2029.34,
+   "texto": "algunos de ellos francamente divertidos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2029.6399999999999,
+   "fin": 2031.5,
+   "texto": "pero te dabas cuenta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2031.5,
+   "fin": 2033.0,
+   "texto": "que no tenía absolutamente nada que ver",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2033.0,
+   "fin": 2035.24,
+   "texto": "con lo que la gente normalmente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2035.24,
+   "fin": 2039.32,
+   "texto": "cree que es moral o inmoral.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2039.72,
+   "fin": 2041.4199999999998,
+   "texto": "Porque a nadie lo encierran en un cuarto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2041.4199999999998,
+   "fin": 2042.46,
+   "texto": "y le preguntan...",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2042.46,
+   "fin": 2044.36,
+   "texto": "Está este libro muy famoso de Jonathan Haidt,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2044.4199999999998,
+   "fin": 2046.5,
+   "texto": "no sé si lo leyeron, este psicólogo moral,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2046.5,
+   "fin": 2053.54,
+   "texto": "que agarraba a un montón de gente y los encerraba en una habitación",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2053.54,
+   "fin": 2056.24,
+   "texto": "y entonces les planteaba un problema moral.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2057.44,
+   "fin": 2063.28,
+   "texto": "Por ejemplo, el más famoso, porque también era muy llamativo,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2063.48,
+   "fin": 2067.94,
+   "texto": "era ¿por qué es inmoral tener sexo con un pollo muerto?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2069.18,
+   "fin": 2070.3,
+   "texto": "Se hacía esta pregunta.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2071.12,
+   "fin": 2076.36,
+   "texto": "Y entonces había gente muy hábil en la argumentación y en la discusión",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2076.36,
+   "fin": 2084.2200000000003,
+   "texto": "que, digamos, contraargumentaba las intuiciones morales muy básicas que tenía todo el mundo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2084.2200000000003,
+   "fin": 2088.38,
+   "texto": "de por qué es inmoral tener sexo con un pollo muerto.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2088.94,
+   "fin": 2091.1,
+   "texto": "Y entonces decían, no, pero está muerto, no puede sufrir.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2092.08,
+   "fin": 2096.6200000000003,
+   "texto": "Como que les daba un montón de razones para desmontar esas intuiciones, ¿no?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2098.6200000000003,
+   "fin": 2104.52,
+   "texto": "Y yo lo que pensaba es, bueno, está bien, es un sketch divertido probablemente,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2104.52,
+   "fin": 2108.04,
+   "texto": "¿Pero qué mierdas tiene que ver esto con el mundo real?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2108.4,
+   "fin": 2111.32,
+   "texto": "Porque en el mundo real, ¿quién se quiere follar un pollo muerto?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2111.54,
+   "fin": 2115.74,
+   "texto": "O sea, ¿qué nos dice eso acerca de la moral?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2118.08,
+   "fin": 2122.02,
+   "texto": "Pero eso se puso muy de moda, en particular en el mundo anglosajón,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2122.64,
+   "fin": 2126.22,
+   "texto": "como creyendo que de ahí íbamos a extraer un gran conocimiento moral.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2126.32,
+   "fin": 2131.4,
+   "texto": "Y era, abandonen esa idea ya y pónganse a leer a Tolstoy, a Jairis Murdoch,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2131.4,
+   "fin": 2136.98,
+   "texto": "que además tienen otro tipo de perversiones, pero no esa, que es particularmente asquerosa.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2137.14,
+   "fin": 2141.4,
+   "texto": "Sí, además me encanta, yo leí también algunas de las encuestas estas y era como,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2141.7000000000003,
+   "fin": 2144.34,
+   "texto": "¿qué es el conocimiento? A, no sé qué, B, ¿sabes?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2145.1600000000003,
+   "fin": 2147.7200000000003,
+   "texto": "Intentar responder a estas preguntas a través de la gente que te dijera,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2147.84,
+   "fin": 2151.28,
+   "texto": "del 0 al 10 puntúa si esto es una creencia verdadera, ¿sabes?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2151.28,
+   "fin": 2156.9,
+   "texto": "Y también es como un mal camino de ida y vuelta, porque tú intentas ir a lo que piensa la gente,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 2156.9,
+   "fin": 2162.3,
+   "texto": "es decir, ir a lo cotidiano y acabas haciendo preguntas a las que no nos tenemos que enfrentar realmente en el día a día.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 2162.54,
+   "fin": 2164.88,
+   "texto": "Y preguntas que no apelan a la realidad de la gente.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2165.36,
+   "fin": 2167.98,
+   "texto": "Sí, sí, total. En fin, los filósofos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2169.2400000000002,
+   "fin": 2172.84,
+   "texto": "También me acordaba de una idea de Iris Murdo cuando hablábamos de esto,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2172.98,
+   "fin": 2178.6600000000003,
+   "texto": "del mundo filosófico purificado, ordenado, de estas grandes preguntas y luego la realidad,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2179.12,
+   "fin": 2184.12,
+   "texto": "porque tenía una idea que es que los individuos son imperfectos, cómicos, sorprendentes",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2184.12,
+   "fin": 2189.3199999999997,
+   "texto": "y me hizo mucha gracia que decía, no vuelan directamente hacia el bien, como esta idea de Platón,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2189.68,
+   "fin": 2195.8399999999997,
+   "texto": "sino que hacen y dicen cosas mundanas y absurdas, como esta reivindicación del amor humano o lo humano,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2196.12,
+   "fin": 2201.1,
+   "texto": "que incluye lo absurdo, lo cotidiano, lo divertido, las vidas reales, la verdad incómoda,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2201.16,
+   "fin": 2206.7599999999998,
+   "texto": "que es una cosa que se acerca mucho más a lo que somos que quizá preguntarse por la existencia, que está genial, la verdad.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2207.2599999999998,
+   "fin": 2211.9,
+   "texto": "Nosotros hemos empezado a leer a Murdoch medio en serio, si es que eso es algo que se hace este año.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 2211.9,
+   "fin": 2214.6,
+   "texto": "Bueno, Murdoch, perdón, que no hemos dicho quién es.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2215.1800000000003,
+   "fin": 2218.54,
+   "texto": "Como Pau es su reencarnación, hemos dado por hecho que ya no hacía falta.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2218.9,
+   "fin": 2220.94,
+   "texto": "Te ponemos una peluca y yo creo que das la talla.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2221.48,
+   "fin": 2227.1600000000003,
+   "texto": "Me siento muy hermanado con Iris Murdoch porque era una persona que invertía muy poco tiempo en peinarse.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2227.88,
+   "fin": 2229.56,
+   "texto": "Eso me siento muy cercano a ella.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2230.1600000000003,
+   "fin": 2235.28,
+   "texto": "Bueno, es una gran filósofa del siglo XX. Por desgracia está muerta.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2235.54,
+   "fin": 2236.8,
+   "texto": "Esta estaría bien viva, la verdad.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2237.96,
+   "fin": 2238.46,
+   "texto": "Y novelista.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2238.46,
+   "fin": 2239.26,
+   "texto": "Y novelista.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2239.38,
+   "fin": 2241.36,
+   "texto": "Bueno, defendemos que es lo mismo hoy.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 2241.36,
+   "fin": 2244.34,
+   "texto": "Sí, como el cruce perfecto de esto que estamos hablando es Iris Murdoch.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 2244.38,
+   "fin": 2249.5,
+   "texto": "Sí, y queríamos que nos contaras un poco de tu amor y de tu obsesión por Iris Murdoch.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 2250.2200000000003,
+   "fin": 2255.58,
+   "texto": "Pues en realidad es un amor tardío, no fue un amor adolescente.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2257.92,
+   "fin": 2260.8,
+   "texto": "Pero ella tiene algo que a mí me gusta mucho,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2260.8,
+   "fin": 2266.42,
+   "texto": "que es que hay mejores novelistas que Iris Murdoch",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2266.42,
+   "fin": 2270.8,
+   "texto": "y hay mejores filósofos y filósofas que Iris Murdoch.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2270.8,
+   "fin": 2273.42,
+   "texto": "pero no hay nadie, al menos yo no he conseguido leer a nadie",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2273.42,
+   "fin": 2275.3,
+   "texto": "que reúna ambas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2275.3,
+   "fin": 2277.3,
+   "texto": "cualidades, ser filósofo y ser",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2277.3,
+   "fin": 2279.2000000000003,
+   "texto": "novelista, al mismo nivel",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2279.2000000000003,
+   "fin": 2280.8,
+   "texto": "al que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2280.8,
+   "fin": 2282.6600000000003,
+   "texto": "ella escribía",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2282.6600000000003,
+   "fin": 2283.7000000000003,
+   "texto": "y",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2283.7000000000003,
+   "fin": 2287.0800000000004,
+   "texto": "creo que tiene",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2287.0800000000004,
+   "fin": 2287.98,
+   "texto": "esta virtud",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2287.98,
+   "fin": 2291.2200000000003,
+   "texto": "que por ejemplo, no sé, creo que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2291.2200000000003,
+   "fin": 2293.5,
+   "texto": "en algún momento hemos hablado de Thomas Mann y la montaña mágica",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2293.5,
+   "fin": 2295.5800000000004,
+   "texto": "bueno, Inés está obsesionada",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 2295.5800000000004,
+   "fin": 2297.1600000000003,
+   "texto": "con Thomas Mann, o sea, podrías ser tú",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 2297.1600000000003,
+   "fin": 2297.6600000000003,
+   "texto": "la reencarnación de Thomas Mann",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 2297.6600000000003,
+   "fin": 2300.28,
+   "texto": "¿sabes que me han regalado la montaña mágica en holandés?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2300.8,
+   "fin": 2302.4,
+   "texto": "Porque estoy haciendo una colección.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 2302.5,
+   "fin": 2306.38,
+   "texto": "Inés colecciona montañas mágicas, así que si hay una edición mexicana y alguien se la da,",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 2306.86,
+   "fin": 2309.7000000000003,
+   "texto": "la haríais la persona más feliz del mundo. Este es el nivel de friquismo que tenemos.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 2309.7200000000003,
+   "fin": 2312.2000000000003,
+   "texto": "En Barcelona la estuve buscando en catalán y no la encontré.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2312.42,
+   "fin": 2312.96,
+   "texto": "Ah, pues existe.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2312.96,
+   "fin": 2314.36,
+   "texto": "Pero existe, la tengo que encontrar.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2315.3,
+   "fin": 2319.6000000000004,
+   "texto": "Pues, por ejemplo, Thomas Mann hacía como novela filosófica,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2320.1800000000003,
+   "fin": 2326.84,
+   "texto": "pero él partía, digamos, de la filosofía e intentaba buscar tramas muy sesudas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2326.84,
+   "fin": 2331.1800000000003,
+   "texto": "A mí me gusta mucho cuando era más joven y más intensito, me parecía lo máximo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2331.7000000000003,
+   "fin": 2340.6600000000003,
+   "texto": "Ahora me cuesta un poco más soplarme 800 páginas de señores en un balneario hablando de cosas muy solemnes.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2341.88,
+   "fin": 2343.02,
+   "texto": "Ha hecho 100 años justo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2343.5,
+   "fin": 2344.1000000000004,
+   "texto": "Ha hecho 100 años.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2344.1000000000004,
+   "fin": 2345.32,
+   "texto": "Cumpleaños, sí, sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2345.54,
+   "fin": 2346.08,
+   "texto": "100 años.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2347.3,
+   "fin": 2347.82,
+   "texto": "Felicidades.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2348.2200000000003,
+   "fin": 2349.02,
+   "texto": "Felicidades, Tommy.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2349.1000000000004,
+   "fin": 2349.5,
+   "texto": "Desde aquí.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 2350.1000000000004,
+   "fin": 2351.1400000000003,
+   "texto": "No, la montaña mágica.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 2351.32,
+   "fin": 2352.42,
+   "texto": "La publicación de la montaña.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2352.6800000000003,
+   "fin": 2353.96,
+   "texto": "Bueno, pero la hizo Tomás Maltos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2354.26,
+   "fin": 2355.1200000000003,
+   "texto": "Felicidades, Tommy.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2355.1800000000003,
+   "fin": 2355.7000000000003,
+   "texto": "Tommy, Tommy.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 2355.7,
+   "fin": 2360.96,
+   "texto": "y entonces a él se le notaba más como que quería ser como más filósofo,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2361.06,
+   "fin": 2364.8199999999997,
+   "texto": "y como que su pista de aterrizaje era la novela,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2364.8599999999997,
+   "fin": 2370.0,
+   "texto": "pero que como que quería ser como muy solemne y decir cosas muy importantes.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2370.46,
+   "fin": 2373.08,
+   "texto": "Y el camino de Iris Murdoch es el inverso,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2373.08,
+   "fin": 2379.08,
+   "texto": "ella parte de tramas donde hay bajísimas pasiones humanas,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2379.8199999999997,
+   "fin": 2385.24,
+   "texto": "las desarrolla y poco a poco se va filtrando a través de esas tramas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2385.24,
+   "fin": 2392.72,
+   "texto": "esos amores absolutamente imposibles, absurdos todos, se va filtrando un montón de ideas filosóficas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2393.7,
+   "fin": 2402.8999999999996,
+   "texto": "Y entonces eso, claro, en el momento que uno lo descubre y tiene esta manera, lo que yo dije, como el conocimiento moral mundano,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2403.4799999999996,
+   "fin": 2412.4399999999996,
+   "texto": "cree que ahí es donde está el conocimiento y las cosas que importan, pues claro, es una infatuation total y absoluta desde el minuto uno.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2412.44,
+   "fin": 2414.62,
+   "texto": "además la propia figura",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2414.62,
+   "fin": 2416.0,
+   "texto": "de ella es",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2416.0,
+   "fin": 2418.58,
+   "texto": "pues completamente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2418.58,
+   "fin": 2420.54,
+   "texto": "fascinante, entonces habéis visto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2420.54,
+   "fin": 2421.38,
+   "texto": "la película esta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2421.38,
+   "fin": 2424.16,
+   "texto": "hay una película, un biopic",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2424.16,
+   "fin": 2425.7000000000003,
+   "texto": "como dicen los gringos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2425.7000000000003,
+   "fin": 2428.7000000000003,
+   "texto": "en que sale ella de joven",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2428.7000000000003,
+   "fin": 2430.7400000000002,
+   "texto": "y de mayor, de joven es Kate Winslet",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2430.7400000000002,
+   "fin": 2432.4,
+   "texto": "y de mayor es",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2432.4,
+   "fin": 2434.68,
+   "texto": "creo que es Judi Dench, ella es de mayor",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2434.68,
+   "fin": 2436.46,
+   "texto": "la película es regular",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2436.46,
+   "fin": 2438.02,
+   "texto": "pero ellas dos son",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2438.02,
+   "fin": 2439.88,
+   "texto": "haciendo de Iris Mordor",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2439.88,
+   "fin": 2443.04,
+   "texto": "muy linda, muy conmovedora",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2443.04,
+   "fin": 2444.34,
+   "texto": "la tenemos que ver",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2444.34,
+   "fin": 2446.82,
+   "texto": "igual pasamos al lector",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2446.82,
+   "fin": 2448.94,
+   "texto": "porque es que nuestros guiones",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2448.94,
+   "fin": 2450.62,
+   "texto": "no son para durar 50 minutos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2450.62,
+   "fin": 2453.26,
+   "texto": "y claro, vamos a ceñirnos a la organización",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2453.26,
+   "fin": 2454.32,
+   "texto": "porque está ahí Giselle mirándonos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2454.32,
+   "fin": 2456.12,
+   "texto": "tenéis que ir a menos 10, chicas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2456.12,
+   "fin": 2458.6,
+   "texto": "igual podemos hablar, además ya que tenemos aquí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2458.6,
+   "fin": 2460.98,
+   "texto": "al gobierno físicamente personificado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2460.98,
+   "fin": 2461.8,
+   "texto": "en personas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2461.8,
+   "fin": 2463.76,
+   "texto": "personificado en personas está genial",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2463.76,
+   "fin": 2467.2000000000003,
+   "texto": "tenemos un tema que nos mata mucho la cabeza últimamente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2467.2000000000003,
+   "fin": 2468.82,
+   "texto": "que nosotros hacemos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2468.82,
+   "fin": 2471.7000000000003,
+   "texto": "clubes de lectura, muchos, y talleres literarios.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2472.32,
+   "fin": 2474.28,
+   "texto": "Por cierto, hemos hecho uno de Cristina Sánchez Andrade,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2474.4,
+   "fin": 2476.6600000000003,
+   "texto": "que la vemos en el desayuno y nos da vergüenza decírselo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2476.7400000000002,
+   "fin": 2477.52,
+   "texto": "No sé si está por aquí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2477.6800000000003,
+   "fin": 2479.94,
+   "texto": "Que alguien se lo diga a ella, por nosotras, por favor.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2479.96,
+   "fin": 2480.9,
+   "texto": "Nos da vergüenza abordarla.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2481.2200000000003,
+   "fin": 2483.54,
+   "texto": "Pero bueno, el caso, que sale mucho esta cosa,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2483.88,
+   "fin": 2486.42,
+   "texto": "por ejemplo, leímos El príncipe negro de Iris Murdoch",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2486.42,
+   "fin": 2488.1400000000003,
+   "texto": "y había muchas personas que nos dijeron",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2488.1400000000003,
+   "fin": 2490.7000000000003,
+   "texto": "no le he podido acabar porque no soporto al personaje,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2491.1600000000003,
+   "fin": 2494.2400000000002,
+   "texto": "porque es moralmente horrible y porque no lo soporto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2494.2400000000002,
+   "fin": 2495.06,
+   "texto": "y lo he tenido que dejar.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2495.4,
+   "fin": 2497.42,
+   "texto": "Y yo leí un tuit una vez, que me sabe muy mal",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2497.42,
+   "fin": 2499.52,
+   "texto": "porque lo cito mucho y no lo he encontrado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2499.52,
+   "fin": 2501.04,
+   "texto": "entonces no puedo citarlo, que decía",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2501.04,
+   "fin": 2503.56,
+   "texto": "si las ficciones tienen que ser moralmente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2503.56,
+   "fin": 2505.28,
+   "texto": "perfectas, que las haga el gobierno",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2505.28,
+   "fin": 2507.76,
+   "texto": "por eso lo del gobierno",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2507.76,
+   "fin": 2509.46,
+   "texto": "y entonces me parece un tema interesante",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2509.46,
+   "fin": 2511.48,
+   "texto": "que las haga el ministro de cultura",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2511.48,
+   "fin": 2512.98,
+   "texto": "el ministro de cultura, porque",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2512.98,
+   "fin": 2514.94,
+   "texto": "hacer las ficciones con sus propias manos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2514.94,
+   "fin": 2517.08,
+   "texto": "entonces es esta idea como de",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2517.08,
+   "fin": 2519.48,
+   "texto": "pueden las ficciones ser aberrantes",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2519.48,
+   "fin": 2521.04,
+   "texto": "pueden presentarnos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2521.04,
+   "fin": 2523.06,
+   "texto": "también hay, no sé, ahora va a salir una",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2523.06,
+   "fin": 2525.0,
+   "texto": "una peli de Albert Serra",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2525.0,
+   "fin": 2527.12,
+   "texto": "creo que es, también, que sigue la vida",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2527.12,
+   "fin": 2528.8399999999997,
+   "texto": "de un torero y estas cosas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2528.94,
+   "fin": 2532.92,
+   "texto": "Y hay muchas personas que consideran que ya de partida es inmoral",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2532.92,
+   "fin": 2535.38,
+   "texto": "el hecho de que esta ficción exista o de plantearla.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2535.8199999999997,
+   "fin": 2537.7999999999997,
+   "texto": "O eso, como personajes aberrantes.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2538.04,
+   "fin": 2540.2,
+   "texto": "¿Qué crees que hace esto?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2540.2,
+   "fin": 2543.54,
+   "texto": "¿Esta versión como las ficciones que no están hechas por el gobierno?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2543.58,
+   "fin": 2546.14,
+   "texto": "Y este decir, no empatizo, por tanto no lo puedo leer.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 2546.54,
+   "fin": 2547.52,
+   "texto": "¿Hace falta empatizar?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2548.6,
+   "fin": 2552.02,
+   "texto": "¿Hace falta empatizar? Diría que sí,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2552.2799999999997,
+   "fin": 2554.94,
+   "texto": "pero todo depende de qué quiera decir empatizar.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2554.94,
+   "fin": 2558.82,
+   "texto": "últimamente estoy leyendo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2558.82,
+   "fin": 2560.66,
+   "texto": "siempre me ha gustado, pero ahora estoy leyéndolo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2560.66,
+   "fin": 2561.54,
+   "texto": "desde el principio",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2561.54,
+   "fin": 2564.68,
+   "texto": "a John Maxwell",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2564.68,
+   "fin": 2566.6,
+   "texto": "Koetzi, al surafricano",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2566.6,
+   "fin": 2567.06,
+   "texto": "el mejor",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2567.06,
+   "fin": 2570.98,
+   "texto": "y me gusta mucho, por una cosa que estoy trabajando",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2570.98,
+   "fin": 2572.7000000000003,
+   "texto": "y lo estoy leyendo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2572.7000000000003,
+   "fin": 2574.8,
+   "texto": "todo, y no hay una puta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2574.8,
+   "fin": 2576.28,
+   "texto": "novela de Koetzi",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2576.28,
+   "fin": 2578.84,
+   "texto": "que sea reconfortante, es que no hay",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2578.84,
+   "fin": 2580.94,
+   "texto": "una, todas terminas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2580.94,
+   "fin": 2583.04,
+   "texto": "uno, digo, cultiva",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2583.04,
+   "fin": 2584.58,
+   "texto": "aunque sea muy fantasioso",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2584.58,
+   "fin": 2586.7799999999997,
+   "texto": "la idea de cuando termine un libro",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2586.7799999999997,
+   "fin": 2588.94,
+   "texto": "de alguna manera me voy a reconciliar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2588.94,
+   "fin": 2590.64,
+   "texto": "con la condición humana. Bueno, pues",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2590.64,
+   "fin": 2592.94,
+   "texto": "este cabrón ni una, ni una.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2593.14,
+   "fin": 2594.86,
+   "texto": "Tiene como 25 y todas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2594.86,
+   "fin": 2596.92,
+   "texto": "terminas hecho polvo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2596.92,
+   "fin": 2598.5,
+   "texto": "de la bajeza",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2598.5,
+   "fin": 2600.62,
+   "texto": "de la condición humana. Eso es lo que hay que hacer",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2600.62,
+   "fin": 2602.7799999999997,
+   "texto": "para que te den el Nobel, destrozar al lector",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 2602.7799999999997,
+   "fin": 2603.9,
+   "texto": "repetidamente.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 2604.84,
+   "fin": 2606.58,
+   "texto": "Y entonces uno termina como un poco",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2606.58,
+   "fin": 2608.92,
+   "texto": "desesperado, ¿no? Pero un tiempo después",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2608.92,
+   "fin": 2610.6,
+   "texto": "empieza a pensar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2610.6,
+   "fin": 2612.52,
+   "texto": "otra vez en esas lecturas,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2612.52,
+   "fin": 2614.36,
+   "texto": "en esas novelas, en esas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2614.36,
+   "fin": 2616.6400000000003,
+   "texto": "tramas, en lo que está en esos libros",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2616.6400000000003,
+   "fin": 2617.98,
+   "texto": "y poco a poco",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2617.98,
+   "fin": 2620.7000000000003,
+   "texto": "por mecanismos, no sé si secretos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2620.7000000000003,
+   "fin": 2622.54,
+   "texto": "pero claramente indirectos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2622.54,
+   "fin": 2624.52,
+   "texto": "y tal vez inconscientes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2624.52,
+   "fin": 2626.76,
+   "texto": "empieza a descubrir",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2626.76,
+   "fin": 2628.1400000000003,
+   "texto": "tiempo después cosas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2628.1400000000003,
+   "fin": 2629.6200000000003,
+   "texto": "en esas novelas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2629.6200000000003,
+   "fin": 2631.6400000000003,
+   "texto": "que muy poco a poco",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2631.6400000000003,
+   "fin": 2634.38,
+   "texto": "lo reconcilian con la condición humana",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2634.38,
+   "fin": 2635.1200000000003,
+   "texto": "y ahí es donde dices",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2635.1200000000003,
+   "fin": 2636.82,
+   "texto": "¡ah! ¡ah!",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2637.08,
+   "fin": 2639.32,
+   "texto": "esto es lo que este tipo pretendía",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2639.32,
+   "fin": 2641.54,
+   "texto": "no un efecto inmediato",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2641.54,
+   "fin": 2642.38,
+   "texto": "como",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2642.38,
+   "fin": 2644.5,
+   "texto": "se presupone",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2644.5,
+   "fin": 2647.0,
+   "texto": "todos aquellos que le piden",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2647.0,
+   "fin": 2649.76,
+   "texto": "¿qué aplicación práctica tiene la literatura?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2649.96,
+   "fin": 2651.56,
+   "texto": "como si fuera un manual de instrucciones",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2651.56,
+   "fin": 2652.52,
+   "texto": "de la lavadora",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2652.52,
+   "fin": 2655.7000000000003,
+   "texto": "ninguna, y esto hay que ya",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2655.7000000000003,
+   "fin": 2657.26,
+   "texto": "por lo menos yo ya",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2657.26,
+   "fin": 2658.58,
+   "texto": "hay que ser como",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2658.58,
+   "fin": 2660.92,
+   "texto": "ser polite con esto y decir",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2660.92,
+   "fin": 2662.92,
+   "texto": "no tiene absolutamente ninguna aplicación práctica",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2662.92,
+   "fin": 2664.96,
+   "texto": "en ese sentido que a ti te interesa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2664.96,
+   "fin": 2667.84,
+   "texto": "no te va a dar ninguna instrucción, no te va a hacer ninguna guía",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2667.84,
+   "fin": 2670.1600000000003,
+   "texto": "para tu día a día",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2670.1600000000003,
+   "fin": 2671.9,
+   "texto": "inmediatamente después de",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2671.9,
+   "fin": 2679.28,
+   "texto": "leerlo. Si tiene algún efecto transformador la literatura es por vías indirectas, insospechadas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2679.28,
+   "fin": 2685.44,
+   "texto": "y que se revelan en las circunstancias más inesperadas. En un momento, algún día, uno piensa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2685.44,
+   "fin": 2693.0,
+   "texto": "esto que me acaba de ocurrir o esto que yo acabo de propiciar, ahora lo entiendo. Porque en algún",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2693.0,
+   "fin": 2700.2000000000003,
+   "texto": "momento, en alguna novela, leí algo que tiempo más tarde se reveló como algo que tenía que ver con",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2700.2,
+   "fin": 2701.04,
+   "texto": "con mi vida, ¿no?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2701.7999999999997,
+   "fin": 2704.24,
+   "texto": "Y digo, no, no he visto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2704.24,
+   "fin": 2705.8799999999997,
+   "texto": "la película de Albert Serra,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2707.12,
+   "fin": 2707.56,
+   "texto": "pero",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2707.56,
+   "fin": 2709.8999999999996,
+   "texto": "he visto otras de Albert Serra",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2709.8999999999996,
+   "fin": 2712.3599999999997,
+   "texto": "y también, digamos, su tendencia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2712.3599999999997,
+   "fin": 2714.3599999999997,
+   "texto": "es a no",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2714.3599999999997,
+   "fin": 2716.06,
+   "texto": "sentirte muy reconfortado cuando",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2716.06,
+   "fin": 2717.6,
+   "texto": "terminas de ver las pelis, digamos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2718.14,
+   "fin": 2719.06,
+   "texto": "Pero en algún punto,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2719.8599999999997,
+   "fin": 2722.4399999999996,
+   "texto": "y es misterioso y supongo que por eso es interesante,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2723.0,
+   "fin": 2724.2599999999998,
+   "texto": "la literatura, o en este",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2724.2599999999998,
+   "fin": 2725.9399999999996,
+   "texto": "caso el cine, se revela como algo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2725.9399999999996,
+   "fin": 2728.2999999999997,
+   "texto": "que te permite ubicarte mejor",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2728.3,
+   "fin": 2730.38,
+   "texto": "cuál es tu lugar en el mundo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2730.38,
+   "fin": 2732.1000000000004,
+   "texto": "sobre todo en ese sentido",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2732.1000000000004,
+   "fin": 2733.52,
+   "texto": "del conocimiento mundano",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2733.52,
+   "fin": 2736.34,
+   "texto": "hay cosas que uno",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2736.34,
+   "fin": 2738.32,
+   "texto": "no habría pensado que eran acciones",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2738.32,
+   "fin": 2740.52,
+   "texto": "crueles en un",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2740.52,
+   "fin": 2742.5800000000004,
+   "texto": "momento y que las lee",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2742.5800000000004,
+   "fin": 2744.36,
+   "texto": "en una novela y tiempo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2744.36,
+   "fin": 2746.32,
+   "texto": "más tarde se da cuenta, a lo mejor",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2746.32,
+   "fin": 2747.76,
+   "texto": "en esto yo estaba equivocado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2747.76,
+   "fin": 2750.5800000000004,
+   "texto": "pero si lo que se busca",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2750.5800000000004,
+   "fin": 2752.42,
+   "texto": "es la aplicación práctica",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2752.42,
+   "fin": 2754.54,
+   "texto": "y tenemos el",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2754.54,
+   "fin": 2755.6000000000004,
+   "texto": "manual de instrucciones",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2755.6,
+   "fin": 2759.02,
+   "texto": "y completamente destinado al fracaso.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2759.2799999999997,
+   "fin": 2762.68,
+   "texto": "Además es una concepción del espectador o del lector o del oyente,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2763.38,
+   "fin": 2768.94,
+   "texto": "es terrible pensar que porque veas a un personaje malo moralmente o cruel,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2769.14,
+   "fin": 2772.92,
+   "texto": "luego tú vas a imitarlo necesariamente, que es alguno de los argumentos que se proponen,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2773.02,
+   "fin": 2774.46,
+   "texto": "de no, es que esto no enseña bien.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2774.86,
+   "fin": 2777.9,
+   "texto": "Es como, bueno, primero, igual esa ficción no ha sido hecha para enseñar a nadie,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2777.9,
+   "fin": 2782.48,
+   "texto": "y segundo, tendremos la capacidad moral de decir, claro,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2782.48,
+   "fin": 2785.62,
+   "texto": "como que no de repente te vas a convertir en esa persona",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2785.62,
+   "fin": 2787.32,
+   "texto": "por ver una...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2787.32,
+   "fin": 2789.64,
+   "texto": "Una cosa que siempre me ha resultado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2789.64,
+   "fin": 2791.6,
+   "texto": "perplejo es en este juego",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2791.6,
+   "fin": 2793.6,
+   "texto": "de quién es el responsable de las",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2793.6,
+   "fin": 2794.9,
+   "texto": "maldades que ocurren en el mundo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2794.9,
+   "fin": 2797.26,
+   "texto": "cuando alguien",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2797.26,
+   "fin": 2799.34,
+   "texto": "alega que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2799.34,
+   "fin": 2801.62,
+   "texto": "imita un libro",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2801.62,
+   "fin": 2803.52,
+   "texto": "o como por ejemplo en el",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2803.52,
+   "fin": 2805.52,
+   "texto": "famoso libro este de Hannah Arendt de Eichmann",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2805.52,
+   "fin": 2807.52,
+   "texto": "en Jerusalén cuando Eichmann",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2807.52,
+   "fin": 2809.68,
+   "texto": "invoca el imperativo categórico",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2809.68,
+   "fin": 2811.64,
+   "texto": "de Kant, yo no soy un gran fan",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2811.64,
+   "fin": 2813.52,
+   "texto": "de Kant, pero atribuirle",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2813.52,
+   "fin": 2814.8799999999997,
+   "texto": "a Kant el holocausto,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2815.44,
+   "fin": 2817.2999999999997,
+   "texto": "bueno, a lo mejor ahí nos hemos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2817.2999999999997,
+   "fin": 2819.7799999999997,
+   "texto": "hecho 7.000",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2819.7799999999997,
+   "fin": 2822.06,
+   "texto": "pasos injustificados.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2822.8599999999997,
+   "fin": 2823.7799999999997,
+   "texto": "Y lo que yo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2823.7799999999997,
+   "fin": 2826.0,
+   "texto": "pensaba, en este juego de responsabilidades,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2826.58,
+   "fin": 2827.72,
+   "texto": "una cosa que me deja perplejo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2827.72,
+   "fin": 2829.5,
+   "texto": "es por qué se",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2829.5,
+   "fin": 2831.44,
+   "texto": "acusa a Kant",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2831.44,
+   "fin": 2833.3599999999997,
+   "texto": "en este caso y no directamente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2833.3599999999997,
+   "fin": 2835.2799999999997,
+   "texto": "a Eichmann. ¿Por qué se acusa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2835.2799999999997,
+   "fin": 2837.2,
+   "texto": "a Nabokov y no",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2837.2,
+   "fin": 2838.8199999999997,
+   "texto": "al tipo que no sabe leer",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2838.8199999999997,
+   "fin": 2841.2799999999997,
+   "texto": "Lolita, por ejemplo? ¿Por qué se acusa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2841.28,
+   "fin": 2850.02,
+   "texto": "a Coetzee y no al tipo racista que lee Disgrace en un sentido que claramente no se le puede",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2850.02,
+   "fin": 2856.32,
+   "texto": "atribuir a Coetzee. Entonces, en este juego de responsabilidades, atribuir la responsabilidad",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2856.32,
+   "fin": 2862.0,
+   "texto": "del lado del autor y no del lado del lector es una cosa por lo menos extraña.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2862.1400000000003,
+   "fin": 2867.1800000000003,
+   "texto": "Sí, perversa. Y eso de entender a los lectores como personas inútiles y sin ningún tipo",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 2867.1800000000003,
+   "fin": 2870.5800000000004,
+   "texto": "de capacidad crítica ni de discernir lo que están leyendo.",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 2870.58,
+   "fin": 2871.7599999999998,
+   "texto": "hay que acabar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2871.7599999999998,
+   "fin": 2873.6,
+   "texto": "hay gente mirando relojes",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2873.6,
+   "fin": 2876.16,
+   "texto": "el del gobierno haciendo así",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2876.16,
+   "fin": 2878.7,
+   "texto": "hemos invitado a Pau",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2878.7,
+   "fin": 2880.74,
+   "texto": "a que sea él el que cierre",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2880.74,
+   "fin": 2882.92,
+   "texto": "siempre cerramos el podcast leyendo una cita",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2882.92,
+   "fin": 2884.7,
+   "texto": "y entonces le hemos dejado que elija una",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2884.7,
+   "fin": 2886.6,
+   "texto": "así que va a hacer lo suyo ahora",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2886.6,
+   "fin": 2888.58,
+   "texto": "nos va a contar por qué las ha elegido y luego las va a leer",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 2888.58,
+   "fin": 2891.18,
+   "texto": "y ya nos despedimos y comprad los libros de Pau",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 2891.18,
+   "fin": 2892.56,
+   "texto": "y los libros de Iris Murdo",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 2892.56,
+   "fin": 2893.96,
+   "texto": "que son la misma persona básicamente",
+   "hablante": "SPEAKER_02"
+  },
+  {
+   "inicio": 2893.96,
+   "fin": 2895.72,
+   "texto": "y los libros de Paula",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2895.72,
+   "fin": 2898.08,
+   "texto": "y el futuro libro de Inés",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2898.08,
+   "fin": 2900.56,
+   "texto": "y muchas gracias a todas por venir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2900.56,
+   "fin": 2905.2799999999997,
+   "texto": "Bueno, yo voy a leer dos citas para contravenir vuestras instrucciones",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2905.2799999999997,
+   "fin": 2908.34,
+   "texto": "La primera es de Iris Murdoch",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2908.34,
+   "fin": 2912.38,
+   "texto": "Iris Murdoch era una persona poco sarcástica cuando escribía ensayo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2912.38,
+   "fin": 2914.9,
+   "texto": "En las novelas era un desmadre todo absoluto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2914.9,
+   "fin": 2917.7999999999997,
+   "texto": "Pero en general el ensayo era como muy seria",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2917.7999999999997,
+   "fin": 2922.82,
+   "texto": "Pero voy a leer primero una cita un poco sarcástica de Iris Murdoch",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2922.82,
+   "fin": 2926.36,
+   "texto": "Y luego voy a leer una cita de Rafael Sánchez Ferlosio",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2926.36,
+   "fin": 2932.84,
+   "texto": "que era una persona no muy dada a expresar públicamente sentimientos de ternura",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2932.84,
+   "fin": 2939.88,
+   "texto": "y que está dirigida a la que fue su segunda mujer, su viuda, que sigue viva, se llama Demetria Chamorro.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2940.96,
+   "fin": 2943.38,
+   "texto": "Bueno, primero va la de Iris Murdoch.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2944.3,
+   "fin": 2951.9,
+   "texto": "Dice así, la diferencia más obvia entre las novelas del siglo XIX y las del XX es que las del XIX son mejores.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2951.9,
+   "fin": 2961.02,
+   "texto": "Y esto es Rafael Sánchez Ferlosi. Es un fragmento muy breve, se titula Paisaje para Demetria.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2961.98,
+   "fin": 2970.1800000000003,
+   "texto": "Por el lomo de la alta pared del huerto, coronada con cascotes de botella, venía andando esta tarde un gatito sin cortarse.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2981.9,
+   "fin": 2982.9,
+   "texto": "Gracias.",
+   "hablante": "DESCONOCIDO"
+  },
+  {
+   "inicio": 3011.9,
+   "fin": 3012.9,
+   "texto": "¡Gracias!",
+   "hablante": "DESCONOCIDO"
+  }
+ ]
+}

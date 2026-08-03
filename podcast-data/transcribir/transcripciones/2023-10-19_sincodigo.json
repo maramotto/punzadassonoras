@@ -1,0 +1,7264 @@
+{
+ "slug": "2023-10-19_sincodigo",
+ "codigo": "",
+ "titulo": "Islas: anomalías fragmentarias",
+ "fecha": "2023-10-19",
+ "video_id": "",
+ "url_audio": "https://traffic.megaphone.fm/PMSL6381724947.mp3?updated=1699889807",
+ "segmentos": [
+  {
+   "inicio": 0.0,
+   "fin": 6.32,
+   "texto": "¿Estás escuchando? Radio Primavera Sound. Proudly presented by Cucra.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 7.36,
+   "fin": 11.5,
+   "texto": "Hola, chicas. ¿Cómo estáis? ¿Qué tal?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 11.88,
+   "fin": 14.66,
+   "texto": "Estamos aquí de nuevo con vosotras, pero no estamos aquí, Inés.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 14.72,
+   "fin": 21.68,
+   "texto": "Estamos en Mallorca ante un público muy selecto y muy simpático, por suerte, porque si me miran mal me pongo muy nerviosa.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 23.04,
+   "fin": 27.36,
+   "texto": "Así que estamos muy contentas. Estamos en Magaluf, en el Festival de Literatura Expandida.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 27.36,
+   "fin": 31.16,
+   "texto": "y estamos aquí en un escenario que estoy viendo el mar al fondo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 31.46,
+   "fin": 33.04,
+   "texto": "Un cachito muy pequeño de mar, te diría.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 33.04,
+   "fin": 37.34,
+   "texto": "Pero me vale porque como soy de interior, yo con ver un trocito de mar ya está genial.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 37.9,
+   "fin": 41.8,
+   "texto": "Y es, vamos a contar nuestra vida un poco, que es la primera vez que venimos a Mallorca.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 42.04,
+   "fin": 43.3,
+   "texto": "Así que estamos muy contentas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 43.32,
+   "fin": 46.84,
+   "texto": "Estamos contentas, sí. Hemos visto muy poquito, pero bueno, hemos visto algo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 47.04,
+   "fin": 50.84,
+   "texto": "Pero está muy bien que estemos en Mallorca porque hoy vamos a hacer un podcast sobre islas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 51.16,
+   "fin": 56.32,
+   "texto": "Sobre las islas como motivo literario, sobre los fragmentos literarios como islas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 56.32,
+   "fin": 57.88,
+   "texto": "y todas esas cosas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 58.1,
+   "fin": 60.66,
+   "texto": "Sí, de hecho todo viene un poco a la raíz del festival,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 60.9,
+   "fin": 63.980000000000004,
+   "texto": "que cuando vimos que trataba como la literatura expandida,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 64.06,
+   "fin": 67.4,
+   "texto": "nos hizo pensar mucho como en el territorio, en la frontera,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 67.68,
+   "fin": 71.5,
+   "texto": "en la literatura y en el pensamiento que va como un poco más allá del centro.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 71.84,
+   "fin": 76.2,
+   "texto": "Y quisimos preguntarnos qué se nos viene a la cabeza cuando pensamos en una isla,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 76.6,
+   "fin": 80.02,
+   "texto": "que estando aquí donde estamos seguramente muchos os recuerde a una isla",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 80.02,
+   "fin": 84.66,
+   "texto": "ligada un poco a las vacaciones, a la isla ligada al verano,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 84.66,
+   "fin": 86.96,
+   "texto": "a la idea de paraíso, de utopía,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 87.52,
+   "fin": 89.84,
+   "texto": "que aquellas islas a las que llegan veraneantes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 89.84,
+   "fin": 92.46,
+   "texto": "que eligen llegar a la isla, luego pueden llegar,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 92.89999999999999,
+   "fin": 94.36,
+   "texto": "pueden irse, pueden quedarse,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 94.64,
+   "fin": 96.67999999999999,
+   "texto": "como los Darrell, que se van a Corfu.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 96.88,
+   "fin": 98.16,
+   "texto": "Yo vi esta serie y no me gustó nada.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 98.28,
+   "fin": 101.28,
+   "texto": "Pero como es un libro, queríamos traerlo a Corfu.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 101.28,
+   "fin": 103.9,
+   "texto": "No, sí me gustó, es que tenía COVID, también influyó,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 104.22,
+   "fin": 105.66,
+   "texto": "pero es un poco como monótona,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 106.36,
+   "fin": 107.56,
+   "texto": "pero está muy bien porque es muy bonito.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 107.66,
+   "fin": 109.53999999999999,
+   "texto": "Bueno, la tenéis en filming si queréis ver a los Darrell,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 109.62,
+   "fin": 110.5,
+   "texto": "que es así como curiosa.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 110.97999999999999,
+   "fin": 112.44,
+   "texto": "Luego también podemos pensar las islas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 112.44,
+   "fin": 114.08,
+   "texto": "como lugares bastante terribles,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 114.08,
+   "fin": 119.16,
+   "texto": "Las islas es un sitio donde se envía a los presos más peligrosos históricamente.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 119.53999999999999,
+   "fin": 123.08,
+   "texto": "Por ejemplo, la isla del Diablo, que es una isla que está frente a la Guayana Francesa,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 123.66,
+   "fin": 126.84,
+   "texto": "Napoleón III la usaba para albergar precisamente a los presos peligrosos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 126.96,
+   "fin": 130.52,
+   "texto": "Y luego tenemos también, por ejemplo, la famosa isla de Alcatraz, en la bahía de San Francisco,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 131.0,
+   "fin": 132.82,
+   "texto": "que hoy en día recibe turistas todos los días.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 132.98,
+   "fin": 136.64,
+   "texto": "Tú puedes ir allí, hay un museo donde te puedes comprar un pijama como de rayas,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 136.7,
+   "fin": 141.18,
+   "texto": "como para ser preso por un día, pero en su día albergó a gente muy peligrosa.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 141.18,
+   "fin": 146.48000000000002,
+   "texto": "y también podemos pensar las islas como lugares de salvación, por ejemplo, tras un naufragio,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 147.02,
+   "fin": 153.8,
+   "texto": "algunos héroes de la mitología y de historias antiguas como Simbad o como Odiseo, por ejemplo,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 153.92000000000002,
+   "fin": 155.5,
+   "texto": "pues encuentran en la isla su refugio.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 156.36,
+   "fin": 160.94,
+   "texto": "Entonces, las islas son lugares a los que parte de la sociedad acude en busca de descanso,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 160.94,
+   "fin": 165.46,
+   "texto": "pero también pueden ser lugares donde la sociedad deposita aquello con lo que no quiere lidiar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 165.46,
+   "fin": 166.86,
+   "texto": "y aquello que no quiere ver.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 167.42000000000002,
+   "fin": 170.48000000000002,
+   "texto": "Nosotros sí que queremos ver Mallorca, porque nos gusta mucho,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 170.48,
+   "fin": 174.2,
+   "texto": "pero bueno, vamos a hablar de todo esto en el episodio de hoy",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 174.2,
+   "fin": 177.38,
+   "texto": "donde nos vamos a centrar en comentar distintos ejemplos de islas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 177.38,
+   "fin": 180.82,
+   "texto": "reales, imaginarias, literarias, metafóricas, cercanas, remotas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 180.82,
+   "fin": 184.98,
+   "texto": "y bueno, vamos allá, vamos a escuchar nuestra estupenda musiquita",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 184.98,
+   "fin": 187.23999999999998,
+   "texto": "y luego seguimos con el podcast",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 187.23999999999998,
+   "fin": 187.98,
+   "texto": "Empezamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 187.98,
+   "fin": 198.82,
+   "texto": "Punzadas sonoras",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 198.82,
+   "fin": 200.56,
+   "texto": "con Inés García",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 200.56,
+   "fin": 201.89999999999998,
+   "texto": "y Paula Ducay",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 201.89999999999998,
+   "fin": 205.1,
+   "texto": "Ole, ole, ole",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 205.1,
+   "fin": 206.79999999999998,
+   "texto": "Se nos ha olvidado comentar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 206.79999999999998,
+   "fin": 207.33999999999997,
+   "texto": "que estamos debajo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 207.33999999999997,
+   "fin": 208.12,
+   "texto": "de una piscina",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 208.12,
+   "fin": 208.72,
+   "texto": "Estamos debajo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 208.72,
+   "fin": 209.6,
+   "texto": "de una piscina rarísima",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 209.6,
+   "fin": 210.39999999999998,
+   "texto": "donde tú miras para arriba",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 210.39999999999998,
+   "fin": 211.17999999999998,
+   "texto": "y puedes ver el culo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 211.17999999999998,
+   "fin": 211.7,
+   "texto": "a la gente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 211.7,
+   "fin": 212.45999999999998,
+   "texto": "Es una cosa como",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 212.45999999999998,
+   "fin": 213.76,
+   "texto": "muy extraña",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 213.76,
+   "fin": 214.6,
+   "texto": "Bueno, no lo vemos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 214.6,
+   "fin": 215.32,
+   "texto": "porque hay una lona",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 215.32,
+   "fin": 216.1,
+   "texto": "tapando el escenario",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 216.1,
+   "fin": 217.23999999999998,
+   "texto": "pero ayer nos cayó",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 217.23999999999998,
+   "fin": 217.82,
+   "texto": "alguna gota",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 217.82,
+   "fin": 223.01999999999998,
+   "texto": "que yo, en fin, perdí uno pensarlo. Sí, bueno y para empezar a hablar de islas queríamos hablar de una",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 223.01999999999998,
+   "fin": 227.76,
+   "texto": "persona a la que queremos muchísimo que se llama Janet Frame, en su momento hicimos un episodio del",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 227.76,
+   "fin": 232.4,
+   "texto": "podcast centrado en ella, así que si os interesa está por ahí, pero queríamos hablar de ella porque",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 232.4,
+   "fin": 237.32,
+   "texto": "también es de una isla, concretamente de Nueva Zelanda. Es de la isla más remota desde este",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 237.32,
+   "fin": 243.45999999999998,
+   "texto": "punto, ¿no? En efecto, una isla muy remota para nosotras y estuvimos estudiándola un tiempo porque",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 243.46,
+   "fin": 248.3,
+   "texto": "Hicimos un taller en punzadas, nos leímos casi todos los libros que están traducidos al español,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 248.48000000000002,
+   "fin": 252.78,
+   "texto": "que por desgracia no son muchos, pero vamos a recomendar uno de mis libros favoritos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 252.9,
+   "fin": 255.26000000000002,
+   "texto": "yo sé que esto lo digo siempre y nadie ya se lo toma en serio,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 255.62,
+   "fin": 261.68,
+   "texto": "pero es Un ángel en mi mesa, que es su biografía, que son tres tomos en los que cuenta un poco su vida",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 261.68,
+   "fin": 265.84000000000003,
+   "texto": "hasta que se convierte en escritora, porque luego hay una gran parte de su vida que no recoge,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 266.04,
+   "fin": 269.52,
+   "texto": "pero es muy interesante, que también además hay una película de Jane Campion,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 269.66,
+   "fin": 272.72,
+   "texto": "por si os interesa, no está en ninguna plataforma, pero está por ahí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 272.72,
+   "fin": 274.48,
+   "texto": "Se puede encontrar misteriosamente.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 274.64000000000004,
+   "fin": 278.0,
+   "texto": "Si me escribís por Instagram, se me ha mandado un link ilegal.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 278.52000000000004,
+   "fin": 280.54,
+   "texto": "Bueno, no digas eso, que nos meten en la cárcel, Inés.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 280.62,
+   "fin": 281.24,
+   "texto": "Pero es igual.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 282.12,
+   "fin": 285.16,
+   "texto": "Entonces ella estuvo mucho tiempo recluida en sanatorios mentales,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 285.28000000000003,
+   "fin": 287.94000000000005,
+   "texto": "esto lo cuenta en su libro Rostros en el agua, por si os interesa,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 288.28000000000003,
+   "fin": 290.44000000000005,
+   "texto": "que luego se descubrirá que no tenía ninguna enfermedad mental,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 290.58000000000004,
+   "fin": 293.14000000000004,
+   "texto": "o sea que fue una época de su vida bastante terrible,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 293.3,
+   "fin": 294.96000000000004,
+   "texto": "con vivencias muy complejas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 295.70000000000005,
+   "fin": 297.04,
+   "texto": "Y entonces una vez pasada esta época,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 297.46000000000004,
+   "fin": 299.5,
+   "texto": "consigue como empezar a tener una vida de escritora,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 299.5,
+   "fin": 303.26,
+   "texto": "le dan una beca de escritura y se marcha a hacer su viaje por Europa,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 303.4,
+   "fin": 307.08,
+   "texto": "porque todos los grandes escritores en ese momento tenían que hacer su gran viaje.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 307.6,
+   "fin": 309.86,
+   "texto": "Y concretamente viene a Ibiza durante un tiempo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 310.28,
+   "fin": 314.28,
+   "texto": "Y es una época preciosa de su vida, lo podéis leer en el libro y también se ve muy bien en la peli,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 314.36,
+   "fin": 316.92,
+   "texto": "que además es preciosa las escenas que hay en la isla.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 317.46,
+   "fin": 321.06,
+   "texto": "Y es como este momento en el que ella puede tener una vida de escritora de verdad,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 321.3,
+   "fin": 324.6,
+   "texto": "y también el momento en el que vive su primer amor con Bernard,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 324.74,
+   "fin": 328.58,
+   "texto": "que es un artista americano que luego se marcha, pero también es una época muy bonita.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 328.58,
+   "fin": 335.32,
+   "texto": "y queríamos citar, ya que estamos aquí, pues un poeta de Formentera que se llama Miguel Costa Llovera",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 335.32,
+   "fin": 342.2,
+   "texto": "que Janet descubrió aquí cuando vivió en Ibiza y que para ella se convirtió como uno de sus autores de referencia españoles",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 342.2,
+   "fin": 348.97999999999996,
+   "texto": "junto con Federico García Lorca y entonces le encantaba particularmente un poema que se llamaba El pino de Formentera",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 348.97999999999996,
+   "fin": 354.97999999999996,
+   "texto": "que se convirtió en su poema modelo porque le hacía regresar un poco a su propia isla y a su lugar de origen.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 354.98,
+   "fin": 360.42,
+   "texto": "y en esta época en el libro ella cuenta que pensó mucho en islas y mares",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 360.42,
+   "fin": 364.92,
+   "texto": "y escribió un poema que es un poquito largo pero os leemos solo el principio y el final",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 364.92,
+   "fin": 370.98,
+   "texto": "dice, digno es de compasión el desterrado continente alejado del mar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 370.98,
+   "fin": 375.06,
+   "texto": "que es una cosa preciosa, además en toda su escritura se ve súper bien como ella",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 375.06,
+   "fin": 380.16,
+   "texto": "el hecho de haber nacido en una isla no es como aleatorio, no es signo que la acompaña siempre",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 380.16,
+   "fin": 383.86,
+   "texto": "y más haber nacido en Nueva Zelanda que es como un sitio muy apartado del mundo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 383.86,
+   "fin": 386.84000000000003,
+   "texto": "y es que no puedo parar de hablar de Janet Frame, perdón.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 387.12,
+   "fin": 389.34000000000003,
+   "texto": "Pero bueno, os recomendamos un montón porque tiene ideas muy bonitas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 389.34000000000003,
+   "fin": 391.92,
+   "texto": "sobre lo que supone escribir alejada del continente,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 392.08000000000004,
+   "fin": 394.62,
+   "texto": "de lo que es Europa y tal.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 395.22,
+   "fin": 396.8,
+   "texto": "Y el poema acaba diciendo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 396.8,
+   "fin": 400.72,
+   "texto": "pequeñas son las islas, una tiranía de perfección,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 401.16,
+   "fin": 403.94,
+   "texto": "un temor a encontrar demasiados seres en los espejos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 405.0,
+   "fin": 407.08000000000004,
+   "texto": "Así que eso, os dejamos a Janet Frame,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 407.34000000000003,
+   "fin": 409.72,
+   "texto": "que la tenéis editada en Seix Barral y en Trota Libros,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 409.72,
+   "fin": 413.32,
+   "texto": "si queréis encontrar algunas de sus cosas y os lo recomendamos un montón.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 413.32,
+   "fin": 415.38,
+   "texto": "y que alguien publique más libros de ella, por favor.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 415.59999999999997,
+   "fin": 417.94,
+   "texto": "Esta petición ya la he hecho muchas veces, pero nadie me hace caso.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 417.94,
+   "fin": 419.48,
+   "texto": "Tú pide, tú pide, por esa boquita.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 420.36,
+   "fin": 423.8,
+   "texto": "Bueno, y ahora vamos a seguir con Bartes, que como sabéis es como nuestro Dios,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 424.12,
+   "fin": 426.36,
+   "texto": "nuestro Jesucristo, nuestro Zeus, nuestro Apolo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 426.76,
+   "fin": 430.96,
+   "texto": "Todos nuestros podcasts, por si hay alguien por aquí, un viandante que no lo sabe,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 431.71999999999997,
+   "fin": 435.21999999999997,
+   "texto": "parten de los fragmentos de un discurso amoroso, que es un libro de Roland Bartes,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 435.21999999999997,
+   "fin": 439.42,
+   "texto": "que tiene distintas figuras, y entonces todos parten de Bartes.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 439.92,
+   "fin": 442.03999999999996,
+   "texto": "Y entonces queríamos hablar de los fragmentos como islas,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 442.04,
+   "fin": 445.32,
+   "texto": "esta es la idea que se nos ocurrió para este episodio.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 445.72,
+   "fin": 447.34000000000003,
+   "texto": "Y hemos leído un artículo de Pepa Medina,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 447.46000000000004,
+   "fin": 449.18,
+   "texto": "que es una investigadora en la Universidad de Barcelona,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 449.38,
+   "fin": 453.34000000000003,
+   "texto": "que se titula Viajeros por los islotes, sobre la escritura fragmentaria,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 453.46000000000004,
+   "fin": 454.76000000000005,
+   "texto": "que es un poco lo que vamos a contar hoy.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 455.20000000000005,
+   "fin": 457.12,
+   "texto": "Que empieza con una frase muy bonita de Pessoa,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 457.24,
+   "fin": 459.38,
+   "texto": "que dice, somos como islas en el mar de la vida.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 459.86,
+   "fin": 462.08000000000004,
+   "texto": "Y es que igual que las islas están rodeadas por mar,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 462.24,
+   "fin": 464.86,
+   "texto": "que el mar separa las islas, pero también las une,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 465.36,
+   "fin": 467.76,
+   "texto": "también nosotros vivimos rodeados de discursos y de textos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 467.84000000000003,
+   "fin": 471.92,
+   "texto": "Por ejemplo, aquí, en el Flem, hemos estado rodeadas de discursos de autoras,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 471.92,
+   "fin": 478.94,
+   "texto": "de los carteles que anuncian los saraos literarios, de los textos propios, porque también están sus libros,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 479.26,
+   "fin": 485.1,
+   "texto": "y dice Pessoa que podemos navegar por el mar de los signos, que esto es la vida un poco, ir navegando por el mar de los signos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 485.54,
+   "fin": 490.28000000000003,
+   "texto": "Entonces, para Bartes, un fragmento es como un islote, esto lo dice en El placer del texto,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 490.36,
+   "fin": 493.94,
+   "texto": "que es un libro muy chulo, muy cortito, que nos gusta mucho, que no es de sus libros más fáciles,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 494.66,
+   "fin": 500.24,
+   "texto": "pero que merece la pena acercarse a él si os interesan estos temas, y ahí dice esto del fragmento como islote,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 500.24,
+   "fin": 504.5,
+   "texto": "y dice que el islote proporciona placer o goce al sujeto que lo lee.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 505.14,
+   "fin": 508.1,
+   "texto": "Y utiliza este significante para hablar metafóricamente del texto.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 508.26,
+   "fin": 510.64,
+   "texto": "Los fragmentos son textos de mayor o menor extensión",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 510.64,
+   "fin": 514.08,
+   "texto": "y como los islotes se distinguen entre sí por el corte,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 514.12,
+   "fin": 516.2,
+   "texto": "porque van uno y otro y otro,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 516.28,
+   "fin": 519.54,
+   "texto": "por la falta de continuidad que permite separarlos, podríamos decir.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 520.32,
+   "fin": 523.26,
+   "texto": "Y luego en otro de sus libros, que es Roland Barthes por Roland Barthes,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 523.36,
+   "fin": 524.38,
+   "texto": "Barthes por Barthes, escribiendo...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 524.38,
+   "fin": 525.82,
+   "texto": "Hablando de sí mismo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 526.1800000000001,
+   "fin": 527.3,
+   "texto": "Esto lo hacen mucho los hombres.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 527.3,
+   "fin": 529.2,
+   "texto": "Sí, se les da muy bien además.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 529.2,
+   "fin": 532.08,
+   "texto": "pero este hombre en particular nos gusta como lo hace",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 532.08,
+   "fin": 534.0600000000001,
+   "texto": "y en uno de los epígrafes de este libro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 534.0600000000001,
+   "fin": 536.4000000000001,
+   "texto": "de Bartes por Bartes, un epígrafe que se titula",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 536.4000000000001,
+   "fin": 538.0200000000001,
+   "texto": "El círculo de los fragmentos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 538.0200000000001,
+   "fin": 540.26,
+   "texto": "Bartes habla precisamente sobre escribir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 540.26,
+   "fin": 542.0,
+   "texto": "por fragmentos, que es una cosa con lo que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 542.0,
+   "fin": 543.82,
+   "texto": "está obsesionado al igual que nosotras",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 543.82,
+   "fin": 546.1400000000001,
+   "texto": "y dice, los fragmentos son entonces",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 546.1400000000001,
+   "fin": 548.3000000000001,
+   "texto": "las piedras sobre el borde del círculo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 548.3000000000001,
+   "fin": 549.98,
+   "texto": "me explayo en redondo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 549.98,
+   "fin": 552.0,
+   "texto": "todo mi pequeño universo está hecho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 552.0,
+   "fin": 553.6600000000001,
+   "texto": "migajas, y se pregunta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 553.6600000000001,
+   "fin": 554.7800000000001,
+   "texto": "¿en el centro qué?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 555.1800000000001,
+   "fin": 557.38,
+   "texto": "¿qué queda en el centro de los fragmentos?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 557.38,
+   "fin": 560.62,
+   "texto": "que podríamos decir que queda en el mar, más allá de las islas que es el mar.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 561.74,
+   "fin": 566.52,
+   "texto": "Ibarte se explica que ya su primer texto, que escribió en 1942, está hecho de fragmentos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 566.64,
+   "fin": 570.78,
+   "texto": "Y desde entonces esta es la forma de escritura que ha utilizado en muchísimos libros,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 570.9,
+   "fin": 574.86,
+   "texto": "como por ejemplo mitologías, el imperio de los signos, el placer del texto que acabamos de mencionar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 574.86,
+   "fin": 577.62,
+   "texto": "y por supuesto los fragmentos de un discurso amoroso, que es nuestra Biblia.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 578.88,
+   "fin": 582.38,
+   "texto": "Y también le interesa mucho el haiku, estas formas breves de escritura japonesa,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 583.02,
+   "fin": 584.5,
+   "texto": "y tiene textos también sobre eso.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 584.5,
+   "fin": 587.8,
+   "texto": "le interesa la fotografía, le interesa la escritura breve.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 588.74,
+   "fin": 593.1,
+   "texto": "Y es muy curioso en su obra esta distinción entre escritura lineal",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 593.1,
+   "fin": 595.68,
+   "texto": "que hace, por ejemplo, en los prólogos que hace a los libros,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 595.98,
+   "fin": 597.86,
+   "texto": "que el prólogo, por ejemplo, de Fragmentos y un discurso amoroso",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 597.86,
+   "fin": 598.92,
+   "texto": "es una cosa que nos gusta mucho.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 599.04,
+   "fin": 602.36,
+   "texto": "Sí, es que claro, siempre le da como cierto sentido en el prólogo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 602.54,
+   "fin": 606.48,
+   "texto": "Y te explica, que a mí me parece genial, lo hablábamos en el primer podcast",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 606.48,
+   "fin": 609.96,
+   "texto": "de esta temporada, como en la estructura de los ensayos y de los libros",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 609.96,
+   "fin": 612.68,
+   "texto": "que a veces no nos damos cuenta, pero que muchas veces son súper brillantes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 612.68,
+   "fin": 615.3399999999999,
+   "texto": "y ayudan un montón a dar el sentido del libro.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 615.8199999999999,
+   "fin": 618.52,
+   "texto": "Y Vartes hace esto muy bien en los prólogos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 618.64,
+   "fin": 621.04,
+   "texto": "que es explicarte cómo ha estructurado,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 621.18,
+   "fin": 622.52,
+   "texto": "por qué lo ha hecho así y no de otra manera.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 622.62,
+   "fin": 624.5999999999999,
+   "texto": "Claro, entonces tendríamos esta escritura lineal",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 624.5999999999999,
+   "fin": 625.9599999999999,
+   "texto": "de los prólogos o de los epílogos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 625.9599999999999,
+   "fin": 627.38,
+   "texto": "frente a esta escritura serial,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 627.54,
+   "fin": 629.56,
+   "texto": "de los fragmentos, las secuencias o las notas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 630.12,
+   "fin": 632.16,
+   "texto": "Y además él cuenta que le gusta tanto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 632.16,
+   "fin": 633.28,
+   "texto": "esta forma de composición",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 633.28,
+   "fin": 635.2199999999999,
+   "texto": "que ha intentado aprender a dibujar,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 635.28,
+   "fin": 637.06,
+   "texto": "porque como que lo asocia un poco al dibujo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 637.06,
+   "fin": 638.62,
+   "texto": "y que al intentar copiar, por ejemplo,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 638.78,
+   "fin": 640.5,
+   "texto": "una composición persa del siglo VII,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 640.5,
+   "fin": 642.3199999999999,
+   "texto": "nada, tú estás un día en tu casa por la tarde",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 642.32,
+   "fin": 646.32,
+   "texto": "y decías esto es lo que voy a hacer con mi día, voy a copiar una composición persa del siglo VII.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 646.7800000000001,
+   "fin": 650.2800000000001,
+   "texto": "Entonces él se dio cuenta de que necesitaba ir primero al detalle, al fragmento,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 650.34,
+   "fin": 652.6400000000001,
+   "texto": "para llegar a una composición cuando estaba dibujando.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 652.9200000000001,
+   "fin": 657.1400000000001,
+   "texto": "Y dice literalmente no sé reproducir las masas, como que le cuesta el reproducir lo grande.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 657.9200000000001,
+   "fin": 661.44,
+   "texto": "Y le gusta más escribir comienzos que escribir finales.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 661.58,
+   "fin": 664.5200000000001,
+   "texto": "Siente temor por escribir la última palabra, que esto es algo que retomaremos después",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 664.5200000000001,
+   "fin": 667.98,
+   "texto": "con algunos ejemplos de novelas que hacen este tipo de cosas también.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 667.98,
+   "fin": 670.6800000000001,
+   "texto": "hay una cita que nos gusta mucho que dice",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 670.6800000000001,
+   "fin": 672.72,
+   "texto": "el fragmento como el haiku",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 672.72,
+   "fin": 674.8000000000001,
+   "texto": "implica un goce inmediato",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 674.8000000000001,
+   "fin": 676.54,
+   "texto": "es el fantasma de un discurso",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 676.54,
+   "fin": 678.04,
+   "texto": "un bostezo de deseo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 678.04,
+   "fin": 680.26,
+   "texto": "bajo la forma del pensamiento frase",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 680.26,
+   "fin": 682.5600000000001,
+   "texto": "el germen del fragmento se le ocurre a uno",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 682.5600000000001,
+   "fin": 684.38,
+   "texto": "en cualquier parte, en el café",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 684.38,
+   "fin": 686.38,
+   "texto": "en el tren, hablando con un amigo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 686.38,
+   "fin": 688.58,
+   "texto": "uno saca su carné, no para anotar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 688.58,
+   "fin": 690.66,
+   "texto": "un pensamiento, sino algo como un cuño",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 690.66,
+   "fin": 692.28,
+   "texto": "lo que otrora se hubiese llamado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 692.28,
+   "fin": 694.48,
+   "texto": "un verso, entonces está hablando todo el rato",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 694.48,
+   "fin": 696.44,
+   "texto": "también de poesía y de los versos breves",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 696.44,
+   "fin": 698.5600000000001,
+   "texto": "y entonces Barthes se pregunta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 698.5600000000001,
+   "fin": 700.6,
+   "texto": "si en caso de disponer de un fragmento tras otro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 700.6,
+   "fin": 702.72,
+   "texto": "es posible algún tipo de organización",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 702.72,
+   "fin": 704.6800000000001,
+   "texto": "y responde, el fragmento",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 704.6800000000001,
+   "fin": 706.7600000000001,
+   "texto": "es como la idea musical de un ciclo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 706.7600000000001,
+   "fin": 708.4200000000001,
+   "texto": "cada pieza se basta a sí misma",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 708.4200000000001,
+   "fin": 710.8800000000001,
+   "texto": "y de hecho él decía que en muchos de los textos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 710.8800000000001,
+   "fin": 712.74,
+   "texto": "habla que quien entendió mejor",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 712.74,
+   "fin": 715.3000000000001,
+   "texto": "este tipo de escritura fue Schumann",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 715.3000000000001,
+   "fin": 716.5600000000001,
+   "texto": "músico",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 716.5600000000001,
+   "fin": 718.98,
+   "texto": "que llamaba al fragmento el intermezzo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 718.98,
+   "fin": 720.94,
+   "texto": "esto Inés lo entiende mejor porque toca el piano",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 720.94,
+   "fin": 722.86,
+   "texto": "yo no tengo ni idea de música, la verdad, no sé ni qué cojones",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 722.86,
+   "fin": 724.0600000000001,
+   "texto": "es un tono, siempre lo digo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 724.06,
+   "fin": 726.0999999999999,
+   "texto": "Ya te he explicado lo que es un tono un montón de veces.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 726.0999999999999,
+   "fin": 729.0799999999999,
+   "texto": "Claro que sí, lo que entra una nota y otra nota, pero siempre como que solo me sé la teoría,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 729.16,
+   "fin": 732.6999999999999,
+   "texto": "luego no entiendo, ¿sabes? No entra en mi cerebrito chiquito.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 732.9599999999999,
+   "fin": 735.52,
+   "texto": "Esto es mentira, porque hace poco estuve en mi casa, en Arnedillo,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 735.66,
+   "fin": 739.42,
+   "texto": "y le enseñé a tocar la escala de do subiéndola y bajándola, y lo haces genial.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 739.56,
+   "fin": 742.8599999999999,
+   "texto": "Ya, pero ahora no te quieres traer el piano a Madrid, yo no puedo practicar la única cosa que me sé.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 743.0799999999999,
+   "fin": 746.3,
+   "texto": "Pues te descargas una app en el cacharro este y lo ensayas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 746.3,
+   "fin": 747.92,
+   "texto": "Es verdad, es verdad, no hay excusa.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 748.5999999999999,
+   "fin": 751.0,
+   "texto": "Y para seguir hablando de la escritura fragmentaria,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 751.0,
+   "fin": 755.56,
+   "texto": "vamos a centrarnos un poco en la escritura ensayística, que también puede ser fragmentaria.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 755.96,
+   "fin": 759.28,
+   "texto": "Porque hay un artículo muy interesante sobre Barthes también y su escritura,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 759.64,
+   "fin": 762.32,
+   "texto": "escrito por Rafael Andúgar Sousa.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 762.42,
+   "fin": 766.5,
+   "texto": "Y dice que es muy interesante pensar en las características de esta escritura breve.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 767.3,
+   "fin": 771.0,
+   "texto": "Algunas de ellas, las fundamentales, son por ejemplo la discontinuidad.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 771.6,
+   "fin": 774.88,
+   "texto": "Adorno, el filósofo famosísimo de la Escuela de Frankfurt,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 775.34,
+   "fin": 778.72,
+   "texto": "escribió que el ensayo se forma en las discontinuidades.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 778.72,
+   "fin": 786.24,
+   "texto": "que también hay que tener todo el rato en mente esta idea de la isla, de la tierra que termina pero que luego vuelve a empezar en otro lugar.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 787.38,
+   "fin": 792.84,
+   "texto": "Consideraba natural adorno pensar en fragmentos porque consideraba que la realidad también es fragmentaria.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 793.26,
+   "fin": 801.12,
+   "texto": "Y es muy interesante que opone este tipo de escritura fragmentaria a los grandes sistemas filosóficos tradicionales que odiamos, como el de Hegel.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 801.12,
+   "fin": 805.2,
+   "texto": "No odiamos a Hegel, pero bastante chapa metió.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 805.2,
+   "fin": 807.2,
+   "texto": "en plan, nos da igual. Los sistemas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 807.2,
+   "fin": 809.08,
+   "texto": "filosóficos así como grandes, ¿no? El",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 809.08,
+   "fin": 811.24,
+   "texto": "hegeliano, el cartesiano, que son como sistemas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 811.24,
+   "fin": 813.12,
+   "texto": "que pretenden ser totales,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 813.22,
+   "fin": 815.5200000000001,
+   "texto": "continuos, como muy sistemáticos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 815.5200000000001,
+   "fin": 817.2800000000001,
+   "texto": "Y abarcar todas las grandes preguntas,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 817.4200000000001,
+   "fin": 818.88,
+   "texto": "¿no? Y darles respuesta. Sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 819.36,
+   "fin": 821.1600000000001,
+   "texto": "También, aparte de discontinuo, es",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 821.1600000000001,
+   "fin": 823.12,
+   "texto": "distinto al unitario, ¿no? Justamente esto que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 823.12,
+   "fin": 825.4200000000001,
+   "texto": "comentaba. No se presenta como un conjunto,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 825.5400000000001,
+   "fin": 827.2,
+   "texto": "¿no? Se trata de parcelas, de",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 827.2,
+   "fin": 829.22,
+   "texto": "cercos y me gusta mucho esta imagen que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 829.22,
+   "fin": 831.34,
+   "texto": "es como la de una ventana a través de la cual",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 831.34,
+   "fin": 833.2,
+   "texto": "te puedes asomar a una realidad concreta,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 833.2,
+   "fin": 837.6600000000001,
+   "texto": "hay muchísimas ventanas chiquititas a través de las que puedes asomarte a las realidades",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 837.6600000000001,
+   "fin": 842.1600000000001,
+   "texto": "y luego una cosa que nos interesa mucho a nosotras que es la humildad intelectual",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 842.1600000000001,
+   "fin": 844.6400000000001,
+   "texto": "lo llamamos así entre nosotras, lo vamos a explicar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 844.6400000000001,
+   "fin": 849.0200000000001,
+   "texto": "que es un poco esta cosa de admitir que quizás se te ha quedado algo fuera",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 849.0200000000001,
+   "fin": 853.5600000000001,
+   "texto": "en todos estos grandes sistemas puede ser que no hayas respondido a todas las preguntas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 853.5600000000001,
+   "fin": 856.0400000000001,
+   "texto": "es que de hecho ¿quién puede responder a todas las preguntas?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 856.3000000000001,
+   "fin": 862.4000000000001,
+   "texto": "que esta humildad es como una consecuencia de esa ausencia de totalidad de la que hablábamos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 862.4,
+   "fin": 876.76,
+   "texto": "Y esto me parece muy interesante pensarlo de nuevo con la imagen de las islas, porque en esta escritura fragmentaria, si lo pensamos como islotes, como decía Paula que lo llama Bartes, es como que puede existir movimiento entre ellos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 876.76,
+   "fin": 883.72,
+   "texto": "Tú desde una isla cuando ves otra isla que está cerca, sabes que hay un otro, sabes que hay algo más allá de ti mismo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 884.3000000000001,
+   "fin": 888.0400000000001,
+   "texto": "Entonces, es muy interesante que se rompe con la continuidad.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 888.0400000000001,
+   "fin": 893.1,
+   "texto": "Hay un campo ciego a tu alrededor, que de hecho, así como para verlo directamente, podría ser el propio mar,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 893.72,
+   "fin": 895.64,
+   "texto": "y hay movimiento entre las islas también.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 896.12,
+   "fin": 898.48,
+   "texto": "Pues esto es lo mismo, hay movimiento entre las ideas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 898.98,
+   "fin": 905.36,
+   "texto": "Sin embargo, el afán totalizador este que comentaba con los sistemas filosóficos tradicionales,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 905.38,
+   "fin": 910.1600000000001,
+   "texto": "o algunos de ellos, porque evidentemente no se puede generalizar, hay muchas formas de escritura del pensamiento,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 910.16,
+   "fin": 915.8399999999999,
+   "texto": "se niega, dice este autor, la existencia de este espacio afuera, de que pueda haber algo más allá.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 917.42,
+   "fin": 921.06,
+   "texto": "Y es como muy interesante pensar estas ideas también a través de la apertura.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 921.56,
+   "fin": 925.5799999999999,
+   "texto": "El fragmento siempre busca como nuevos lugares, evita lo definitivo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 925.68,
+   "fin": 931.3399999999999,
+   "texto": "Como decía Paula Abartes, le gusta escribir comienzos porque luego no sabes a dónde puede llevar esa pequeña idea que tú has propuesto.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 931.3399999999999,
+   "fin": 933.0799999999999,
+   "texto": "Se puede desarrollar infinitamente.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 933.68,
+   "fin": 939.3399999999999,
+   "texto": "Nos recordaba también a una idea que hay en un libro que se llama Hipocondría moral, que es un cuadernito de anagrama.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 940.16,
+   "fin": 946.64,
+   "texto": "que es de Paul Lucke y Natalia Carrillo, y ellos piensan en las primeras páginas de manera súper bonita y súper bien escrita",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 946.64,
+   "fin": 952.88,
+   "texto": "el ensayo como ruina, ¿no? Tú construyes un ensayo, haces unas ideas y luego no sabes qué quedará de todo aquello,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 952.88,
+   "fin": 958.88,
+   "texto": "qué continuará otra persona, qué quedará obsoleto, y esto es como muy interesante porque es como que las ideas,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 959.0799999999999,
+   "fin": 964.18,
+   "texto": "el pensamiento, estos ensayos o la escritura fragmentaria se puede alargar infinitamente, ¿no?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 964.18,
+   "fin": 968.7199999999999,
+   "texto": "No buscas hacer como algo cerrado, sino siempre abierto.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 969.28,
+   "fin": 974.62,
+   "texto": "De hecho, Bartes dice, el objetivo del fragmento es terminar con el monstruo de la totalidad.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 974.9799999999999,
+   "fin": 980.76,
+   "texto": "Es una forma de escritura que va a la deriva, que nos sirve también para pensar a través de la metáfora de la isla,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 980.88,
+   "fin": 982.04,
+   "texto": "que siempre la tenemos detrás.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 982.68,
+   "fin": 989.5799999999999,
+   "texto": "Y Montaigne, el escritor de los ensayos, que también propone esta de las primeras formas de escritura fragmentaria,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 989.58,
+   "fin": 996.36,
+   "texto": "dijo lo siguiente, el mundo no es más que un perpetuo vaivén, todo se mueve sin descanso,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 996.86,
+   "fin": 1001.12,
+   "texto": "no puedo fijar mi objetivo, no pinto el ser, pinto el tránsito.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1001.4000000000001,
+   "fin": 1005.0600000000001,
+   "texto": "Es muy interesante pensar esto cuando estamos viendo todo el rato aviones despegar,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1005.0600000000001,
+   "fin": 1012.0600000000001,
+   "texto": "porque estamos en frente, el aeropuerto está a la izquierda y vemos a los aviones marchar,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1012.96,
+   "fin": 1018.0,
+   "texto": "porque como dice Montaigne, por aterrizarlo esto un poco, cuando estamos en una isla",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1018.0,
+   "fin": 1022.84,
+   "texto": "o en un lugar que está abierto, que no está cerrado ni que es totalizador,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1022.96,
+   "fin": 1024.88,
+   "texto": "hay un movimiento que tiene que ser permanente.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1025.54,
+   "fin": 1027.68,
+   "texto": "Tienes que entrar y salir todo el tiempo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1028.6,
+   "fin": 1030.74,
+   "texto": "En Madrid también un montón de aviones estos días",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1030.74,
+   "fin": 1033.84,
+   "texto": "porque están ensayando para el dichoso desfile",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1033.84,
+   "fin": 1037.84,
+   "texto": "y nos pegan unos sustos a nivel que pienso que nos ataca a alguien.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1037.92,
+   "fin": 1039.12,
+   "texto": "Sí, eso es terrorífico.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1040.16,
+   "fin": 1043.4,
+   "texto": "Y para hablar de todo esto un poquito a través de ejemplos concretos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1043.52,
+   "fin": 1045.38,
+   "texto": "queremos hablar de dos libros que nos han encantado.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1045.38,
+   "fin": 1050.38,
+   "texto": "Uno es Los Errantes, y esto estoy traumatizado porque tengo que pronunciar un apellido polaco,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1050.5800000000002,
+   "fin": 1052.46,
+   "texto": "y esto ya sabe la gente que a mí no...",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1052.46,
+   "fin": 1057.42,
+   "texto": "Se llama Olga Tokarczuk, que es ni más ni menos que una premio Nobel de Literatura,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1057.7600000000002,
+   "fin": 1059.18,
+   "texto": "y que nos ha hecho una interesantísima.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1059.5800000000002,
+   "fin": 1064.3000000000002,
+   "texto": "Y Conjunto Vacío, de Verónica Gerber-Bicecci, que va a hablar luego Paula de ella.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1064.9,
+   "fin": 1070.0600000000002,
+   "texto": "Yo voy a hablaros un poco de Los Errantes, que además está por aquí, que está editado en Anagrama,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1070.0600000000002,
+   "fin": 1074.6000000000001,
+   "texto": "y es un libro que es perfecto como ejemplo para ver todo esto de lo que hemos estado hablando.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1074.6,
+   "fin": 1079.6,
+   "texto": "porque está hecho con fragmentos, todo el libro son fragmentos, son retazos de historias",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1079.6,
+   "fin": 1083.9399999999998,
+   "texto": "que no están directamente conectadas pero que juntas construyes un sentido.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1084.5,
+   "fin": 1088.56,
+   "texto": "Hay textos súper diferentes porque hay algunos que son más ensayísticos, reflexiones,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1088.98,
+   "fin": 1092.62,
+   "texto": "otros son historias más narrativas, también hay relatos de viajes,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1093.1399999999999,
+   "fin": 1097.6799999999998,
+   "texto": "pero todo ello remite, aunque hable de cosas súper distintas, a ideas concretas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1097.6799999999998,
+   "fin": 1102.6,
+   "texto": "como el viaje, el movimiento, la frontera, la isla, el mapa, el territorio.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1102.6,
+   "fin": 1110.6399999999999,
+   "texto": "A través del libro recorres campos, trenes, muchísimos aeropuertos, hoteles, museos, estaciones de autobús, de todo tipo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1111.06,
+   "fin": 1118.1399999999999,
+   "texto": "Y sirve para pensar qué significa viajar, pero también hay reflexiones sobre el cuerpo, el tiempo, el espacio, el lenguaje.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1118.9199999999998,
+   "fin": 1124.34,
+   "texto": "Y es que no sé cómo hablar de este libro porque es que es súper chulo y es de estos libros que es difícil como hablar de él.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1124.78,
+   "fin": 1127.6,
+   "texto": "Pero os lo recomiendo un montón porque es súper interesante.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1128.12,
+   "fin": 1131.3999999999999,
+   "texto": "Y además hay algunas historias que sí que tienen como continuidad.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1131.4,
+   "fin": 1134.18,
+   "texto": "o sea, la autora presenta personajes que van apareciendo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1134.18,
+   "fin": 1136.66,
+   "texto": "y es súper chulo porque aparecen y desaparecen",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1136.66,
+   "fin": 1137.7,
+   "texto": "te mete entre medio",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1137.7,
+   "fin": 1140.8400000000001,
+   "texto": "hay una historia que hay dos personas desaparecidas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1140.8400000000001,
+   "fin": 1142.5400000000002,
+   "texto": "y no retoma la historia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1142.5400000000002,
+   "fin": 1143.98,
+   "texto": "hasta el final, entonces estás todo el libro",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1143.98,
+   "fin": 1146.3200000000002,
+   "texto": "esperando a ver si vuelven a aparecer en algún momento",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1146.3200000000002,
+   "fin": 1148.16,
+   "texto": "entonces es como muy interesante",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1148.16,
+   "fin": 1149.8200000000002,
+   "texto": "en cuanto a forma el libro",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1149.8200000000002,
+   "fin": 1152.0,
+   "texto": "y el contenido es chulísimo y ella escribe genial",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1152.0,
+   "fin": 1154.46,
+   "texto": "la novela, no como Ann Carson",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1154.46,
+   "fin": 1156.1200000000001,
+   "texto": "es una cosa que nosotros queríamos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1156.1200000000001,
+   "fin": 1157.8200000000002,
+   "texto": "que pasara y no ha pasado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1157.8200000000002,
+   "fin": 1159.9,
+   "texto": "pero bueno, yo que sé, deseando leer al otro señor",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1159.9,
+   "fin": 1163.5800000000002,
+   "texto": "que no conocíamos. Si alguien tiene recomendaciones de John Fosse, pues adelante.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1163.94,
+   "fin": 1169.76,
+   "texto": "Sí. Entonces, quería recuperar como un cachito concreto del libro que se llama",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1169.76,
+   "fin": 1173.92,
+   "texto": "Psicología de la isla, justamente, que es de lo que queríamos hablar en este episodio,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1174.3200000000002,
+   "fin": 1178.5400000000002,
+   "texto": "en el que se habla lo que significa la isla desde la mirada de la psicología del viaje,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1178.72,
+   "fin": 1182.9,
+   "texto": "que es una cosa como muy curiosa que ella trae mucho a lo largo de todo el libro.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1183.7800000000002,
+   "fin": 1188.52,
+   "texto": "Entonces, cuenta la autora que las islas representan un estado anterior, un estado temprano.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1188.52,
+   "fin": 1191.16,
+   "texto": "y dice, un estado mantenido",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1191.16,
+   "fin": 1192.92,
+   "texto": "dentro de las propias fronteras",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1192.92,
+   "fin": 1195.6,
+   "texto": "al que no trastornan las influencias externas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1195.6,
+   "fin": 1196.76,
+   "texto": "en cierto modo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1196.76,
+   "fin": 1199.1399999999999,
+   "texto": "recuerda al autismo y al narcisismo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1199.1399999999999,
+   "fin": 1201.86,
+   "texto": "toda necesidad es autosatisfecha",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1201.86,
+   "fin": 1203.28,
+   "texto": "y es muy interesante que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1203.28,
+   "fin": 1205.5,
+   "texto": "habla de la isla como una imagen",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1205.5,
+   "fin": 1207.16,
+   "texto": "del yo, que es lo que estábamos antes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1207.16,
+   "fin": 1208.84,
+   "texto": "hablando, de que no hay nada más que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1208.84,
+   "fin": 1211.04,
+   "texto": "lo propio, mientras que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1211.04,
+   "fin": 1213.3799999999999,
+   "texto": "lo de fuera sería el tú, el ellos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1213.3799999999999,
+   "fin": 1214.8799999999999,
+   "texto": "eso es muy interesante",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1214.8799999999999,
+   "fin": 1217.26,
+   "texto": "ha pasado un avión, es como bonito porque estoy hablando",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1217.26,
+   "fin": 1218.84,
+   "texto": "de ello. Como si, ¿cuál es el sonido del avión?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1218.96,
+   "fin": 1221.2,
+   "texto": "En mi grabación. No, pero está bien porque estamos hablando",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1221.2,
+   "fin": 1222.18,
+   "texto": "de eso. Lo tiro al suelo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1223.56,
+   "fin": 1225.3,
+   "texto": "Y luego, quería hablar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1225.3,
+   "fin": 1226.8,
+   "texto": "también de otro fragmentito que se llama,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1226.86,
+   "fin": 1229.32,
+   "texto": "algunos son súper cortitos así para que os hagáis una idea",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1229.32,
+   "fin": 1230.8799999999999,
+   "texto": "de cómo es el libro,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1231.2,
+   "fin": 1233.16,
+   "texto": "que se llama Líneas, superficies y",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1233.16,
+   "fin": 1234.58,
+   "texto": "poliedros. Y aquí",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1234.58,
+   "fin": 1236.82,
+   "texto": "se habla de una pintura holandesa,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1237.02,
+   "fin": 1238.76,
+   "texto": "que también volviéndolo de Bartes, que decía que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1238.76,
+   "fin": 1241.06,
+   "texto": "quería aprender a dibujar, dice",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1241.06,
+   "fin": 1243.12,
+   "texto": "que lo que importa para ella en esta pintura",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1243.12,
+   "fin": 1245.06,
+   "texto": "son los detalles, que cuando mira",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1245.06,
+   "fin": 1246.44,
+   "texto": "el cuadro no lo mira como",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1246.44,
+   "fin": 1249.38,
+   "texto": "en total, como la masa, como decía",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1249.38,
+   "fin": 1251.24,
+   "texto": "Barthes, sino que se da cuenta de que lo que le gusta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1251.24,
+   "fin": 1252.98,
+   "texto": "es ver una mano, un pie,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1253.38,
+   "fin": 1255.38,
+   "texto": "un bostezo, que esto recuerda muchísimo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1255.38,
+   "fin": 1256.5800000000002,
+   "texto": "al puntum, a la idea",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1256.5800000000002,
+   "fin": 1259.3400000000001,
+   "texto": "de Barthes en la cámara lúcida, que en este",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1259.3400000000001,
+   "fin": 1260.92,
+   "texto": "caso es para la fotografía,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1261.38,
+   "fin": 1262.94,
+   "texto": "pero bueno, Olga lo relaciona con",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1262.94,
+   "fin": 1264.38,
+   "texto": "la pintura y es muy interesante.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1265.06,
+   "fin": 1267.1000000000001,
+   "texto": "Y hay muchísimas historias, quería también",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1267.1000000000001,
+   "fin": 1268.76,
+   "texto": "para acabar con esto, contaros una,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1269.1200000000001,
+   "fin": 1271.06,
+   "texto": "que es el descubrimiento del tendón de Aquiles,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1271.24,
+   "fin": 1273.1200000000001,
+   "texto": "porque igual os ha parecido que el libro es como que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1273.1200000000001,
+   "fin": 1275.1200000000001,
+   "texto": "habla mucho de literatura, lenguaje y tal,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1275.12,
+   "fin": 1278.78,
+   "texto": "pero hay muchísimo como de anatomía en el libro.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1279.6599999999999,
+   "fin": 1281.6399999999999,
+   "texto": "Muchísimas de estas personas que no me acuerdo cómo se llaman,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1281.76,
+   "fin": 1285.0,
+   "texto": "que se dedican como a conservar trozos de cuerpos en botes con líquido.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1285.9799999999998,
+   "fin": 1286.3,
+   "texto": "Psicópatas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1286.9599999999998,
+   "fin": 1288.02,
+   "texto": "No, que es como un oficio.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1288.12,
+   "fin": 1290.58,
+   "texto": "No, que es broma, es broma. Yo que sé, no tengo ni idea de cómo se llama eso.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1290.6,
+   "fin": 1294.36,
+   "texto": "Bueno, pues hay mucho de eso que es sorprendente porque de repente te habla del lenguaje,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1294.4799999999998,
+   "fin": 1297.9799999999998,
+   "texto": "te habla del idioma, te hace una autobiografía en un momento dado, en un fragmento",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1297.9799999999998,
+   "fin": 1300.86,
+   "texto": "y de repente te habla del descubrimiento del tendón de Aquiles.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1300.86,
+   "fin": 1308.1399999999999,
+   "texto": "y entonces es muy interesante porque dice que en la época, en los años 1500, o sea, 1542",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1308.1399999999999,
+   "fin": 1312.84,
+   "texto": "es una época muy interesante porque aparecen los primeros capítulos de libros que van a ser fundamentales",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1312.84,
+   "fin": 1315.4399999999998,
+   "texto": "por ejemplo de Copérnico y de Vesalio",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1315.4399999999998,
+   "fin": 1319.4799999999998,
+   "texto": "y entonces ella señala que aunque fueron libros muy importantes no lo tenían todo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1319.4799999999998,
+   "fin": 1326.1399999999999,
+   "texto": "por ejemplo Copérnico le faltaba gran parte del sistema solar, se dejó a Urano, creo, en plan, yo que sé, se dejó a Urano",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1326.1399999999999,
+   "fin": 1330.1999999999998,
+   "texto": "y Vesalio también falló en su descripción del cuerpo humano",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1330.2,
+   "fin": 1332.4,
+   "texto": "y concretamente le faltó un tendón",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1332.4,
+   "fin": 1334.3400000000001,
+   "texto": "que es el que une la pantorrilla con el talón",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1334.3400000000001,
+   "fin": 1336.32,
+   "texto": "que se lo rompe mucha gente y creo que es como terrible",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1336.32,
+   "fin": 1338.44,
+   "texto": "espero no rompérmelo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1338.44,
+   "fin": 1340.5800000000002,
+   "texto": "como no me muevo ni corro ni nada pues no me lo voy a romper",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1340.5800000000002,
+   "fin": 1342.3400000000001,
+   "texto": "tienes que salir a hacer ejercicio",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1342.3400000000001,
+   "fin": 1343.0,
+   "texto": "ya te lo he dicho",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1343.0,
+   "fin": 1346.02,
+   "texto": "entonces fue Philip Verheyen",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1346.02,
+   "fin": 1348.5800000000002,
+   "texto": "quien lo dibujó y nombró en 1689",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1348.5800000000002,
+   "fin": 1350.3,
+   "texto": "completó ese espacio",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1350.3,
+   "fin": 1351.5800000000002,
+   "texto": "en blanco de conocimiento",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1351.5800000000002,
+   "fin": 1353.9,
+   "texto": "y es muy interesante que en el libro se describe la escena",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1353.9,
+   "fin": 1355.78,
+   "texto": "en la que está su discípulo con él",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1355.78,
+   "fin": 1358.32,
+   "texto": "y le dice mira, esto es el tendón",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1358.32,
+   "fin": 1359.8600000000001,
+   "texto": "de Aquiles y lo nombra",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1359.86,
+   "fin": 1361.24,
+   "texto": "y lo ha dibujado.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1361.62,
+   "fin": 1364.1799999999998,
+   "texto": "Y entonces el discípulo se queda como flipando",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1364.1799999999998,
+   "fin": 1366.58,
+   "texto": "diciendo cómo es posible que no hubiera nada en este sitio,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1366.6999999999998,
+   "fin": 1368.74,
+   "texto": "en plan, cómo pensábamos antes que estaba ligado todo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1369.36,
+   "fin": 1372.6999999999998,
+   "texto": "Y es como muy chulo plantear cómo funciona el pensamiento",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1372.6999999999998,
+   "fin": 1375.54,
+   "texto": "y el conocimiento y relacionar esto con el fragmento,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1375.74,
+   "fin": 1379.4599999999998,
+   "texto": "como esta cosa de tener claro que siempre te vas a dejar cosas,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1379.62,
+   "fin": 1381.8,
+   "texto": "aunque hagas un planteamiento fundamental,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1381.9399999999998,
+   "fin": 1384.24,
+   "texto": "pues como los de Copérnico, evidentemente con el tiempo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1384.24,
+   "fin": 1386.76,
+   "texto": "el pensamiento se va completando, se va actualizando",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1386.76,
+   "fin": 1388.28,
+   "texto": "y algunas cosas que ya no tienen sentido,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1388.28,
+   "fin": 1390.58,
+   "texto": "que esto también es lo que queríamos decir un poco",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1390.58,
+   "fin": 1392.62,
+   "texto": "la idea de la humildad intelectual, pensar que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1392.62,
+   "fin": 1394.36,
+   "texto": "nunca vas a cerrarlo todo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1394.36,
+   "fin": 1396.56,
+   "texto": "y el discípulo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1396.56,
+   "fin": 1398.6399999999999,
+   "texto": "decía, ni siquiera recuerdo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1398.6399999999999,
+   "fin": 1399.96,
+   "texto": "ya cómo era",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1399.96,
+   "fin": 1402.6399999999999,
+   "texto": "todo lo que estaba separado ahora está unido",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1402.6399999999999,
+   "fin": 1404.28,
+   "texto": "que también es muy bonito como esta cosa de",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1404.28,
+   "fin": 1406.84,
+   "texto": "él se emociona muchísimo, además el discípulo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1406.84,
+   "fin": 1408.62,
+   "texto": "cuentan en el libro que era como poeta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1408.62,
+   "fin": 1410.52,
+   "texto": "entonces todo esto le parecía como espectacular",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1410.52,
+   "fin": 1412.44,
+   "texto": "y entonces esto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1412.44,
+   "fin": 1414.7,
+   "texto": "escribió un poema como la Janet seguramente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1414.7,
+   "fin": 1415.74,
+   "texto": "sobre el tendón de Aquiles",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1415.74,
+   "fin": 1424.66,
+   "texto": "sobre las islas. Y entonces es muy interesante, de todo esto queríamos sacar la idea de que entre los fragmentos, entre las islas,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1424.84,
+   "fin": 1434.0,
+   "texto": "cabe movimiento, también puede darse el descubrimiento y la apertura para entender el conocimiento, el pensamiento, la literatura,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1434.5,
+   "fin": 1443.34,
+   "texto": "no como un cascote de tierra estanco, cerrado, donde no se puede entrar y que no puede ampliarse ni modularse, sino como algo abierto, a la deriva.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1443.34,
+   "fin": 1444.32,
+   "texto": "que nos gusta mucho",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1444.32,
+   "fin": 1445.6599999999999,
+   "texto": "también hemos encontrado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1445.6599999999999,
+   "fin": 1446.3,
+   "texto": "otro buen ejemplo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1446.3,
+   "fin": 1447.1,
+   "texto": "de todas estas ideas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1447.1,
+   "fin": 1448.3,
+   "texto": "de Barte sobre el fragmento",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1448.3,
+   "fin": 1449.06,
+   "texto": "en un libro que se llama",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1449.06,
+   "fin": 1450.04,
+   "texto": "Conjunto Vacío",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1450.04,
+   "fin": 1451.34,
+   "texto": "de Verónica Gerber-Bisecci",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1451.34,
+   "fin": 1452.28,
+   "texto": "que está publicado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1452.28,
+   "fin": 1453.1599999999999,
+   "texto": "en Pepitas de Calabaza",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1453.1599999999999,
+   "fin": 1453.6799999999998,
+   "texto": "que es una editorial",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1453.6799999999998,
+   "fin": 1454.34,
+   "texto": "muy amiga",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1454.34,
+   "fin": 1455.12,
+   "texto": "ay es que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1455.12,
+   "fin": 1456.24,
+   "texto": "claro es que es de La Rioja",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1456.24,
+   "fin": 1457.1,
+   "texto": "como yo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1457.1,
+   "fin": 1458.4199999999998,
+   "texto": "es que de que estamos lejos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1458.4199999999998,
+   "fin": 1459.34,
+   "texto": "tiene más sentido decir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1459.34,
+   "fin": 1459.56,
+   "texto": "sí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1459.56,
+   "fin": 1459.8999999999999,
+   "texto": "bueno",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1459.8999999999999,
+   "fin": 1461.02,
+   "texto": "entonces nos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1461.02,
+   "fin": 1462.52,
+   "texto": "bueno fue una recomendación",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1462.52,
+   "fin": 1464.06,
+   "texto": "que nos hizo Eudald Espluga",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1464.06,
+   "fin": 1464.8799999999999,
+   "texto": "que le mandamos un beso",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1464.8799999999999,
+   "fin": 1465.3,
+   "texto": "desde aquí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1465.3,
+   "fin": 1465.9199999999998,
+   "texto": "y muchas gracias",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1465.9199999999998,
+   "fin": 1466.3799999999999,
+   "texto": "porque la verdad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1466.3799999999999,
+   "fin": 1466.82,
+   "texto": "es que es un libro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1466.82,
+   "fin": 1467.56,
+   "texto": "muy muy chulo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1467.56,
+   "fin": 1469.34,
+   "texto": "y es un libro muy raro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1469.34,
+   "fin": 1470.1599999999999,
+   "texto": "y muy original",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1470.1599999999999,
+   "fin": 1470.8,
+   "texto": "que busca un poco",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1470.8,
+   "fin": 1471.8799999999999,
+   "texto": "como explorar los límites",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1471.8799999999999,
+   "fin": 1472.6599999999999,
+   "texto": "entre la literatura",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1472.66,
+   "fin": 1476.88,
+   "texto": "y el arte visual. La propia Gerber-Bisecchi se define como un artista visual que escribe.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1478.18,
+   "fin": 1482.3200000000002,
+   "texto": "Y entonces habla muchísimo de fragmentos. El libro son fragmentos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1482.48,
+   "fin": 1487.94,
+   "texto": "En plan, te cuenta una historia de manera bastante desordenada a partir de fragmentos muy cortitos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1488.16,
+   "fin": 1491.72,
+   "texto": "Y en el epílogo, que está también muy bien, explica cuál era el objetivo del libro.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1491.72,
+   "fin": 1496.94,
+   "texto": "Y dice, quería hacer una pieza que pudiera mostrar su desacuerdo con los ordenamientos tradicionales",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1496.94,
+   "fin": 1501.7,
+   "texto": "de lo que debe o no debe ser un libro, de lo que debe o no debe ser una pieza de arte visual.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1501.7,
+   "fin": 1503.1200000000001,
+   "texto": "o sea que ya como que se revela un poco",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1503.1200000000001,
+   "fin": 1506.2,
+   "texto": "y dice que el libro terminó siendo literalmente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1506.2,
+   "fin": 1508.04,
+   "texto": "literalmente ciencia ficción",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1508.04,
+   "fin": 1510.0,
+   "texto": "porque conjuga pasajes en prosa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1510.0,
+   "fin": 1511.92,
+   "texto": "la ficción, con dibujos basados",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1511.92,
+   "fin": 1513.88,
+   "texto": "en los diagramas de Venn, un tipo de dibujos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1513.88,
+   "fin": 1516.06,
+   "texto": "utilizado mucho en la teoría de conjuntos matemática",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1516.06,
+   "fin": 1517.8600000000001,
+   "texto": "que yo por supuesto no sabría explicar porque soy",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1517.8600000000001,
+   "fin": 1519.44,
+   "texto": "más de letras que el abecedario, o sea que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1519.44,
+   "fin": 1521.3,
+   "texto": "eso ya la gente que lo busque en Wikipedia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1521.3,
+   "fin": 1523.96,
+   "texto": "Evidentemente yo tampoco, por si alguien se pensaba",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1523.96,
+   "fin": 1526.1000000000001,
+   "texto": "que soy científica, no, solo pianista",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1526.1000000000001,
+   "fin": 1528.02,
+   "texto": "Aunque ahora grabamos en la casa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1528.02,
+   "fin": 1529.8400000000001,
+   "texto": "encendida el podcast en Madrid y pone",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1529.8400000000001,
+   "fin": 1530.98,
+   "texto": "laboratorio en la puerta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1530.98,
+   "fin": 1534.04,
+   "texto": "y yo cada día tengo un delirio de pensar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1534.04,
+   "fin": 1536.44,
+   "texto": "y estamos haciendo como experimentos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1536.46,
+   "fin": 1537.38,
+   "texto": "Sí, sí, seguro.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1538.46,
+   "fin": 1540.2,
+   "texto": "Y entonces, bueno, la primera frase del libro,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1540.28,
+   "fin": 1541.34,
+   "texto": "de conjunto vacío, dice",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1541.34,
+   "fin": 1544.0,
+   "texto": "Mi expediente amoroso es una colección de principios.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1544.18,
+   "fin": 1546.42,
+   "texto": "Lo cual, yo cuando lo leí, recordé mucho esta idea",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1546.42,
+   "fin": 1547.32,
+   "texto": "que hemos contado al principio,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1547.42,
+   "fin": 1549.64,
+   "texto": "de que a Bartheis le gustaba sobre todo escribir principios.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1549.92,
+   "fin": 1551.74,
+   "texto": "Y dice, muchos principios distintos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1551.74,
+   "fin": 1554.2,
+   "texto": "solo pueden ser sinónimo de muchos fracasos,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1554.32,
+   "fin": 1555.68,
+   "texto": "de narraciones mutiladas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1556.16,
+   "fin": 1559.06,
+   "texto": "Eso es lo que yo tengo, un listado de pedazos dispersos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1559.06,
+   "fin": 1561.34,
+   "texto": "y eso también me recuerda a lo que nos pasa hoy en día",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1561.34,
+   "fin": 1563.46,
+   "texto": "con las relaciones, que a veces tenemos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1563.46,
+   "fin": 1566.46,
+   "texto": "muchos principios, o casi principios",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1566.46,
+   "fin": 1567.52,
+   "texto": "muchos casi algos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1567.52,
+   "fin": 1569.6799999999998,
+   "texto": "que es algo que se comenta mucho últimamente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1569.6799999999998,
+   "fin": 1571.1,
+   "texto": "y como pocos finales",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1571.1,
+   "fin": 1573.96,
+   "texto": "bueno, por contaros un poquito de la novela",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1573.96,
+   "fin": 1575.56,
+   "texto": "que en parte me da como miedo hablar de ella",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1575.56,
+   "fin": 1577.48,
+   "texto": "porque creo que es mejor entrar sin saber nada",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1577.48,
+   "fin": 1579.58,
+   "texto": "pero bueno, la semilla de la novela es que la protagonista",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1579.58,
+   "fin": 1581.3999999999999,
+   "texto": "y la narradora, que no tiene nombre",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1581.3999999999999,
+   "fin": 1582.72,
+   "texto": "y se denomina a sí misma Jo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1582.72,
+   "fin": 1585.6799999999998,
+   "texto": "Jo con Y mayúscula",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1585.6799999999998,
+   "fin": 1587.6,
+   "texto": "rompe con su pareja y tiene que abandonar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1587.6,
+   "fin": 1593.4199999999998,
+   "texto": "muy rápido su casa y tiene que volver a casa de su madre. Entonces se abren ahí un misterio o varios",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1593.4199999999998,
+   "fin": 1597.56,
+   "texto": "misterios, la verdad es que varios misterios, porque se cuenta que la madre está desaparecida o se",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1597.56,
+   "fin": 1602.62,
+   "texto": "menciona la desaparición de la madre pero de una manera como muy particular. Es un libro muy curioso",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1602.62,
+   "fin": 1606.56,
+   "texto": "porque por detrás de la historia está todo el rato el tema del exilio argentino y de la dictadura,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1606.9399999999998,
+   "fin": 1612.28,
+   "texto": "que creo que tiene mucho sentido que el tema del exilio asome porque es un libro que está",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1612.28,
+   "fin": 1614.6399999999999,
+   "texto": "claramente construido con grietas, con silencios,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1614.76,
+   "fin": 1615.36,
+   "texto": "con huecos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1616.3999999999999,
+   "fin": 1618.6,
+   "texto": "De hecho, podríamos decir que el libro es casi un juego",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1618.6,
+   "fin": 1619.98,
+   "texto": "con el lector. Es una lectura",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1619.98,
+   "fin": 1622.06,
+   "texto": "muy, muy, muy lúdica.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1622.78,
+   "fin": 1624.7,
+   "texto": "Porque la historia está completamente desordenada",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1624.7,
+   "fin": 1626.6,
+   "texto": "y solo va tomando sentido a medida",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1626.6,
+   "fin": 1628.6,
+   "texto": "que avanzas. A veces tienes hasta como que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1628.6,
+   "fin": 1630.48,
+   "texto": "resolver mensajes,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1630.58,
+   "fin": 1632.56,
+   "texto": "te ponen como correos, mensajes de texto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1632.56,
+   "fin": 1634.2,
+   "texto": "que se mandan los",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1634.2,
+   "fin": 1636.5,
+   "texto": "protagonistas que están escritos en esto que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1636.5,
+   "fin": 1638.52,
+   "texto": "hacen los argentinos, que yo no entiendo nada, que es hablar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1638.52,
+   "fin": 1640.48,
+   "texto": "al revés, que es desordenar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1640.48,
+   "fin": 1642.32,
+   "texto": "las palabras. Y yo, ay Dios mío,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1642.3600000000001,
+   "fin": 1643.8,
+   "texto": "me tenéis que ver apuntando al lado,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1644.1200000000001,
+   "fin": 1645.98,
+   "texto": "diciendo, ¿qué está diciendo la personaje? Bueno,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1646.32,
+   "fin": 1647.6200000000001,
+   "texto": "está muy bien. Y luego también",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1647.6200000000001,
+   "fin": 1650.46,
+   "texto": "hablaba a oyentes que recuerden, hace tiempo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1650.46,
+   "fin": 1652.54,
+   "texto": "hicimos un episodio sobre la escritura",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1652.54,
+   "fin": 1654.46,
+   "texto": "sémica, que es una cosa que a",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1654.46,
+   "fin": 1656.48,
+   "texto": "Bartes le gustaba mucho y que un artista argentina",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1656.48,
+   "fin": 1658.38,
+   "texto": "que se llama Mirta Dermisache lo practicó",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1658.38,
+   "fin": 1660.74,
+   "texto": "mucho, que son como escrituras con signos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1660.74,
+   "fin": 1662.34,
+   "texto": "aparentemente aleatorios,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1662.46,
+   "fin": 1664.04,
+   "texto": "pero que quedan muy bien, luego son como cuadros.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1664.34,
+   "fin": 1666.3600000000001,
+   "texto": "Y en este libro aparece",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1666.3600000000001,
+   "fin": 1668.28,
+   "texto": "escritura sémica porque los personajes van a un museo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1668.28,
+   "fin": 1671.18,
+   "texto": "y dije, anda, mira, escritura sémica. Y luego llegué a los agradecimientos del libro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1671.18,
+   "fin": 1674.22,
+   "texto": "y una de las personas a las que Verónica agradece es a Mirta Desmissachi.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1674.34,
+   "fin": 1677.98,
+   "texto": "Entonces ya me confirmó lo que yo ya sabía, que eso era escritura sémica.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1678.82,
+   "fin": 1682.36,
+   "texto": "Es un libro en el que está también muy presente el tema de la autoficción y el tema de la apertura.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1682.8,
+   "fin": 1685.36,
+   "texto": "En el epílogo, Gerber-Bisecci escribe,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1685.36,
+   "fin": 1688.3999999999999,
+   "texto": "No encontré ninguna solución cuando escribí Conjunto Vacío,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1688.74,
+   "fin": 1694.1399999999999,
+   "texto": "pero al experimentar con la autoficción sí descubrí que el único camino posible es desenterrar las preguntas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1694.14,
+   "fin": 1705.0200000000002,
+   "texto": "Las respuestas a menudo son construcciones individuales y las preguntas, me parece, pueden llegar a configurarse como espacios en común, estados de irresolución permanente pero compartida.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1705.3200000000002,
+   "fin": 1719.64,
+   "texto": "Que es un poco volver a esta idea de Barthes de que la apertura es importante, que la irresolución, en contraposición a todos estos sistemas filosóficos grandes y estancos, pues existe esta otra manera de pensar, de dejar huecos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1719.98,
+   "fin": 1722.64,
+   "texto": "Hablando de apertura, ¿puedo comentar lo que está sucediendo?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1722.72,
+   "fin": 1723.46,
+   "texto": "¿Qué está sucediendo?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1723.46,
+   "fin": 1725.1200000000001,
+   "texto": "que estaba dando una charla",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1725.1200000000001,
+   "fin": 1727.82,
+   "texto": "el escritor de Call Me By Your Name",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1727.82,
+   "fin": 1729.14,
+   "texto": "nos ha contraprogramado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1729.14,
+   "fin": 1730.8400000000001,
+   "texto": "y entonces ahora",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1730.8400000000001,
+   "fin": 1733.4,
+   "texto": "se ha abierto, hay una apertura",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1733.4,
+   "fin": 1734.22,
+   "texto": "y una ola de gente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1734.22,
+   "fin": 1735.64,
+   "texto": "y como una orquesta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1735.64,
+   "fin": 1737.78,
+   "texto": "una trompeta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1737.78,
+   "fin": 1741.1000000000001,
+   "texto": "también queríamos hablaros de islas mitológicas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1741.1000000000001,
+   "fin": 1743.04,
+   "texto": "e islas literarias evidentemente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1743.04,
+   "fin": 1745.48,
+   "texto": "porque la mitología, es imposible hacer un episodio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1745.48,
+   "fin": 1747.92,
+   "texto": "de este programa sobre islas si no pensar en la mitología",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1747.92,
+   "fin": 1749.4,
+   "texto": "de hecho pensar en la mitología",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1749.4,
+   "fin": 1751.52,
+   "texto": "ha sido un poco calvario porque hay tantísimas islas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1751.52,
+   "fin": 1756.66,
+   "texto": "en la mitología que he dicho, es que no puedo contarlas todas. Entonces, las islas son lugares",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1756.66,
+   "fin": 1761.8799999999999,
+   "texto": "donde se producen metamorfosis y donde se producen raptos, donde los héroes y los dioses abandonan",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1761.8799999999999,
+   "fin": 1767.66,
+   "texto": "mujeres, donde brujas y ninfas secuestran a hombres. Teseo, por ejemplo, abandonar Ariadna en Naxos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1768.06,
+   "fin": 1772.84,
+   "texto": "De hecho, Roberto Calasso, en el libro maravilloso que tiene publicado Anagrama, que es Las bodas de",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1772.84,
+   "fin": 1779.3799999999999,
+   "texto": "Cadmo y Armonía, dice, es una playa abatida por las olas ensordecedoras, un lugar abstracto al que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1779.38,
+   "fin": 1781.48,
+   "texto": "solo acuden las algas. Es la isla que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1781.48,
+   "fin": 1783.5400000000002,
+   "texto": "nadie habita, el lugar de la obsesión",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1783.5400000000002,
+   "fin": 1785.4,
+   "texto": "circular del que no hay salida.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1785.7,
+   "fin": 1787.16,
+   "texto": "Todo ostenta la muerte.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1787.5,
+   "fin": 1789.6000000000001,
+   "texto": "Es el lugar del alma. Esto dice de Naxos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1790.22,
+   "fin": 1791.46,
+   "texto": "Que me ha recordado mucho una serie que hay",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1791.46,
+   "fin": 1793.18,
+   "texto": "en HBO, que no sé si habéis visto, que se llama",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1793.18,
+   "fin": 1795.5600000000002,
+   "texto": "El tercer día, que es una serie bastante creepy",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1795.5600000000002,
+   "fin": 1797.5800000000002,
+   "texto": "con Jude Law, que está guapísimo como siempre,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1798.0800000000002,
+   "fin": 1799.18,
+   "texto": "pero que da bastante yuyu",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1799.18,
+   "fin": 1801.22,
+   "texto": "y hay precisamente una isla también muy particular",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1801.22,
+   "fin": 1803.0,
+   "texto": "y los habitantes de la isla, que están todos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1803.0,
+   "fin": 1805.2800000000002,
+   "texto": "pinzados de la cabeza, dicen que es el alma",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1805.2800000000002,
+   "fin": 1807.2600000000002,
+   "texto": "del mundo, la isla. Entonces bueno,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1807.3600000000001,
+   "fin": 1809.14,
+   "texto": "ahí os lo dejo por si queréis pasar un poco de miedo, pero",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1809.14,
+   "fin": 1815.6200000000001,
+   "texto": "no mucho. Y volviendo luego a Calaso, Calaso dice que Teseo no es cruel por abandonar a Ariadna,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1815.74,
+   "fin": 1820.16,
+   "texto": "sino porque lo hace en la isla de Naxos. No la abandona en su casa, no la abandona ni siquiera",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1820.16,
+   "fin": 1825.1000000000001,
+   "texto": "en un lugar intermedio, dice, lo abandona en un lugar remoto. Podemos pensar también dónde está",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1825.1000000000001,
+   "fin": 1830.14,
+   "texto": "Odiseo cuando le vemos por primera vez en la odisea, en una isla. Está en una isla y llora",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1830.14,
+   "fin": 1835.2800000000002,
+   "texto": "en una isla, llora exactamente a la orilla de una cueva. Son todas estas palabras como orilla,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1835.28,
+   "fin": 1838.1,
+   "texto": "Isla Llanto, que nos remiten a lo líquido",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1838.1,
+   "fin": 1840.12,
+   "texto": "y también hemos traído",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1840.12,
+   "fin": 1842.0,
+   "texto": "un libro que nos ha gustado mucho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1842.0,
+   "fin": 1843.6,
+   "texto": "que es La guía de lugares imaginarios",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1843.6,
+   "fin": 1845.6,
+   "texto": "de Alberto Manguel y de Gianni Guadalupe",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1845.6,
+   "fin": 1847.92,
+   "texto": "que está publicada en Alianza, que es un libro muy chulo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1847.92,
+   "fin": 1849.98,
+   "texto": "que nos recomendó nuestro amigo Martín",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1849.98,
+   "fin": 1850.8999999999999,
+   "texto": "también un beso desde aquí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1850.8999999999999,
+   "fin": 1854.06,
+   "texto": "porque es una especie de diccionario de lugares imaginarios",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1854.06,
+   "fin": 1856.02,
+   "texto": "el título es bastante explicativo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1856.02,
+   "fin": 1857.28,
+   "texto": "de lo que es, ellos han cogido",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1857.28,
+   "fin": 1860.1,
+   "texto": "como lugares ficticios, lugares que aparecen",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1860.1,
+   "fin": 1861.8999999999999,
+   "texto": "en la literatura, en las películas incluso",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1861.8999999999999,
+   "fin": 1864.34,
+   "texto": "y han hecho como entradas de enciclopedia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1864.34,
+   "fin": 1866.4399999999998,
+   "texto": "entonces hay muchísimas islas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1866.4399999999998,
+   "fin": 1868.12,
+   "texto": "y una de ellas es Baleuta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1868.12,
+   "fin": 1869.9399999999998,
+   "texto": "del libro de Alexander",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1869.9399999999998,
+   "fin": 1872.24,
+   "texto": "Moskowski",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1872.24,
+   "fin": 1873.8999999999999,
+   "texto": "que se llama Las islas de la sabiduría",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1873.8999999999999,
+   "fin": 1875.54,
+   "texto": "que es un libro que no está traducido al español",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1875.54,
+   "fin": 1877.1599999999999,
+   "texto": "o por lo menos no hemos encontrado traducción",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1877.1599999999999,
+   "fin": 1879.48,
+   "texto": "está originalmente escrito en alemán",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1879.48,
+   "fin": 1880.6399999999999,
+   "texto": "y está traducido al inglés",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1880.6399999999999,
+   "fin": 1883.4599999999998,
+   "texto": "me ha dado pena porque hubiera molado de leerlo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1883.4599999999998,
+   "fin": 1884.9199999999998,
+   "texto": "pero no nos ha dado tiempo porque son todo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1884.9199999999998,
+   "fin": 1887.4399999999998,
+   "texto": "son una serie de expediciones a islas utópicas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1887.4399999999998,
+   "fin": 1889.62,
+   "texto": "y distópicas en las que el autor explora",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1889.62,
+   "fin": 1891.72,
+   "texto": "y satiriza qué pasaría si se implantaran",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1891.72,
+   "fin": 1893.9199999999998,
+   "texto": "de verdad algunas de las doctrinas sociopolíticas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1893.92,
+   "fin": 1895.02,
+   "texto": "de la filosofía occidental.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1895.24,
+   "fin": 1895.74,
+   "texto": "Por ejemplo,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1896.24,
+   "fin": 1897.3000000000002,
+   "texto": "en la isla de Baleuta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1897.3000000000002,
+   "fin": 1898.14,
+   "texto": "todo se rige",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1898.14,
+   "fin": 1899.14,
+   "texto": "según el ideal político",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1899.14,
+   "fin": 1899.8600000000001,
+   "texto": "de Platón.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1900.1200000000001,
+   "fin": 1900.38,
+   "texto": "¡Olé!",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1900.5800000000002,
+   "fin": 1901.02,
+   "texto": "Peligro.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1901.96,
+   "fin": 1902.6000000000001,
+   "texto": "Y se lleva a cabo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1902.6000000000001,
+   "fin": 1903.42,
+   "texto": "el ideal platónico",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1903.42,
+   "fin": 1904.18,
+   "texto": "en un estado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1904.18,
+   "fin": 1905.0,
+   "texto": "que está controlado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1905.0,
+   "fin": 1905.9,
+   "texto": "por filósofos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1905.9,
+   "fin": 1906.8000000000002,
+   "texto": "que aprenden a gobernar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1906.8000000000002,
+   "fin": 1908.14,
+   "texto": "en la universidad platónica.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1908.46,
+   "fin": 1908.96,
+   "texto": "O sea, tú y yo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1908.96,
+   "fin": 1909.96,
+   "texto": "gobernaríamos la isla.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1910.46,
+   "fin": 1911.02,
+   "texto": "No estaría mal",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1911.02,
+   "fin": 1911.8600000000001,
+   "texto": "una isla gobernada",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1911.8600000000001,
+   "fin": 1912.52,
+   "texto": "por tú y yo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1912.8600000000001,
+   "fin": 1913.54,
+   "texto": "Por tú y yo no,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1913.6200000000001,
+   "fin": 1914.38,
+   "texto": "pero por filósofos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1914.38,
+   "fin": 1914.8000000000002,
+   "texto": "sería terrible.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1914.8200000000002,
+   "fin": 1915.6200000000001,
+   "texto": "Somos filósofas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1915.7,
+   "fin": 1917.26,
+   "texto": "Ya, pero bien, ¿sabes?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1917.38,
+   "fin": 1918.04,
+   "texto": "Tenemos el título.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1918.24,
+   "fin": 1918.7,
+   "texto": "Bueno, tú no.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1918.8400000000001,
+   "fin": 1919.26,
+   "texto": "Bueno, cállate.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1919.26,
+   "fin": 1920.04,
+   "texto": "Que no has ido por él.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1920.04,
+   "fin": 1921.86,
+   "texto": "yo no quiero pagar ese título",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1921.86,
+   "fin": 1924.18,
+   "texto": "yo ya estoy lanzada a la vida",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1924.18,
+   "fin": 1924.98,
+   "texto": "no he dicho el título para nada",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1924.98,
+   "fin": 1926.1,
+   "texto": "ay que ayer fue tu cumple",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1926.1,
+   "fin": 1930.0,
+   "texto": "puede la Universidad Autónoma de Madrid regalarle a Paula",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1930.0,
+   "fin": 1930.94,
+   "texto": "su título",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1930.94,
+   "fin": 1932.36,
+   "texto": "por mi 27 cumpleaños",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1932.36,
+   "fin": 1933.52,
+   "texto": "estaría genial",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1933.52,
+   "fin": 1937.36,
+   "texto": "bueno en esta isla de Baleuta gobernada por filósofos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1937.36,
+   "fin": 1939.48,
+   "texto": "hay un ministerio de ética trascendente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1939.48,
+   "fin": 1940.12,
+   "texto": "por ejemplo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1940.12,
+   "fin": 1941.48,
+   "texto": "es que es todo terrible",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1941.48,
+   "fin": 1945.06,
+   "texto": "y por supuesto los poetas han sido expulsados de la isla",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1945.06,
+   "fin": 1947.48,
+   "texto": "mucha gente que está aquí en el festival participando",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1947.48,
+   "fin": 1948.42,
+   "texto": "no podría estar en esta isla",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1948.42,
+   "fin": 1949.5600000000002,
+   "texto": "ya son todos poetas, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1949.8000000000002,
+   "fin": 1950.96,
+   "texto": "Y en medio de la plaza principal",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1950.96,
+   "fin": 1951.5,
+   "texto": "de la capital",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1951.5,
+   "fin": 1952.88,
+   "texto": "hay una estatua gigantesca",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1952.88,
+   "fin": 1953.3000000000002,
+   "texto": "de bronce",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1953.3000000000002,
+   "fin": 1954.5,
+   "texto": "que representa a Kant",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1954.5,
+   "fin": 1955.72,
+   "texto": "subido en los hombros de Platón.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1955.88,
+   "fin": 1956.64,
+   "texto": "Es que...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1956.64,
+   "fin": 1957.74,
+   "texto": "Te encantaría esto, ¿verdad?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1957.98,
+   "fin": 1958.92,
+   "texto": "Es espectacular.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1959.38,
+   "fin": 1960.3400000000001,
+   "texto": "Como para bombardearlo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1960.3400000000001,
+   "fin": 1961.0800000000002,
+   "texto": "con la bola esta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1961.0800000000002,
+   "fin": 1961.98,
+   "texto": "de Miley Cyrus,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1962.16,
+   "fin": 1962.9,
+   "texto": "¿sabes?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1963.1000000000001,
+   "fin": 1964.14,
+   "texto": "¿Cómo se llama eso?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1964.3400000000001,
+   "fin": 1965.66,
+   "texto": "No sé, la Wrecking Ball.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1965.96,
+   "fin": 1967.42,
+   "texto": "Sí, bombardeando a Kant.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1967.78,
+   "fin": 1968.74,
+   "texto": "Sería como bonito.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1969.48,
+   "fin": 1970.0,
+   "texto": "Ay, de verdad.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1970.16,
+   "fin": 1970.98,
+   "texto": "Que está muerto,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1971.1200000000001,
+   "fin": 1972.16,
+   "texto": "que no puede venir en plan...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1972.16,
+   "fin": 1972.98,
+   "texto": "Nos van a matar en plan",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1972.98,
+   "fin": 1974.18,
+   "texto": "como en Twitter filosofía.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1974.3000000000002,
+   "fin": 1975.04,
+   "texto": "Bueno, no está de igual.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1975.5,
+   "fin": 1976.14,
+   "texto": "Luego también",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1976.14,
+   "fin": 1977.3200000000002,
+   "texto": "os quería leer la entrada",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1977.3200000000002,
+   "fin": 1978.0,
+   "texto": "que es muy cortita",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1978.0,
+   "fin": 1979.7,
+   "texto": "de la isla de Cavalusa que dice",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1979.7,
+   "fin": 1981.72,
+   "texto": "Isla situada en el Atlántico",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1981.72,
+   "fin": 1983.98,
+   "texto": "poblada por mujeres feroces que en lugar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1983.98,
+   "fin": 1985.82,
+   "texto": "de piernas tienen cascos de asno",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1985.82,
+   "fin": 1987.92,
+   "texto": "y que son antropófagas, es decir, que comen",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1987.92,
+   "fin": 1989.86,
+   "texto": "carne humana. El desafortunado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1989.86,
+   "fin": 1991.58,
+   "texto": "viajero que desembarque en Cavalusa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1991.58,
+   "fin": 1993.94,
+   "texto": "tendrá primero que acostarse con sus",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1993.94,
+   "fin": 1995.64,
+   "texto": "habitantes, quienes a continuación",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1995.64,
+   "fin": 1997.52,
+   "texto": "lo obligarán a beber hasta emborracharse",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1997.52,
+   "fin": 1999.24,
+   "texto": "y por último se lo comerán.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1999.68,
+   "fin": 2002.04,
+   "texto": "Genial. Me gusta esa isla.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2002.6,
+   "fin": 2003.6,
+   "texto": "Queremos ir, queremos ir.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2003.78,
+   "fin": 2005.14,
+   "texto": "Me encanta que esta isla",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2005.14,
+   "fin": 2007.92,
+   "texto": "la describe Luciano",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2007.92,
+   "fin": 2010.6000000000001,
+   "texto": "de Samosata en un libro que se llama Relatos Verídicos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2010.8600000000001,
+   "fin": 2011.54,
+   "texto": "100% verídico.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2011.5600000000002,
+   "fin": 2013.1200000000001,
+   "texto": "Estoy como diciendo, sí, esto ha pasado.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2013.68,
+   "fin": 2017.2,
+   "texto": "Sí, y queríamos hablar ahora, yéndonos bastante como a otro sitio,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2017.64,
+   "fin": 2020.76,
+   "texto": "de Primera Memoria, que es una novela de Ana María Matute",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2020.76,
+   "fin": 2023.8600000000001,
+   "texto": "que forma parte de la trilogía Los Mercaderes,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2023.96,
+   "fin": 2027.42,
+   "texto": "esta primera memoria, Los soldados lloran de noche y La trampa.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2027.94,
+   "fin": 2030.3400000000001,
+   "texto": "Y es interesante que está relacionada con su novela anterior",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2030.3400000000001,
+   "fin": 2033.1200000000001,
+   "texto": "que se llama Los Abel, que la escribió en 1945",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2033.1200000000001,
+   "fin": 2037.2,
+   "texto": "y recoge en todos estos libros algunos motivos como muy relevantes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2037.2,
+   "fin": 2043.4,
+   "texto": "que recorren toda su obra y que son muy interesantes, como el enfrentamiento entre familias, los efectos de la guerra civil,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2043.9,
+   "fin": 2048.98,
+   "texto": "el mundo infantil enfrentado al mundo adulto, la soledad de los personajes infantiles, que es muy chulo,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2049.08,
+   "fin": 2054.56,
+   "texto": "porque me recordaba un poco como a Andrés Barba y todo esto que siempre hablamos de los niños como personajes relevantes,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2054.62,
+   "fin": 2056.2,
+   "texto": "que no hay que tratarles como si fueran tontos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2056.86,
+   "fin": 2059.68,
+   "texto": "Relevantes y complejos, sí, en la literatura, que es difícil hacerlo bien.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2060.02,
+   "fin": 2064.38,
+   "texto": "Y para leer sobre primera memoria utilicé una tesis doctoral, por supuesto.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2064.38,
+   "fin": 2067.4,
+   "texto": "Ya aprovecho, si alguien quiere mandarme su tesis doctoral, esto lo digo siempre.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2067.46,
+   "fin": 2069.02,
+   "texto": "Por favor, no nos petéis el correo con tesis doctoral.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2069.02,
+   "fin": 2070.12,
+   "texto": "Es que las disfruto mucho.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2070.1400000000003,
+   "fin": 2070.48,
+   "texto": "Te lo pido.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2070.6600000000003,
+   "fin": 2071.84,
+   "texto": "Mi género favorito.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2071.86,
+   "fin": 2073.02,
+   "texto": "Son buenísimas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2073.28,
+   "fin": 2073.48,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2074.1600000000003,
+   "fin": 2078.28,
+   "texto": "Que se llama la tesis, la novela de formación en la narrativa española contemporánea",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2078.28,
+   "fin": 2082.1800000000003,
+   "texto": "escrita por mujeres, que es de Aranzazú Somaya y la hizo en la Universidad de Barcelona.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2082.8,
+   "fin": 2086.6,
+   "texto": "Y es muy interesante porque comenta un poco, la historia es Matia,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2086.76,
+   "fin": 2089.44,
+   "texto": "que es una niña que está en ese paso de la adolescencia,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2089.86,
+   "fin": 2093.58,
+   "texto": "que se encuentra aislada durante los meses que siguen al estallido de la guerra civil.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2094.14,
+   "fin": 2097.8199999999997,
+   "texto": "Entonces ella está en casa de su abuela, que además es muy chulo porque es una casa,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2097.98,
+   "fin": 2102.22,
+   "texto": "no se nombra en qué isla está, pero es una isla del Mediterráneo y es Mallorca,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2102.34,
+   "fin": 2104.5,
+   "texto": "pero no se nombra como tal.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2105.22,
+   "fin": 2109.44,
+   "texto": "Y tanto ella como su primo están abocados como a una especie de verano interminable,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2109.44,
+   "fin": 2114.44,
+   "texto": "porque ellos pensaban volver a sus colegios en la península, pero ha estallado la guerra civil,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2114.56,
+   "fin": 2118.08,
+   "texto": "a la vez la guerra civil es una cosa lejana todavía porque está en la península",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2118.08,
+   "fin": 2122.24,
+   "texto": "y te cuenta un poco cómo se vive desde la casa insular todo esto.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2122.24,
+   "fin": 2128.58,
+   "texto": "Y la isla, en todo lo que hemos estado hablando, refleja siempre como la soledad, el aislamiento.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2129.14,
+   "fin": 2135.3799999999997,
+   "texto": "También hay como, la novela está dividida en cuatro partes, está narrada en primera persona, pero mete voces distintas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2135.68,
+   "fin": 2145.58,
+   "texto": "Una está como más pegada a la realidad, que se narra, que sería la matia niña, y luego está la matia adulta, que lo hace como desde la lejanía del tiempo, desde el recuerdo,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2145.58,
+   "fin": 2148.7999999999997,
+   "texto": "y que además tiene comentarios entre paréntesis para separar.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2148.88,
+   "fin": 2151.2599999999998,
+   "texto": "Esto lo hacía la Annie también, la mejor.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2151.44,
+   "fin": 2153.48,
+   "texto": "Que no ha ganado el Nobel otra vez porque ya lo ha ganado.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2154.7,
+   "fin": 2156.42,
+   "texto": "No se lo puede volver a dar, por desgracia.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2156.8199999999997,
+   "fin": 2160.48,
+   "texto": "Os queríamos traer un cachito de la novela que habla del odio,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2160.62,
+   "fin": 2163.18,
+   "texto": "que es uno de los grandes temas, porque está hablando de la guerra civil,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2163.2999999999997,
+   "fin": 2167.48,
+   "texto": "del enfrentamiento entre familias, de cómo se encuentran a una de las primeras personas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2167.48,
+   "fin": 2170.16,
+   "texto": "que muere debido al enfrentamiento en la isla.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2170.16,
+   "fin": 2176.2999999999997,
+   "texto": "y dice, el odio, recuerdo bien, alimentaba como una gran raíz el vivir del pueblo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2176.8599999999997,
+   "fin": 2183.3999999999996,
+   "texto": "El odio estallaba en medio del silencio, como el sol, como un ojo congestionado y sangriento a través de la bruma.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2183.96,
+   "fin": 2189.2,
+   "texto": "Siempre, ahí en la isla, me pareció siniestro el sol, que pulía las piedras de la plaza",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2189.2,
+   "fin": 2195.2999999999997,
+   "texto": "y las dejaba brillantes y resbaladizas como huesos o como un marfil maligno y extraño.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2195.92,
+   "fin": 2196.7,
+   "texto": "Qué bonito.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2197.04,
+   "fin": 2200.02,
+   "texto": "Así que recomiendo mucho la mejor Ana María Matute, simplemente.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2200.16,
+   "fin": 2201.8799999999997,
+   "texto": "y ahora queríamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2201.8799999999997,
+   "fin": 2203.46,
+   "texto": "pasar como a la sección",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2203.46,
+   "fin": 2204.2599999999998,
+   "texto": "que nos hemos inventado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2204.2599999999998,
+   "fin": 2204.7799999999997,
+   "texto": "que son las",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2204.7799999999997,
+   "fin": 2206.0,
+   "texto": "que es pensar la isla",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2206.0,
+   "fin": 2206.7599999999998,
+   "texto": "como soledad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2206.7599999999998,
+   "fin": 2208.3799999999997,
+   "texto": "y hablar de las islas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2208.3799999999997,
+   "fin": 2208.8399999999997,
+   "texto": "remotas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2208.8399999999997,
+   "fin": 2209.46,
+   "texto": "porque las islas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2209.46,
+   "fin": 2210.2,
+   "texto": "o sea hemos hablado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2210.2,
+   "fin": 2210.7799999999997,
+   "texto": "como así",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2210.7799999999997,
+   "fin": 2211.96,
+   "texto": "de la parte más",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2211.96,
+   "fin": 2212.56,
+   "texto": "mística",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2212.56,
+   "fin": 2213.18,
+   "texto": "poético",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2213.18,
+   "fin": 2213.72,
+   "texto": "literaria",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2213.72,
+   "fin": 2214.7799999999997,
+   "texto": "pero también podemos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2214.7799999999997,
+   "fin": 2215.98,
+   "texto": "pensar en las islas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2215.98,
+   "fin": 2216.8199999999997,
+   "texto": "como aislamiento",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2216.8199999999997,
+   "fin": 2217.8599999999997,
+   "texto": "por ejemplo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2217.8599999999997,
+   "fin": 2218.64,
+   "texto": "Nucci Ordine",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2218.64,
+   "fin": 2219.62,
+   "texto": "eligió precisamente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2219.62,
+   "fin": 2220.3799999999997,
+   "texto": "el título de",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2220.3799999999997,
+   "fin": 2221.66,
+   "texto": "los hombres no son islas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2221.66,
+   "fin": 2223.24,
+   "texto": "para uno de los ensayos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2223.24,
+   "fin": 2224.3399999999997,
+   "texto": "en los que habla",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2224.3399999999997,
+   "fin": 2225.1,
+   "texto": "sobre la importancia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2225.1,
+   "fin": 2225.72,
+   "texto": "de los clásicos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2225.72,
+   "fin": 2226.2999999999997,
+   "texto": "y como estos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2226.2999999999997,
+   "fin": 2227.3199999999997,
+   "texto": "nos pueden ayudar a vivir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2227.3199999999997,
+   "fin": 2228.16,
+   "texto": "ese es el subtítulo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2228.16,
+   "fin": 2228.64,
+   "texto": "que tiene",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2228.64,
+   "fin": 2229.3199999999997,
+   "texto": "que está publicado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2229.3199999999997,
+   "fin": 2229.92,
+   "texto": "en Acantilado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2229.92,
+   "fin": 2233.7200000000003,
+   "texto": "y en la introducción al libro se hace una reflexión sobre el mar como trampa mortal",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2233.7200000000003,
+   "fin": 2236.66,
+   "texto": "y sobre el peligro de aislarnos como individuos y como sociedades,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2236.7400000000002,
+   "fin": 2238.9,
+   "texto": "sobre todo esto último, el tema de las sociedades.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2239.6,
+   "fin": 2243.16,
+   "texto": "Y habla, por ejemplo, de la crueldad contra los migrantes y contra los extranjeros,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2243.2000000000003,
+   "fin": 2247.28,
+   "texto": "porque el mar, como todas sabemos, para quien huye del horror puede ser una trampa mortal",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2247.28,
+   "fin": 2251.16,
+   "texto": "y una isla puede ser el primer atisbo de esperanza, podemos pensarlo también así.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2251.84,
+   "fin": 2255.28,
+   "texto": "Concebir los países y las sociedades como islas independientes nos lleva a mirar hacia otro lado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2255.28,
+   "fin": 2257.9,
+   "texto": "cuando se producen desgracias al otro lado de nuestras fronteras.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2257.9,
+   "fin": 2260.34,
+   "texto": "y de hecho Ordine saca el título de este libro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2260.34,
+   "fin": 2262.1,
+   "texto": "de una frase de John Donne",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2262.1,
+   "fin": 2264.02,
+   "texto": "que es un poeta inglés del siglo XVI, XVII",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2264.02,
+   "fin": 2266.1,
+   "texto": "que dice, no man is an island",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2266.1,
+   "fin": 2267.6,
+   "texto": "ningún hombre es una isla",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2267.6,
+   "fin": 2268.88,
+   "texto": "que tiene mucha razón",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2268.88,
+   "fin": 2272.14,
+   "texto": "y dice Ordine, la metáfora geográfica nos hace ver",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2272.14,
+   "fin": 2274.02,
+   "texto": "aquello que no se alcanza a percibir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2274.02,
+   "fin": 2276.1600000000003,
+   "texto": "en medio del remolino del egoísmo cotidiano",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2276.1600000000003,
+   "fin": 2278.2400000000002,
+   "texto": "que un hombre, es decir, un universo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2278.2400000000002,
+   "fin": 2279.86,
+   "texto": "es todas las cosas del universo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2279.86,
+   "fin": 2282.14,
+   "texto": "está hablando como de esta idea de los hombres interconectados",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2282.14,
+   "fin": 2284.1600000000003,
+   "texto": "entre sí y no aislados",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2284.1600000000003,
+   "fin": 2286.5,
+   "texto": "y Ordine y John Donne",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2286.5,
+   "fin": 2290.98,
+   "texto": "escriben, por tanto, contra los hombres isla, que es un concepto que se menciona también en la introducción.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2291.44,
+   "fin": 2296.58,
+   "texto": "Y este textito, que está al principio de todos estos ensayos sobre otros libros y otros clásicos,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2296.96,
+   "fin": 2300.4,
+   "texto": "es un alegato también contra la xenofobia y contra las terribles consignas anti-inmigración",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2300.4,
+   "fin": 2303.04,
+   "texto": "de los partidos de extrema derecha, y de hecho él lo dice como explícitamente.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2303.8,
+   "fin": 2306.66,
+   "texto": "Y también nos puede servir para pensar varias cosas más.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2306.9,
+   "fin": 2310.8,
+   "texto": "Sí, en el capítulo de Ligar, y más o menos siete millones de veces,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2311.02,
+   "fin": 2313.84,
+   "texto": "hemos hablado de un texto que luego voy a hacer como Isabel Calderón,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2313.84,
+   "fin": 2315.7400000000002,
+   "texto": "decir, que nadie más me pregunte por Instagram",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2315.7400000000002,
+   "fin": 2317.88,
+   "texto": "cómo se llama este texto, que es",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2317.88,
+   "fin": 2319.84,
+   "texto": "sobre aislacionismo amoroso, que es",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2319.84,
+   "fin": 2321.5,
+   "texto": "de Rain, dilo tú Paula",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2321.5,
+   "fin": 2323.6200000000003,
+   "texto": "Rain y Fisher Kwan, es que no",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2323.6200000000003,
+   "fin": 2325.44,
+   "texto": "es un trauma que tengo, es que en realidad",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2325.44,
+   "fin": 2327.5,
+   "texto": "nunca decimos el título, es culpa nuestra",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2327.5,
+   "fin": 2329.54,
+   "texto": "está en inglés todo esto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2329.54,
+   "fin": 2332.0,
+   "texto": "está en inglés el sub-stack, bueno, yo que sé, lo colgaremos por ahí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2332.0,
+   "fin": 2333.54,
+   "texto": "entonces, a través de este texto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2333.54,
+   "fin": 2335.6800000000003,
+   "texto": "y de otras cosas, podemos pensar como en un",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2335.6800000000003,
+   "fin": 2337.78,
+   "texto": "aislacionismo más social, como decía Paula",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2337.78,
+   "fin": 2339.2400000000002,
+   "texto": "contra el extranjero, por ejemplo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2339.2400000000002,
+   "fin": 2341.78,
+   "texto": "y también urbanístico, que esto es muy interesante",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2341.78,
+   "fin": 2343.6800000000003,
+   "texto": "pensar la relación entre la isla",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2343.68,
+   "fin": 2350.96,
+   "texto": "y la ciudad. Los guetos son islas dentro de la ciudad, un PAU, claro aquí tengo que citar a la mejor persona de España,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2351.54,
+   "fin": 2356.56,
+   "texto": "que es Jorge Diony López, que tiene un libro que hemos citado más veces que este de laislacionismo todavía,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2356.98,
+   "fin": 2362.46,
+   "texto": "que son la España de las piscinas y el malestar de las ciudades, que son ensayos sobre la planificación urbanística,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2362.64,
+   "fin": 2369.1,
+   "texto": "sobre la ciudad, sobre la periferia. Entonces un PAU, que es el modelo del que él habla, que son como estas urbanizaciones",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2369.1,
+   "fin": 2372.68,
+   "texto": "o zonas residenciales, la urba, que lo dicen los pijos de Madrid,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2372.88,
+   "fin": 2375.7799999999997,
+   "texto": "que tienes piscina y pista de pádel en casa, todo esto.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2376.2,
+   "fin": 2378.6,
+   "texto": "Entonces esto puede ser también una isla dentro de la ciudad,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2379.1,
+   "fin": 2382.62,
+   "texto": "un lugar del que no necesitas salir, en el que todo está ahí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2383.06,
+   "fin": 2387.0,
+   "texto": "Y aquí Jorge Diony habla de cómo estos lugares no tienen servicios públicos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2387.1,
+   "fin": 2389.46,
+   "texto": "no tienen hospitales públicos, no tienen escuelas públicas,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2389.46,
+   "fin": 2394.16,
+   "texto": "sino que todo depende de lo privado, la sanidad privada, la educación privada y todo esto.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2394.2799999999997,
+   "fin": 2397.18,
+   "texto": "Y también el transporte privado, que se ha hecho muy viral estos días,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2397.18,
+   "fin": 2400.48,
+   "texto": "los atascos que está habiendo como en este tipo de urbanizaciones en Madrid,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2400.64,
+   "fin": 2404.48,
+   "texto": "el Cañaveral, puede ser algo así, donde claro, como no hay planificación urbanística",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2404.48,
+   "fin": 2407.5,
+   "texto": "y tampoco hay transporte público, pues es como todo un caos, porque es terrible.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2408.1,
+   "fin": 2411.48,
+   "texto": "Y luego también, aparte del aislacionismo social, el individual,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2412.12,
+   "fin": 2414.56,
+   "texto": "como forma de protección ante las relaciones con los otros,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2414.8999999999996,
+   "fin": 2417.24,
+   "texto": "o como una manera de dejar de ver a los demás.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2417.44,
+   "fin": 2420.3199999999997,
+   "texto": "Hemos hablado de este tema muchas veces, sobre los espacios,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2420.7599999999998,
+   "fin": 2424.8799999999997,
+   "texto": "sobre la importancia de los encuentros casuales en el ascensor, en la peluquería,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2424.88,
+   "fin": 2430.2000000000003,
+   "texto": "o en las ciudades modernas, que son lugares donde es muy fácil aislarte.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2430.58,
+   "fin": 2433.04,
+   "texto": "Y lo importante que es siempre el contacto con los demás,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2433.1800000000003,
+   "fin": 2436.96,
+   "texto": "en el plano individual de las relaciones personales, pero también en el plano social.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2437.54,
+   "fin": 2441.1,
+   "texto": "Y también es interesante pensar en todo esto cuando estamos hablando de las islas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2441.12,
+   "fin": 2441.86,
+   "texto": "De las islas, sí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2442.5,
+   "fin": 2446.12,
+   "texto": "Y luego, siguiendo un poco con la intro de Ordine, Ordine cuenta que Francis Bacon,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2446.12,
+   "fin": 2449.12,
+   "texto": "que también fue un señor inglés importante en los siglos XVI y XVII,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2449.6800000000003,
+   "fin": 2452.02,
+   "texto": "recoge esta imagen insular que propone Don",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2452.02,
+   "fin": 2455.12,
+   "texto": "y la incluye en una edición ampliada de sus ensayos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2455.12,
+   "fin": 2457.16,
+   "texto": "y Bacon hace una reflexión sobre la importancia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2457.16,
+   "fin": 2458.5,
+   "texto": "de la bondad en las personas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2459.06,
+   "fin": 2461.2,
+   "texto": "Lo digo porque tiene mucho que ver con todo esto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2461.2,
+   "fin": 2463.9,
+   "texto": "que estamos diciendo contra el aislacionismo individual.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2464.24,
+   "fin": 2466.1,
+   "texto": "Porque para Bacon, dice, es necesario",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2466.1,
+   "fin": 2468.22,
+   "texto": "buscar el bien de los demás, pero evitando",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2468.22,
+   "fin": 2470.56,
+   "texto": "esclavizarse a sus apariencias o ficciones.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2470.88,
+   "fin": 2473.18,
+   "texto": "Esto está muy bien como en plan para la vida también.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2473.38,
+   "fin": 2475.74,
+   "texto": "Es como una frase de autoayuda en una taza.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2476.46,
+   "fin": 2478.6,
+   "texto": "Y dice, si un hombre es generoso y cortés",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2478.6,
+   "fin": 2481.12,
+   "texto": "con los extranjeros, eso demuestra que es ciudadano",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2481.12,
+   "fin": 2482.7599999999998,
+   "texto": "de mundo y que su corazón no está",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2482.7599999999998,
+   "fin": 2484.88,
+   "texto": "aislado de otras tierras, sino que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2484.88,
+   "fin": 2486.8199999999997,
+   "texto": "forma parte con ellas de un continente.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2487.22,
+   "fin": 2488.8599999999997,
+   "texto": "O sea, que vemos aquí que también, incluso para",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2488.8599999999997,
+   "fin": 2490.9,
+   "texto": "hablar como de cómo nos relacionamos con los otros",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2490.9,
+   "fin": 2492.94,
+   "texto": "y también en sociedad, se utiliza",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2492.94,
+   "fin": 2494.7799999999997,
+   "texto": "como en este motivo literario de la isla, del",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2494.7799999999997,
+   "fin": 2496.3599999999997,
+   "texto": "continente, de la tierra firme, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2496.68,
+   "fin": 2498.8399999999997,
+   "texto": "Y esto nos ha recordado mucho a una peli",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2498.8399999999997,
+   "fin": 2500.7599999999998,
+   "texto": "que fuimos a ver hace poco al cine, que es Chinas,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2500.7999999999997,
+   "fin": 2502.44,
+   "texto": "de Arantxa Echevarría, que la tenéis",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2502.44,
+   "fin": 2504.7999999999997,
+   "texto": "ya en salas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2505.0,
+   "fin": 2506.8599999999997,
+   "texto": "¿O es mañana? Es ayer.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2507.08,
+   "fin": 2508.58,
+   "texto": "Pero como esto se va a sacar, Inés,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2508.7,
+   "fin": 2510.24,
+   "texto": "nada, no lo haríais. Ah, claro, claro, perdón.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2510.24,
+   "fin": 2511.54,
+   "texto": "estamos en el futuro",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2511.54,
+   "fin": 2511.8999999999996,
+   "texto": "ahora mismo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2511.8999999999996,
+   "fin": 2512.12,
+   "texto": "es verdad",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2512.12,
+   "fin": 2512.8999999999996,
+   "texto": "vale sí ya está",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2512.8999999999996,
+   "fin": 2513.2599999999998,
+   "texto": "ya está",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2513.2599999999998,
+   "fin": 2514.5,
+   "texto": "menos en La Rioja",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2514.5,
+   "fin": 2515.4599999999996,
+   "texto": "voy a hacer una reivindicación",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2515.4599999999996,
+   "fin": 2516.4599999999996,
+   "texto": "que no llega",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2516.4599999999996,
+   "fin": 2517.54,
+   "texto": "ni una sola película",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2517.54,
+   "fin": 2518.66,
+   "texto": "mi madre no puede ver",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2518.66,
+   "fin": 2519.4599999999996,
+   "texto": "las chicas están bien",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2519.4599999999996,
+   "fin": 2520.3999999999996,
+   "texto": "no puede ver Criatura",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2520.3999999999996,
+   "fin": 2521.3599999999997,
+   "texto": "esto es terrible",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2521.3599999999997,
+   "fin": 2521.8999999999996,
+   "texto": "ya está",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2521.8999999999996,
+   "fin": 2522.3799999999997,
+   "texto": "es verdad",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2522.3799999999997,
+   "fin": 2523.4599999999996,
+   "texto": "mi madre está planteándose",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2523.4599999999996,
+   "fin": 2524.0,
+   "texto": "yendo a",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2524.0,
+   "fin": 2525.04,
+   "texto": "y en plan irse a Pamplona",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2525.04,
+   "fin": 2525.4599999999996,
+   "texto": "una tarde",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2525.4599999999996,
+   "fin": 2526.4199999999996,
+   "texto": "a ver las chicas están bien",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2526.4199999999996,
+   "fin": 2527.3399999999997,
+   "texto": "que alguien le pague",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2527.3399999999997,
+   "fin": 2528.2999999999997,
+   "texto": "la gasolina a mi madre",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2528.2999999999997,
+   "fin": 2529.68,
+   "texto": "bono cultural",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2529.68,
+   "fin": 2530.74,
+   "texto": "Pedro Sánchez",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2530.74,
+   "fin": 2531.9399999999996,
+   "texto": "paga la gasolina de Puy",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2531.9399999999996,
+   "fin": 2533.02,
+   "texto": "vale sí está bien",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2533.02,
+   "fin": 2534.08,
+   "texto": "bueno pues fuimos a ver",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2534.08,
+   "fin": 2534.5,
+   "texto": "Chinas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2534.5,
+   "fin": 2535.3399999999997,
+   "texto": "y además fuimos a verla",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2535.3399999999997,
+   "fin": 2536.52,
+   "texto": "en el coloquio que hicieron",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2536.52,
+   "fin": 2537.66,
+   "texto": "en la Academia de Cine en Madrid",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2537.66,
+   "fin": 2538.8999999999996,
+   "texto": "que la presentó la directora",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2538.9,
+   "fin": 2540.86,
+   "texto": "con dos de las actrices.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2541.92,
+   "fin": 2544.64,
+   "texto": "Y China habla de la comunidad china en España, evidentemente,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2544.9,
+   "fin": 2547.58,
+   "texto": "y nos muestra como distintos personajes de raíces chinas en nuestro país.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2547.7400000000002,
+   "fin": 2549.9,
+   "texto": "Por ejemplo, una niña china adoptada por padres españoles,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2550.2400000000002,
+   "fin": 2551.84,
+   "texto": "una familia china que regenta un bazar,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2552.32,
+   "fin": 2554.86,
+   "texto": "la historia de dos hermanas, una pequeña y otra adolescente,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2554.92,
+   "fin": 2557.8,
+   "texto": "que están en distintas etapas vitales y, por tanto,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2557.86,
+   "fin": 2560.1800000000003,
+   "texto": "distintas etapas como en la relación con sus raíces",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2560.1800000000003,
+   "fin": 2561.7000000000003,
+   "texto": "y con el sitio donde viven.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2562.12,
+   "fin": 2564.52,
+   "texto": "Y Echevarria quiere reflejar un poco el aislamiento",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2564.52,
+   "fin": 2566.88,
+   "texto": "que sufren muchas veces estas familias y estas personas,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2566.88,
+   "fin": 2571.12,
+   "texto": "lo difícil que es para muchos jóvenes chinos conjugar sus raíces y su cultura familiar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2571.12,
+   "fin": 2574.98,
+   "texto": "con todas las nociones de sacrificio que esto implica y que nosotros no tenemos tanto,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2575.2400000000002,
+   "fin": 2578.86,
+   "texto": "como la cultura española, yo qué sé, la cultura española, qué cojones era eso.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2580.4,
+   "fin": 2584.6800000000003,
+   "texto": "Pero es curioso pensar que muy cerca de nosotros existen islas por las que pasamos todos los días,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2584.8,
+   "fin": 2587.6,
+   "texto": "como puede ser un bazar, y que no llegamos a ver nunca del todo,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2587.6,
+   "fin": 2591.6400000000003,
+   "texto": "porque las utilizamos, pasamos por allí, son lugares de paso",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2591.6400000000003,
+   "fin": 2594.9,
+   "texto": "y como que no vemos realmente las dificultades que hay detrás.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2594.9,
+   "fin": 2596.88,
+   "texto": "y China es una buena película",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2596.88,
+   "fin": 2598.56,
+   "texto": "como para pensar todos estos temas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2598.56,
+   "fin": 2600.6,
+   "texto": "Desde luego cuando te pones a pensar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2600.6,
+   "fin": 2603.1800000000003,
+   "texto": "nos pasa mucho esto cuando planteamos un guión",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2603.1800000000003,
+   "fin": 2604.7000000000003,
+   "texto": "o un tema sobre el que pensar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2604.7000000000003,
+   "fin": 2605.84,
+   "texto": "que luego lo ves todo el rato",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2605.84,
+   "fin": 2608.6800000000003,
+   "texto": "y el concepto de isla es particularmente interesante",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2608.6800000000003,
+   "fin": 2610.44,
+   "texto": "porque puede pensarse casi todo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2610.44,
+   "fin": 2613.0,
+   "texto": "Podríamos haber hecho un podcast de 8 horas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2613.0,
+   "fin": 2614.1600000000003,
+   "texto": "Sí, pero menos mal que no",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2614.1600000000003,
+   "fin": 2617.1600000000003,
+   "texto": "porque yo estoy con un catarro persistente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2617.1600000000003,
+   "fin": 2618.92,
+   "texto": "Tienes tira un herpes, tienes flemas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2618.92,
+   "fin": 2619.82,
+   "texto": "No estoy bien",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2619.82,
+   "fin": 2622.26,
+   "texto": "Pero no me estoy ahogando de momento",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2622.26,
+   "fin": 2623.2200000000003,
+   "texto": "pensaba que iba a ser peor",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2623.22,
+   "fin": 2626.04,
+   "texto": "y para acabar, vamos a acabar con un libro",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2626.04,
+   "fin": 2628.16,
+   "texto": "precioso, Pablo enséñaselo a nuestro selecto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2628.16,
+   "fin": 2630.16,
+   "texto": "público, que lo tenemos por aquí",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2630.16,
+   "fin": 2632.3599999999997,
+   "texto": "que es Atlas de Islas Remotas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2632.3599999999997,
+   "fin": 2634.2999999999997,
+   "texto": "de Judith Skalansky",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2634.2999999999997,
+   "fin": 2636.48,
+   "texto": "que es de Capitán Swing y Nórdica",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2636.48,
+   "fin": 2637.52,
+   "texto": "que además nos lo ha mandado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2637.52,
+   "fin": 2639.6,
+   "texto": "Capitán Swing",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2639.6,
+   "fin": 2640.62,
+   "texto": "es verdad",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2640.62,
+   "fin": 2644.08,
+   "texto": "Capitán Swing y Nórdica, que nos lo ha mandado esa gente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2644.08,
+   "fin": 2645.8599999999997,
+   "texto": "majísima, y es un libro de verdad",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2645.8599999999997,
+   "fin": 2648.12,
+   "texto": "precioso, que además creo que es como muy chulo para regalar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2648.12,
+   "fin": 2649.54,
+   "texto": "porque es realmente bonito",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2649.54,
+   "fin": 2651.56,
+   "texto": "como físicamente, más allá del contenido",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2651.56,
+   "fin": 2652.32,
+   "texto": "Es un muy buen regalo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2652.48,
+   "fin": 2654.74,
+   "texto": "Iba a decir ahora que llega Navidad, pero queda muchísimo rato.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2655.04,
+   "fin": 2657.16,
+   "texto": "Los libros de Nórdica en general son buenos regalos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2657.34,
+   "fin": 2660.44,
+   "texto": "El otro día a Paula, en su cumple, le regalé uno de la Mansfield.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2660.5,
+   "fin": 2661.6,
+   "texto": "De la Mansfield, que me encanta.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2661.7799999999997,
+   "fin": 2663.98,
+   "texto": "Porque están ilustrados y son realmente bonitos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2664.7599999999998,
+   "fin": 2670.24,
+   "texto": "Y la autora cuenta que este Atlas es el resultado de un viaje de aventuras y descubrimientos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2670.24,
+   "fin": 2673.72,
+   "texto": "Y es muy interesante que es un viaje metafórico porque lo ha hecho estudiando.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2673.7999999999997,
+   "fin": 2678.46,
+   "texto": "Lo ha hecho estudiando informes científicos y también históricos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2678.84,
+   "fin": 2680.34,
+   "texto": "No ha ido a ninguna de estas islas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2680.34,
+   "fin": 2686.04,
+   "texto": "De hecho, el subtítulo del libro, no me acuerdo cómo es porque no lo veo, pero es algo así como de todas esas islas a las que no he ido nunca y no voy a ir.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2686.5,
+   "fin": 2689.1800000000003,
+   "texto": "50 islas en las que nunca estuve y a las que nunca iré.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2689.2200000000003,
+   "fin": 2690.26,
+   "texto": "Mucho más bonito ella.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2690.48,
+   "fin": 2691.36,
+   "texto": "Has captado la esencia.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2691.6400000000003,
+   "fin": 2692.7200000000003,
+   "texto": "Mucho más bonito ella.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2693.44,
+   "fin": 2701.78,
+   "texto": "Entonces ella lo que hace es ir a la sala cartográfica de la Biblioteca de Berlín, porque todas estas islas le resultaban, y dice, un misterio y una promesa.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2702.42,
+   "fin": 2709.7200000000003,
+   "texto": "Y voy a leeros una cita porque también hace como Bartes, tiene un prólogo en el que explica un poco el libro y luego ya son los fragmentos que son las islas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2709.72,
+   "fin": 2715.54,
+   "texto": "Y dice, en mi imaginación estas islas eran un lugar paradisiaco y utópico.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2716.06,
+   "fin": 2720.62,
+   "texto": "Representaban además una aspiración, compartida probablemente por todos los humanos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2721.1,
+   "fin": 2727.7999999999997,
+   "texto": "la de encontrar el lugar perfecto, lejos del mundanal ruido, un espacio único para recuperar la tranquilidad,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2728.2599999999998,
+   "fin": 2733.1,
+   "texto": "encontrarse a uno mismo y poder concentrarse por fin en lo que verdaderamente importa.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2733.74,
+   "fin": 2737.08,
+   "texto": "Y esto es muy chulo porque empezábamos el episodio justamente planteando estas dos cosas,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2737.08,
+   "fin": 2742.1,
+   "texto": "la isla como lugar paradisiaco y la isla como lugar donde pueden suceder cosas terribles.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2742.68,
+   "fin": 2746.66,
+   "texto": "Entonces ella, la autora, se da cuenta de que cuando se pone a estudiar todas estas islas,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2747.1,
+   "fin": 2750.54,
+   "texto": "en realidad todo lo que encuentra se aleja bastante de esta concepción utópica.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2751.02,
+   "fin": 2753.52,
+   "texto": "Descubre historias donde hay más bien hechos terribles,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2753.64,
+   "fin": 2756.92,
+   "texto": "donde lugares con historias la mayoría bastante desdichadas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2757.64,
+   "fin": 2762.6,
+   "texto": "Entonces Salansky hace un recorrido por todas estas islas, alejadas y remotas de todo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2762.6,
+   "fin": 2766.24,
+   "texto": "Hay algunas, o sea, te pone la distancia que hay con la tierra más cercana,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2766.24,
+   "fin": 2769.3999999999996,
+   "texto": "te pone 6.000 kilómetros la cosa más cercana.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2769.6,
+   "fin": 2771.8799999999997,
+   "texto": "A mí me da ansiedad solo sobre eso.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2771.9799999999996,
+   "fin": 2772.3399999999997,
+   "texto": "Es terrible.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2772.4599999999996,
+   "fin": 2774.14,
+   "texto": "Luego dicen de Soria que está aislado.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2774.56,
+   "fin": 2777.72,
+   "texto": "Pues anda, que las islas estas del Océano Índico y Pacífico,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2778.1,
+   "fin": 2778.8799999999997,
+   "texto": "eso sí que está aislado.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2779.2,
+   "fin": 2781.9399999999996,
+   "texto": "Bueno, entonces el libro se estructura geográficamente,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2781.9799999999996,
+   "fin": 2784.0,
+   "texto": "a partir de los distintos océanos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2784.0,
+   "fin": 2786.2599999999998,
+   "texto": "y contiene información de cada una de las islas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2786.56,
+   "fin": 2787.3399999999997,
+   "texto": "Te pone los nombres,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2787.62,
+   "fin": 2789.58,
+   "texto": "la cronología de los sucesos más relevantes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2789.58,
+   "fin": 2790.4599999999996,
+   "texto": "que ha tenido lugar allí,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2791.0,
+   "fin": 2793.3799999999997,
+   "texto": "la distancia, como decía, con los lugares más cercanos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2793.3799999999997,
+   "fin": 2794.9399999999996,
+   "texto": "y sobre todo hay historias.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2794.94,
+   "fin": 2798.14,
+   "texto": "leemos la historia, además es muy interesante",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2798.14,
+   "fin": 2800.96,
+   "texto": "qué le dije contar, qué historia le dije contar de todo lo que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2800.96,
+   "fin": 2804.32,
+   "texto": "allí ha sucedido, entonces en algunas islas se han explotado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2804.32,
+   "fin": 2807.08,
+   "texto": "bombas nucleares como en Fangataufa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2807.08,
+   "fin": 2809.7000000000003,
+   "texto": "que está en el océano pacífico, que creo que es la",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2809.7000000000003,
+   "fin": 2813.26,
+   "texto": "Polinesia francesa, que es un archipiélago entero que tuvo que ser evacuado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2813.26,
+   "fin": 2816.16,
+   "texto": "por contaminación radiactiva, en el libro literal",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2816.16,
+   "fin": 2819.18,
+   "texto": "ponía en plan lo de Oppenheimer una broma en comparación con lo que pasó aquí",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2819.18,
+   "fin": 2822.06,
+   "texto": "entonces hay otras donde también ha habido",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2822.06,
+   "fin": 2827.2,
+   "texto": "náufragos de todo tipo, como decíamos antes, también muchas han sido cárceles, muchísimas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2827.2,
+   "fin": 2832.04,
+   "texto": "historias de colonización terribles también en el libro, incluso algunas islas donde nunca",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2832.04,
+   "fin": 2836.36,
+   "texto": "ha podido desembarcar nadie, que esta es una de las historias que más me gustó, la isla",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2836.36,
+   "fin": 2841.9,
+   "texto": "de Pedro I, que está en la Antártida. Entonces, en el libro se cuenta que es una costa muy",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2841.9,
+   "fin": 2846.7799999999997,
+   "texto": "escarpada, está rodeada de hielo, entonces no hay ningún lugar donde se pueda desembarcar,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2846.92,
+   "fin": 2852.0,
+   "texto": "todas las barcas acaban naufragando. Algunas islas incluso se han pasado años intentando",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2852.0,
+   "fin": 2854.2,
+   "texto": "encontrarlas porque tenían historias",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2854.2,
+   "fin": 2856.12,
+   "texto": "de balleneros, esto claro, estoy hablando",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2856.12,
+   "fin": 2857.48,
+   "texto": "del siglo XVI, de",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2857.48,
+   "fin": 2860.04,
+   "texto": "se avistó esta isla en algún",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2860.04,
+   "fin": 2861.52,
+   "texto": "momento pero no tenía ni nombre",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2861.52,
+   "fin": 2864.22,
+   "texto": "y muchos barcos se pasaban meses intentando",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2864.22,
+   "fin": 2866.08,
+   "texto": "llegar a ella. Igual luego era una",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2866.08,
+   "fin": 2868.02,
+   "texto": "ballena que se le pasó a Simbad, se pensaba",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2868.02,
+   "fin": 2869.06,
+   "texto": "que había llegado a una isla y no.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2869.96,
+   "fin": 2871.84,
+   "texto": "Entonces en esta isla de Pedro I",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2871.84,
+   "fin": 2874.04,
+   "texto": "llegar a tierra es imposible, entonces lo único",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2874.04,
+   "fin": 2875.62,
+   "texto": "que hacen es desde el propio barco",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2875.62,
+   "fin": 2877.96,
+   "texto": "recoger fragmentos de tierra, o sea",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2877.96,
+   "fin": 2880.0,
+   "texto": "de piedra, de la orilla, para que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2880.0,
+   "fin": 2881.52,
+   "texto": "los geólogos puedan estudiarla.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2881.52,
+   "fin": 2884.02,
+   "texto": "entonces es muy interesante que lo único que hay de esta isla",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2884.02,
+   "fin": 2886.22,
+   "texto": "y en el libro se recoge, es una descripción",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2886.22,
+   "fin": 2888.1,
+   "texto": "de las piedras, hecha por geólogos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2888.1,
+   "fin": 2889.86,
+   "texto": "bueno Inés, ayer estábamos aquí paseando",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2889.86,
+   "fin": 2891.16,
+   "texto": "por aquí por Magaluf y me dice",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2891.16,
+   "fin": 2893.28,
+   "texto": "tía, creo que quiero estudiar geología",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2893.28,
+   "fin": 2895.98,
+   "texto": "yo ¿qué? esto pasó porque vinimos en avión",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2895.98,
+   "fin": 2897.94,
+   "texto": "evidentemente, y me pasé",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2897.94,
+   "fin": 2899.82,
+   "texto": "todo el viaje absolutamente obnubilada",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2899.82,
+   "fin": 2902.08,
+   "texto": "mirando por la ventana los valles y los ríos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2902.08,
+   "fin": 2903.6,
+   "texto": "ay, que ya me he dado otra vez con el diente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2903.6,
+   "fin": 2906.14,
+   "texto": "no sé usar este micrófono de Shakira",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2906.14,
+   "fin": 2907.92,
+   "texto": "perdón, bueno, entonces",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2907.92,
+   "fin": 2910.08,
+   "texto": "eso, que me pasé todo el viaje viendo ríos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2910.08,
+   "fin": 2912.72,
+   "texto": "y Paula estaba dormida y yo no paraba de echar fotos a los lagos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2912.72,
+   "fin": 2914.36,
+   "texto": "porque pensaba, no lo está viendo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2914.7799999999997,
+   "fin": 2917.0,
+   "texto": "Yo me desperté y les he visto unos montes, tía, vas a flipar.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2917.64,
+   "fin": 2919.12,
+   "texto": "Di Valencia, Vicuenca.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2919.14,
+   "fin": 2919.64,
+   "texto": "Claro, claro.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2919.64,
+   "fin": 2920.5,
+   "texto": "Y dije, ay, qué guay.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2920.66,
+   "fin": 2923.7,
+   "texto": "Bueno, los geólogos, las geólogas que nos escriban",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2923.7,
+   "fin": 2927.06,
+   "texto": "también una tesis doctoral así como suave sobre un valle.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2927.08,
+   "fin": 2928.18,
+   "texto": "Bueno, yo no voy a leer tesis doctorales,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2928.24,
+   "fin": 2929.38,
+   "texto": "mucho menos de geología.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2929.64,
+   "fin": 2930.14,
+   "texto": "¿Estás loca?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2930.14,
+   "fin": 2930.5,
+   "texto": "Yo sí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2930.74,
+   "fin": 2931.2999999999997,
+   "texto": "Tú sí, tú sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2931.2999999999997,
+   "fin": 2931.7,
+   "texto": "Adelante.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2932.22,
+   "fin": 2936.0,
+   "texto": "Y entonces, volviendo a Pedro I, la isla de las piedras,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2936.4,
+   "fin": 2939.94,
+   "texto": "ahí se dice, no se puede decir mucho más sobre una tierra",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2939.94,
+   "fin": 2941.82,
+   "texto": "que nunca ha sido pisada por nadie, ¿no?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2942.16,
+   "fin": 2944.7400000000002,
+   "texto": "Que es una cosa chulísima, que se recoge muy bien en todo el libro,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2944.88,
+   "fin": 2947.3,
+   "texto": "que son lugares absolutamente remotos, ¿no?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2947.76,
+   "fin": 2950.5,
+   "texto": "Y la mayoría deshabitados, que por otra parte mejor,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2950.62,
+   "fin": 2952.5,
+   "texto": "porque se conserva mejor todo si no hay seres humanos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2952.5,
+   "fin": 2953.16,
+   "texto": "Sí, sí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2954.06,
+   "fin": 2957.0,
+   "texto": "Espera, Ginés, estás tosiendo su pulmón.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2957.2200000000003,
+   "fin": 2961.48,
+   "texto": "Y lo más interesante de todo esto es que aparte de que sea muy bien documentado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2961.48,
+   "fin": 2963.9,
+   "texto": "con informes científicos, históricos y de todo tipo,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2964.32,
+   "fin": 2965.86,
+   "texto": "se trata de un proyecto poético, ¿no?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2965.88,
+   "fin": 2969.36,
+   "texto": "Ella lo dice todo el tiempo, que parte de una premisa muy concreta.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2969.94,
+   "fin": 2970.64,
+   "texto": "que es la siguiente.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2971.28,
+   "fin": 2972.88,
+   "texto": "Una vez que resulta posible",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2972.88,
+   "fin": 2973.96,
+   "texto": "viajar alrededor",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2973.96,
+   "fin": 2975.52,
+   "texto": "de todo el globo terráqueo,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2975.88,
+   "fin": 2976.88,
+   "texto": "solo nos queda un reto,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2977.28,
+   "fin": 2978.18,
+   "texto": "permanecer en casa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2978.18,
+   "fin": 2979.44,
+   "texto": "y descubrirlo desde allí,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2979.68,
+   "fin": 2980.76,
+   "texto": "que es lo que la autora hace,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2980.9,
+   "fin": 2982.04,
+   "texto": "construir todo este atlas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2982.04,
+   "fin": 2983.2200000000003,
+   "texto": "a través de acontecimientos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2983.2200000000003,
+   "fin": 2984.06,
+   "texto": "históricos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2984.2200000000003,
+   "fin": 2984.9,
+   "texto": "informes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2984.9,
+   "fin": 2985.94,
+   "texto": "y todo tipo de cosas,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2986.04,
+   "fin": 2987.02,
+   "texto": "pero que al final son cuentos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2987.16,
+   "fin": 2987.76,
+   "texto": "Cuando vas leyendo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2987.76,
+   "fin": 2988.6,
+   "texto": "la historia de las islas,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2989.2000000000003,
+   "fin": 2990.62,
+   "texto": "estás leyendo historias",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2990.62,
+   "fin": 2992.28,
+   "texto": "más allá de datos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2992.28,
+   "fin": 2992.56,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2993.64,
+   "fin": 2995.46,
+   "texto": "Y ya está, casi eso.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2995.48,
+   "fin": 2996.62,
+   "texto": "Estoy quedando sin voz",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2996.62,
+   "fin": 2997.12,
+   "texto": "para siempre.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2997.66,
+   "fin": 2997.9,
+   "texto": "Hombre,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2998.0,
+   "fin": 2999.4,
+   "texto": "nos ha jodido para siempre.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2999.4,
+   "fin": 2999.96,
+   "texto": "como te decimos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2999.96,
+   "fin": 3001.1600000000003,
+   "texto": "siempre se nos acaba el chollo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3001.1600000000003,
+   "fin": 3001.92,
+   "texto": "así que nada",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3001.92,
+   "fin": 3002.54,
+   "texto": "recomendar mucho",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3002.54,
+   "fin": 3003.34,
+   "texto": "todos los libros",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3003.34,
+   "fin": 3004.0,
+   "texto": "que hemos citado hoy",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3004.0,
+   "fin": 3004.94,
+   "texto": "los pondremos por ahí",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3004.94,
+   "fin": 3005.62,
+   "texto": "porque ya sabemos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3005.62,
+   "fin": 3006.26,
+   "texto": "que son muchos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3006.26,
+   "fin": 3006.98,
+   "texto": "y luego",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3006.98,
+   "fin": 3008.2000000000003,
+   "texto": "nos pregunta mucho la gente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3008.2000000000003,
+   "fin": 3009.26,
+   "texto": "siempre hay un cartelito",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3009.26,
+   "fin": 3009.9,
+   "texto": "con las cubiertas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3009.9,
+   "fin": 3010.44,
+   "texto": "de los libros",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3010.44,
+   "fin": 3011.28,
+   "texto": "en redes sociales",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3011.28,
+   "fin": 3011.84,
+   "texto": "que luego la gente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3011.84,
+   "fin": 3012.44,
+   "texto": "nos pregunta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3012.44,
+   "fin": 3013.8,
+   "texto": "pero son particularmente chulos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3013.8,
+   "fin": 3014.76,
+   "texto": "porque además son como",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3014.76,
+   "fin": 3015.26,
+   "texto": "bueno",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3015.26,
+   "fin": 3016.36,
+   "texto": "no raros",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3016.36,
+   "fin": 3016.76,
+   "texto": "ni tal",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3016.76,
+   "fin": 3017.1600000000003,
+   "texto": "pero sí",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3017.1600000000003,
+   "fin": 3019.1600000000003,
+   "texto": "como muy especiales",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3019.1600000000003,
+   "fin": 3020.2000000000003,
+   "texto": "y eso sería todo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3020.2000000000003,
+   "fin": 3021.6800000000003,
+   "texto": "vamos a",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3021.6800000000003,
+   "fin": 3023.06,
+   "texto": "pero primero hay que despedirse",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3023.06,
+   "fin": 3023.62,
+   "texto": "ya ya",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3023.62,
+   "fin": 3024.3,
+   "texto": "sobre todo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3024.3,
+   "fin": 3025.28,
+   "texto": "de nuestro público",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3025.28,
+   "fin": 3026.8,
+   "texto": "las mejores personas del mundo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3026.8,
+   "fin": 3027.82,
+   "texto": "en mi opinión ahora mismo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3027.82,
+   "fin": 3029.6600000000003,
+   "texto": "las mejores personas de Magaluf",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3029.6600000000003,
+   "fin": 3031.1200000000003,
+   "texto": "porque no han podido venir nuestras madres",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3031.1200000000003,
+   "fin": 3033.56,
+   "texto": "que podrían estar ahí, míralas ahí en esas zamacas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3033.56,
+   "fin": 3034.7200000000003,
+   "texto": "pero no han podido",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3034.7200000000003,
+   "fin": 3036.6000000000004,
+   "texto": "así que nada, muchas gracias",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3036.6000000000004,
+   "fin": 3039.94,
+   "texto": "al festival también de literatura expandida",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3039.94,
+   "fin": 3041.2400000000002,
+   "texto": "nos hemos pasado muy bien",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3041.2400000000002,
+   "fin": 3042.76,
+   "texto": "hemos venido a Mallorca",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3042.76,
+   "fin": 3045.5800000000004,
+   "texto": "no nos hemos bañado en esta piscina que se nos podría caer encima ahora mismo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3045.5800000000004,
+   "fin": 3046.92,
+   "texto": "pero bueno, volveremos el año que viene",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3046.92,
+   "fin": 3049.36,
+   "texto": "si nos dejan, yo que sé, igual no nos quieren",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3049.36,
+   "fin": 3051.38,
+   "texto": "así que nada",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3051.38,
+   "fin": 3053.36,
+   "texto": "acabamos con una cita del libro de Olga",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3053.36,
+   "fin": 3054.76,
+   "texto": "¿cómo era el apellido? Dios mío",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3054.76,
+   "fin": 3056.1800000000003,
+   "texto": "Tocarzuc",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3056.18,
+   "fin": 3058.7999999999997,
+   "texto": "Tocarzuc, premio Nobel, la mejor",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3058.7999999999997,
+   "fin": 3060.14,
+   "texto": "que además ha estado ahora en Barcelona",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3060.14,
+   "fin": 3061.8199999999997,
+   "texto": "y en San Sebastián nos dijeron ayer",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3061.8199999999997,
+   "fin": 3063.48,
+   "texto": "una gilita española",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3063.48,
+   "fin": 3066.2,
+   "texto": "súper interesante, también tiene otros muchos libros",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3066.2,
+   "fin": 3068.52,
+   "texto": "de otras cosas, así que la recomendamos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3068.52,
+   "fin": 3070.2999999999997,
+   "texto": "un montón, está en Anagrama",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3070.2999999999997,
+   "fin": 3072.44,
+   "texto": "editada, y voy a leer",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3072.44,
+   "fin": 3073.7999999999997,
+   "texto": "una cita para acabar si puedo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3073.7999999999997,
+   "fin": 3075.48,
+   "texto": "si no me ahogo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3075.48,
+   "fin": 3078.3399999999997,
+   "texto": "que es de su libro Los Errantes, que es el que hemos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3078.3399999999997,
+   "fin": 3080.54,
+   "texto": "utilizado antes, que une un poco",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3080.54,
+   "fin": 3082.6,
+   "texto": "todo esto que queríamos comentar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3082.6,
+   "fin": 3084.2999999999997,
+   "texto": "en este episodio, tanto las islas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3084.2999999999997,
+   "fin": 3085.58,
+   "texto": "como los fragmentos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3085.58,
+   "fin": 3115.56,
+   "texto": "Leo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3115.58,
+   "fin": 3123.46,
+   "texto": "punzadas sonoras con Inés García y Paula Ducay",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3145.58,
+   "fin": 3147.58,
+   "texto": "y",
+   "hablante": "DESCONOCIDO"
+  },
+  {
+   "inicio": 3147.58,
+   "fin": 3149.58,
+   "texto": "y",
+   "hablante": "DESCONOCIDO"
+  },
+  {
+   "inicio": 3149.58,
+   "fin": 3151.58,
+   "texto": "y",
+   "hablante": "DESCONOCIDO"
+  },
+  {
+   "inicio": 3151.58,
+   "fin": 3153.58,
+   "texto": "y",
+   "hablante": "DESCONOCIDO"
+  },
+  {
+   "inicio": 3153.58,
+   "fin": 3155.58,
+   "texto": "y",
+   "hablante": "DESCONOCIDO"
+  },
+  {
+   "inicio": 3155.58,
+   "fin": 3157.58,
+   "texto": "y",
+   "hablante": "DESCONOCIDO"
+  },
+  {
+   "inicio": 3157.58,
+   "fin": 3159.58,
+   "texto": "y",
+   "hablante": "DESCONOCIDO"
+  }
+ ]
+}
