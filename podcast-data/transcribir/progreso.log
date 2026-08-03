@@ -1,0 +1,528 @@
+[13:18:48] motor: mlx-whisper (GPU Apple)
+[13:18:48] pendientes: 1 episodios (1.1 h de audio)
+[13:18:48] [1/1] 5x21 — Dejar de amar: la ruptura amorosa
+[13:34:32]   transcrito: 1619 segmentos en 939s
+[13:42:22]   AVISO: diarización fallida ('DiarizeOutput' object has no attribute 'itertracks'). Guardo sin hablantes.
+[13:42:22]   → ok
+[13:42:22] listo. transcripciones completas: 1/117
+[13:43:58] motor: mlx-whisper (GPU Apple)
+[13:43:58] pendientes: 1 episodios (1.1 h de audio)
+[13:43:58] [1/1] 5x21 — Dejar de amar: la ruptura amorosa
+[13:59:44]   transcrito: 1619 segmentos en 940s
+[21:38:02] motor: mlx-whisper (GPU Apple)
+[21:38:02] pendientes: 1 episodios (1.1 h de audio)
+[21:38:02] [1/1] 5x21 — Dejar de amar: la ruptura amorosa
+[21:52:29]   transcrito: 1619 segmentos en 867s
+[21:59:48]   diarizado: 357 turnos en 439s
+[21:59:48]   → ok
+[21:59:48] listo. transcripciones completas: 1/117
+[22:27:35] motor: mlx-whisper (GPU Apple)
+[22:27:35] pendientes: 1 episodios (1.1 h de audio)
+[22:27:35] [1/1] 5x21 — Dejar de amar: la ruptura amorosa
+[22:42:48]   transcrito: 1619 segmentos en 913s
+[22:49:55]   diarizado: 595 turnos en 426s
+[22:49:55]   → ok
+[22:49:55] listo. transcripciones completas: 1/117
+[23:47:54] motor: mlx-whisper (GPU Apple)
+[23:47:54] pendientes: 5 episodios (3.1 h de audio)
+[23:47:54] [1/5] 1x01 — Punzadas Sonoras: Presentación
+[23:51:13]   transcrito: 423 segmentos en 198s
+[23:53:13]   diarizado: 289 turnos en 120s
+[23:53:13]   → ok
+[23:53:13] [2/5] 1x02 — Ausencia
+[00:00:05]   transcrito: 589 segmentos en 409s
+[00:03:55]   diarizado: 289 turnos en 231s
+[00:03:55]   → ok
+[00:03:55] [3/5] 1x03 — Exuberancia
+[00:16:01]   transcrito: 966 segmentos en 721s
+[00:22:18]   diarizado: 505 turnos en 377s
+[00:22:18]   → ok
+[00:22:18] [4/5] 1x04 — Desrealidad
+[00:34:05]   transcrito: 1045 segmentos en 697s
+[00:39:43]   diarizado: 760 turnos en 338s
+[00:39:43]   → ok
+[00:39:43] [5/5] 1x05 — Carta
+[00:49:33]   transcrito: 922 segmentos en 582s
+[00:54:35]   diarizado: 433 turnos en 302s
+[00:54:35]   → ok
+[00:54:35] listo. transcripciones completas: 6/117
+[01:25:44] motor: mlx-whisper (GPU Apple)
+[01:25:44] pendientes: 111 episodios (112.2 h de audio)
+[01:25:44] [1/111] 1x06 — Salida
+[01:32:17]   transcrito: 701 segmentos en 384s
+[01:36:09]   diarizado: 369 turnos en 233s
+[01:36:09]   → ok
+[01:36:09] [2/111] 1x07 — Jardín de invierno
+[01:45:50]   transcrito: 1071 segmentos en 573s
+[01:52:03]   diarizado: 297 turnos en 373s
+[01:52:03]   → ok
+[01:52:03] [3/111] 1x08 — Carta II
+[02:04:23]   transcrito: 996 segmentos en 731s
+[02:10:24]   diarizado: 475 turnos en 361s
+[02:10:24]   → ok
+[02:10:24] [4/111] 1x09 — Noche
+[02:21:15]   transcrito: 810 segmentos en 640s
+[02:25:56]   diarizado: 373 turnos en 281s
+[02:25:56]   → ok
+[02:25:56] [5/111] 1x10 — Traducción
+[02:38:00]   transcrito: 1105 segmentos en 713s
+[02:44:14]   diarizado: 587 turnos en 374s
+[02:44:14]   → ok
+[02:44:14] [6/111] 1x11 — Declaración
+[10:31:45] motor: mlx-whisper (GPU Apple)
+[10:31:45] pendientes: 106 episodios (108.8 h de audio)
+[10:31:45] [1/106] 1x11 — Declaración
+[10:43:21]   transcrito: 1580 segmentos en 696s
+[10:49:24]   diarizado: 686 turnos en 363s
+[10:49:24]   → ok
+[10:49:24] [2/106] 1x12 — NOCHE II
+[11:00:43]   transcrito: 1254 segmentos en 671s
+[11:06:12]   diarizado: 545 turnos en 329s
+[11:06:12]   → ok
+[11:06:12] [3/106] 2x01 — Recuerdo
+[11:14:16]   transcrito: 1028 segmentos en 477s
+[11:18:27]   diarizado: 507 turnos en 251s
+[11:18:27]   → ok
+[11:18:27] [4/106] 2x02 — Dolor
+[11:31:48]   transcrito: 1391 segmentos en 790s
+[11:38:22]   diarizado: 583 turnos en 394s
+[11:38:22]   → ok
+[11:38:22] [5/106] 2x03 — Dolor II
+[11:48:36]   transcrito: 1085 segmentos en 605s
+[11:54:26]   diarizado: 349 turnos en 350s
+[11:54:26]   → ok
+[11:54:26] [6/106] 2x04 — Amistad
+[12:08:12]   transcrito: 1367 segmentos en 796s
+[12:14:12]   diarizado: 455 turnos en 360s
+[12:14:12]   → ok
+[12:14:12] [7/106] 2x05 — El placer del texto
+[12:25:15]   transcrito: 1065 segmentos en 657s
+[12:30:30]   diarizado: 509 turnos en 315s
+[12:30:30]   → ok
+[12:30:30] [8/106] 2x06 — Mitologías
+[12:43:08]   transcrito: 1315 segmentos en 751s
+[12:49:25]   diarizado: 777 turnos en 377s
+[12:49:25]   → ok
+[12:49:25] [9/106] 2x07 — Fiesta
+[13:00:11]   transcrito: 1320 segmentos en 637s
+[13:05:20]   diarizado: 464 turnos en 309s
+[13:05:20]   → ok
+[13:05:20] [10/106] 2x08 — Especial Annie Ernaux: orígenes
+[13:11:09]   transcrito: 601 segmentos en 347s
+[13:14:16]   diarizado: 249 turnos en 187s
+[13:14:16]   → ok
+[13:14:16] [11/106] 2x09 — Exilio
+[13:31:07]   transcrito: 1253 segmentos en 1004s
+[13:40:20]   diarizado: 533 turnos en 553s
+[13:40:20]   → ok
+[13:40:20] [12/106] 2x10 — Especial Annie Ernaux: clase social
+[13:47:39]   transcrito: 495 segmentos en 437s
+[13:51:29]   diarizado: 197 turnos en 230s
+[13:51:29]   → ok
+[13:51:29] [13/106] 2x11 — Especial Annie Ernaux: familia y aborto
+[13:59:39]   transcrito: 690 segmentos en 484s
+[14:04:02]   diarizado: 341 turnos en 263s
+[14:04:02]   → ok
+[14:04:02] [14/106] 2x12 — Encuentro
+[14:20:18]   transcrito: 1654 segmentos en 967s
+[16:54:11] motor: mlx-whisper (GPU Apple)
+[16:54:11] pendientes: 93 episodios (99.6 h de audio)
+[16:54:11] [1/93] 2x12 — Encuentro
+[17:07:44]   transcrito: 1654 segmentos en 813s
+[17:14:58]   diarizado: 684 turnos en 435s
+[17:14:58]   → ok
+[17:14:58] [2/93] 2x13 — Especial Annie Ernaux: pasión amorosa
+[17:23:56]   transcrito: 845 segmentos en 535s
+[17:28:55]   diarizado: 369 turnos en 299s
+[17:28:55]   → ok
+[17:28:55] [3/93] 2x14 — Escucha
+[17:42:10]   transcrito: 1395 segmentos en 781s
+[17:48:55]   diarizado: 602 turnos en 406s
+[17:48:55]   → ok
+[17:48:55] [4/93] 2x15 — Ruinas
+[18:00:51]   transcrito: 1132 segmentos en 707s
+[18:07:02]   diarizado: 506 turnos en 371s
+[18:07:02]   → ok
+[18:07:02] [5/93] 2x16 — Especial Katherine Mansfield
+[18:15:19]   transcrito: 968 segmentos en 490s
+[18:19:35]   diarizado: 336 turnos en 256s
+[18:19:35]   → ok
+[18:19:35] [6/93] 2x17 — Especial Primavera
+[18:31:03]   transcrito: 1292 segmentos en 680s
+[18:35:45]   diarizado: 594 turnos en 281s
+[18:35:45]   → ok
+[18:35:45] [7/93] 2x18 — Especial Janet Frame
+[18:45:39]   transcrito: 1162 segmentos en 586s
+[18:50:22]   diarizado: 397 turnos en 284s
+[18:50:22]   → ok
+[18:50:22] [8/93] 2x19 — Ligar
+[19:02:27]   transcrito: 1418 segmentos en 717s
+[19:08:25]   diarizado: 686 turnos en 357s
+[19:08:25]   → ok
+[19:08:25] [9/93] 2x20 — Sobre la lectura
+[19:24:07]   transcrito: 1912 segmentos en 933s
+[19:31:33]   diarizado: 958 turnos en 445s
+[19:31:33]   → ok
+[19:31:33] [10/93] 2x21 — Abismarse
+[19:47:36]   transcrito: 1764 segmentos en 954s
+[19:55:18]   diarizado: 812 turnos en 462s
+[19:55:18]   → ok
+[19:55:18] [11/93] 2x22 — Juego
+[20:16:02]   transcrito: 2229 segmentos en 1232s
+[20:26:04]   diarizado: 993 turnos en 602s
+[20:26:04]   → ok
+[20:26:04] [12/93] 2x23 — Hacer daño
+[20:41:26]   transcrito: 1608 segmentos en 913s
+[20:48:56]   diarizado: 738 turnos en 450s
+[20:48:56]   → ok
+[20:48:56] [13/93] 2x24 — Verano
+[21:07:22]   transcrito: 2162 segmentos en 1097s
+[21:16:14]   diarizado: 912 turnos en 532s
+[21:16:14]   → ok
+[21:16:14] [14/93] 3x01 — Anulación: amar el amor
+[21:30:23]   transcrito: 1563 segmentos en 826s
+[21:36:54]   diarizado: 535 turnos en 391s
+[21:36:54]   → ok
+[21:36:54] [15/93] 3x02 — Sexo: grietas y silencios
+[21:54:26]   transcrito: 1783 segmentos en 1045s
+[22:03:05]   diarizado: 790 turnos en 519s
+[22:03:05]   → ok
+[22:03:05] [16/93] (sin código) — Islas: anomalías fragmentarias
+[22:15:57]   transcrito: 1209 segmentos en 754s
+[22:22:13]   diarizado: 387 turnos en 376s
+[22:22:13]   → ok
+[22:22:13] [17/93] 3x04 — Rapto: itinerarios de una caída
+[22:39:49]   transcrito: 1615 segmentos en 1033s
+[22:48:22]   diarizado: 532 turnos en 513s
+[22:48:22]   → ok
+[22:48:22] [18/93] 3x05 — Imagen: pornografía de la muerte
+[23:05:26]   transcrito: 1522 segmentos en 1001s
+[23:14:00]   diarizado: 386 turnos en 514s
+[23:14:00]   → ok
+[23:14:00] [19/93] 3x06 — Contingencia: aquello que no fue
+[23:34:04]   transcrito: 2237 segmentos en 1166s
+[23:43:37]   diarizado: 793 turnos en 573s
+[23:43:37]   → ok
+[23:43:37] [20/93] 3x07 — Luz: aprender a mirar
+[23:59:35]   transcrito: 1639 segmentos en 939s
+[00:07:28]   diarizado: 536 turnos en 473s
+[00:07:28]   → ok
+[00:07:28] [21/93] 3x08 — Deseo: carencia y necesidad
+[00:24:15]   transcrito: 1526 segmentos en 996s
+[00:32:30]   diarizado: 541 turnos en 495s
+[00:32:30]   → ok
+[00:32:30] [22/93] 3x09 — Narrarnos: sentido y memoria
+[00:48:58]   transcrito: 1836 segmentos en 977s
+[00:57:09]   diarizado: 763 turnos en 491s
+[00:57:09]   → ok
+[00:57:09] [23/93] 3x10 — El nombre: custodia del existir
+[01:10:13]   transcrito: 1444 segmentos en 769s
+[01:16:50]   diarizado: 648 turnos en 396s
+[01:16:50]   → ok
+[01:16:50] [24/93] 3x11 — Angustia: el dolor de un final
+[01:31:54]   transcrito: 1756 segmentos en 886s
+[01:39:15]   diarizado: 716 turnos en 441s
+[01:39:15]   → ok
+[01:39:15] [25/93] 3x12 — La fatiga: una arquitectura afectiva
+[01:54:12]   transcrito: 1409 segmentos en 885s
+[02:01:23]   diarizado: 679 turnos en 431s
+[02:01:23]   → ok
+[02:01:23] [26/93] (sin código) — Mirados y mirantes: simulacros de intimidad
+[02:22:49]   transcrito: 1825 segmentos en 1011s
+[02:31:16]   diarizado: 781 turnos en 507s
+[02:31:16]   → ok
+[02:31:16] [27/93] 3x14 — Herencia: habitar la posteridad
+[02:48:43]   transcrito: 1849 segmentos en 1038s
+[02:56:57]   diarizado: 791 turnos en 494s
+[02:56:57]   → ok
+[02:56:57] [28/93] 3x15 — Las madres que no
+[03:11:31]   transcrito: 1494 segmentos en 869s
+[03:18:19]   diarizado: 560 turnos en 408s
+[03:18:19]   → ok
+[03:18:19] [29/93] 3x16 — Mirar atrás: un gesto íntimo
+[03:32:09]   transcrito: 1522 segmentos en 826s
+[03:38:26]   diarizado: 663 turnos en 377s
+[03:38:26]   → ok
+[03:38:26] [30/93] (sin código) — El ritmo del habitar con Blanca Lacasa
+[03:53:02]   transcrito: 1310 segmentos en 865s
+[04:00:00]   diarizado: 451 turnos en 417s
+[04:00:00]   → ok
+[04:00:00] [31/93] 3x18 — Mirar atrás: un gesto compartido
+[04:15:59]   transcrito: 1438 segmentos en 878s
+[04:23:09]   diarizado: 608 turnos en 430s
+[04:23:09]   → ok
+[04:23:09] [32/93] 3x19 — Tabú: límite y transgresión
+[04:40:35]   transcrito: 1823 segmentos en 1039s
+[04:48:36]   diarizado: 593 turnos en 480s
+[04:48:36]   → ok
+[04:48:36] [33/93] 3x20 — Orientaciones: coordenadas vitales
+[05:03:02]   transcrito: 1467 segmentos en 858s
+[05:09:53]   diarizado: 551 turnos en 411s
+[05:09:53]   → ok
+[05:09:53] [34/93] (sin código) — Matar al Autor: el destino del texto
+[05:23:30]   transcrito: 1070 segmentos en 808s
+[05:30:29]   diarizado: 535 turnos en 419s
+[05:30:29]   → ok
+[05:30:29] [35/93] 3x22 — Inercia: desenredar la trama
+[05:48:18]   transcrito: 2181 segmentos en 1064s
+[05:56:20]   diarizado: 721 turnos en 481s
+[05:56:20]   → ok
+[05:56:20] [36/93] 4x01 — Dependencia: habitar el segundo lugar
+[06:10:35]   transcrito: 1630 segmentos en 849s
+[06:17:01]   diarizado: 751 turnos en 386s
+[06:17:01]   → ok
+[06:17:01] [37/93] 4x02 — Nunca se logra hablar de lo que se ama
+[06:31:23]   transcrito: 1567 segmentos en 858s
+[06:38:16]   diarizado: 708 turnos en 413s
+[06:38:16]   → ok
+[06:38:16] [38/93] (sin código) — Azul: en el extremo de lo visible
+[06:53:22]   transcrito: 1946 segmentos en 901s
+[07:00:16]   diarizado: 770 turnos en 414s
+[07:00:16]   → ok
+[07:00:16] [39/93] 4x04 — Empuñar el arma, sufrir la herida
+[07:16:01]   transcrito: 1369 segmentos en 939s
+[07:23:40]   diarizado: 710 turnos en 459s
+[07:23:40]   → ok
+[07:23:40] [40/93] 4x05 — Heredar el miedo con Elena López Riera
+[07:38:25]   transcrito: 1567 segmentos en 880s
+[07:45:26]   diarizado: 475 turnos en 421s
+[07:45:26]   → ok
+[07:45:26] [41/93] 4x06 — Soledad, soledumbre, solitud
+[08:01:40]   transcrito: 1718 segmentos en 968s
+[08:09:29]   diarizado: 739 turnos en 469s
+[08:09:29]   → ok
+[08:09:29] [42/93] (sin código) — Punziber: ¿Hay alguien ahí?
+[08:29:26]   transcrito: 2060 segmentos en 1191s
+[08:39:20]   diarizado: 659 turnos en 594s
+[08:39:20]   → ok
+[08:39:20] [43/93] 4x07 — Pérdida: una naturaleza voraz
+[08:54:52]   transcrito: 1514 segmentos en 927s
+[09:01:58]   diarizado: 451 turnos en 426s
+[09:01:58]   → ok
+[09:01:58] [44/93] (sin código) — Ética y literatura: cruce de caminos, con Pau Luque
+[09:11:41]   transcrito: 914 segmentos en 576s
+[09:16:45]   diarizado: 242 turnos en 304s
+[09:16:45]   → ok
+[09:16:45] [45/93] 4x09 — La filosofía: un camino de ida y vuelta
+[09:27:05]   transcrito: 997 segmentos en 617s
+[09:31:56]   diarizado: 293 turnos en 290s
+[09:31:56]   → ok
+[09:31:56] [46/93] 4x10 — El amor y otras veredas, con Marta Jiménez Serrano
+[09:42:20]   transcrito: 1190 segmentos en 621s
+[09:47:17]   diarizado: 264 turnos en 298s
+[09:47:17]   → ok
+[09:47:17] [47/93] 4x11 — Comienzo: un señuelo temporal
+[10:02:15]   transcrito: 1628 segmentos en 893s
+[10:09:08]   diarizado: 596 turnos en 412s
+[10:09:08]   → ok
+[10:09:08] [48/93] 4x12 — El afuera: ¿cuál es nuestro lugar?
+[10:23:12]   transcrito: 1797 segmentos en 840s
+[10:29:47]   diarizado: 569 turnos en 396s
+[10:29:47]   → ok
+[10:29:47] [49/93] 4x13 — ¿Estoy enamorado? ―Sí, porque espero
+[10:47:46]   transcrito: 2237 segmentos en 1071s
+[10:56:24]   diarizado: 896 turnos en 518s
+[10:56:24]   → ok
+[10:56:24] [50/93] (sin código) — Los cuatro elementos: agua
+[11:04:15]   transcrito: 650 segmentos en 469s
+[11:08:07]   diarizado: 208 turnos en 233s
+[11:08:07]   → ok
+[11:08:07] [51/93] 4x14 — Vacío: una desnudez radical
+[11:20:58]   transcrito: 1427 segmentos en 767s
+[11:26:56]   diarizado: 618 turnos en 359s
+[11:26:56]   → ok
+[11:26:56] [52/93] (sin código) — Los cuatro elementos: aire
+[11:34:17]   transcrito: 688 segmentos en 438s
+[11:37:52]   diarizado: 281 turnos en 215s
+[11:37:52]   → ok
+[11:37:52] [53/93] 4x15 — A vista de pájaro: reflexiones aéreas
+[11:51:48]   transcrito: 1441 segmentos en 827s
+[11:58:26]   diarizado: 590 turnos en 398s
+[11:58:26]   → ok
+[11:58:26] [54/93] (sin código) — Lo que no se dice: cartografías del subtexto
+[12:14:52]   transcrito: 1820 segmentos en 978s
+[12:22:38]   diarizado: 525 turnos en 466s
+[12:22:38]   → ok
+[12:22:38] [55/93] (sin código) — Los cuatro elementos: tierra
+[12:30:49]   transcrito: 767 segmentos en 488s
+[12:34:58]   diarizado: 290 turnos en 250s
+[12:34:58]   → ok
+[12:34:58] [56/93] 4x17 — Real e irreal: una dicotomía incierta
+[12:51:07]   transcrito: 1830 segmentos en 960s
+[12:58:38]   diarizado: 536 turnos en 451s
+[12:58:38]   → ok
+[12:58:38] [57/93] (sin código) — Los cuatro elementos: fuego
+[13:08:03]   transcrito: 974 segmentos en 563s
+[13:12:41]   diarizado: 377 turnos en 278s
+[13:12:41]   → ok
+[13:12:41] [58/93] 4x18 — Amor no correspondido: ¿Por qué?
+[13:28:49]   transcrito: 1856 segmentos en 960s
+[13:36:03]   diarizado: 681 turnos en 435s
+[13:36:03]   → ok
+[13:36:03] [59/93] (sin código) — Ver al otro: narrativa y democracia
+[13:52:50]   transcrito: 1845 segmentos en 1003s
+[14:00:50]   diarizado: 451 turnos en 480s
+[14:00:50]   → ok
+[14:00:50] [60/93] 4x20 — Límite: lugar de enunciación
+[14:16:45]   transcrito: 1588 segmentos en 946s
+[14:25:35]   diarizado: 535 turnos en 530s
+[14:25:35]   → ok
+[14:25:35] [61/93] 4x21 — Artesano y artista: desnaturalizar la distinción
+[14:41:31]   transcrito: 1401 segmentos en 951s
+[14:49:50]   diarizado: 531 turnos en 499s
+[14:49:50]   → ok
+[14:49:50] [62/93] 4x22 — Contra el plan: propuestas de apertura
+[15:05:40]   transcrito: 1447 segmentos en 946s
+[15:12:57]   diarizado: 498 turnos en 437s
+[15:12:57]   → ok
+[15:12:57] [63/93] 4x23 — El delirio amoroso
+[15:30:29]   transcrito: 1882 segmentos en 1047s
+[15:38:51]   diarizado: 805 turnos en 502s
+[15:38:51]   → ok
+[15:38:51] [64/93] 4x24 — Una despedida ecléctica: verano, invasión, huida
+[15:55:51]   transcrito: 1654 segmentos en 1006s
+[16:04:32]   diarizado: 633 turnos en 521s
+[16:04:32]   → ok
+[16:04:32] [65/93] 5x01 — Hacerse cargo, mirarse a los ojos
+[16:22:51]   transcrito: 1524 segmentos en 1090s
+[16:32:50]   diarizado: 576 turnos en 599s
+[16:32:50]   → ok
+[16:32:50] [66/93] 5x02 — En defensa de lo breve
+[16:52:09]   transcrito: 1927 segmentos en 1150s
+[17:01:10]   diarizado: 763 turnos en 541s
+[17:01:10]   → ok
+[17:01:10] [67/93] (sin código) — Las Glosas: «Nefando», de Mónica Ojeda
+[17:12:17]   transcrito: 876 segmentos en 663s
+[17:17:19]   diarizado: 273 turnos en 302s
+[17:17:19]   → ok
+[17:17:19] [68/93] 5x03 — La voyeur: un baile de miradas
+[17:33:29]   transcrito: 1326 segmentos en 950s
+[17:41:40]   diarizado: 680 turnos en 492s
+[17:41:40]   → ok
+[17:41:40] [69/93] 5x04 — La familia: cárcel y refugio
+[18:02:35]   transcrito: 2014 segmentos en 1248s
+[18:13:02]   diarizado: 667 turnos en 627s
+[18:13:02]   → ok
+[18:13:02] [70/93] (sin código) — Las Glosas: «La tragedia de los comunes», Garrett Hardi
+[18:24:38]   transcrito: 1205 segmentos en 690s
+[18:30:19]   diarizado: 354 turnos en 341s
+[18:30:19]   → ok
+[18:30:19] [71/93] 5x05 — Sacrificio: ritual, ascesis, violencia
+[18:48:20]   transcrito: 1498 segmentos en 1063s
+[18:57:23]   diarizado: 511 turnos en 543s
+[18:57:23]   → ok
+[18:57:23] [72/93] 5x06 — Saberlo todo del otro
+[19:17:06]   transcrito: 2075 segmentos en 1175s
+[19:26:10]   diarizado: 804 turnos en 544s
+[19:26:10]   → ok
+[19:26:10] [73/93] (sin código) — Las Glosas: «El futuro de la nostalgia», Svetlana Boym
+[19:34:52]   transcrito: 753 segmentos en 511s
+[19:39:19]   diarizado: 230 turnos en 267s
+[19:39:19]   → ok
+[19:39:19] [74/93] 5x07 — Incidentes: Barthes y la homosexualidad
+[19:58:51]   transcrito: 2023 segmentos en 1151s
+[20:08:23]   diarizado: 545 turnos en 572s
+[20:08:23]   → ok
+[20:08:23] [75/93] (sin código) — Las Glosas: «La cronología del agua», de Kristen Stewar
+[20:17:20]   transcrito: 858 segmentos en 533s
+[20:21:41]   diarizado: 275 turnos en 261s
+[20:21:41]   → ok
+[20:21:41] [76/93] 5x08 — Hacer hablar al mundo: esquemas y categorías
+[20:40:09]   transcrito: 2024 segmentos en 1101s
+[20:49:02]   diarizado: 807 turnos en 533s
+[20:49:02]   → ok
+[20:49:02] [77/93] 5x09 — Compasión: me duele el otro
+[21:04:29]   transcrito: 1487 segmentos en 921s
+[21:12:07]   diarizado: 454 turnos en 458s
+[21:12:07]   → ok
+[21:12:07] [78/93] 5x10 — Las tonalidades del silencio
+[21:28:54]   transcrito: 1800 segmentos en 1001s
+[21:36:57]   diarizado: 541 turnos en 483s
+[21:36:57]   → ok
+[21:36:57] [79/93] (sin código) — Las Glosas: «El cuento de una noche de verano», de Marí
+[21:45:40]   transcrito: 833 segmentos en 519s
+[21:49:55]   diarizado: 349 turnos en 255s
+[21:49:55]   → ok
+[21:49:55] [80/93] (sin código) — Pensar el silencio: un gesto filosófico
+[22:05:12]   transcrito: 1434 segmentos en 912s
+[22:12:36]   diarizado: 606 turnos en 445s
+[22:12:36]   → ok
+[22:12:36] [81/93] 5x12 — Quien teme morir ya está muerto de miedo
+[22:29:02]   transcrito: 1524 segmentos en 980s
+[22:37:04]   diarizado: 576 turnos en 482s
+[22:37:04]   → ok
+[22:37:04] [82/93] (sin código) — La culpa: asesinar, imaginar, sobrevivir
+[22:54:53]   transcrito: 1722 segmentos en 1063s
+[23:03:31]   diarizado: 543 turnos en 518s
+[23:03:31]   → ok
+[23:03:31] [83/93] (sin código) — Patrimonio: formar parte, darle vida
+[23:21:54]   transcrito: 1708 segmentos en 1088s
+[23:30:42]   diarizado: 599 turnos en 528s
+[23:30:42]   → ok
+[23:30:42] [84/93] (sin código) — Las Glosas: «Rodoreda, un bosque», (CCCB)
+[23:38:49]   transcrito: 768 segmentos en 484s
+[23:42:45]   diarizado: 294 turnos en 236s
+[23:42:45]   → ok
+[23:42:45] [85/93] 5x15 — Decir el mar
+[23:57:23]   transcrito: 1189 segmentos en 851s
+[00:04:39]   diarizado: 564 turnos en 436s
+[00:04:39]   → ok
+[00:04:39] [86/93] (sin código) — Las Glosas: sobre la educación sexual
+[00:13:27]   transcrito: 655 segmentos en 524s
+[00:17:50]   diarizado: 230 turnos en 263s
+[00:17:50]   → ok
+[00:17:50] [87/93] 5x16 — ¿Qué sujeto puede permitirse morir?
+[00:35:33]   transcrito: 1883 segmentos en 1057s
+[00:43:59]   diarizado: 637 turnos en 506s
+[00:43:59]   → ok
+[00:43:59] [88/93] (sin código) — Las Glosas: «Del miedo y los extranjeros», George Makar
+[00:58:10]   transcrito: 1184 segmentos en 846s
+[01:05:10]   diarizado: 221 turnos en 420s
+[01:05:10]   → ok
+[01:05:10] [89/93] (sin código) — Pensar el museo
+[01:22:18]   transcrito: 1702 segmentos en 1022s
+[01:30:37]   diarizado: 483 turnos en 499s
+[01:30:37]   → ok
+[01:30:37] [90/93] (sin código) — El grano de la voz: música y filosofía
+[01:45:10]   transcrito: 1452 segmentos en 868s
+[01:52:20]   diarizado: 582 turnos en 430s
+[01:52:20]   → ok
+[01:52:20] [91/93] 5x19 — Un imaginario rural: la dimensión espacial del amor
+[02:11:21]   transcrito: 2036 segmentos en 1135s
+[02:20:18]   diarizado: 668 turnos en 536s
+[02:20:18]   → ok
+[02:20:18] [92/93] (sin código) — Las Glosas: «Emplumes: la producción social de la pluma
+[02:29:32]   transcrito: 938 segmentos en 551s
+[02:34:00]   diarizado: 355 turnos en 267s
+[02:34:00]   → ok
+[02:34:00] [93/93] 5x20 — El valor de la crueldad: ética y literatura
+[02:53:38]   transcrito: 2084 segmentos en 1172s
+[03:02:55]   diarizado: 622 turnos en 556s
+[03:02:55]   → ok
+[03:02:55] listo. transcripciones completas: 117/117
+[08:48:48] motor: mlx-whisper (GPU Apple)
+[08:48:48] pendientes: 4 episodios (4.0 h de audio)
+[08:48:48] [1/4] (sin código) — El ritmo del habitar con Blanca Lacasa
+[09:00:36]   transcrito: 1310 segmentos en 702s
+[09:00:38]   AVISO: diarización fallida (Falta la variable de entorno HF_TOKEN (ver README).). Guardo sin hablantes.
+[09:00:38]   → ok
+[09:00:38] [2/4] 4x05 — Heredar el miedo con Elena López Riera
+[10:51:26] motor: mlx-whisper (GPU Apple)
+[10:51:26] pendientes: 4 episodios (4.0 h de audio)
+[10:51:26] [1/4] (sin código) — El ritmo del habitar con Blanca Lacasa
+[11:02:34]   transcrito: 1310 segmentos en 662s
+[11:08:56]   diarizado: 641 turnos en 383s
+[11:08:56]   → ok
+[11:08:56] [2/4] 4x05 — Heredar el miedo con Elena López Riera
+[11:24:06]   transcrito: 1567 segmentos en 910s
+[11:31:32]   diarizado: 722 turnos en 445s
+[11:31:32]   → ok
+[11:31:32] [3/4] (sin código) — Ética y literatura: cruce de caminos, con Pau Luque
+[11:41:49]   transcrito: 914 segmentos en 612s
+[11:47:02]   diarizado: 337 turnos en 314s
+[11:47:02]   → ok
+[11:47:02] [4/4] 4x10 — El amor y otras veredas, con Marta Jiménez Serrano
+[11:57:58]   transcrito: 1190 segmentos en 652s
+[12:03:19]   diarizado: 370 turnos en 321s
+[12:03:19]   → ok
+[12:03:19] listo. transcripciones completas: 117/117

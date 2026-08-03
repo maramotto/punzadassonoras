@@ -140,10 +140,10 @@ def mmss(s):
     return f'{s//60:02d}:{s%60:02d}'
 
 
-def procesar(ep, diarizacion=True):
+def procesar(ep, diarizacion=True, forzar=False):
     slug = ep['slug']
     destino = SALIDA / f'{slug}.json'
-    if destino.exists():
+    if destino.exists() and not forzar:
         return 'ya estaba'
 
     mp3 = AUDIO / f'{slug}.mp3'
@@ -190,22 +190,37 @@ def procesar(ep, diarizacion=True):
 
 
 def main():
+    global N_HABLANTES
     p = argparse.ArgumentParser()
     p.add_argument('--limite', type=int, default=None)
-    p.add_argument('--solo', type=str, default=None, help='código de episodio, p. ej. 5x21')
+    p.add_argument('--solo', type=str, default=None,
+                    help='código(s) o slug(s) de episodio separados por coma, p. ej. 5x21,4x05')
     p.add_argument('--sin-diarizar', action='store_true')
     p.add_argument('--conservar-audio', action='store_true')
+    p.add_argument('--hablantes', type=int, default=None,
+                    help='fuerza el número de hablantes para la diarización (por defecto 2)')
+    p.add_argument('--forzar', action='store_true',
+                    help='reprocesa aunque ya exista la transcripción (para corregir episodios)')
     args = p.parse_args()
+
+    if args.hablantes:
+        N_HABLANTES = args.hablantes
 
     AUDIO.mkdir(exist_ok=True)
     SALIDA.mkdir(exist_ok=True)
     eps = json.loads(MANIFIESTO.read_text(encoding='utf-8'))
 
     if args.solo:
-        eps = [e for e in eps if e['codigo'] == args.solo]
-        if not eps:
-            sys.exit(f'No encuentro el episodio {args.solo}')
-    pendientes = [e for e in eps if not (SALIDA / f"{e['slug']}.json").exists()]
+        objetivos = set(args.solo.split(','))
+        eps = [e for e in eps if e['codigo'] in objetivos or e['slug'] in objetivos]
+        encontrados = {e['codigo'] or e['slug'] for e in eps} | {e['slug'] for e in eps}
+        faltan = objetivos - encontrados
+        if faltan:
+            sys.exit(f'No encuentro el/los episodio(s): {", ".join(sorted(faltan))}')
+    if args.forzar:
+        pendientes = eps
+    else:
+        pendientes = [e for e in eps if not (SALIDA / f"{e['slug']}.json").exists()]
     if args.limite:
         pendientes = pendientes[:args.limite]
 
@@ -216,7 +231,7 @@ def main():
     for i, ep in enumerate(pendientes, 1):
         log(f"[{i}/{len(pendientes)}] {ep['codigo'] or '(sin código)'} — {ep['titulo'][:55]}")
         try:
-            log(f'  → {procesar(ep, diarizacion=not args.sin_diarizar)}')
+            log(f'  → {procesar(ep, diarizacion=not args.sin_diarizar, forzar=args.forzar)}')
         except KeyboardInterrupt:
             log('interrumpido; vuelve a lanzarlo para continuar')
             break
