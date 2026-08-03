@@ -217,10 +217,48 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Punzadas Sonoras: material de terceros (regenerable con 02_batch.sh) y config local
+# ---------------------------------------------------------------------------
+# Punzadas Sonoras
+#
+# Criterio: se versiona lo que no se puede regenerar. Ver la seccion
+# "Que publicar y que no" de CLAUDE.md.
+#
+# SI van al repo (aunque no lo parezca):
+#   podcast-data/data/cache_*.json  <- evitan repetir el scrapeo de Dialnet y
+#                                      del MCU, que no tienen API y se caen a
+#                                      poco que se les apriete. 85 KB bien
+#                                      invertidos. NO los ignores.
+# ---------------------------------------------------------------------------
+
+# Config local y basura del sistema
 .DS_Store
 .idea/
+
+# Material de terceros regenerable con 02_batch.sh
 podcast-data/transcripts/
 podcast-data/raw/
+
+# Audio original: 150 MB, redescargable desde manifiesto_audio.json. Nunca al repo.
 podcast-data/transcribir/audio/
-podcast-data/transcribir/transcripciones/
+
+# Entorno virtual del paquete de transcripcion
+podcast-data/transcribir/.venv/
+
+# Transcripciones de mlx-whisper (30 MB): SI van al repo.
+#
+# Decision de Mara, 2026-08-03. Es lo unico del proyecto que no se puede
+# regenerar sin volver a pasar 111 horas de audio por la GPU del Mac, asi que
+# versionarlas es tambien la copia de seguridad.
+#
+# Van en git normal, no en LFS: el archivo mayor son 304 KB y en texto plano
+# GitHub las deja buscar y diferenciar.
+#
+# Al ser transcripcion integra de material de terceros, la carpeta lleva su
+# propio README con la atribucion a las autoras y el aviso de que son
+# automaticas. Ver tambien "Que publicar y que no" en CLAUDE.md.
+
+# Excepcion a la regla *.log de la plantilla de Python: estos dos logs son la
+# unica prueba de que episodio se transcribio, cuando y con cuantos hablantes.
+# Pesan 28 KB y no se pueden reconstruir.
+!podcast-data/transcribir/progreso.log
+!podcast-data/transcribir/transcribir_invitados.log

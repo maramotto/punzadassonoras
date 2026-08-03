@@ -1,0 +1,7240 @@
+{
+ "slug": "2025-11-13_sincodigo",
+ "codigo": "",
+ "titulo": "Las Glosas: «La tragedia de los comunes», Garrett Hardin",
+ "fecha": "2025-11-13",
+ "video_id": "",
+ "url_audio": "https://traffic.megaphone.fm/PMSL3859661752.mp3",
+ "segmentos": [
+  {
+   "inicio": 0.0,
+   "fin": 3.34,
+   "texto": "Creo que está muy bien leer a las personas que están proponiendo lo que tú no quieres que pase.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3.5,
+   "fin": 3.66,
+   "texto": "Claro.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3.7800000000000002,
+   "fin": 5.58,
+   "texto": "O sea, que a veces es verdad que nos acomodamos mucho.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 5.72,
+   "fin": 6.36,
+   "texto": "En leer a los nuestros.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 6.38,
+   "fin": 7.3,
+   "texto": "En leer a los nuestros, sí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 7.32,
+   "fin": 7.76,
+   "texto": "No hay que hacer eso.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 7.8,
+   "fin": 9.22,
+   "texto": "Siempre está bien leer a los otros.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 9.32,
+   "fin": 11.28,
+   "texto": "Hay que leer en general, pero de una variedad.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 11.78,
+   "fin": 15.040000000000001,
+   "texto": "Estás escuchando Radio Primavera Sound.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 16.02,
+   "fin": 17.8,
+   "texto": "Proudly presented by Cucra.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 17.8,
+   "fin": 27.86,
+   "texto": "Las Glosas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 28.58,
+   "fin": 30.92,
+   "texto": "Un apunte breve de punzadas sonoras.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 31.44,
+   "fin": 33.660000000000004,
+   "texto": "Con Paula Ducay e Inés García.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 34.14,
+   "fin": 34.56,
+   "texto": "¡Hola!",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 34.78,
+   "fin": 35.66,
+   "texto": "¡Hola, chicas!",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 35.68,
+   "fin": 36.480000000000004,
+   "texto": "¡Glossers!",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 36.94,
+   "fin": 38.2,
+   "texto": "¡Hasta Glossers!",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 38.260000000000005,
+   "fin": 38.88,
+   "texto": "¿Cómo estamos?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 39.22,
+   "fin": 39.68,
+   "texto": "¿Qué tal?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 39.78,
+   "fin": 40.64,
+   "texto": "¿Habéis glossado mucho?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 40.760000000000005,
+   "fin": 43.22,
+   "texto": "¿Listas para leer de nuevo conjuntamente?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 43.38,
+   "fin": 44.18,
+   "texto": "Y sonoramente.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 44.36,
+   "fin": 44.94,
+   "texto": "Sonoramente.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 44.94,
+   "fin": 45.74,
+   "texto": "Experiencia mística.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 45.74,
+   "fin": 52.800000000000004,
+   "texto": "Bueno, bienvenidas de nuevo a Las Glosas. Muchas gracias por estar aquí un día más con nosotras glosando textos de manera sonora.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 54.06,
+   "fin": 61.300000000000004,
+   "texto": "Es el segundo episodio que sacamos. Estamos muy emocionadas porque en el primero analizábamos un fragmento de Nefando, de Mónica Ojeda,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 61.7,
+   "fin": 69.28,
+   "texto": "y hoy vamos a cambiar radicalmente de registro, porque para eso estamos, y os vamos a acompañar en la lectura de un artículo académico.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 69.28,
+   "fin": 72.12,
+   "texto": "¿Quién está contento aquí? Pues Inés García",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 72.12,
+   "fin": 73.96000000000001,
+   "texto": "por supuesto, la más",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 73.96000000000001,
+   "fin": 75.92,
+   "texto": "academicista de entre nosotras",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 75.92,
+   "fin": 77.64,
+   "texto": "Pero académica maja",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 77.64,
+   "fin": 80.02,
+   "texto": "Claro, académica bien, académica jolgorio",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 80.02,
+   "fin": 80.9,
+   "texto": "Efectivamente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 80.9,
+   "fin": 84.2,
+   "texto": "Bueno, como sabéis, los tres primeros episodios de Las Glosas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 84.2,
+   "fin": 85.98,
+   "texto": "son posibles gracias a la colaboración",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 85.98,
+   "fin": 88.38,
+   "texto": "con la UOC, que es la Universidad Oberta de Cataluña",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 88.38,
+   "fin": 89.96000000000001,
+   "texto": "y hemos estado trabajando",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 89.96000000000001,
+   "fin": 91.88,
+   "texto": "mano a mano con tres investigadores",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 91.88,
+   "fin": 93.04,
+   "texto": "de la escuela de doctorado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 93.04,
+   "fin": 95.82,
+   "texto": "y creemos que pese a ser un registro más arduo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 95.82,
+   "fin": 97.74000000000001,
+   "texto": "porque es verdad que es un artículo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 97.74,
+   "fin": 99.6,
+   "texto": "académico además que yo me lo he leído igual",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 99.6,
+   "fin": 101.72,
+   "texto": "47 veces. O sea que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 101.72,
+   "fin": 103.75999999999999,
+   "texto": "cuesta, no es de estos artículos así",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 103.75999999999999,
+   "fin": 105.44,
+   "texto": "más...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 105.44,
+   "fin": 107.83999999999999,
+   "texto": "Sí, más ligeros. ¿Cómo decirlo? Que ruedan",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 107.83999999999999,
+   "fin": 109.66,
+   "texto": "más. No, aquí hay que estar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 109.66,
+   "fin": 111.47999999999999,
+   "texto": "con el alfiler de la glosa.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 111.52,
+   "fin": 113.25999999999999,
+   "texto": "En efecto, con nuestra agujita.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 114.1,
+   "fin": 115.66,
+   "texto": "Pero creo que merece la pena este",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 115.66,
+   "fin": 117.86,
+   "texto": "esfuerzo y sobre todo merece la pena sacar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 117.86,
+   "fin": 119.46,
+   "texto": "al mundo, al mundo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 119.46,
+   "fin": 121.74,
+   "texto": "de los académicos del",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 121.74,
+   "fin": 123.47999999999999,
+   "texto": "populacho, porque así lo ven ellos, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 123.47999999999999,
+   "fin": 126.16,
+   "texto": "El mundo real, que es el mundo real.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 126.16,
+   "fin": 128.29999999999998,
+   "texto": "vamos a dejar esto claro, su mundo no es real",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 128.29999999999998,
+   "fin": 130.35999999999999,
+   "texto": "su mundo es un delirio, es una nube",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 130.35999999999999,
+   "fin": 131.72,
+   "texto": "que flota por ahí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 131.72,
+   "fin": 134.16,
+   "texto": "una nube de pasillos universitarios",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 134.16,
+   "fin": 135.84,
+   "texto": "creo que tiene mucho sentido",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 135.84,
+   "fin": 138.42,
+   "texto": "que es una cosa que en punzadas sonoras y en punzadas en general",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 138.42,
+   "fin": 140.18,
+   "texto": "repetimos pico pala",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 140.18,
+   "fin": 142.22,
+   "texto": "como un heterosexual tirando fichas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 142.22,
+   "fin": 144.1,
+   "texto": "una cosa así, pu pu pu, todo el rato",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 144.1,
+   "fin": 144.82,
+   "texto": "eso somos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 144.82,
+   "fin": 147.72,
+   "texto": "sacar estos textos de esos muros académicos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 147.72,
+   "fin": 149.76,
+   "texto": "y que se han movido en un ambiente muy concreto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 149.76,
+   "fin": 151.8,
+   "texto": "y particularmente el texto que traemos que encima",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 151.8,
+   "fin": 153.62,
+   "texto": "generó ríos de tinta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 153.62,
+   "fin": 155.66,
+   "texto": "porque es un artículo que fue muy polémico",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 155.66,
+   "fin": 157.68,
+   "texto": "y que tuvo mucho impacto, así que creo que merece la pena.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 158.28,
+   "fin": 161.1,
+   "texto": "Y que todo el mundo puede entender un artículo académico.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 161.34,
+   "fin": 162.98,
+   "texto": "Esto hay gente que no le gusta, pero esto es verdad.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 163.74,
+   "fin": 164.82,
+   "texto": "O sea, así debería ser.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 164.94,
+   "fin": 165.57999999999998,
+   "texto": "Así debería ser.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 165.9,
+   "fin": 167.74,
+   "texto": "Acompañado, con ayuda, pero bien.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 167.96,
+   "fin": 169.35999999999999,
+   "texto": "Que lo tenéis en nuestra web.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 169.4,
+   "fin": 169.76,
+   "texto": "Ahí está.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 169.78,
+   "fin": 170.46,
+   "texto": "Punzas.com",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 170.46,
+   "fin": 171.07999999999998,
+   "texto": "El PDF.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 171.98,
+   "fin": 172.38,
+   "texto": "Efectivamente.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 173.07999999999998,
+   "fin": 175.38,
+   "texto": "Bueno, queríamos empezar contextualizando el texto,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 175.56,
+   "fin": 178.2,
+   "texto": "como intentamos hacer siempre para que todo el mundo se ubique.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 178.64,
+   "fin": 180.74,
+   "texto": "Hoy vamos a glosar la tragedia de los comunes,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 180.74,
+   "fin": 182.51999999999998,
+   "texto": "que es un texto de Garrett Harding,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 182.52,
+   "fin": 185.74,
+   "texto": "publicado en la revista Science en 1968.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 186.38000000000002,
+   "fin": 187.16,
+   "texto": "Buen año ese.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 187.52,
+   "fin": 187.92000000000002,
+   "texto": "Buen año.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 188.02,
+   "fin": 188.34,
+   "texto": "Buen año.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 188.96,
+   "fin": 192.92000000000002,
+   "texto": "Harding fue un ecólogo y microbiólogo estadounidense",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 192.92000000000002,
+   "fin": 194.66000000000003,
+   "texto": "que escribió acerca de temas como",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 194.66000000000003,
+   "fin": 196.52,
+   "texto": "los peligros de la sobrepoblación",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 196.52,
+   "fin": 198.46,
+   "texto": "o la gestión de los recursos naturales.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 199.0,
+   "fin": 201.58,
+   "texto": "Este texto, como ha dicho Inés, fue súper influyente,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 201.72,
+   "fin": 204.8,
+   "texto": "generó muchísimo debate, pero también fue muy criticado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 204.8,
+   "fin": 207.16000000000003,
+   "texto": "porque propone ideas muy provocadoras,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 207.18,
+   "fin": 208.32000000000002,
+   "texto": "si lo habéis leído lo sabréis,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 208.9,
+   "fin": 210.64000000000001,
+   "texto": "ideas algo extremas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 210.64000000000001,
+   "fin": 212.4,
+   "texto": "Y a mí esto me gusta un poco.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 212.52,
+   "fin": 214.98000000000002,
+   "texto": "En plan, que proponga ideas extremas está bien porque nos hace pensar.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 215.42000000000002,
+   "fin": 216.72,
+   "texto": "No es un texto fácil, como hemos dicho.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 216.82000000000002,
+   "fin": 220.24,
+   "texto": "Yo cuando empecé a leerlo dije, ¿por qué me estáis haciendo leer teoría de juegos?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 220.68,
+   "fin": 222.48000000000002,
+   "texto": "¿Por qué estoy de vuelta en la Carlos III?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 222.8,
+   "fin": 223.4,
+   "texto": "Sacadme de aquí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 223.4,
+   "fin": 227.72,
+   "texto": "Sí, esto, chicas, yo particularmente, las partes que no entendía nada las tachaba",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 227.72,
+   "fin": 229.42000000000002,
+   "texto": "y decía, esto se ha acabado.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 229.60000000000002,
+   "fin": 230.58,
+   "texto": "Aquí hay que leer...",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 230.58,
+   "fin": 233.66000000000003,
+   "texto": "Mira, a mí me parece muy bien que digas esto porque creo que a la hora de leer artículos académicos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 233.76000000000002,
+   "fin": 236.42000000000002,
+   "texto": "a mí me pasó cuando empecé la universidad, cuando empecé en la Carlos III, de hecho,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 236.94,
+   "fin": 239.96,
+   "texto": "que intentaba leer cada puñetera coma de los artículos hasta que aprendí",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 239.96,
+   "fin": 242.42000000000002,
+   "texto": "que no hay que leer así artículos, si hay cosas que no se entienden",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 242.42000000000002,
+   "fin": 243.98000000000002,
+   "texto": "no pasa nada, no es un drama",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 243.98000000000002,
+   "fin": 245.88,
+   "texto": "la cosa es que tú saques algo de lo que estás leyendo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 245.88,
+   "fin": 248.60000000000002,
+   "texto": "sobre todo si son de repente cosas súper específicas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 248.60000000000002,
+   "fin": 250.44,
+   "texto": "de teoría de juegos que yo no sé ni lo que es",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 250.44,
+   "fin": 252.46,
+   "texto": "que me voy a hacer un master en teoría de juegos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 252.46,
+   "fin": 253.96,
+   "texto": "para entender un párrafo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 253.96,
+   "fin": 256.08,
+   "texto": "él está dando por hecho muchas cosas de su ámbito",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 256.08,
+   "fin": 257.92,
+   "texto": "entonces como las da por hecho yo también",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 257.92,
+   "fin": 259.88,
+   "texto": "claro, muy bien, esa es la título",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 259.88,
+   "fin": 262.40000000000003,
+   "texto": "claro, precisamente por eso La tragedia de los comunes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 262.40000000000003,
+   "fin": 264.56,
+   "texto": "es un texto perfecto para glosarlo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 264.56,
+   "fin": 266.38,
+   "texto": "porque creemos que se beneficia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 266.38,
+   "fin": 268.48,
+   "texto": "de varias lecturas, a nosotras mismas nos ha pasado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 268.48,
+   "fin": 271.44,
+   "texto": "la primera vez que lo leímos no supimos ver todas las ideas que esconde",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 271.44,
+   "fin": 274.26,
+   "texto": "y ahora una vez que lo hemos leído 40 veces sí que lo sabemos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 274.74,
+   "fin": 278.34000000000003,
+   "texto": "La persona que nos ha propuesto este texto, que es doctora por la UOC,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 278.5,
+   "fin": 281.28000000000003,
+   "texto": "es Zarina Kulaeva. Muchísimas gracias, Zarina.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 281.38,
+   "fin": 285.5,
+   "texto": "Es majísima y listísima. Se nota que ha hecho una puñetera tesis doctoral.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 286.64000000000004,
+   "fin": 290.68,
+   "texto": "Ella nos propuso este texto porque tiene mucho que ver con el tema que ella trabaja,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 290.76,
+   "fin": 294.8,
+   "texto": "que es pensar cómo podemos abordar el cambio climático de manera democrática",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 294.8,
+   "fin": 299.84000000000003,
+   "texto": "y sin recurrir necesariamente al autoritarismo o a medidas demasiado estrictas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 299.94,
+   "fin": 305.8,
+   "texto": "Entonces vamos, lo primero, a escucharle a Zarina hablar sobre la tragedia de los comunes y sobre su contexto.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 306.24,
+   "fin": 311.52,
+   "texto": "La tragedia de los comunes tuvo una gran repercusión no solo por ser un texto provocador",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 311.52,
+   "fin": 317.42,
+   "texto": "y hoy considerado racista y antinigratorio, sino también por su contexto histórico.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 318.08000000000004,
+   "fin": 322.40000000000003,
+   "texto": "En los años 70 surge una gran preocupación por los límites del planeta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 322.4,
+   "fin": 347.47999999999996,
+   "texto": "Y en ese contexto es cuando Harding publica su ensayo. Ese mismo año, Paul Eldrich lanza The Population Bomb, popularizando la idea de la explosión demográfica. Ambos textos adoptan una visión neomaltusiana donde culpan al crecimiento poblacional del deterioro ambiental y así desplazan el foco de lo que es el insaciable consumo del norte global hacia el control de la población del sur global.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 347.48,
+   "fin": 353.18,
+   "texto": "Harding incluso compara el planeta con un bote salvavidas donde los recursos son limitados y,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 353.18,
+   "fin": 358.28000000000003,
+   "texto": "según él, si los países ricos intentan ayudar a los pobres compartiendo los recursos,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 358.74,
+   "fin": 364.98,
+   "texto": "el bote se sobrecargaría y se hundiría. Esta lógica suya refuerza su postura excluyente y",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 364.98,
+   "fin": 369.92,
+   "texto": "antimigratoria que implica no únicamente el cierre de las fronteras, sino la ayuda humanitaria",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 369.92,
+   "fin": 375.66,
+   "texto": "también. Además, este enfoque ignora por completo la responsabilidad histórica del norte global.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 375.66,
+   "fin": 378.68,
+   "texto": "su modelo económico extractivista y consumista",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 378.68,
+   "fin": 381.76000000000005,
+   "texto": "que ha generado la mayor parte de las emisiones",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 381.76000000000005,
+   "fin": 383.32000000000005,
+   "texto": "de los gases de efecto invernadero",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 383.32000000000005,
+   "fin": 385.8,
+   "texto": "que no únicamente influyen en el cambio climático",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 385.8,
+   "fin": 388.3,
+   "texto": "sino que nos llevan al agotamiento de los recursos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 389.8,
+   "fin": 391.88,
+   "texto": "Fíjate lo que cuenta Zarina del contexto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 391.88,
+   "fin": 394.28000000000003,
+   "texto": "que es muy interesante ver que ya en los años 70",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 394.28000000000003,
+   "fin": 397.26000000000005,
+   "texto": "se exploraba un tema que se menciona muchísimo en la actualidad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 397.26000000000005,
+   "fin": 400.12,
+   "texto": "que es, ojo, vivimos en un planeta finito",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 400.12,
+   "fin": 402.3,
+   "texto": "así que no podemos crecer infinitamente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 402.3,
+   "fin": 406.48,
+   "texto": "que esto se dice mucho en el contexto del insaciable capitalismo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 406.48,
+   "fin": 408.92,
+   "texto": "y su pretensión de crecimiento infinito.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 409.6,
+   "fin": 411.18,
+   "texto": "Y en este momento, como dice Karina,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 411.28000000000003,
+   "fin": 413.44,
+   "texto": "se estaba hablando mucho de la sobrepoblación.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 413.58,
+   "fin": 416.72,
+   "texto": "Igual creo que esto pasa mucho en el marco del ecologismo,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 416.82,
+   "fin": 420.02,
+   "texto": "que se pone el foco en diferentes temas y luego se recuperan,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 420.12,
+   "fin": 422.16,
+   "texto": "porque nos parece que estamos siendo siempre súper novedosos,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 422.3,
+   "fin": 425.44,
+   "texto": "pero ya se estaban teniendo debates hace muchas décadas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 426.1,
+   "fin": 428.24,
+   "texto": "Y, sin embargo, se hace en el caso de Hardin,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 428.40000000000003,
+   "fin": 430.34000000000003,
+   "texto": "porque el problema de la sobrepoblación",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 430.34000000000003,
+   "fin": 431.6,
+   "texto": "puede tratarse de muchas maneras,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 431.6,
+   "fin": 433.86,
+   "texto": "pero él lo hace de una muy determinada",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 433.86,
+   "fin": 435.34000000000003,
+   "texto": "que es esto que contaba Zarina",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 435.34000000000003,
+   "fin": 437.32000000000005,
+   "texto": "estableciendo una jerarquía entre",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 437.32000000000005,
+   "fin": 439.72,
+   "texto": "los que se salvan y los que podrían ser",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 439.72,
+   "fin": 441.58000000000004,
+   "texto": "salvados, los que tienen recursos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 441.58000000000004,
+   "fin": 443.84000000000003,
+   "texto": "o aquellos con los que nos podríamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 443.84000000000003,
+   "fin": 445.68,
+   "texto": "plantear compartirlos, o sea",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 445.68,
+   "fin": 447.70000000000005,
+   "texto": "que se abre un abismo entre el",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 447.70000000000005,
+   "fin": 449.84000000000003,
+   "texto": "occidente y el sur global que ya mencionaba",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 449.84000000000003,
+   "fin": 451.76000000000005,
+   "texto": "en el audio, como si fueran dos realidades",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 451.76000000000005,
+   "fin": 453.84000000000003,
+   "texto": "totalmente separadas y no existieran",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 453.84000000000003,
+   "fin": 455.06,
+   "texto": "dinámicas que se cruzan",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 455.06,
+   "fin": 457.64000000000004,
+   "texto": "concretamente que se cruzan en cuanto a",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 457.64000000000004,
+   "fin": 459.32000000000005,
+   "texto": "violencia ejercida por occidente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 459.32,
+   "fin": 463.14,
+   "texto": "y hacia el sur global, el extractivismo, el colonialismo, explotación,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 463.52,
+   "fin": 465.86,
+   "texto": "acerca de los recursos naturales o de los materiales,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 466.14,
+   "fin": 467.82,
+   "texto": "o la desigualdad que todo esto genera.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 468.21999999999997,
+   "fin": 471.14,
+   "texto": "Y es muy fuerte, me parece, esta idea que comentaba Zarina",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 471.14,
+   "fin": 475.18,
+   "texto": "del bote salvavidas, esto de ya veremos si decidimos salvar a los otros",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 475.18,
+   "fin": 477.98,
+   "texto": "o salvarnos los otros, o es que si ayudamos a los demás",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 477.98,
+   "fin": 479.2,
+   "texto": "eso llevará a nuestra ruina.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 479.28,
+   "fin": 481.52,
+   "texto": "Claro, una contraposición entre ellos y nosotros muy fuerte.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 481.65999999999997,
+   "fin": 486.32,
+   "texto": "Claro, de hecho, como utiliza la idea del bote salvavidas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 486.32,
+   "fin": 489.24,
+   "texto": "y de dejar que los otros se ahoguen, que además creo que en el marco",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 489.24,
+   "fin": 492.1,
+   "texto": "de nuestra actualidad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 492.1,
+   "fin": 494.08,
+   "texto": "en el Mediterráneo, todas las personas que han",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 494.08,
+   "fin": 495.92,
+   "texto": "muerto ahí debido al",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 495.92,
+   "fin": 498.08,
+   "texto": "intento de cruzar Europa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 498.08,
+   "fin": 500.12,
+   "texto": "está muy presente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 500.12,
+   "fin": 501.90000000000003,
+   "texto": "claro, está mucho más presente que quizá",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 501.90000000000003,
+   "fin": 503.64,
+   "texto": "en el momento en que él lo menciona y por eso",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 503.64,
+   "fin": 506.06,
+   "texto": "esa idea, esa metáfora",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 506.06,
+   "fin": 507.90000000000003,
+   "texto": "que él usa me pareció extremadamente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 507.90000000000003,
+   "fin": 509.88,
+   "texto": "violenta en este contexto actual",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 509.88,
+   "fin": 512.0600000000001,
+   "texto": "y tenemos que adentrarnos en el texto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 512.0600000000001,
+   "fin": 513.8,
+   "texto": "creo teniendo en cuenta un poco este",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 513.8,
+   "fin": 515.24,
+   "texto": "marco epistemológico y moral",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 515.24,
+   "fin": 517.8,
+   "texto": "porque creo que es un texto un poco",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 517.8,
+   "fin": 519.9599999999999,
+   "texto": "quizá también porque nosotras no somos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 519.9599999999999,
+   "fin": 521.74,
+   "texto": "expertas en pensamiento ecologista",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 521.74,
+   "fin": 523.3199999999999,
+   "texto": "y mucho menos desde una perspectiva",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 523.3199999999999,
+   "fin": 525.12,
+   "texto": "medio científica",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 525.12,
+   "fin": 527.64,
+   "texto": "pero a mí me pasó que en el primer momento que lo leí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 527.64,
+   "fin": 530.16,
+   "texto": "no me pareció tan radical en su exposición",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 530.16,
+   "fin": 531.52,
+   "texto": "de ideas porque es verdad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 531.52,
+   "fin": 534.14,
+   "texto": "que esto que nos comentaba Zarina en el audio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 534.14,
+   "fin": 536.04,
+   "texto": "de su propuesta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 536.04,
+   "fin": 538.0999999999999,
+   "texto": "que es muy racista, en este texto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 538.0999999999999,
+   "fin": 540.12,
+   "texto": "creo que no está tan presente como en",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 540.12,
+   "fin": 542.2199999999999,
+   "texto": "otros suyos que sí que se centra en las políticas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 542.2199999999999,
+   "fin": 544.2199999999999,
+   "texto": "antimigratorias y se habla mucho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 544.2199999999999,
+   "fin": 545.5999999999999,
+   "texto": "de estas cosas explícitamente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 545.6,
+   "fin": 547.9200000000001,
+   "texto": "en este texto hay varias frases",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 547.9200000000001,
+   "fin": 549.4,
+   "texto": "que traeremos más tarde",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 549.4,
+   "fin": 551.5,
+   "texto": "que hacen referencia a esta idea de",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 551.5,
+   "fin": 554.14,
+   "texto": "ellos y nosotros, como nosotros nos merecemos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 554.14,
+   "fin": 556.24,
+   "texto": "X porque somos mucho mejores que ellos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 556.24,
+   "fin": 557.36,
+   "texto": "pero no está",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 557.36,
+   "fin": 559.44,
+   "texto": "no sé cómo decirlo, no está explícito",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 559.44,
+   "fin": 562.28,
+   "texto": "no es lo primero que piensas cuando lo lees",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 562.28,
+   "fin": 563.78,
+   "texto": "una cosa que hay que escarbar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 563.78,
+   "fin": 565.98,
+   "texto": "hay que escarbar mucho, sí, creo que pasa con muchas ideas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 565.98,
+   "fin": 566.48,
+   "texto": "en el texto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 566.48,
+   "fin": 568.14,
+   "texto": "pero es que por eso es perfecto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 568.14,
+   "fin": 568.98,
+   "texto": "para esto que estamos haciendo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 568.98,
+   "fin": 571.02,
+   "texto": "así vamos a ir metiéndonos con la agujita",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 571.02,
+   "fin": 572.78,
+   "texto": "a ver qué hay en cada línea",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 572.78,
+   "fin": 573.9,
+   "texto": "efectivamente, vamos a hurgar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 573.9,
+   "fin": 580.26,
+   "texto": "en este texto Hardin comienza defendiendo que no podemos buscar todas las soluciones a los",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 580.26,
+   "fin": 585.16,
+   "texto": "problemas que nos surgen en el área de la ciencia y la tecnología es decir que no todos los problemas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 585.16,
+   "fin": 591.22,
+   "texto": "tienen una solución técnica que es una solución técnica pues una solución que sólo requiere de",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 591.22,
+   "fin": 596.64,
+   "texto": "un cambio en la metodología o en la técnica de las ciencias naturales y que no requiere ningún",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 596.64,
+   "fin": 601.5,
+   "texto": "cambio en el ámbito de los valores humanos o de las ideas morales para entendernos un poco mejor",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 601.5,
+   "fin": 603.5,
+   "texto": "os traemos dos ejemplos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 603.5,
+   "fin": 605.52,
+   "texto": "el primero sería que una empresa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 605.52,
+   "fin": 607.8,
+   "texto": "quiere acceder de manera inmediata a sus archivos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 607.8,
+   "fin": 609.4,
+   "texto": "este tiene un problema",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 609.4,
+   "fin": 611.48,
+   "texto": "que no se coordinan los trabajadores a la hora de trabajar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 611.48,
+   "fin": 613.52,
+   "texto": "entonces la solución técnica es implementar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 613.52,
+   "fin": 615.2,
+   "texto": "un sistema de plataforma en la nube",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 615.2,
+   "fin": 617.38,
+   "texto": "ya está, fin, solucionado, solución técnica",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 617.38,
+   "fin": 618.52,
+   "texto": "no necesitas nada más",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 618.52,
+   "fin": 621.68,
+   "texto": "la segunda, por ejemplo, un gobierno quiere reducir",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 621.68,
+   "fin": 623.68,
+   "texto": "el número de víctimas mortales de accidentes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 623.68,
+   "fin": 625.46,
+   "texto": "de tráfico, la solución técnica",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 625.46,
+   "fin": 627.6,
+   "texto": "sería mejorar las carreteras, señalizar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 627.6,
+   "fin": 629.72,
+   "texto": "mejor, obligar a las empresas de automóviles",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 629.72,
+   "fin": 633.58,
+   "texto": "a utilizar la tecnología para construir coches más seguros,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 633.7,
+   "fin": 634.6600000000001,
+   "texto": "eso es la solución técnica.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 635.1800000000001,
+   "fin": 637.0,
+   "texto": "Pero en este caso no valdría solo con eso.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 637.4200000000001,
+   "fin": 640.0,
+   "texto": "Hay otra parte que no tiene nada que ver con la técnica",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 640.0,
+   "fin": 644.28,
+   "texto": "que necesitaría de un cambio en los valores humanos y morales",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 644.28,
+   "fin": 646.0600000000001,
+   "texto": "que es la reeducación vial, en este caso.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 646.26,
+   "fin": 648.94,
+   "texto": "Concienciar a la gente de cómo se puede conducir mejor,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 649.08,
+   "fin": 651.52,
+   "texto": "cómo tienes que moverte en la carretera y tratar a los demás.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 652.1,
+   "fin": 654.1800000000001,
+   "texto": "Entonces a Harding le interesa en este texto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 654.1800000000001,
+   "fin": 656.9,
+   "texto": "discutir uno de los temas que no encajan",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 656.9,
+   "fin": 659.3000000000001,
+   "texto": "en este tipo de soluciones que solo son técnicas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 659.72,
+   "fin": 662.52,
+   "texto": "Y este problema es el problema de la sobrepoblación.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 663.3000000000001,
+   "fin": 664.9,
+   "texto": "Aquí estamos ya en el meollo un poco del asunto.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 665.34,
+   "fin": 668.0,
+   "texto": "La tesis de Hardin es que el problema de la sobrepoblación",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 668.0,
+   "fin": 670.46,
+   "texto": "no se puede resolver tecnológicamente,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 670.6800000000001,
+   "fin": 673.0600000000001,
+   "texto": "por ejemplo, a través de medidas técnicas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 673.0600000000001,
+   "fin": 674.64,
+   "texto": "como pueden ser granjas marinas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 674.64,
+   "fin": 676.94,
+   "texto": "o desarrollar nuevas variedades de trigo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 677.12,
+   "fin": 678.6,
+   "texto": "Claro, como generar más recursos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 678.6800000000001,
+   "fin": 679.38,
+   "texto": "Claro, más recursos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 679.38,
+   "fin": 681.78,
+   "texto": "Si la población crece, en vez de hacer que decrezca",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 681.78,
+   "fin": 684.22,
+   "texto": "o hacer medidas que tengan que ver con los valores,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 684.74,
+   "fin": 688.38,
+   "texto": "hacer más comida o crear más recursos, sea como sea.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 688.38,
+   "fin": 705.06,
+   "texto": "No se puede solucionar por esa vía, porque lo que sucede es que la población crece en un mundo finito, con recursos finitos y limitados. ¿Y qué pasa con eso? Pues que la cantidad de bienes que nos corresponden a cada uno va decreciendo a medida que la población crece.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 705.06,
+   "fin": 706.6999999999999,
+   "texto": "él en el texto escribe",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 706.6999999999999,
+   "fin": 710.14,
+   "texto": "un mundo finito puede sostener una población finita",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 710.14,
+   "fin": 712.42,
+   "texto": "y qué pasa, que la población humana no es finita",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 712.42,
+   "fin": 714.4399999999999,
+   "texto": "sino que crece exponencialmente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 714.4399999999999,
+   "fin": 717.8199999999999,
+   "texto": "y entonces así se plantea el tema de los comunes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 717.8199999999999,
+   "fin": 719.2199999999999,
+   "texto": "¿qué son los comunes?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 719.3,
+   "fin": 721.0799999999999,
+   "texto": "pues los recursos que se acabarían",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 721.0799999999999,
+   "fin": 723.04,
+   "texto": "si todos tuviéramos acceso a ellos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 723.04,
+   "fin": 725.3599999999999,
+   "texto": "o que se van a acabar si todos tenemos acceso a ellos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 725.3599999999999,
+   "fin": 726.7399999999999,
+   "texto": "y más teniendo en cuenta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 726.7399999999999,
+   "fin": 729.3399999999999,
+   "texto": "todo esto que creo que tenemos que tenerlo presente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 729.3399999999999,
+   "fin": 730.9599999999999,
+   "texto": "a la hora de hablar de este texto todo el rato",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 730.9599999999999,
+   "fin": 733.6199999999999,
+   "texto": "que es que la sobrepoblación no para de crecer",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 733.62,
+   "fin": 744.28,
+   "texto": "Esto es lo que él está intentando analizar. Los recursos comunes serían, por ejemplo, los mares y los océanos, los montes, la tierra que se utiliza para la agricultura o para la ganadería.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 745.44,
+   "fin": 749.9,
+   "texto": "Entonces podríamos decir, con todo este contexto, que la pregunta que vertebra el artículo es la siguiente.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 749.9,
+   "fin": 772.4599999999999,
+   "texto": "El ser humano va a controlar su fecundidad individual para alcanzar un óptimo poblacional. Es decir, ¿estamos dispuestos como individuos a controlar la manera en que nos reproducimos para evitar el colapso de un planeta que sabemos que es finito y que no tiene recursos para dar de comer, para alimentar o para sostener una población que no para de crecer? Aquí está el problema.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 772.46,
+   "fin": 787.5400000000001,
+   "texto": "Claro. Y para un poco el núcleo del texto es recorrer dos problemas concretos que están muy relacionados y que él plantea que son fruto de la sobrepoblación. El primero es la tragedia de los comunes y el segundo es la contaminación. Entonces vamos a ir viéndolo poco a poco.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 787.54,
+   "fin": 790.0799999999999,
+   "texto": "para entender la tragedia de los comunes",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 790.0799999999999,
+   "fin": 791.04,
+   "texto": "me gustó mucho que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 791.04,
+   "fin": 793.98,
+   "texto": "plantea lo que yo ya he llamado experimento mental",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 793.98,
+   "fin": 795.42,
+   "texto": "lo que está en el texto, que creo que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 795.42,
+   "fin": 797.88,
+   "texto": "se le puede llamar con tranquilidad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 797.88,
+   "fin": 799.64,
+   "texto": "experimento mental, porque nos dice",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 799.64,
+   "fin": 801.9399999999999,
+   "texto": "imaginemos una pradera que está",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 801.9399999999999,
+   "fin": 803.7199999999999,
+   "texto": "abierta para todos, entonces ¿qué pasa?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 803.74,
+   "fin": 805.78,
+   "texto": "que cada ganadero intenta tener",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 805.78,
+   "fin": 807.78,
+   "texto": "el mayor número posible de vacas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 807.78,
+   "fin": 810.0799999999999,
+   "texto": "en este terreno que es común, que está compartido",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 810.0799999999999,
+   "fin": 811.88,
+   "texto": "entonces si llega una época de",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 811.88,
+   "fin": 813.9399999999999,
+   "texto": "estabilidad, dice que esto es básicamente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 813.9399999999999,
+   "fin": 816.02,
+   "texto": "pues que no hay guerras, no hay enfermedades",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 816.02,
+   "fin": 820.62,
+   "texto": "no hay robos, digamos que los ganaderos están tranquilos y por tanto pues viven tranquilamente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 820.62,
+   "fin": 826.24,
+   "texto": "y se pueden plantear maximizar sus ganancias. Es decir, bueno, pues si tengo este terreno,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 826.46,
+   "fin": 832.86,
+   "texto": "una vaca más, una vaca más. Cada uno gana más, pero claro, ¿qué pasa? ¿Qué pasa con la tierra",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 832.86,
+   "fin": 836.64,
+   "texto": "y con el monte cuando lo explotas? Cuando hay demasiadas vacas en el terreno, el terreno se",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 836.64,
+   "fin": 840.86,
+   "texto": "pica. Claro, lo que se llama el sobrepastoreo del terreno, ¿no? Hay erosión, hay maleza,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 841.18,
+   "fin": 845.74,
+   "texto": "porque cada uno lo que hace es ir añadiendo más animales y dice, jardín, aquí es cuando llega",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 845.74,
+   "fin": 847.72,
+   "texto": "la tragedia. Me gusta que lo llame tragedia porque",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 847.72,
+   "fin": 849.6800000000001,
+   "texto": "es como muy dramático. Y dice,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 849.88,
+   "fin": 851.6800000000001,
+   "texto": "cito, cada ser humano está",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 851.6800000000001,
+   "fin": 853.72,
+   "texto": "encerrado dentro de un sistema que lo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 853.72,
+   "fin": 855.66,
+   "texto": "conmina a incrementar sin",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 855.66,
+   "fin": 857.46,
+   "texto": "límites su rebaño en un mundo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 857.46,
+   "fin": 859.7,
+   "texto": "que es limitado. O sea",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 859.7,
+   "fin": 861.58,
+   "texto": "que aquí estaría este experimento que nos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 861.58,
+   "fin": 863.8,
+   "texto": "plantea para explicar qué es la tragedia de los comunes",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 863.8,
+   "fin": 865.66,
+   "texto": "a través de la ganadería.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 866.04,
+   "fin": 867.38,
+   "texto": "Sin embargo, ahí podría",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 867.38,
+   "fin": 869.66,
+   "texto": "poner él también otros ejemplos, que es, dice,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 869.8,
+   "fin": 871.58,
+   "texto": "el acceso libre a los mares, que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 871.58,
+   "fin": 873.6,
+   "texto": "lleva de la misma manera a la extinción",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 873.6,
+   "fin": 875.3,
+   "texto": "de especies de peces o ballenas,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 875.74,
+   "fin": 880.64,
+   "texto": "Y también nos dice los parques nacionales, que están abiertos a todos, no hay ningún límite,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 881.0600000000001,
+   "fin": 883.6,
+   "texto": "y los parques sí que tienen una extensión limitada.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 883.96,
+   "fin": 890.6,
+   "texto": "Por tanto, también los vamos a erosionar, igual que pasa con las tierras para el pastoreo o para la ganadería.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 890.6,
+   "fin": 896.98,
+   "texto": "Y en este sentido, viendo los diferentes ejemplos de recursos naturales que pueden ser sometidos a esta tragedia,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 897.46,
+   "fin": 898.96,
+   "texto": "nos contaba Zarina lo siguiente.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 899.84,
+   "fin": 904.6,
+   "texto": "El cambio climático es un ejemplo claro de los dilemas que enfrentan los bienes comunes globales.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 904.6,
+   "fin": 910.24,
+   "texto": "globales. Por ejemplo, la atmósfera, cuyo deterioro afecta a toda la humanidad, o los",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 910.24,
+   "fin": 916.64,
+   "texto": "océanos, esenciales para regular el clima y la estabilidad de los ecosistemas. Todos son recursos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 916.64,
+   "fin": 922.34,
+   "texto": "que trascienden cualquier frontera nacional. Sin embargo, su gestión sigue fragmentada entre",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 922.34,
+   "fin": 928.14,
+   "texto": "políticas internas y acuerdos internacionales limitados, y esto plantea una cuestión central",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 928.14,
+   "fin": 934.0,
+   "texto": "de justicia climática. Los impactos del cambio climático no se distribuyen de manera equitativa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 934.0,
+   "fin": 940.4,
+   "texto": "en el mundo. De hecho, afectan con mayor fuerza a quienes menos contribuyeron históricamente a la",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 940.4,
+   "fin": 946.76,
+   "texto": "emisión de los gases de efecto invernadero. Así, repensar la gobernanza global y garantizar equidad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 946.76,
+   "fin": 951.72,
+   "texto": "en la protección de estos bienes es quizás uno de los mayores desafíos de nuestro tiempo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 952.76,
+   "fin": 958.24,
+   "texto": "Me gusta mucho este audio porque, claro, es bastante más fácil entender este problema que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 958.24,
+   "fin": 963.56,
+   "texto": "plantea Harding cuando estás pensando en una parcela acotada que cuando estás pensando en",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 963.56,
+   "fin": 965.6199999999999,
+   "texto": "la atmósfera. Porque ¿qué pasa con",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 965.6199999999999,
+   "fin": 967.4799999999999,
+   "texto": "los bienes comunes que no son parcelas de tierra",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 967.4799999999999,
+   "fin": 969.2199999999999,
+   "texto": "o que no son parques nacionales?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 969.64,
+   "fin": 971.56,
+   "texto": "Porque claro, creo que la atmósfera",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 971.56,
+   "fin": 973.3599999999999,
+   "texto": "es algo en lo que no pensamos cuando",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 973.3599999999999,
+   "fin": 975.4399999999999,
+   "texto": "hablamos de este tipo de cuestiones",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 975.4399999999999,
+   "fin": 977.52,
+   "texto": "porque a no ser que te dediques a reflexionar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 977.52,
+   "fin": 979.8,
+   "texto": "o investigar sobre estos temas, pues la atmósfera",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 979.8,
+   "fin": 981.1199999999999,
+   "texto": "simplemente está ahí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 981.54,
+   "fin": 983.6199999999999,
+   "texto": "Existe y tú vives gracias a",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 983.6199999999999,
+   "fin": 985.64,
+   "texto": "ella y la consumes junto con",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 985.64,
+   "fin": 987.52,
+   "texto": "los billones de personas que hay en la",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 987.52,
+   "fin": 989.4399999999999,
+   "texto": "tierra, pero no te paras a pensar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 989.4399999999999,
+   "fin": 991.4799999999999,
+   "texto": "en qué está pasando con ello. Y que también tenemos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 991.4799999999999,
+   "fin": 993.42,
+   "texto": "esta tendencia como a responsabilizarnos de",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 993.42,
+   "fin": 994.8399999999999,
+   "texto": "lo nuestro, que supone",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 994.8399999999999,
+   "fin": 997.42,
+   "texto": "las partes del mar, por ejemplo, que nos corresponden",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 997.42,
+   "fin": 999.26,
+   "texto": "o que están reguladas por las leyes de pesca",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 999.26,
+   "fin": 1001.4399999999999,
+   "texto": "de X país, o el espacio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1001.4399999999999,
+   "fin": 1003.56,
+   "texto": "aéreo, pero creo que está pensado más en el sentido",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1003.56,
+   "fin": 1005.5999999999999,
+   "texto": "de explotación o de tránsito",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1005.5999999999999,
+   "fin": 1006.64,
+   "texto": "que de cuidado.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1007.4599999999999,
+   "fin": 1009.62,
+   "texto": "No sé si el espacio aéreo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1009.62,
+   "fin": 1011.0999999999999,
+   "texto": "está entendido como...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1011.0999999999999,
+   "fin": 1013.52,
+   "texto": "También es muy curioso esto. Todos los países",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1013.52,
+   "fin": 1015.4399999999999,
+   "texto": "tienen muy claro, y últimamente lo hemos visto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1015.4399999999999,
+   "fin": 1017.2199999999999,
+   "texto": "también, cuál es su espacio aéreo,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1017.3399999999999,
+   "fin": 1019.5,
+   "texto": "cuál es su espacio, no sé cómo se dice esto, pero el espacio",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1019.5,
+   "fin": 1021.5799999999999,
+   "texto": "marítimo, o sea, cuáles son las aguas internacionales",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1021.5799999999999,
+   "fin": 1023.06,
+   "texto": "y cuáles son las aguas de un país.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1023.42,
+   "fin": 1025.2,
+   "texto": "pero luego ¿qué pasa con",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1025.2,
+   "fin": 1027.42,
+   "texto": "las capas superiores?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1028.3,
+   "fin": 1029.36,
+   "texto": "Exactamente, más para el tránsito.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1029.3799999999999,
+   "fin": 1030.92,
+   "texto": "Lo que no podemos hacer nuestro,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1031.24,
+   "fin": 1033.34,
+   "texto": "no nos importa. No pensamos en ello.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1033.42,
+   "fin": 1034.92,
+   "texto": "Lo cuidamos para algo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1035.46,
+   "fin": 1036.6599999999999,
+   "texto": "Siempre es utilitarista.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1037.18,
+   "fin": 1039.42,
+   "texto": "Pero ¿qué pasa con lo que no se puede acercar?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1039.6,
+   "fin": 1041.74,
+   "texto": "Lo que no es de nadie o barra es de todos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1041.92,
+   "fin": 1043.12,
+   "texto": "Me parece muy interesante.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1043.8799999999999,
+   "fin": 1045.36,
+   "texto": "También lo que menciona Zarina",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1045.36,
+   "fin": 1046.92,
+   "texto": "en el audio es muy importante,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1046.92,
+   "fin": 1047.8,
+   "texto": "muy interesante,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1048.42,
+   "fin": 1051.24,
+   "texto": "en la línea de esta idea de que los bienes comunes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1051.24,
+   "fin": 1052.92,
+   "texto": "de la magnitud de la atmósfera, por ejemplo,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1052.92,
+   "fin": 1057.48,
+   "texto": "o los océanos nos tienen que hacer pensar en el desequilibrio que existe a nivel global.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1057.98,
+   "fin": 1061.38,
+   "texto": "Porque el hecho de que estos bienes sean, digamos, de todos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1061.8000000000002,
+   "fin": 1065.48,
+   "texto": "da pie a formas de injusticia a nivel macro en las que tampoco nos paramos a pensar.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1066.18,
+   "fin": 1070.28,
+   "texto": "Hasta qué punto es injusto que culpemos a los países del sur global de la contaminación",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1070.28,
+   "fin": 1075.02,
+   "texto": "cuando realmente nosotros hemos ejercido sobre ellos formas de extractivismo, colonialismo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1075.1200000000001,
+   "fin": 1077.98,
+   "texto": "O sea, esto es una crítica que va a estar presente todo el rato en esta glosa.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1077.98,
+   "fin": 1081.24,
+   "texto": "y de hecho la cita que yo creo que es la más famosa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1081.24,
+   "fin": 1083.28,
+   "texto": "del texto que la he visto en muchísimos sitios",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1083.28,
+   "fin": 1085.48,
+   "texto": "es la libertad en los bienes comunes",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1085.48,
+   "fin": 1087.14,
+   "texto": "es ruina para todos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1087.14,
+   "fin": 1089.06,
+   "texto": "y es verdad que fíjate",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1089.06,
+   "fin": 1091.1,
+   "texto": "que él piensa mucho en estas cosas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1091.1,
+   "fin": 1092.44,
+   "texto": "mucho más específicas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1092.44,
+   "fin": 1095.74,
+   "texto": "el individuo dice se beneficia individualmente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1095.74,
+   "fin": 1096.96,
+   "texto": "pero cuando hace eso",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1096.96,
+   "fin": 1099.24,
+   "texto": "perjudica a la sociedad en su conjunto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1099.24,
+   "fin": 1100.78,
+   "texto": "y entonces él se plantea",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1100.78,
+   "fin": 1102.6,
+   "texto": "¿qué podemos hacer ante este problema?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1102.94,
+   "fin": 1105.26,
+   "texto": "es verdad que de esta parte no hemos querido traer mucho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1105.26,
+   "fin": 1105.92,
+   "texto": "porque primero",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1105.92,
+   "fin": 1108.52,
+   "texto": "no, es que...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1108.52,
+   "fin": 1110.54,
+   "texto": "¿No se entendía? No, no, es que no me interesa.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1110.8400000000001,
+   "fin": 1112.0800000000002,
+   "texto": "Perdón, pero...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1112.0800000000002,
+   "fin": 1114.38,
+   "texto": "Hay partes que tienen incluso matemáticas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1114.74,
+   "fin": 1116.28,
+   "texto": "Sí, sí, y es todo el rato la misma...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1117.1000000000001,
+   "fin": 1118.2,
+   "texto": "Podríamos derivar en la misma",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1118.2,
+   "fin": 1120.3400000000001,
+   "texto": "solución que él plantea, que es la propiedad privada.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1120.48,
+   "fin": 1121.76,
+   "texto": "O sea, es todo el rato...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1121.76,
+   "fin": 1124.42,
+   "texto": "Todo debe ser privado, debe ser legislado y debe ser",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1124.42,
+   "fin": 1126.22,
+   "texto": "castigado. Es un poco",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1126.22,
+   "fin": 1127.14,
+   "texto": "siempre su respuesta.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1127.8200000000002,
+   "fin": 1129.92,
+   "texto": "No solo la propiedad privada, sino...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1129.92,
+   "fin": 1132.22,
+   "texto": "Bueno, a ver, si nos parece demasiado, lo que podemos hacer es",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1132.22,
+   "fin": 1134.2,
+   "texto": "mantenerlos como una propiedad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1134.2,
+   "fin": 1135.66,
+   "texto": "pública con derecho de acceso.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1135.66,
+   "fin": 1137.98,
+   "texto": "que tú puedas acceder pero que esté controlado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1137.98,
+   "fin": 1139.92,
+   "texto": "y algunas de las formas que plantea es",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1139.92,
+   "fin": 1142.3600000000001,
+   "texto": "pues dependiendo de la riqueza, por subasta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1142.3600000000001,
+   "fin": 1144.38,
+   "texto": "por mérito, por lotería, por orden",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1144.38,
+   "fin": 1146.46,
+   "texto": "de llegada, esto más pensando en los parques nacionales",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1146.46,
+   "fin": 1148.26,
+   "texto": "por ejemplo, o sea que su",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1148.26,
+   "fin": 1150.3400000000001,
+   "texto": "conclusión es que si no elegimos un",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1150.3400000000001,
+   "fin": 1151.68,
+   "texto": "criterio, sea el que sea",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1151.68,
+   "fin": 1154.24,
+   "texto": "tendremos como resultado la destrucción",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1154.24,
+   "fin": 1155.8000000000002,
+   "texto": "de estos bienes comunales",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1155.8000000000002,
+   "fin": 1158.42,
+   "texto": "y además aquí no se",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1158.42,
+   "fin": 1160.8400000000001,
+   "texto": "plantea solo que podemos extraer",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1160.8400000000001,
+   "fin": 1162.3200000000002,
+   "texto": "cosas de los bienes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1162.3200000000002,
+   "fin": 1164.48,
+   "texto": "comunes y explotarlos, que es un poco la tragedia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1164.48,
+   "fin": 1170.72,
+   "texto": "que él expone, sino que también Harding denuncia que depositamos cosas en ellos, como por ejemplo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1170.72,
+   "fin": 1176.56,
+   "texto": "desechos químicos, emanaciones nocivas, aguas de alcantarilla, incluso letreros publicitarios.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1177.0,
+   "fin": 1182.06,
+   "texto": "Es decir, llegamos al segundo problema, que es el problema de la contaminación. Él postula que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1182.06,
+   "fin": 1187.26,
+   "texto": "nosotros decidimos que cuesta menos deshacernos de los desperdicios en los recursos naturales que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1187.26,
+   "fin": 1193.08,
+   "texto": "pagar el precio que supondría purificar esos recursos. Y tiene una cita que es ensuciar nuestro",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1193.08,
+   "fin": 1195.1999999999998,
+   "texto": "propio nido. Es un poco lo que haríamos todo el rato.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1195.3,
+   "fin": 1197.1999999999998,
+   "texto": "No solo explotamos los recursos naturales, sino que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1197.1999999999998,
+   "fin": 1199.34,
+   "texto": "encima los contaminamos. El resultado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1199.34,
+   "fin": 1201.34,
+   "texto": "de esa explotación lo vertemos a los propios",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1201.34,
+   "fin": 1202.9199999999998,
+   "texto": "recursos naturales. Efectivamente.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1203.5,
+   "fin": 1205.1,
+   "texto": "En este sentido, es una tragedia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1205.1,
+   "fin": 1207.3799999999999,
+   "texto": "el tratar los recursos comunes como un pozo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1207.9399999999998,
+   "fin": 1209.3,
+   "texto": "Algo que se podría solucionar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1209.3,
+   "fin": 1211.3,
+   "texto": "de nuevo, dice Harding, con la propiedad",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1211.3,
+   "fin": 1213.1,
+   "texto": "privada, con estas leyes coercitivas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1213.1,
+   "fin": 1214.34,
+   "texto": "o con planes tributarios.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1215.1399999999999,
+   "fin": 1217.1599999999999,
+   "texto": "Y Harding también señala en el texto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1217.1599999999999,
+   "fin": 1219.04,
+   "texto": "que en cuanto a maneras de convivir",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1219.04,
+   "fin": 1221.0,
+   "texto": "de manera más sana en este",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1221.0,
+   "fin": 1222.6,
+   "texto": "planeta finito en el que vivimos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1222.6,
+   "fin": 1226.98,
+   "texto": "no se nos está dando demasiado bien restringir nuestros privilegios y nuestro placer,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1227.12,
+   "fin": 1229.5,
+   "texto": "que me parece también otra idea bastante interesante del texto,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1229.9199999999998,
+   "fin": 1231.98,
+   "texto": "porque dice que vamos muy tarde con ciertos temas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1231.98,
+   "fin": 1236.1599999999999,
+   "texto": "que disminuirían los tipos de contaminación que quizás no sean tan evidentes,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1236.3,
+   "fin": 1238.32,
+   "texto": "como por ejemplo la contaminación que no se ve.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1238.56,
+   "fin": 1241.2199999999998,
+   "texto": "Igual que hablábamos antes de la atmósfera, no nos paramos a pensar en ella,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1241.62,
+   "fin": 1242.9399999999998,
+   "texto": "porque no se ve, porque siempre está ahí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1243.28,
+   "fin": 1245.3799999999999,
+   "texto": "Pues por ejemplo la contaminación sonora, dice,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1245.84,
+   "fin": 1248.08,
+   "texto": "la propagación de ondas sonoras en espacios públicos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1248.4599999999998,
+   "fin": 1252.3,
+   "texto": "dice que estamos lejos de legislar sobre los recursos comunes en materias de placer.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1252.3,
+   "fin": 1263.22,
+   "texto": "Es decir, que no estamos del todo dispuestos a sacrificar ciertas comodidades o ciertas cosas a las que estamos acostumbrados en pos de un bien común o de una mejora de estos bienes comunes.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1263.22,
+   "fin": 1277.24,
+   "texto": "Y fíjate que aquí también establece una diferencia entre Occidente y lo que no es Occidente, que es, bueno, en materia de contaminación nosotros ya estamos bastante adelantados en restringir un poco o multar a las empresas ponte que echan residuos tóxicos a un río.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1277.24,
+   "fin": 1279.08,
+   "texto": "en eso estamos bastante tal",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1279.08,
+   "fin": 1281.1,
+   "texto": "no como la otra gente, esos son",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1281.1,
+   "fin": 1282.38,
+   "texto": "los detalles que va soltando",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1282.38,
+   "fin": 1285.14,
+   "texto": "y dice, pero nosotros ya tenemos que dar un paso más",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1285.14,
+   "fin": 1287.2,
+   "texto": "que es legislar también",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1287.2,
+   "fin": 1289.34,
+   "texto": "en cuanto al placer, no en cuanto a los desechos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1289.34,
+   "fin": 1290.94,
+   "texto": "sino a lo que tú decías, por ejemplo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1290.94,
+   "fin": 1293.0,
+   "texto": "la contaminación sonora, y en eso no vamos tan bien",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1293.0,
+   "fin": 1295.18,
+   "texto": "o sea que hay una diferencia todo el rato que se va",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1295.18,
+   "fin": 1297.24,
+   "texto": "abriendo entre los que lo hacemos bien y lo deberíamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1297.24,
+   "fin": 1299.36,
+   "texto": "hacer mejor y los que lo están haciendo fatal",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1299.36,
+   "fin": 1300.82,
+   "texto": "sí que hay pinceladas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1300.82,
+   "fin": 1302.08,
+   "texto": "casualmente son quienes son",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1302.08,
+   "fin": 1304.74,
+   "texto": "y no hay ninguna autocrítica de",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1304.74,
+   "fin": 1306.98,
+   "texto": "vale, nosotros hemos legislado para no",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1306.98,
+   "fin": 1309.02,
+   "texto": "contaminar tanto, pues que hemos pensado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1309.02,
+   "fin": 1310.66,
+   "texto": "en que somos los que más contaminamos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1310.84,
+   "fin": 1312.98,
+   "texto": "Que también es una solución un poco técnica. Ahí sí que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1312.98,
+   "fin": 1314.96,
+   "texto": "pensé que se contradice un poco, en",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1314.96,
+   "fin": 1316.94,
+   "texto": "sentido de, tenemos que poner más leyes,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1317.06,
+   "fin": 1318.78,
+   "texto": "poner más legislación para",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1318.78,
+   "fin": 1320.48,
+   "texto": "que nosotros",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1320.48,
+   "fin": 1323.06,
+   "texto": "lo que contaminamos tengamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1323.06,
+   "fin": 1324.74,
+   "texto": "que cuidarlo o tengamos que hacernos cargo,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1325.18,
+   "fin": 1327.24,
+   "texto": "pero no hay una idea",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1327.24,
+   "fin": 1329.38,
+   "texto": "en cuanto a si contaminamos menos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1329.52,
+   "fin": 1330.54,
+   "texto": "Claro, claro. Como un cambio",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1330.54,
+   "fin": 1332.84,
+   "texto": "en el comportamiento.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1333.0,
+   "fin": 1334.38,
+   "texto": "Sí, que ahí creo que sí que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1334.38,
+   "fin": 1336.38,
+   "texto": "patinas, jardina.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1336.38,
+   "fin": 1338.5800000000002,
+   "texto": "¿Dónde está ese señor muerto?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1338.8000000000002,
+   "fin": 1339.24,
+   "texto": "Está muerto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1339.24,
+   "fin": 1342.7800000000002,
+   "texto": "De hecho estaba a favor de la muerte",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1342.7800000000002,
+   "fin": 1344.88,
+   "texto": "porque como está con la sobra de población",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1344.88,
+   "fin": 1345.94,
+   "texto": "nos contó Zarina",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1345.94,
+   "fin": 1347.66,
+   "texto": "en las nuestras conversaciones",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1347.66,
+   "fin": 1351.18,
+   "texto": "que él era de los que dicen que hay que morirse",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1351.18,
+   "fin": 1353.0,
+   "texto": "Bueno, y se murió, ¿qué le vamos a decir?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1353.14,
+   "fin": 1354.0800000000002,
+   "texto": "Se quedó tranquilo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1354.0800000000002,
+   "fin": 1356.14,
+   "texto": "Está tranquilísimo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1356.14,
+   "fin": 1358.8200000000002,
+   "texto": "Entonces bueno, siguiendo un poco con este tema",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1358.8200000000002,
+   "fin": 1361.0800000000002,
+   "texto": "lo importante aquí también sería",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1361.0800000000002,
+   "fin": 1362.8000000000002,
+   "texto": "entender que para Hardin la contaminación es",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1362.8000000000002,
+   "fin": 1364.8000000000002,
+   "texto": "consecuencia directa de la sobrepoblación",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1364.8,
+   "fin": 1367.5,
+   "texto": "como dirían es, dale vueltas la burra al trigo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1367.5,
+   "fin": 1369.04,
+   "texto": "es una frase que dice mucho en casa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1369.04,
+   "fin": 1371.32,
+   "texto": "porque él básicamente dice que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1371.32,
+   "fin": 1373.56,
+   "texto": "antes daba igual la forma en que por ejemplo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1373.56,
+   "fin": 1375.6599999999999,
+   "texto": "un pionero americano liberaba sus desechos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1375.6599999999999,
+   "fin": 1377.62,
+   "texto": "porque estaba solo en un campo de",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1377.62,
+   "fin": 1379.34,
+   "texto": "Wisconsin y en una",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1379.34,
+   "fin": 1380.76,
+   "texto": "extensión",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1380.76,
+   "fin": 1383.62,
+   "texto": "muy extensa de terreno, entonces no hay",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1383.62,
+   "fin": 1384.28,
+   "texto": "mucha gente y entonces",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1384.28,
+   "fin": 1387.28,
+   "texto": "la naturaleza puede digamos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1387.28,
+   "fin": 1389.62,
+   "texto": "asumir esos desechos que tú",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1389.62,
+   "fin": 1391.6599999999999,
+   "texto": "echas y purificarlos y no pasa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1391.6599999999999,
+   "fin": 1393.4199999999998,
+   "texto": "nada. Es que esto habría que verlo. Bueno, claro, ya",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1393.42,
+   "fin": 1394.1000000000001,
+   "texto": "porque es otra cosa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1394.1000000000001,
+   "fin": 1394.48,
+   "texto": "que me pasa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1394.48,
+   "fin": 1395.0800000000002,
+   "texto": "es una cosa que dice",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1395.0800000000002,
+   "fin": 1396.3200000000002,
+   "texto": "sí, me pasa mucho en el texto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1396.3200000000002,
+   "fin": 1397.54,
+   "texto": "que suelta cosas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1397.54,
+   "fin": 1399.16,
+   "texto": "pero luego no ahonda",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1399.16,
+   "fin": 1400.76,
+   "texto": "en explicarlas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1400.76,
+   "fin": 1401.66,
+   "texto": "o en darte datos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1401.66,
+   "fin": 1402.66,
+   "texto": "acerca de lo que está diciendo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1402.66,
+   "fin": 1402.92,
+   "texto": "o sea",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1402.92,
+   "fin": 1404.24,
+   "texto": "que esto también lo comentamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1404.24,
+   "fin": 1404.66,
+   "texto": "con Zarina",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1404.66,
+   "fin": 1405.46,
+   "texto": "yo creo que es como",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1405.46,
+   "fin": 1407.38,
+   "texto": "que suelta minucias",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1407.38,
+   "fin": 1408.76,
+   "texto": "pero luego yo no sé",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1408.76,
+   "fin": 1409.5800000000002,
+   "texto": "cuánto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1409.5800000000002,
+   "fin": 1411.42,
+   "texto": "cuánto de real hay en eso",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1411.42,
+   "fin": 1412.0600000000002,
+   "texto": "cómo de comprobadas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1412.0600000000002,
+   "fin": 1413.0,
+   "texto": "porque no ahonda",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1413.0,
+   "fin": 1413.5600000000002,
+   "texto": "claro",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1413.5600000000002,
+   "fin": 1414.6200000000001,
+   "texto": "pero aquí dice el tema",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1414.6200000000001,
+   "fin": 1415.46,
+   "texto": "de si tú estás solo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1415.46,
+   "fin": 1416.7,
+   "texto": "y contaminas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1416.7,
+   "fin": 1417.28,
+   "texto": "no pasa nada",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1417.28,
+   "fin": 1418.1000000000001,
+   "texto": "pero cuando somos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1418.1000000000001,
+   "fin": 1418.8600000000001,
+   "texto": "muchas personas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1418.8600000000001,
+   "fin": 1420.6000000000001,
+   "texto": "pues los recursos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1420.6000000000001,
+   "fin": 1421.78,
+   "texto": "o los bienes comunes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1421.78,
+   "fin": 1422.3000000000002,
+   "texto": "son incapaces",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1422.3000000000002,
+   "fin": 1422.9,
+   "texto": "de asumir",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1422.9,
+   "fin": 1424.46,
+   "texto": "eso que tú estás depositando ahí",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1424.46,
+   "fin": 1426.96,
+   "texto": "y el entorno natural no puede absorber esos desechos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1427.74,
+   "fin": 1429.38,
+   "texto": "Entonces, esto lleva a una saturación",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1429.38,
+   "fin": 1430.64,
+   "texto": "de los recursos naturales,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1430.7800000000002,
+   "fin": 1432.2,
+   "texto": "que es la preocupación.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1432.2,
+   "fin": 1434.0400000000002,
+   "texto": "Claro. Y aquí un poco",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1434.0400000000002,
+   "fin": 1436.16,
+   "texto": "volvemos al principio, que era esta idea de la",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1436.16,
+   "fin": 1438.02,
+   "texto": "sobrepoblación a través de la tragedia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1438.02,
+   "fin": 1440.3000000000002,
+   "texto": "de los comunes y de la contaminación,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1440.64,
+   "fin": 1442.3000000000002,
+   "texto": "lo que nos lleva a concluir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1442.3000000000002,
+   "fin": 1443.48,
+   "texto": "a Hardin...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1443.48,
+   "fin": 1444.88,
+   "texto": "Hardin.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1445.66,
+   "fin": 1448.5,
+   "texto": "Lo confundo con Harvey, el urbanista.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1448.5400000000002,
+   "fin": 1449.42,
+   "texto": "Con Harry Potter.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1450.0400000000002,
+   "fin": 1451.46,
+   "texto": "Con Hagrid Hardin.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1451.46,
+   "fin": 1454.06,
+   "texto": "concluye que la libertad para procrear",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1454.06,
+   "fin": 1455.98,
+   "texto": "es inaceptable por todo esto que hemos visto.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1456.3,
+   "fin": 1457.92,
+   "texto": "Porque como tenemos una sociedad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1457.92,
+   "fin": 1459.92,
+   "texto": "asistencialista, que esto en el texto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1459.92,
+   "fin": 1461.68,
+   "texto": "lo que quiere decir es que básicamente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1461.68,
+   "fin": 1463.9,
+   "texto": "cuidamos a los demás, o sea, los hijos de los",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1463.9,
+   "fin": 1465.6000000000001,
+   "texto": "padres que no son previsores no mueren,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1465.74,
+   "fin": 1468.0,
+   "texto": "por ejemplo, o no nos regulamos tan bien",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1468.0,
+   "fin": 1469.72,
+   "texto": "como hacen otras especies, como pueden ser",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1469.72,
+   "fin": 1471.82,
+   "texto": "los pájaros. Nos vemos asaltados",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1471.82,
+   "fin": 1473.8600000000001,
+   "texto": "por esto, por la tragedia de los comunes.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1473.96,
+   "fin": 1475.7,
+   "texto": "Que esto vamos a dejarlo en barbecho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1475.7,
+   "fin": 1477.68,
+   "texto": "y ahora volvemos, porque esto es un delirio.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1477.9,
+   "fin": 1479.56,
+   "texto": "Estamos entrando ya en el",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1479.56,
+   "fin": 1481.16,
+   "texto": "picorcito del texto.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1481.16,
+   "fin": 1499.16,
+   "texto": "Dije, guau, ¿no? Pero es un poco esta idea de como no dejamos morir a los demás, no hay una selección natural, no hay una autorregulación y por tanto todo el mundo sobrevive y nos acumulamos más gente. Por tanto, dice que debemos tratar a la sobrepoblación como una política pública. Como nos está autorregulando, tenemos que regularla desde fuera. Es esto un poco.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1499.16,
+   "fin": 1501.22,
+   "texto": "y en realidad este es un tema muy actual",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1501.22,
+   "fin": 1503.3000000000002,
+   "texto": "Zarina nos contaba que hay muchos países que han hecho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1503.3000000000002,
+   "fin": 1505.78,
+   "texto": "por ejemplo esterilizaciones",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1505.78,
+   "fin": 1506.6200000000001,
+   "texto": "forzosas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1506.6200000000001,
+   "fin": 1509.5400000000002,
+   "texto": "elegidas a ciertos colectivos de la población",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1509.5400000000002,
+   "fin": 1511.5400000000002,
+   "texto": "o sea que este es un tema que también",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1511.5400000000002,
+   "fin": 1513.16,
+   "texto": "está por ahí y dice",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1513.16,
+   "fin": 1515.4,
+   "texto": "equilibrar los conceptos de libertad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1515.4,
+   "fin": 1517.44,
+   "texto": "reproductiva en la creencia de que todos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1517.44,
+   "fin": 1519.52,
+   "texto": "los seres humanos nacen con igual derecho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1519.52,
+   "fin": 1521.2,
+   "texto": "sobre los recursos comunes",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1521.2,
+   "fin": 1523.42,
+   "texto": "equivale a precipitar el mundo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1523.42,
+   "fin": 1525.8200000000002,
+   "texto": "hacia un trágico curso de acción",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1525.8200000000002,
+   "fin": 1527.66,
+   "texto": "que esto quiere decir que no podemos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1527.66,
+   "fin": 1529.64,
+   "texto": "controlar la reproducción simplemente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1529.64,
+   "fin": 1531.3200000000002,
+   "texto": "apelando a la conciencia individual",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1531.3200000000002,
+   "fin": 1533.6000000000001,
+   "texto": "porque claro, habrá personas que lo tengan en cuenta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1533.6000000000001,
+   "fin": 1535.6200000000001,
+   "texto": "y otras que no. Por ejemplo, si hacemos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1535.6200000000001,
+   "fin": 1537.66,
+   "texto": "campañas de paternidad responsable, dices",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1537.66,
+   "fin": 1539.8200000000002,
+   "texto": "fíjate la sobrepoblación, ten cuidado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1539.8200000000002,
+   "fin": 1541.72,
+   "texto": "sé consciente de todos estos problemas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1541.72,
+   "fin": 1543.3000000000002,
+   "texto": "y a través de esa concienciación",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1543.3000000000002,
+   "fin": 1544.8600000000001,
+   "texto": "mira a ver lo que tú haces",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1544.8600000000001,
+   "fin": 1547.3600000000001,
+   "texto": "en tu vida individual, dice a ver",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1547.3600000000001,
+   "fin": 1549.0400000000002,
+   "texto": "la realidad es que la única manera",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1549.0400000000002,
+   "fin": 1551.64,
+   "texto": "es renunciar, una cosa más general",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1551.64,
+   "fin": 1553.6200000000001,
+   "texto": "a la libertad para procrear",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1553.6200000000001,
+   "fin": 1556.0600000000002,
+   "texto": "porque él tiene un concepto de la responsabilidad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1556.0600000000002,
+   "fin": 1557.52,
+   "texto": "terrorífico",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1557.52,
+   "fin": 1560.56,
+   "texto": "Él dice que no podemos apelar a la responsabilidad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1560.56,
+   "fin": 1563.24,
+   "texto": "porque lo que pasa si tú apelas a que la gente sea responsable",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1563.24,
+   "fin": 1565.22,
+   "texto": "es que intimidas a una persona que es libre",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1565.22,
+   "fin": 1568.7,
+   "texto": "para que actúe en lo que puede ser en contra de lo que él quiere",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1568.7,
+   "fin": 1569.9,
+   "texto": "o de sus propios intereses.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1570.36,
+   "fin": 1572.48,
+   "texto": "Y básicamente va a quedar como un tonto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1572.48,
+   "fin": 1574.92,
+   "texto": "porque habrá gente que no tenga esa responsabilidad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1574.92,
+   "fin": 1578.82,
+   "texto": "o que no lleve esa responsabilidad o esa educación.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1579.06,
+   "fin": 1583.8799999999999,
+   "texto": "Por ejemplo, con lo de los controles y la concienciación de todo esto.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1584.3,
+   "fin": 1585.66,
+   "texto": "Y entonces va a haber gente que lo haga y gente que no.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1585.66,
+   "fin": 1588.4,
+   "texto": "tú puedes sacrificarte y elegir no tener hijos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1588.4,
+   "fin": 1590.2,
+   "texto": "porque estás muy concienciado de la sobrepoblación",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1590.2,
+   "fin": 1591.8600000000001,
+   "texto": "pero si tu vecino tiene siete",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1591.8600000000001,
+   "fin": 1594.5400000000002,
+   "texto": "tú quedas como un tonto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1594.5400000000002,
+   "fin": 1596.42,
+   "texto": "ese es el planteamiento de Harding en este sentido",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1596.42,
+   "fin": 1597.72,
+   "texto": "resumiendolo, que es como",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1597.72,
+   "fin": 1599.92,
+   "texto": "tú puedes ser responsable y el otro no serlo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1599.92,
+   "fin": 1600.88,
+   "texto": "y tú, ¿qué ganas?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1600.98,
+   "fin": 1603.5,
+   "texto": "te fastidias, no se arregla nada",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1603.5,
+   "fin": 1606.38,
+   "texto": "no vives en un mundo mejor y encima eres tonto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1606.38,
+   "fin": 1607.74,
+   "texto": "sí, o sea, a él la responsabilidad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1607.74,
+   "fin": 1610.0,
+   "texto": "no le gusta, la responsabilidad nada",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1610.0,
+   "fin": 1612.78,
+   "texto": "de hecho dice que la responsabilidad es igual a coerción",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1612.78,
+   "fin": 1613.92,
+   "texto": "y por eso dice",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1613.92,
+   "fin": 1616.3000000000002,
+   "texto": "en vez de coercionar a personas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1616.3000000000002,
+   "fin": 1617.92,
+   "texto": "concretas y apelar a su conciencia,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1618.24,
+   "fin": 1620.1000000000001,
+   "texto": "es mejor la coerción mutua. Es decir,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1620.14,
+   "fin": 1622.1000000000001,
+   "texto": "una coerción que está acordada por la mayoría",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1622.1000000000001,
+   "fin": 1623.78,
+   "texto": "de las personas y por todos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1623.9,
+   "fin": 1625.72,
+   "texto": "El ejemplo mítico en su texto,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1626.04,
+   "fin": 1627.5800000000002,
+   "texto": "los impuestos frente a",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1627.5800000000002,
+   "fin": 1630.02,
+   "texto": "la tragedia de los comunes y a acabar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1630.02,
+   "fin": 1632.3200000000002,
+   "texto": "con los recursos comunes, vamos a coercionarnos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1632.3200000000002,
+   "fin": 1633.96,
+   "texto": "todos y no apelar a la responsabilidad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1633.96,
+   "fin": 1635.8600000000001,
+   "texto": "individual porque no funciona y porque",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1635.8600000000001,
+   "fin": 1637.18,
+   "texto": "encima te deja en mal lugar.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1637.8600000000001,
+   "fin": 1639.88,
+   "texto": "Y aunque no nos parezca justo esto,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1640.02,
+   "fin": 1641.9,
+   "texto": "esta idea de la coerción mutua,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1641.9,
+   "fin": 1644.24,
+   "texto": "dice, la injusticia es preferible",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1644.24,
+   "fin": 1646.02,
+   "texto": "a la ruina total. O sea,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1646.1200000000001,
+   "fin": 1648.1000000000001,
+   "texto": "aunque quitas libertades",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1648.1000000000001,
+   "fin": 1650.16,
+   "texto": "o hagas cosas que no nos pueden parecer",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1650.16,
+   "fin": 1652.14,
+   "texto": "bien o justas del todo, es mejor eso a la",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1652.14,
+   "fin": 1654.1000000000001,
+   "texto": "tragedia. Claro, al colapso, que es lo que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1654.1000000000001,
+   "fin": 1655.98,
+   "texto": "él está un poco vaticinando, si seguimos así.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1656.3600000000001,
+   "fin": 1657.92,
+   "texto": "Entonces, por resumir un poco",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1657.92,
+   "fin": 1659.16,
+   "texto": "todo lo que hemos contado,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1659.64,
+   "fin": 1662.3200000000002,
+   "texto": "volvemos a la idea de que los recursos comunes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1662.3200000000002,
+   "fin": 1664.22,
+   "texto": "solo se podrían justificar en condiciones",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1664.22,
+   "fin": 1666.16,
+   "texto": "de baja densidad poblacional, y como",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1666.16,
+   "fin": 1668.0600000000002,
+   "texto": "somos muchas personas, pues no se dan estas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1668.0600000000002,
+   "fin": 1670.0400000000002,
+   "texto": "condiciones. Entonces, como la población ha",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1670.04,
+   "fin": 1674.46,
+   "texto": "crecido, los recursos comunes han tenido que ser abandonados. Por ejemplo, la recolección de",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1674.46,
+   "fin": 1679.6599999999999,
+   "texto": "alimentos no se hace de manera libre, sino que se cercan las tierras, se restringe el pastoreo,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1679.74,
+   "fin": 1684.7,
+   "texto": "la pesca, la caza. Y también debemos abandonar el uso de los recursos comunes como áreas para",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1684.7,
+   "fin": 1689.8999999999999,
+   "texto": "la basura, para esta contaminación de la que él habla, aunque no habla de países del norte",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1689.8999999999999,
+   "fin": 1695.1399999999999,
+   "texto": "contaminando a países del sur. Y necesitamos también abandonar los recursos comunes en la",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1695.14,
+   "fin": 1697.22,
+   "texto": "procreación, por esta cosa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1697.22,
+   "fin": 1699.2800000000002,
+   "texto": "de que la libertad para procrear traerá la ruina",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1699.2800000000002,
+   "fin": 1700.48,
+   "texto": "para todos, ¿no? Que decías tú.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1701.0200000000002,
+   "fin": 1702.98,
+   "texto": "Esta es un poco la exposición",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1702.98,
+   "fin": 1705.44,
+   "texto": "resumiendo y haciéndola muy esquemática",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1705.44,
+   "fin": 1706.96,
+   "texto": "de lo que él propone en el texto.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1707.3400000000001,
+   "fin": 1709.38,
+   "texto": "Pero ahora queríamos tirar del hilo para básicamente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1709.38,
+   "fin": 1711.3600000000001,
+   "texto": "ver qué nos gusta y qué no nos gusta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1711.3600000000001,
+   "fin": 1713.3400000000001,
+   "texto": "a nosotras del texto. Voy a empezar con lo que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1713.3400000000001,
+   "fin": 1715.48,
+   "texto": "me gusta, porque son pocas cosas, entonces acabo rápido.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1716.2,
+   "fin": 1717.3400000000001,
+   "texto": "Me gusta esta idea que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1717.3400000000001,
+   "fin": 1719.16,
+   "texto": "presentábamos al principio de que no todo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1719.16,
+   "fin": 1720.74,
+   "texto": "pueden ser soluciones técnicas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1721.2,
+   "fin": 1723.26,
+   "texto": "¿Qué pasa con esos cambios epistemológicos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1723.26,
+   "fin": 1725.46,
+   "texto": "o morales, con el abandono",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1725.46,
+   "fin": 1726.44,
+   "texto": "de nuestros privilegios.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1727.18,
+   "fin": 1729.04,
+   "texto": "De hecho, esta idea está en otros textos que hemos leído",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1729.04,
+   "fin": 1731.04,
+   "texto": "sobre ecologismo, y es esto de",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1731.04,
+   "fin": 1733.08,
+   "texto": "qué difícil es imaginarnos nuestra vida",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1733.08,
+   "fin": 1735.2,
+   "texto": "de otra forma. Y todas esas cosas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1735.2,
+   "fin": 1737.42,
+   "texto": "con las que estamos tan cómodos, y si de repente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1737.42,
+   "fin": 1739.28,
+   "texto": "lo restringimos, estamos mucho menos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1739.28,
+   "fin": 1740.4,
+   "texto": "cómodos. Voy a poner un ejemplo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1740.4,
+   "fin": 1742.56,
+   "texto": "muy tonto y muy cotidiano, pero",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1742.56,
+   "fin": 1745.34,
+   "texto": "con esto de, en vez de tener una lavadora cada uno en casa,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1745.42,
+   "fin": 1747.26,
+   "texto": "¿por qué no tenemos una lavadora en un edificio?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1747.46,
+   "fin": 1748.72,
+   "texto": "Y es en plan,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1749.16,
+   "fin": 1751.3,
+   "texto": "imagínate ponerte de acuerdo con toda esa gente,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1751.3,
+   "fin": 1753.4199999999998,
+   "texto": "con lo cómodo que estoy yo en mi casa con mi lavadora",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1753.4199999999998,
+   "fin": 1755.76,
+   "texto": "pues es un poco, esto se puede extrapolar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1755.76,
+   "fin": 1757.7,
+   "texto": "en vez de haber un cambio moral",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1757.7,
+   "fin": 1759.46,
+   "texto": "o epistemológico sea, mira con una",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1759.46,
+   "fin": 1761.32,
+   "texto": "nos apañamos, lo que pasa es que hay que tener un orden",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1761.32,
+   "fin": 1763.7,
+   "texto": "no estamos dispuestos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1763.7,
+   "fin": 1766.04,
+   "texto": "en muchos casos y en ejemplos así tan específicos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1766.04,
+   "fin": 1767.6399999999999,
+   "texto": "a renunciar a un privilegio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1767.6399999999999,
+   "fin": 1769.2,
+   "texto": "o a una posición cómoda en la que estamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1769.2,
+   "fin": 1772.02,
+   "texto": "es una posición contraria",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1772.02,
+   "fin": 1774.06,
+   "texto": "esta de centrarte en lo epistemológico",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1774.06,
+   "fin": 1775.94,
+   "texto": "y lo moral a la voluntad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1775.94,
+   "fin": 1777.3,
+   "texto": "de cuantificarlo todo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1777.3,
+   "fin": 1779.74,
+   "texto": "de decir pues, por ejemplo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1779.74,
+   "fin": 1781.6200000000001,
+   "texto": "esto también nos lo contaba Jorge Richman",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1781.6200000000001,
+   "fin": 1782.92,
+   "texto": "de hecho en nuestras clases de ética",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1782.92,
+   "fin": 1785.92,
+   "texto": "en vez de decir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1785.92,
+   "fin": 1787.58,
+   "texto": "vale, ¿qué tenemos que hacer para reducir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1787.58,
+   "fin": 1788.8,
+   "texto": "las emisiones de CO2?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1789.24,
+   "fin": 1791.64,
+   "texto": "posibles cosas tal, y muchas de ellas renuncias",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1791.64,
+   "fin": 1793.26,
+   "texto": "a la vida que tenemos actualmente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1793.26,
+   "fin": 1795.52,
+   "texto": "no, mejor vamos a hacer una máquina",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1795.52,
+   "fin": 1797.6,
+   "texto": "que lo absorba, es esto un poco",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1797.6,
+   "fin": 1799.44,
+   "texto": "que podríamos poner",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1799.44,
+   "fin": 1801.34,
+   "texto": "mil ejemplos, entonces en vez de",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1801.34,
+   "fin": 1803.84,
+   "texto": "centrarnos tanto en no podemos llegar a X grados",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1803.84,
+   "fin": 1805.98,
+   "texto": "y tal, no sé qué, o variables numéricas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1805.98,
+   "fin": 1807.66,
+   "texto": "es más bien qué cambios",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1807.66,
+   "fin": 1809.48,
+   "texto": "que está en nuestra mano hacer, que de hecho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1809.48,
+   "fin": 1812.02,
+   "texto": "podríamos hacerlo, pero decidimos no hacerlo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1812.22,
+   "fin": 1813.74,
+   "texto": "Porque sería un cambio tan grande",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1813.74,
+   "fin": 1815.72,
+   "texto": "en nuestra forma de vida, en nuestra forma de entender",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1815.72,
+   "fin": 1818.0,
+   "texto": "cómo vivimos,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1818.16,
+   "fin": 1819.3,
+   "texto": "que no queremos hacerlo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1820.64,
+   "fin": 1821.9,
+   "texto": "A mí me gusta lo mismo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1823.32,
+   "fin": 1823.94,
+   "texto": "No, es verdad que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1823.94,
+   "fin": 1826.04,
+   "texto": "me gusta mucho esta idea de que pone de manifiesto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1826.04,
+   "fin": 1827.88,
+   "texto": "la necesidad de algún tipo de sacrificio.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1828.1,
+   "fin": 1830.1,
+   "texto": "Lo que pasa es que es verdad que muchas veces no nos encaja.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1830.2,
+   "fin": 1831.6200000000001,
+   "texto": "Es justo lo que tú dices,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1831.8600000000001,
+   "fin": 1833.96,
+   "texto": "que es muy difícil imaginar nuestra vida de otra forma",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1833.96,
+   "fin": 1835.94,
+   "texto": "porque estamos muy acomodados",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1835.94,
+   "fin": 1839.46,
+   "texto": "en todas las cosas que tenemos que nos hacen",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1839.46,
+   "fin": 1840.22,
+   "texto": "la vida muy fácil",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1840.22,
+   "fin": 1843.24,
+   "texto": "y estamos muy acostumbrados a eso",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1843.24,
+   "fin": 1845.06,
+   "texto": "como para renunciar a ciertos privilegios.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1845.3400000000001,
+   "fin": 1847.8,
+   "texto": "Y es verdad que para imaginar otros modos de organización",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1847.8,
+   "fin": 1849.32,
+   "texto": "colectiva, pues",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1849.32,
+   "fin": 1851.6000000000001,
+   "texto": "tenemos que imaginar por fuerza",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1851.6000000000001,
+   "fin": 1853.06,
+   "texto": "leyes que nos van a fastidiar.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1853.06,
+   "fin": 1854.58,
+   "texto": "Y tenemos que imaginar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1854.58,
+   "fin": 1857.16,
+   "texto": "renuncias y sacrificios. Que esto en realidad",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1857.16,
+   "fin": 1859.08,
+   "texto": "ya lo hacemos, porque es parte de nuestra realidad.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1859.24,
+   "fin": 1860.82,
+   "texto": "O sea, hay restricciones todo el rato",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1860.82,
+   "fin": 1862.24,
+   "texto": "sobre lo que podemos o no podemos hacer.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1862.6000000000001,
+   "fin": 1864.66,
+   "texto": "Y en materia de recursos naturales, por ejemplo,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1865.1000000000001,
+   "fin": 1867.14,
+   "texto": "este verano estuvimos con nuestros amigos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1867.14,
+   "fin": 1868.88,
+   "texto": "Clara y Gonzalo haciendo una ruta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1868.88,
+   "fin": 1870.5800000000002,
+   "texto": "de ibones en el Pirineos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1870.92,
+   "fin": 1872.6200000000001,
+   "texto": "pues tú no te puedes bañar en los ibones.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1872.8000000000002,
+   "fin": 1874.7,
+   "texto": "Que de hecho salieron varias noticias de gente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1874.7,
+   "fin": 1876.74,
+   "texto": "metiéndose en los ibones, en las sierras,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1876.8400000000001,
+   "fin": 1878.92,
+   "texto": "pues no puedes. ¿Está bien que no puedas?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1879.0,
+   "fin": 1880.3400000000001,
+   "texto": "Sí. Adelante.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1880.66,
+   "fin": 1882.22,
+   "texto": "Pero es verdad que cuando son cosas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1882.22,
+   "fin": 1884.5200000000002,
+   "texto": "de nuestro día a día",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1884.5200000000002,
+   "fin": 1886.94,
+   "texto": "que tienen que ver más con lo que tú dices",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1886.94,
+   "fin": 1887.8200000000002,
+   "texto": "de poner una lavadora",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1887.8200000000002,
+   "fin": 1891.0400000000002,
+   "texto": "en comunidad, pues no damos ese paso.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1891.3200000000002,
+   "fin": 1893.2600000000002,
+   "texto": "Y estamos instalados en esa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1893.2600000000002,
+   "fin": 1894.92,
+   "texto": "comodidad y es muy difícil convencernos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1894.92,
+   "fin": 1897.3400000000001,
+   "texto": "para salir de ella, aunque sea momentáneamente.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1897.7,
+   "fin": 1897.9,
+   "texto": "Claro.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1897.9,
+   "fin": 1900.3000000000002,
+   "texto": "luego a mí lo que más me chirrió",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1900.3000000000002,
+   "fin": 1901.5800000000002,
+   "texto": "creo del texto en conjunto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1901.5800000000002,
+   "fin": 1903.3200000000002,
+   "texto": "pasando a las críticas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1903.3200000000002,
+   "fin": 1905.98,
+   "texto": "es que da por hecho que las personas individuales",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1905.98,
+   "fin": 1907.5,
+   "texto": "y también en conjunto las sociedades",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1907.5,
+   "fin": 1909.74,
+   "texto": "no son capaces de ponerse de acuerdo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1909.74,
+   "fin": 1911.0,
+   "texto": "sobre los recursos comunes",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1911.0,
+   "fin": 1913.5600000000002,
+   "texto": "ya sea en la explotación, la contaminación, lo que sea",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1913.5600000000002,
+   "fin": 1915.1000000000001,
+   "texto": "sino es a través del castigo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1915.1000000000001,
+   "fin": 1917.3600000000001,
+   "texto": "o sea no hay posibilidad de acuerdo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1917.3600000000001,
+   "fin": 1918.8000000000002,
+   "texto": "en lo que él plantea",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1918.8000000000002,
+   "fin": 1920.66,
+   "texto": "dice en cuanto a ser racional",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1920.66,
+   "fin": 1923.14,
+   "texto": "cada ganadero busca maximizar sus ganancias",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1923.14,
+   "fin": 1924.1000000000001,
+   "texto": "o sea ¿por qué?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1924.3400000000001,
+   "fin": 1926.64,
+   "texto": "¿qué es ser un ser?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1926.64,
+   "fin": 1928.38,
+   "texto": "perdón, pero racional",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1928.38,
+   "fin": 1930.5800000000002,
+   "texto": "desde esta perspectiva. Me parece una perspectiva",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1930.5800000000002,
+   "fin": 1932.42,
+   "texto": "me recuerda mucho a Adriana Cabarero",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1932.42,
+   "fin": 1934.3200000000002,
+   "texto": "y su texto de inclinaciones, que es el",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1934.3200000000002,
+   "fin": 1936.0800000000002,
+   "texto": "yo masculino, racional,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1936.5200000000002,
+   "fin": 1938.5400000000002,
+   "texto": "recto, vinculado a la",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1938.5400000000002,
+   "fin": 1940.38,
+   "texto": "mente, al abstracto y a su propio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1940.38,
+   "fin": 1942.48,
+   "texto": "beneficio. O sea, ¿por qué",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1942.48,
+   "fin": 1944.3200000000002,
+   "texto": "un ser racional tiene que ser aquel que lo que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1944.3200000000002,
+   "fin": 1945.9,
+   "texto": "quiere es maximizar su beneficio?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1946.3000000000002,
+   "fin": 1948.42,
+   "texto": "¿Qué definición de ser racional es esta? O de ser",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1948.42,
+   "fin": 1950.5,
+   "texto": "humano en general. Otra cita que dice",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1950.5,
+   "fin": 1952.5600000000002,
+   "texto": "cada uno buscando su propio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1952.5600000000002,
+   "fin": 1954.5,
+   "texto": "mejor interés en una sociedad que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1954.5,
+   "fin": 1956.0,
+   "texto": "cree en la libertad de los comunes.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1956.0,
+   "fin": 1959.76,
+   "texto": "La libertad en los bienes comunes conlleva entonces la ruina para todos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1960.12,
+   "fin": 1963.54,
+   "texto": "O sea, la libertad nos lleva a querer incrementar nuestro interés siempre y llevarlo al extremo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1963.84,
+   "fin": 1966.72,
+   "texto": "No podemos parar ni conformarnos, no podemos ponernos límites.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1967.08,
+   "fin": 1968.48,
+   "texto": "Esta es la visión del humano que él da.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1968.88,
+   "fin": 1973.6,
+   "texto": "Y me parece un punto de vista muy negativo sobre la capacidad, como decía, de los grupos para organizarse.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1974.06,
+   "fin": 1978.32,
+   "texto": "Me recordaba mucho a Hobbes y al Leviatán, a esta idea de el hombre es malo por naturaleza",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1978.32,
+   "fin": 1982.66,
+   "texto": "y por tanto tenemos que ponerle las paredes, que sería el Estado, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1982.66,
+   "fin": 1985.0,
+   "texto": "pero en este sentido ni siquiera el Estado, esto es más",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1985.0,
+   "fin": 1987.0800000000002,
+   "texto": "hay que castigar al hombre porque es",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1987.0800000000002,
+   "fin": 1988.64,
+   "texto": "malo y egoísta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1988.64,
+   "fin": 1991.0800000000002,
+   "texto": "de hecho Zarina nos comentaba en este",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1991.0800000000002,
+   "fin": 1992.94,
+   "texto": "sentido en una de las reuniones que tuvimos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1992.94,
+   "fin": 1994.92,
+   "texto": "que entender al ser humano de esta manera",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1994.92,
+   "fin": 1996.64,
+   "texto": "es de hecho infantilizarlo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1996.64,
+   "fin": 1998.8000000000002,
+   "texto": "y colocarle como avaricioso",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1998.8000000000002,
+   "fin": 2001.14,
+   "texto": "como culpable, ya de primeras",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2001.14,
+   "fin": 2003.02,
+   "texto": "porque tenemos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2003.02,
+   "fin": 2005.3000000000002,
+   "texto": "que asumir que no somos capaces de poner los límites",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2005.3000000000002,
+   "fin": 2006.98,
+   "texto": "pero también de ver a los otros",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2006.98,
+   "fin": 2009.22,
+   "texto": "o sea, de decir yo no voy a maximizar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2009.22,
+   "fin": 2010.94,
+   "texto": "mi beneficio al extremo porque fíjate que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2010.94,
+   "fin": 2012.46,
+   "texto": "esa otra persona también tiene derecho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2012.46,
+   "fin": 2014.74,
+   "texto": "a, si queremos llamarlo así,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2014.8400000000001,
+   "fin": 2016.76,
+   "texto": "explotar los recursos naturales, que por cierto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2016.76,
+   "fin": 2018.8,
+   "texto": "es otra expresión que también tiene tela.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2018.9,
+   "fin": 2020.8400000000001,
+   "texto": "Habría que revisar eso. Sí, porque es puro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2020.8400000000001,
+   "fin": 2023.08,
+   "texto": "violencia. O sea, explotar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2023.08,
+   "fin": 2024.64,
+   "texto": "lleva a eso. ¿Por qué",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2024.64,
+   "fin": 2026.58,
+   "texto": "solo podemos imaginar al ser humano como",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2026.58,
+   "fin": 2028.8,
+   "texto": "egoísta hasta el extremo y contrario",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2028.8,
+   "fin": 2030.78,
+   "texto": "a la idea de la cooperación? Que quizás somos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2030.78,
+   "fin": 2033.04,
+   "texto": "así. Es otra pregunta que me surgía.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2033.1200000000001,
+   "fin": 2034.82,
+   "texto": "Es una gran pregunta filosófica de toda la vida.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2034.94,
+   "fin": 2036.72,
+   "texto": "Honestamente creo que no. Creo que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2036.72,
+   "fin": 2038.6200000000001,
+   "texto": "hay ejemplos que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2038.6200000000001,
+   "fin": 2040.58,
+   "texto": "demuestran lo contrario y que puede haber",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2040.58,
+   "fin": 2042.9199999999998,
+   "texto": "gente que sea súper egoísta y avariciosa que la hay.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2043.04,
+   "fin": 2044.84,
+   "texto": "Pero luego hay ejemplos de cooperación, solidaridad,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2045.0,
+   "fin": 2046.96,
+   "texto": "comunidades que se organizan. Muchísimos ejemplos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2046.96,
+   "fin": 2048.56,
+   "texto": "en ese sentido. O sea, que creo que también",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2048.56,
+   "fin": 2050.64,
+   "texto": "la gente que es así",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2050.64,
+   "fin": 2052.68,
+   "texto": "domina el mundo, ¿no? Pero luego en el mundo hay",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2052.68,
+   "fin": 2054.12,
+   "texto": "otras muchas personas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2054.62,
+   "fin": 2056.7999999999997,
+   "texto": "O sea, que todo el rato propone la ley, el castigo,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2056.9,
+   "fin": 2058.68,
+   "texto": "la propiedad privada y el control",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2058.68,
+   "fin": 2060.84,
+   "texto": "como soluciones óptimas. No hay posibilidad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2060.84,
+   "fin": 2062.84,
+   "texto": "de entendimiento, de compartir, de ponerse",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2062.84,
+   "fin": 2064.7799999999997,
+   "texto": "de acuerdo. Y esta es una forma",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2064.7799999999997,
+   "fin": 2066.7,
+   "texto": "de control muy estricta y totalmente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2066.7,
+   "fin": 2068.7999999999997,
+   "texto": "contraria, por ejemplo, también nos lo dijo Zarina,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2069.18,
+   "fin": 2070.48,
+   "texto": "a cómo proponen",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2070.48,
+   "fin": 2073.04,
+   "texto": "otras corrientes de pensamiento, como puede ser",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2073.04,
+   "fin": 2075.06,
+   "texto": "el marxismo, pensar los comunes.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2075.16,
+   "fin": 2076.66,
+   "texto": "O también el feminismo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2076.66,
+   "fin": 2077.64,
+   "texto": "El feminismo con los cuidados.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2077.8,
+   "fin": 2079.9,
+   "texto": "Y el ecofeminismo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2080.06,
+   "fin": 2082.8,
+   "texto": "Hay muchísimas corrientes que los comunes los entienden",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2082.8,
+   "fin": 2084.68,
+   "texto": "desde justo el otro punto de vista.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2085.5,
+   "fin": 2086.6,
+   "texto": "Y luego, además de todas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2086.6,
+   "fin": 2088.68,
+   "texto": "estas críticas muy bien explicadas,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2089.82,
+   "fin": 2090.52,
+   "texto": "también está el tema",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2090.52,
+   "fin": 2092.86,
+   "texto": "del tono racista, al que hemos apuntado al principio,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2093.4,
+   "fin": 2094.54,
+   "texto": "sobre la diferencia que hay",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2094.54,
+   "fin": 2096.38,
+   "texto": "entre el mundo occidental y las otras zonas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2096.66,
+   "fin": 2098.36,
+   "texto": "Las otras zonas, que también es que decirlo así.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2098.66,
+   "fin": 2099.9,
+   "texto": "Pero así es como lo plantea él.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2099.9,
+   "fin": 2101.48,
+   "texto": "¿El sur global o los otros?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2101.52,
+   "fin": 2103.7000000000003,
+   "texto": "Sí, estamos utilizando la terminología de Hardin.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2104.1,
+   "fin": 2107.08,
+   "texto": "Porque él escribe, hoy las poblaciones con mayores tasas de crecimiento",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2107.08,
+   "fin": 2109.26,
+   "texto": "son también, en general, las más pobres.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2109.6600000000003,
+   "fin": 2110.98,
+   "texto": "Y es esta idea que aparece en el texto,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2111.1600000000003,
+   "fin": 2114.56,
+   "texto": "que es una de las ideas que decíamos que cuando lo leímos por primera vez",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2114.56,
+   "fin": 2117.46,
+   "texto": "no lo vimos del todo, pero una vez te metes a ello sí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2117.88,
+   "fin": 2120.2400000000002,
+   "texto": "Que es que en Occidente, mira qué bien lo estamos haciendo,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2120.64,
+   "fin": 2123.56,
+   "texto": "pero fíjate en otros sitios qué desastre la gestión de los recursos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2123.56,
+   "fin": 2124.62,
+   "texto": "y qué mal lo hacen.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2125.1800000000003,
+   "fin": 2127.6600000000003,
+   "texto": "Y luego también esta idea perversa y falsa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2127.6600000000003,
+   "fin": 2129.14,
+   "texto": "de que en Occidente contaminamos menos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2129.14,
+   "fin": 2131.56,
+   "texto": "que en otros sitios cuando está hiper demostrado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2131.56,
+   "fin": 2133.22,
+   "texto": "que históricamente además hemos sido nosotros",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2133.22,
+   "fin": 2135.42,
+   "texto": "los que hemos contaminado al resto del mundo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2135.42,
+   "fin": 2137.5,
+   "texto": "bueno y que podríamos preguntarnos dónde están los desechos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2137.5,
+   "fin": 2138.7599999999998,
+   "texto": "de occidente, claro también",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2138.7599999999998,
+   "fin": 2141.5,
+   "texto": "y sin embargo como decía Zarina",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2141.5,
+   "fin": 2143.52,
+   "texto": "pues eso no se tiene en cuenta que por muchas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2143.52,
+   "fin": 2145.3799999999997,
+   "texto": "políticas que tengamos en occidente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2145.3799999999997,
+   "fin": 2146.56,
+   "texto": "para gestionar residuos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2146.56,
+   "fin": 2149.2599999999998,
+   "texto": "purificar entornos naturales",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2149.2599999999998,
+   "fin": 2151.2,
+   "texto": "seguimos siendo quienes más contaminamos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2151.2,
+   "fin": 2153.4,
+   "texto": "y Harding no tiene en cuenta tampoco",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2153.4,
+   "fin": 2155.66,
+   "texto": "el tema del extractivismo, del colonialismo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2155.66,
+   "fin": 2157.3599999999997,
+   "texto": "de materiales, esta cosa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2157.3599999999997,
+   "fin": 2158.7799999999997,
+   "texto": "de ir a un país fuera de occidente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2158.78,
+   "fin": 2160.7000000000003,
+   "texto": "a explotar sus recursos, de nuevo,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2160.88,
+   "fin": 2162.92,
+   "texto": "explotar sus recursos y beneficiarse",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2162.92,
+   "fin": 2164.76,
+   "texto": "de ellos, también sin tener",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2164.76,
+   "fin": 2166.94,
+   "texto": "en cuenta, creo, cuáles son las consecuencias",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2166.94,
+   "fin": 2168.42,
+   "texto": "de esa explotación, lo que tú dejas ahí,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2168.88,
+   "fin": 2170.98,
+   "texto": "a dónde van esos desechos, como tú",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2170.98,
+   "fin": 2173.0,
+   "texto": "decías, y utilizar a países",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2173.0,
+   "fin": 2174.2000000000003,
+   "texto": "fuera de nuestra zona",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2174.2000000000003,
+   "fin": 2176.6400000000003,
+   "texto": "como vertederos, donde echar nuestros",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2176.6400000000003,
+   "fin": 2178.82,
+   "texto": "residuos. O sea, que es una cosa que él",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2178.82,
+   "fin": 2181.0600000000004,
+   "texto": "no está ahí, él no escribe este texto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2181.0600000000004,
+   "fin": 2182.1000000000004,
+   "texto": "desde esa posición",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2182.1000000000004,
+   "fin": 2185.0800000000004,
+   "texto": "de revisar históricamente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2185.0800000000004,
+   "fin": 2186.86,
+   "texto": "qué es lo que se ha hecho mal, sino que se coloca en una",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2186.86,
+   "fin": 2189.2000000000003,
+   "texto": "posición de superioridad con respecto a otros territorios",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2189.2000000000003,
+   "fin": 2189.98,
+   "texto": "y escribe desde ahí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2191.06,
+   "fin": 2192.98,
+   "texto": "Sobre todo ahora, creo, nos chirría",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2192.98,
+   "fin": 2194.96,
+   "texto": "mucho. La autocrítica",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2194.96,
+   "fin": 2196.58,
+   "texto": "brilla por su ausencia.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2197.26,
+   "fin": 2198.34,
+   "texto": "Luego, aparte del racismo,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2198.8,
+   "fin": 2200.86,
+   "texto": "a mí me chocó muchísimo esta crítica a la sociedad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2200.86,
+   "fin": 2202.94,
+   "texto": "por ser asistencialista, que además lo llama",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2202.94,
+   "fin": 2204.9,
+   "texto": "asistencialista, que me parece una palabra muy",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2204.9,
+   "fin": 2206.78,
+   "texto": "institucional, muy fría.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2207.34,
+   "fin": 2208.86,
+   "texto": "En vez de regirse por el mandato,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2208.86,
+   "fin": 2210.7000000000003,
+   "texto": "dice él de perro se come a perro.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2210.94,
+   "fin": 2212.84,
+   "texto": "O sea, que es negativo que los hijos de los",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2212.84,
+   "fin": 2214.78,
+   "texto": "padres, que no son previsores, no mueran de",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2214.78,
+   "fin": 2220.2400000000002,
+   "texto": "hombre, para él, que la sobre reproducción no traiga un castigo. Y dice, equilibrar los conceptos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2220.2400000000002,
+   "fin": 2224.6800000000003,
+   "texto": "de libertad reproductiva en la creencia de que todos los seres humanos nacen con igual derecho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2224.6800000000003,
+   "fin": 2229.6800000000003,
+   "texto": "sobre los recursos comunes, equivale a precipitar al mundo hacia un trágico curso de acción. Es",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2229.6800000000003,
+   "fin": 2236.6800000000003,
+   "texto": "decir, es una visión totalmente contraria a la idea de cuidado. No es asistencialista porque",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2236.6800000000003,
+   "fin": 2241.5400000000004,
+   "texto": "asistimos a los otros cuando son vulnerables o en general. Que todas las personas merecen",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2241.54,
+   "fin": 2243.72,
+   "texto": "atención y cuidado es malo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2243.72,
+   "fin": 2245.7599999999998,
+   "texto": "de alguna manera porque nos fastidia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2245.7599999999998,
+   "fin": 2247.7799999999997,
+   "texto": "a nosotros, sería un poco resumiendolo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2247.7799999999997,
+   "fin": 2249.66,
+   "texto": "asumir que todos somos vulnerables",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2249.66,
+   "fin": 2251.88,
+   "texto": "y codependientes tampoco está en su",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2251.88,
+   "fin": 2253.34,
+   "texto": "de hecho por eso creo que es lo de",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2253.34,
+   "fin": 2255.5,
+   "texto": "que estaba a favor de la muerte",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2255.5,
+   "fin": 2257.7799999999997,
+   "texto": "en el colectivo este, como evitar el momento",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2257.7799999999997,
+   "fin": 2258.62,
+   "texto": "en que eres vulnerable",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2258.62,
+   "fin": 2261.7,
+   "texto": "claro, para no convertirte en una carga",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2261.7,
+   "fin": 2263.48,
+   "texto": "ni que se gasten recursos en ti",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2263.48,
+   "fin": 2265.88,
+   "texto": "es que es una visión de la vida",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2265.88,
+   "fin": 2268.14,
+   "texto": "en mi opinión terrorífica",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2268.14,
+   "fin": 2269.14,
+   "texto": "muy utilitarista",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2269.14,
+   "fin": 2271.12,
+   "texto": "bueno, lo que decías antes de los números",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2271.12,
+   "fin": 2273.3199999999997,
+   "texto": "de la técnica, que al final está cayendo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2273.3199999999997,
+   "fin": 2275.18,
+   "texto": "en lo que él criticaba",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2275.18,
+   "fin": 2277.3399999999997,
+   "texto": "al principio del texto. También nos ha",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2277.3399999999997,
+   "fin": 2279.3199999999997,
+   "texto": "llamado la atención que no hay ninguna confianza",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2279.3199999999997,
+   "fin": 2281.3399999999997,
+   "texto": "en la apelación a la conciencia individual",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2281.3399999999997,
+   "fin": 2283.4,
+   "texto": "o a la responsabilidad, que lo has adelantado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2283.4,
+   "fin": 2285.24,
+   "texto": "antes, pero él defiende la idea de que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2285.24,
+   "fin": 2287.14,
+   "texto": "si tú eres responsable y apelas a tu propia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2287.14,
+   "fin": 2289.3199999999997,
+   "texto": "conciencia para tomar una decisión, vas a quedar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2289.3199999999997,
+   "fin": 2291.02,
+   "texto": "como un tonto si tu vecino no hace lo mismo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2291.2,
+   "fin": 2293.44,
+   "texto": "Que esto es una cosa también ultra masculina.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2293.7999999999997,
+   "fin": 2295.3199999999997,
+   "texto": "O sea, voy a quedar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2295.3199999999997,
+   "fin": 2297.2599999999998,
+   "texto": "como un tonto, ¿no? Mi ego se va a ver herido porque",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2297.2599999999998,
+   "fin": 2299.24,
+   "texto": "yo me voy a fastidiar y las personas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2299.24,
+   "fin": 2300.3799999999997,
+   "texto": "a mi alrededor, no.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2300.74,
+   "fin": 2303.2599999999998,
+   "texto": "Fíjate que es lo contrario de decir, oye, mira, pues si los otros",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2303.2599999999998,
+   "fin": 2305.3399999999997,
+   "texto": "no lo hacen, yo estaré",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2305.3399999999997,
+   "fin": 2307.18,
+   "texto": "tranquilo. O sea, tendré la conciencia tranquila",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2307.18,
+   "fin": 2309.08,
+   "texto": "y estaré orgulloso de la responsabilidad.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2309.18,
+   "fin": 2309.8999999999996,
+   "texto": "¿Qué otro no lo hace?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2310.68,
+   "fin": 2312.54,
+   "texto": "No cambia mi posición.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2313.2,
+   "fin": 2314.7599999999998,
+   "texto": "Pues no, es en plan, tonto.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2315.62,
+   "fin": 2316.4399999999996,
+   "texto": "Sí, tal cual.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2316.9799999999996,
+   "fin": 2319.22,
+   "texto": "Y él tiene esta frase que también nos ha adelantado antes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2319.22,
+   "fin": 2321.08,
+   "texto": "de, no estamos tratando de",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2321.08,
+   "fin": 2323.04,
+   "texto": "intimidar con un fruncir de cejas a un",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2323.04,
+   "fin": 2325.12,
+   "texto": "hombre libre para que actúe en contra de sus propios",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2325.12,
+   "fin": 2327.04,
+   "texto": "intereses en el uso de los recursos comunes.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2327.04,
+   "fin": 2328.8999999999996,
+   "texto": "¿No? O sea, si decidiésemos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2328.9,
+   "fin": 2331.26,
+   "texto": "apelar a la conciencia individual y a la responsabilidad,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2331.6600000000003,
+   "fin": 2332.88,
+   "texto": "Hardin nos diría, no, no, porque estás",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2332.88,
+   "fin": 2334.78,
+   "texto": "aquí intimidando a una persona y como",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2334.78,
+   "fin": 2336.84,
+   "texto": "señalando con el dedo, ¿no? En plan, ¿qué mal lo estás haciendo?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2336.84,
+   "fin": 2338.78,
+   "texto": "Riniendo un poco. Riniendo y castigando.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2339.6600000000003,
+   "fin": 2341.08,
+   "texto": "Y ahora, para ir",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2341.08,
+   "fin": 2342.88,
+   "texto": "concluyendo, queríamos hablar un poco",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2342.88,
+   "fin": 2344.54,
+   "texto": "más allá del texto, porque",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2344.54,
+   "fin": 2346.8,
+   "texto": "creemos que puede ser muy interesante leer",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2346.8,
+   "fin": 2348.7000000000003,
+   "texto": "críticas a lo que propone Hardin, que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2348.7000000000003,
+   "fin": 2350.7200000000003,
+   "texto": "evidentemente no fueron pocas, por lo que sea.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2351.26,
+   "fin": 2352.84,
+   "texto": "Por ejemplo, Elinor Ostrom,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2352.94,
+   "fin": 2354.5,
+   "texto": "que es una politóloga estadounidense,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2354.6600000000003,
+   "fin": 2356.84,
+   "texto": "experta en el tema de los comunes, que ganó el Nobel",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2356.84,
+   "fin": 2358.44,
+   "texto": "de Economía en el 2009,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2358.9,
+   "fin": 2363.78,
+   "texto": "escribió un libro en el año 90 que se llama El gobierno de los bienes comunes.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2364.32,
+   "fin": 2368.58,
+   "texto": "Y su enfoque tiene mucho que ver con la idea de que sí que es posible gestionar los recursos comunes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2368.58,
+   "fin": 2373.78,
+   "texto": "sin recurrir a todas estas propuestas de Harding que tenían que ver con la privatización, el control del Estado.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2373.94,
+   "fin": 2377.26,
+   "texto": "O sea, que ella piensa en maneras distintas de abordar este problema.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2377.26,
+   "fin": 2381.02,
+   "texto": "Que el problema existe, pero hay muchas maneras de abordarlo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2381.1800000000003,
+   "fin": 2383.7000000000003,
+   "texto": "Sí, de hecho creo que está el libro abierto en internet.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2383.82,
+   "fin": 2388.44,
+   "texto": "Yo no lo he leído, pero la verdad que me encantaría justo para ver la crítica y la postura contraria.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2388.44,
+   "fin": 2389.32,
+   "texto": "además tan bien",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2389.32,
+   "fin": 2392.56,
+   "texto": "expuesta. Si queréis alumnas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2392.56,
+   "fin": 2394.4,
+   "texto": "aventajadas de las glosas,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2395.0,
+   "fin": 2395.94,
+   "texto": "podéis leeros ese libro.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2396.4,
+   "fin": 2398.78,
+   "texto": "Luego también hay muchos estudios empíricos,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2398.9,
+   "fin": 2400.58,
+   "texto": "o sea, recuerdo un artículo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2400.58,
+   "fin": 2402.46,
+   "texto": "que vi sobre la pesca de un",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2402.46,
+   "fin": 2404.62,
+   "texto": "tipo de pez no sé dónde, y los autores",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2404.62,
+   "fin": 2406.54,
+   "texto": "lo que dicen es, mira, un ejemplo, no es cierto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2406.54,
+   "fin": 2408.16,
+   "texto": "que las comunidades sean incapaces",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2408.16,
+   "fin": 2410.52,
+   "texto": "de organizarse para explotar los recursos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2410.52,
+   "fin": 2412.36,
+   "texto": "naturales, o sea, que se demostró con datos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2412.36,
+   "fin": 2414.38,
+   "texto": "y con comunidades concretas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2414.92,
+   "fin": 2416.46,
+   "texto": "Luego sobre esta crítica por ser",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2416.46,
+   "fin": 2418.36,
+   "texto": "una sociedad asistencialista que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2418.36,
+   "fin": 2420.28,
+   "texto": "cuida, esta visión que decíamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2420.28,
+   "fin": 2422.2000000000003,
+   "texto": "que es tan masculina y tan racionalista,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2422.6200000000003,
+   "fin": 2424.46,
+   "texto": "podríamos leer muchísimas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2424.46,
+   "fin": 2425.6800000000003,
+   "texto": "aportaciones de",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2425.6800000000003,
+   "fin": 2428.58,
+   "texto": "la visión feminista de la ética de los cuidados,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2428.7000000000003,
+   "fin": 2430.1600000000003,
+   "texto": "de la codependencia, aquí pensaba",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2430.1600000000003,
+   "fin": 2432.6800000000003,
+   "texto": "muchísimo en Yayo Herrero, esta ecofeminista",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2432.6800000000003,
+   "fin": 2434.28,
+   "texto": "que todo lo que dice es",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2434.28,
+   "fin": 2436.06,
+   "texto": "para grabarlo en una plancha de oro.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2436.1800000000003,
+   "fin": 2437.92,
+   "texto": "Y tatuárselo. Todo está genial",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2437.92,
+   "fin": 2440.54,
+   "texto": "porque podríamos ver cómo lo común",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2440.54,
+   "fin": 2442.54,
+   "texto": "va mucho más allá de esta explotación,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2442.6600000000003,
+   "fin": 2444.28,
+   "texto": "de esta idea de que estamos explotando",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2444.28,
+   "fin": 2446.2000000000003,
+   "texto": "recursos naturales, la idea",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2446.2,
+   "fin": 2448.7,
+   "texto": "del cuidado colectivo frente a esta competición",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2448.7,
+   "fin": 2450.24,
+   "texto": "por maximizar mis propios",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2450.24,
+   "fin": 2452.16,
+   "texto": "beneficios, la vida marcada",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2452.16,
+   "fin": 2454.04,
+   "texto": "por la cooperación y la empatía en vez del",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2454.04,
+   "fin": 2456.2,
+   "texto": "individualismo, o esto de asumir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2456.2,
+   "fin": 2458.06,
+   "texto": "la propia vulnerabilidad y dependencia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2458.06,
+   "fin": 2459.9399999999996,
+   "texto": "en vez del sálvese quien pueda,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2460.06,
+   "fin": 2462.16,
+   "texto": "que además en este caso, en este texto, aparece en términos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2462.16,
+   "fin": 2463.8599999999997,
+   "texto": "racistas. Sálvese quien pueda,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2464.1,
+   "fin": 2466.18,
+   "texto": "que somos nosotros y no los otros",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2466.18,
+   "fin": 2468.06,
+   "texto": "básicamente, y no vamos a perder nuestros propios",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2468.06,
+   "fin": 2469.8199999999997,
+   "texto": "recursos en ayudar a los otros.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2470.52,
+   "fin": 2472.06,
+   "texto": "O sea que hay muchísimo, también se podría leer",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2472.06,
+   "fin": 2474.1,
+   "texto": "propuestas marxistas, que es todo lo contrario,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2474.2799999999997,
+   "fin": 2475.8799999999997,
+   "texto": "o sea, hay mucho que leer.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2475.88,
+   "fin": 2477.82,
+   "texto": "además estos textos lo que tienen",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2477.82,
+   "fin": 2479.6400000000003,
+   "texto": "que ser tan polémicos es que despiertan",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2479.6400000000003,
+   "fin": 2480.92,
+   "texto": "muchísimas reacciones.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2481.4,
+   "fin": 2483.38,
+   "texto": "Luego puedes leer todo lo que se ha escrito en contra.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2484.34,
+   "fin": 2485.78,
+   "texto": "A mí hay algo que sin gustarme",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2485.78,
+   "fin": 2487.6600000000003,
+   "texto": "las ideas de Hardin sí que me gusta del texto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2487.6600000000003,
+   "fin": 2490.12,
+   "texto": "que es que te plantea una cosa tan extraña",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2490.12,
+   "fin": 2491.7400000000002,
+   "texto": "que te obliga, esto de no",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2491.7400000000002,
+   "fin": 2493.46,
+   "texto": "restringir la fecundidad individual",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2493.46,
+   "fin": 2495.56,
+   "texto": "te obliga a imaginarte posiciones que son",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2495.56,
+   "fin": 2497.36,
+   "texto": "bastante incómodas y bastante raras",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2497.36,
+   "fin": 2499.94,
+   "texto": "y en este sentido me recordó la sensación",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2499.94,
+   "fin": 2501.84,
+   "texto": "que tuve cuando leí el librito de Albert Pijuan",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2501.84,
+   "fin": 2503.6800000000003,
+   "texto": "y si nos replanteamos el canibalismo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2503.68,
+   "fin": 2505.8999999999996,
+   "texto": "que se llama así, que está editado en Libros del Zorro Rojo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2505.8999999999996,
+   "fin": 2508.14,
+   "texto": "lo comentamos en Tabú",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2508.14,
+   "fin": 2510.06,
+   "texto": "porque él te está comentando muy bien",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2510.06,
+   "fin": 2511.94,
+   "texto": "una idea de olla absolutamente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2511.94,
+   "fin": 2514.1,
+   "texto": "hasta el punto que piensas, ojo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2514.1,
+   "fin": 2516.18,
+   "texto": "que igual sí que tiene sentido que yo me ponga a comer gente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2516.18,
+   "fin": 2518.1,
+   "texto": "pero claro, luego te das cuenta de lo que estás pensando",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2518.1,
+   "fin": 2519.64,
+   "texto": "y dices, vale, no, por aquí no",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2519.64,
+   "fin": 2521.24,
+   "texto": "en el caso de Pijuan es una cosa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2521.24,
+   "fin": 2523.72,
+   "texto": "intencional, claro, y muy irónica",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2523.72,
+   "fin": 2526.06,
+   "texto": "y en el caso de Hardin no, pero me",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2526.06,
+   "fin": 2527.6,
+   "texto": "recordó un poco a eso, a ese choque de, vale",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2527.6,
+   "fin": 2529.22,
+   "texto": "qué narices estoy leyendo, ¿no?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2529.2599999999998,
+   "fin": 2532.06,
+   "texto": "Sí, pero está guay esta sensación de leer un texto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2532.06,
+   "fin": 2534.08,
+   "texto": "que te coloca en un sitio incómodo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2534.08,
+   "fin": 2535.94,
+   "texto": "porque no estás alineada",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2535.94,
+   "fin": 2537.94,
+   "texto": "política, ideológica, moralmente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2537.94,
+   "fin": 2540.14,
+   "texto": "con lo que está proponiendo, pero está guay",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2540.14,
+   "fin": 2541.86,
+   "texto": "ponerte a ver con la lupa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2541.86,
+   "fin": 2544.24,
+   "texto": "justo por qué y cómo no estás de acuerdo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2544.24,
+   "fin": 2546.2,
+   "texto": "con el planteamiento, o sea que también está",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2546.2,
+   "fin": 2548.02,
+   "texto": "bien a veces leer cosas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2548.02,
+   "fin": 2549.62,
+   "texto": "que no están alineadas con lo que tú piensas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2549.62,
+   "fin": 2551.58,
+   "texto": "A mí me encanta que Zarina nos propusiera un texto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2551.58,
+   "fin": 2553.82,
+   "texto": "que luego ella seguramente en su tesis rebate",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2553.82,
+   "fin": 2555.92,
+   "texto": "o que no tiene que ver con lo que ella propone",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2555.92,
+   "fin": 2557.9,
+   "texto": "Sí, o que es un ejemplo de lo que ella estudia justamente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2557.9,
+   "fin": 2560.18,
+   "texto": "que es cómo encontramos maneras democráticas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2560.18,
+   "fin": 2561.0,
+   "texto": "de",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2561.0,
+   "fin": 2562.64,
+   "texto": "de gestionar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2562.64,
+   "fin": 2563.7,
+   "texto": "los recursos comunes",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2563.7,
+   "fin": 2564.12,
+   "texto": "sí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2564.12,
+   "fin": 2564.96,
+   "texto": "o el cambio climático",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2564.96,
+   "fin": 2565.66,
+   "texto": "y que no sean",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2565.66,
+   "fin": 2566.84,
+   "texto": "fascistas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2566.84,
+   "fin": 2568.28,
+   "texto": "o coercitivas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2568.28,
+   "fin": 2568.62,
+   "texto": "o tal",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2568.62,
+   "fin": 2569.34,
+   "texto": "para no irnos por ahí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2569.34,
+   "fin": 2569.62,
+   "texto": "claro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2569.62,
+   "fin": 2570.66,
+   "texto": "pero creo que está muy bien",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2570.66,
+   "fin": 2571.28,
+   "texto": "leer a las personas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2571.28,
+   "fin": 2572.0,
+   "texto": "que están proponiendo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2572.0,
+   "fin": 2573.2,
+   "texto": "lo que tú no quieres que pase",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2573.2,
+   "fin": 2573.54,
+   "texto": "claro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2573.54,
+   "fin": 2573.96,
+   "texto": "o sea que a veces",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2573.96,
+   "fin": 2575.46,
+   "texto": "es verdad que nos acomodamos mucho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2575.46,
+   "fin": 2577.1,
+   "texto": "en leer a los nuestros",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2577.1,
+   "fin": 2577.8,
+   "texto": "leer a los nuestros",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2577.8,
+   "fin": 2578.02,
+   "texto": "sí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2578.02,
+   "fin": 2579.24,
+   "texto": "siempre está bien",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2579.24,
+   "fin": 2579.96,
+   "texto": "leer a los otros",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2579.96,
+   "fin": 2580.76,
+   "texto": "hay que leer en general",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2580.76,
+   "fin": 2582.04,
+   "texto": "pero de una variedad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2582.04,
+   "fin": 2582.22,
+   "texto": "sí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2582.22,
+   "fin": 2583.34,
+   "texto": "y que también es un ejercicio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2583.34,
+   "fin": 2584.38,
+   "texto": "de pensamiento muy interesante",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2584.38,
+   "fin": 2585.22,
+   "texto": "y yo he disfrutado mucho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2585.22,
+   "fin": 2585.74,
+   "texto": "en este texto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2585.74,
+   "fin": 2586.96,
+   "texto": "ver por qué",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2586.96,
+   "fin": 2587.56,
+   "texto": "por qué",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2587.56,
+   "fin": 2589.12,
+   "texto": "qué críticas estás proponiendo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2589.12,
+   "fin": 2589.9,
+   "texto": "a qué ideas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2589.9,
+   "fin": 2590.26,
+   "texto": "sí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2590.26,
+   "fin": 2590.92,
+   "texto": "o sea no estás de acuerdo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2590.92,
+   "fin": 2591.42,
+   "texto": "pero por qué",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2591.42,
+   "fin": 2592.04,
+   "texto": "claro en plan",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2592.04,
+   "fin": 2592.48,
+   "texto": "esta frase",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2592.48,
+   "fin": 2593.04,
+   "texto": "no es a todas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2593.04,
+   "fin": 2594.7400000000002,
+   "texto": "dime por qué",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2594.7400000000002,
+   "fin": 2595.4,
+   "texto": "glosando",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2595.4,
+   "fin": 2596.14,
+   "texto": "es que simplemente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2596.14,
+   "fin": 2597.28,
+   "texto": "hashtag glosando",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2597.28,
+   "fin": 2598.36,
+   "texto": "hashtag glossers",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2598.36,
+   "fin": 2599.84,
+   "texto": "y hashtag señora",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2599.84,
+   "fin": 2600.66,
+   "texto": "que llevo la camiseta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2600.66,
+   "fin": 2601.02,
+   "texto": "de señora",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2601.02,
+   "fin": 2601.96,
+   "texto": "señoras glosando",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2601.96,
+   "fin": 2602.98,
+   "texto": "vale",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2602.98,
+   "fin": 2604.12,
+   "texto": "pues ya vamos a terminar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2604.12,
+   "fin": 2604.44,
+   "texto": "sí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2604.44,
+   "fin": 2605.76,
+   "texto": "vamos a despedirnos primero",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2605.76,
+   "fin": 2606.5,
+   "texto": "¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2606.76,
+   "fin": 2606.92,
+   "texto": "sí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2606.92,
+   "fin": 2607.46,
+   "texto": "es que esto va a ser",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2607.46,
+   "fin": 2608.26,
+   "texto": "va a ser una anarquía",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2608.26,
+   "fin": 2609.08,
+   "texto": "cada día acabaremos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2609.08,
+   "fin": 2609.42,
+   "texto": "de una manera",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2609.42,
+   "fin": 2609.84,
+   "texto": "sí chicas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2609.84,
+   "fin": 2611.26,
+   "texto": "lo que nos apetezca",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2611.26,
+   "fin": 2611.96,
+   "texto": "pero muchas gracias",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2611.96,
+   "fin": 2613.42,
+   "texto": "por acompañarnos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2613.42,
+   "fin": 2613.78,
+   "texto": "por estar aquí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2613.78,
+   "fin": 2615.04,
+   "texto": "en nuestra segunda glosa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2615.04,
+   "fin": 2615.36,
+   "texto": "sí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2615.36,
+   "fin": 2616.32,
+   "texto": "en este ejercicio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2616.32,
+   "fin": 2617.44,
+   "texto": "sonoro textual",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2617.44,
+   "fin": 2618.5,
+   "texto": "con una barrita en medio",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2618.5,
+   "fin": 2619.58,
+   "texto": "esperamos que os haya gustado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2619.58,
+   "fin": 2620.5,
+   "texto": "el texto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2620.5,
+   "fin": 2621.78,
+   "texto": "que os haya parecido interesante",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2621.78,
+   "fin": 2622.6,
+   "texto": "os animamos a leerlo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2622.6,
+   "fin": 2623.22,
+   "texto": "tranquilamente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2623.22,
+   "fin": 2624.24,
+   "texto": "con calma y detenimiento",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2624.24,
+   "fin": 2624.48,
+   "texto": "sí",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2624.48,
+   "fin": 2625.44,
+   "texto": "y muchas gracias",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2625.44,
+   "fin": 2626.44,
+   "texto": "a Zarina y a la UOC",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2626.44,
+   "fin": 2626.92,
+   "texto": "por",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2626.92,
+   "fin": 2628.7,
+   "texto": "a Zarina por proponer el texto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2628.7,
+   "fin": 2629.18,
+   "texto": "y a la UOC",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2629.18,
+   "fin": 2630.18,
+   "texto": "por hacerlo posible",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2630.18,
+   "fin": 2631.72,
+   "texto": "y vamos a leer",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2631.72,
+   "fin": 2632.26,
+   "texto": "para terminar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2632.26,
+   "fin": 2633.1,
+   "texto": "de hecho una cita",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2633.1,
+   "fin": 2633.7,
+   "texto": "de Yayo Herrero",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2633.7,
+   "fin": 2634.06,
+   "texto": "hombre claro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2634.06,
+   "fin": 2634.66,
+   "texto": "porque no vamos a leer",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2634.66,
+   "fin": 2635.32,
+   "texto": "una cita del señor",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2635.32,
+   "fin": 2637.32,
+   "texto": "porque queríamos darle una vuelta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2637.32,
+   "fin": 2639.26,
+   "texto": "y un poco traer",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2639.26,
+   "fin": 2640.16,
+   "texto": "lo que sería",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2640.16,
+   "fin": 2641.04,
+   "texto": "un pensamiento",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2641.04,
+   "fin": 2642.32,
+   "texto": "tan distinto al de Jardín",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2642.32,
+   "fin": 2643.2,
+   "texto": "¿quién lo lee?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2644.12,
+   "fin": 2644.58,
+   "texto": "yo lo puedo leer",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2644.58,
+   "fin": 2645.4,
+   "texto": "pero me estoy quedando",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2645.4,
+   "fin": 2646.02,
+   "texto": "un poco sin voz",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2646.02,
+   "fin": 2647.44,
+   "texto": "porque llevamos unas semanas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2647.44,
+   "fin": 2647.9,
+   "texto": "no pero",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2647.9,
+   "fin": 2648.28,
+   "texto": "vale",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2648.28,
+   "fin": 2649.28,
+   "texto": "solo digo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2649.28,
+   "fin": 2650.96,
+   "texto": "que es un texto de Yayo Herrero",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2650.96,
+   "fin": 2652.7400000000002,
+   "texto": "que aparece en Miradas Ecofeministas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2652.7400000000002,
+   "fin": 2655.02,
+   "texto": "para transitar a un mundo justo y sostenible",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2655.02,
+   "fin": 2655.9,
+   "texto": "que es un artículo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2655.9,
+   "fin": 2658.2000000000003,
+   "texto": "que forma parte de una revista",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2658.2000000000003,
+   "fin": 2660.1600000000003,
+   "texto": "lo dejaremos por ahí",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2660.1600000000003,
+   "fin": 2662.86,
+   "texto": "los seres humanos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2662.86,
+   "fin": 2664.5800000000004,
+   "texto": "somos una especie de las muchas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2664.5800000000004,
+   "fin": 2665.78,
+   "texto": "que habitan este planeta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2665.78,
+   "fin": 2668.6400000000003,
+   "texto": "y como todas ellas obtenemos lo que precisamos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2668.6400000000003,
+   "fin": 2670.34,
+   "texto": "para estar vivos de la naturaleza",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2670.34,
+   "fin": 2673.0800000000004,
+   "texto": "alimento, agua, cobijo, energía",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2673.0800000000004,
+   "fin": 2674.0400000000004,
+   "texto": "minerales",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2674.0400000000004,
+   "fin": 2677.0800000000004,
+   "texto": "por ello decimos que somos seres radicalmente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2677.0800000000004,
+   "fin": 2678.0800000000004,
+   "texto": "ecodependientes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2678.08,
+   "fin": 2684.12,
+   "texto": "pero además cada ser humano presenta una profunda dependencia de otros seres humanos durante toda",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2684.12,
+   "fin": 2689.34,
+   "texto": "la vida pero sobre todo en algunos momentos del ciclo vital las personas no podríamos sobrevivir",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2689.34,
+   "fin": 2696.1,
+   "texto": "si no fuese porque otras dedican tiempo y energía a cuidar de nuestros cuerpos esta segunda dependencia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2696.1,
+   "fin": 2702.22,
+   "texto": "la interdependencia con frecuencia está más oculta que la anterior en nuestras culturas se vive de",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2702.22,
+   "fin": 2707.34,
+   "texto": "espaldas al hecho de que las personas estén encarnadas en cuerpos que son vulnerables y con",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2707.34,
+   "fin": 2710.54,
+   "texto": "con el paso del tiempo, envejecen, enferman y mueren.",
+   "hablante": "SPEAKER_01"
+  }
+ ]
+}

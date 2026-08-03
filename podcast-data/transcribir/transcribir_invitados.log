@@ -1,0 +1,20 @@
+[10:51:26] motor: mlx-whisper (GPU Apple)
+[10:51:26] pendientes: 4 episodios (4.0 h de audio)
+[10:51:26] [1/4] (sin código) — El ritmo del habitar con Blanca Lacasa
+Fetching 4 files:   0%|          | 0/4 [00:00<?, ?it/s]Fetching 4 files: 100%|██████████| 4/4 [00:00<00:00, 3286.43it/s]
+[11:02:34]   transcrito: 1310 segmentos en 662s
+[11:08:56]   diarizado: 641 turnos en 383s
+[11:08:56]   → ok
+[11:08:56] [2/4] 4x05 — Heredar el miedo con Elena López Riera
+[11:24:06]   transcrito: 1567 segmentos en 910s
+[11:31:32]   diarizado: 722 turnos en 445s
+[11:31:32]   → ok
+[11:31:32] [3/4] (sin código) — Ética y literatura: cruce de caminos, con Pau Luque
+[11:41:49]   transcrito: 914 segmentos en 612s
+[11:47:02]   diarizado: 337 turnos en 314s
+[11:47:02]   → ok
+[11:47:02] [4/4] 4x10 — El amor y otras veredas, con Marta Jiménez Serrano
+[11:57:58]   transcrito: 1190 segmentos en 652s
+[12:03:19]   diarizado: 370 turnos en 321s
+[12:03:19]   → ok
+[12:03:19] listo. transcripciones completas: 117/117

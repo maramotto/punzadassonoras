@@ -1,0 +1,8380 @@
+{
+ "slug": "2023-02-19_2x14",
+ "codigo": "2x14",
+ "titulo": "Escucha",
+ "fecha": "2023-02-19",
+ "video_id": "",
+ "url_audio": "https://traffic.megaphone.fm/PMSL9344265010.mp3?updated=1751621976",
+ "segmentos": [
+  {
+   "inicio": 0.46,
+   "fin": 0.98,
+   "texto": "¡Hola!",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1.68,
+   "fin": 4.9,
+   "texto": "Hola chicas y chicos, bienvenidos de nuevo a Punzadas Sonoras.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 5.08,
+   "fin": 7.22,
+   "texto": "Hoy tenemos un programa muy especial.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 7.22,
+   "fin": 7.62,
+   "texto": "¡Especial!",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 8.120000000000001,
+   "fin": 9.42,
+   "texto": "¡Lo he hecho a la vez!",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 9.58,
+   "fin": 10.9,
+   "texto": "Especial cumpleaños.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 11.18,
+   "fin": 11.46,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 11.64,
+   "fin": 15.92,
+   "texto": "Porque es el cumpleaños no de Inés, no mío, sino de Punzadas Sonoras.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 16.18,
+   "fin": 16.56,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 17.16,
+   "fin": 18.56,
+   "texto": "Un 19 de febrero, ¿eh?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 18.6,
+   "fin": 20.18,
+   "texto": "Que salió esta mierda.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 21.22,
+   "fin": 24.36,
+   "texto": "Yo no quería personalmente, pero ahora pues bien.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 24.44,
+   "fin": 25.1,
+   "texto": "No querías, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 25.22,
+   "fin": 25.560000000000002,
+   "texto": "No quería.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 25.8,
+   "fin": 29.64,
+   "texto": "Pero sí, hace un año grabamos y subimos el primer episodio.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 29.64,
+   "fin": 31.22,
+   "texto": "Que nadie lo escuche, por cierto.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 31.32,
+   "fin": 31.94,
+   "texto": "No, porque es el peor.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 32.660000000000004,
+   "fin": 36.02,
+   "texto": "No vayáis a escuchar ahora la presentación, porque no.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 36.56,
+   "fin": 45.52,
+   "texto": "Entonces, nada, os vamos a traer un episodio especial sobre la escucha, sobre la voz, sobre la radio, sobre los podcasts.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 45.8,
+   "fin": 45.980000000000004,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 46.900000000000006,
+   "fin": 49.56,
+   "texto": "Y nada, vamos a ello.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 51.56,
+   "fin": 52.74,
+   "texto": "Unzadas son horas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 53.34,
+   "fin": 55.8,
+   "texto": "Con Inés García y Paula Ducay.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 55.8,
+   "fin": 61.919999999999995,
+   "texto": "Bueno, como muchos y muchas sabréis, hace poco estuvimos en la radio de verdad.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 62.32,
+   "fin": 64.62,
+   "texto": "La radio, es la radio dentro de la radio.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 65.24,
+   "fin": 66.89999999999999,
+   "texto": "Sí, la cadena SER concretamente.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 67.02,
+   "fin": 68.16,
+   "texto": "¿Y qué pudimos hacer allí, Inés?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 68.66,
+   "fin": 71.44,
+   "texto": "Pues fuimos a Hora 25, el mejor programa de España.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 72.62,
+   "fin": 75.38,
+   "texto": "Claro, sobre todo desde que salimos nosotras, es el mejor programa, sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 75.56,
+   "fin": 76.64,
+   "texto": "Hablar un rato con Aymar.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 76.64,
+   "fin": 81.64,
+   "texto": "Sí, fuimos a hablar con Aymar y queríamos contaros un poco nuestra experiencia de ir a la radio porque el día fue...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 81.64,
+   "fin": 82.25999999999999,
+   "texto": "Estrambótico.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 82.26,
+   "fin": 83.88000000000001,
+   "texto": "Fue todo un jolgorio.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 84.24000000000001,
+   "fin": 85.74000000000001,
+   "texto": "Claro, porque nunca habíamos ido a la radio.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 85.88000000000001,
+   "fin": 88.04,
+   "texto": "Era como la primera vez que íbamos y íbamos un poco atoradas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 88.4,
+   "fin": 89.36,
+   "texto": "Un poco, solo un poco.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 89.48,
+   "fin": 90.68,
+   "texto": "Pau ya está siendo muy elegante.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 91.38000000000001,
+   "fin": 92.22,
+   "texto": "Voy a decirlo, voy a disimular.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 92.22,
+   "fin": 95.96000000000001,
+   "texto": "Yo me pasé el día, yo lo voy a decir, entre cagando y con ganas de vomitar.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 96.08000000000001,
+   "fin": 98.18,
+   "texto": "En plan, era por arriba y por abajo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 98.36000000000001,
+   "fin": 101.06,
+   "texto": "Nunca vomité de verdad, pero estuve a punto muchas veces.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 101.32000000000001,
+   "fin": 103.10000000000001,
+   "texto": "Esto te pasa mucho cuando bebes también, ¿eh?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 103.36000000000001,
+   "fin": 104.88000000000001,
+   "texto": "Que estás a punto de vomitar y luego no.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 105.04,
+   "fin": 109.58000000000001,
+   "texto": "Esto lo hago mucho, me siento, me concentro, digo hoy no vomito y no se vomita, ¿eh?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 109.58000000000001,
+   "fin": 109.92,
+   "texto": "Y nada.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 110.04,
+   "fin": 110.76,
+   "texto": "Tengo una capacidad.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 112.26,
+   "fin": 114.4,
+   "texto": "la verdad, es muy útil en la vida. Y encima llegamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 114.4,
+   "fin": 116.32000000000001,
+   "texto": "como 15 minutos antes. Hombre, por supuestísimo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 116.38000000000001,
+   "fin": 118.06,
+   "texto": "Y en la puerta allí yo dije, yo aquí me muero.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 118.22,
+   "fin": 120.36,
+   "texto": "O sea, yo aquí me tienen que recoger una ambulancia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 120.36,
+   "fin": 122.24000000000001,
+   "texto": "al Samur. Pero fue muy gracioso porque",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 122.24000000000001,
+   "fin": 124.18,
+   "texto": "claro, estábamos en casa preparándonos y nos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 124.18,
+   "fin": 126.24000000000001,
+   "texto": "preparamos exactamente igual que cuando vamos a salir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 126.24000000000001,
+   "fin": 127.74000000000001,
+   "texto": "de fiesta, que es, ponemos Bad Bunny.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 128.32,
+   "fin": 130.42000000000002,
+   "texto": "Sí. Estábamos en chándal,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 130.52,
+   "fin": 132.26,
+   "texto": "pijama, hay una foto de hecho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 132.26,
+   "fin": 133.96,
+   "texto": "en Twitter pulgando. Tremendas pintas, sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 133.96,
+   "fin": 135.98000000000002,
+   "texto": "Y luego de repente unas chicas guapísimas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 136.14000000000001,
+   "fin": 138.0,
+   "texto": "Sí. Paula me hizo el eyeliner. Claro.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 138.28,
+   "fin": 140.12,
+   "texto": "Yo estaba mala. Tú me plantaste el pelo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 140.22,
+   "fin": 141.76,
+   "texto": "Es verdad, tú llevabas como cinco frenadores.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 142.26,
+   "fin": 148.44,
+   "texto": "No sé si me habéis oído, la gente que conoce mi voz, pero tengo una voz extremadamente mocosa en esa entrevista.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 148.62,
+   "fin": 153.89999999999998,
+   "texto": "Llevaba el paquete de pañuelos en el bolsillo y Paula me estaba todo el rato mirando porque se me iba a caer.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 154.5,
+   "fin": 155.16,
+   "texto": "Y se me cayó.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 155.22,
+   "fin": 162.01999999999998,
+   "texto": "Yo durante la entrevista, no se nota porque nadie lo sabe, pero Inés estaba, su paquete de kleenex estaba a punto de caerse todo el rato",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 162.01999999999998,
+   "fin": 165.51999999999998,
+   "texto": "y yo mirando diciendo, y si se cae y hace ruido y se oye, porque claro, aquí se oye todo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 165.89999999999998,
+   "fin": 167.54,
+   "texto": "Se ve todo como una paranoia.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 167.7,
+   "fin": 169.01999999999998,
+   "texto": "Pero bueno, nos lo pasamos muy bien.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 169.12,
+   "fin": 169.76,
+   "texto": "Fue increíble.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 169.85999999999999,
+   "fin": 170.35999999999999,
+   "texto": "Y además...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 170.35999999999999,
+   "fin": 171.39999999999998,
+   "texto": "Y la gente toda majísima.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 171.4,
+   "fin": 172.48000000000002,
+   "texto": "No, la verdad es que muy majo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 172.64000000000001,
+   "fin": 173.34,
+   "texto": "El señor de la puerta.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 173.84,
+   "fin": 175.18,
+   "texto": "Javier se llamaba, yo creo, ¿eh?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 175.18,
+   "fin": 176.94,
+   "texto": "Sí, el de que le das el DNI.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 177.12,
+   "fin": 177.66,
+   "texto": "Y dijo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 177.92000000000002,
+   "fin": 179.34,
+   "texto": "Llamó por teléfono a Aymar.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 179.6,
+   "fin": 180.42000000000002,
+   "texto": "Bueno, igual a Víctor.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 180.42000000000002,
+   "fin": 181.32,
+   "texto": "A Aymar igual no, ¿eh?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 181.32,
+   "fin": 183.74,
+   "texto": "A Víctor, que es el subdirector de la 25.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 184.06,
+   "fin": 184.94,
+   "texto": "Nuestra persona favorita.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 184.94,
+   "fin": 186.02,
+   "texto": "Sí, un abrazo desde aquí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 186.94,
+   "fin": 191.84,
+   "texto": "Y dijo, está aquí la señora Paula Ducay, la señora Inés García, que vienen a ver",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 191.84,
+   "fin": 192.72,
+   "texto": "a Aymar o algo así.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 192.96,
+   "fin": 193.72,
+   "texto": "Y yo, ay, ay, ay.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 194.04000000000002,
+   "fin": 196.02,
+   "texto": "Y nos trazan, pues efectivamente, así es.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 196.74,
+   "fin": 199.0,
+   "texto": "Y luego nos hicieron un tour por la redacción, que fue...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 199.0,
+   "fin": 205.72,
+   "texto": "Porque claro, supongo que ellos piensan, y con toda la razón del mundo, que una persona que nunca ha visto una redacción de radio y estudios es fascinante.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 205.72,
+   "fin": 209.64,
+   "texto": "Yo no lo pude disfrutar del todo porque estaba absolutamente en otro sitio.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 209.98,
+   "fin": 211.56,
+   "texto": "Pero jo, casi me muero.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 211.74,
+   "fin": 212.76,
+   "texto": "¿Y a quién viste, Inés?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 213.24,
+   "fin": 214.34,
+   "texto": "Voy a contarlo bien.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 215.64,
+   "fin": 218.36,
+   "texto": "Estábamos sentadas en un sillón, ¿te acuerdas?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 218.46,
+   "fin": 219.84,
+   "texto": "Sí, hombre, no, se me va a olvidar.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 220.14,
+   "fin": 223.36,
+   "texto": "Vi venir unas patitas y dije, Paula, Paula, creo que bien.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 223.36,
+   "fin": 226.28,
+   "texto": "Con todo esto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 226.28,
+   "fin": 229.04000000000002,
+   "texto": "Nosotras fingiendo ser personas como adultas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 229.04000000000002,
+   "fin": 229.88000000000002,
+   "texto": "Pero en el fondo no",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 229.88000000000002,
+   "fin": 230.94000000000003,
+   "texto": "A mi Mar va a escuchar esto y va a decir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 230.94000000000003,
+   "fin": 232.56,
+   "texto": "Pobres chicas, están nerviosísimas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 232.56,
+   "fin": 233.52,
+   "texto": "No, pero nos lo pasamos muy bien",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 233.52,
+   "fin": 234.94000000000003,
+   "texto": "No, pero yo quería que contaras lo otro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 234.94000000000003,
+   "fin": 235.76000000000002,
+   "texto": "Claro, voy, voy",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 235.76000000000002,
+   "fin": 237.0,
+   "texto": "Y entonces, ¿esto fue antes?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 237.20000000000002,
+   "fin": 237.36,
+   "texto": "No",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 237.36,
+   "fin": 238.18,
+   "texto": "Sí, cariño",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 238.18,
+   "fin": 239.18,
+   "texto": "No, íbamos con él",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 239.18,
+   "fin": 239.94000000000003,
+   "texto": "¿Cómo va a ser antes?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 240.02,
+   "fin": 240.84,
+   "texto": "Íbamos con Víctor",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 240.84,
+   "fin": 241.96,
+   "texto": "Que nos llevaba al sillón",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 241.96,
+   "fin": 243.60000000000002,
+   "texto": "Inés ni se acuerda",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 243.60000000000002,
+   "fin": 244.68,
+   "texto": "Pero es que yo, en fin",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 244.68,
+   "fin": 245.8,
+   "texto": "No me enteré mucho de nada",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 245.8,
+   "fin": 247.54000000000002,
+   "texto": "Víctor nos recogió con sus propias manos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 247.54000000000002,
+   "fin": 249.18,
+   "texto": "Nos llevó al sillón donde esperábamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 249.18,
+   "fin": 249.68,
+   "texto": "Vale, es verdad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 249.68,
+   "fin": 251.48000000000002,
+   "texto": "Y entonces, de camino al sillón",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 251.48000000000002,
+   "fin": 252.06,
+   "texto": "Sí",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 252.06,
+   "fin": 254.64000000000001,
+   "texto": "de repente vi un cristal, miré",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 254.64000000000001,
+   "fin": 256.88,
+   "texto": "y vi el estudio grande de la cadena serie",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 256.88,
+   "fin": 257.84,
+   "texto": "estaba Francino",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 257.84,
+   "fin": 260.62,
+   "texto": "que claro, a mí me dio ahí una embolia pulmonar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 260.62,
+   "fin": 262.4,
+   "texto": "y luego había un muro",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 262.4,
+   "fin": 264.7,
+   "texto": "es que claro, la gente esto no va a entender, estaba el cristal",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 264.7,
+   "fin": 266.58,
+   "texto": "como un muro y entonces yo vi que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 266.58,
+   "fin": 268.54,
+   "texto": "volvía el cristal y yo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 268.54,
+   "fin": 270.58,
+   "texto": "Paula, mira a la izquierda",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 270.58,
+   "fin": 272.52,
+   "texto": "pero yo lo dije como si fuera",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 272.52,
+   "fin": 274.56,
+   "texto": "la última frase del planeta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 274.56,
+   "fin": 276.36,
+   "texto": "el planeta se iba a destruir",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 276.36,
+   "fin": 278.62,
+   "texto": "y yo le dije a Paula, Paula, mira a la izquierda",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 278.62,
+   "fin": 280.16,
+   "texto": "y entonces Paula miró y lo vio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 280.16,
+   "fin": 283.34000000000003,
+   "texto": "es que Inés es probablemente la mayor fan de Francino",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 283.34000000000003,
+   "fin": 285.42,
+   "texto": "seguramente no, habrá alguna señora",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 285.42,
+   "fin": 287.06,
+   "texto": "que me gane, bueno pero una solo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 287.06,
+   "fin": 289.32000000000005,
+   "texto": "pero me gusta mucho Francino, un saludo desde aquí",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 289.32000000000005,
+   "fin": 290.70000000000005,
+   "texto": "sí, a ese señor",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 290.70000000000005,
+   "fin": 293.28000000000003,
+   "texto": "así que nada, eso es lo que pasó",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 293.28000000000003,
+   "fin": 294.92,
+   "texto": "pasaron muchas cosas, yo me lo pasé muy bien",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 294.92,
+   "fin": 297.58000000000004,
+   "texto": "dentro del Harry me lo pasé muy bien",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 297.58000000000004,
+   "fin": 298.54,
+   "texto": "yo también, fue fascinante",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 298.54,
+   "fin": 300.62,
+   "texto": "era muy gracioso que yo no me acordaba de nada",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 300.62,
+   "fin": 302.44000000000005,
+   "texto": "de lo que había pasado en la entrevista",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 302.44000000000005,
+   "fin": 304.58000000000004,
+   "texto": "yo no sabía qué preguntas nos habían hecho",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 304.58000000000004,
+   "fin": 306.40000000000003,
+   "texto": "y Paula me decía, nos ha preguntado esto y yo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 306.40000000000003,
+   "fin": 308.62,
+   "texto": "ah mira, bien preguntado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 308.62,
+   "fin": 311.6,
+   "texto": "la verdad es que lo pasamos muy bien",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 311.6,
+   "fin": 313.12,
+   "texto": "muchas gracias Aymar por invitarnos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 313.12,
+   "fin": 315.32,
+   "texto": "y a Víctor también por organizar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 315.32,
+   "fin": 316.52,
+   "texto": "y a todo el equipo de Hora 25",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 316.52,
+   "fin": 318.52,
+   "texto": "un abrazo desde aquí, lo hacéis estupendamente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 318.52,
+   "fin": 319.94,
+   "texto": "gracias por informar a España",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 319.94,
+   "fin": 323.14,
+   "texto": "genial la verdad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 323.14,
+   "fin": 325.28000000000003,
+   "texto": "y nada, ¿y qué?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 325.74,
+   "fin": 326.58,
+   "texto": "al misterio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 326.58,
+   "fin": 329.56,
+   "texto": "y ahora ya que nosotras llevamos punzadas a la radio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 329.56,
+   "fin": 331.28000000000003,
+   "texto": "pues queríamos traeros la radio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 331.28000000000003,
+   "fin": 332.16,
+   "texto": "a punzadas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 332.16,
+   "fin": 335.32,
+   "texto": "hola Inés, hola Paula",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 335.32,
+   "fin": 336.42,
+   "texto": "soy Aymar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 336.42,
+   "fin": 342.40000000000003,
+   "texto": "y nada, quería mandaros un beso muy fuerte a vosotras y a todos los oyentes de Punzadas,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 342.48,
+   "fin": 343.68,
+   "texto": "del que soy uno más.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 344.36,
+   "fin": 346.78000000000003,
+   "texto": "Sabéis que os escucho con mucha atención y muchísimo cariño,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 346.90000000000003,
+   "fin": 349.22,
+   "texto": "porque creo que representáis, bueno,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 349.6,
+   "fin": 355.20000000000005,
+   "texto": "sois uno de los representantes de lo mejor que se está haciendo ahora con el audio,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 355.3,
+   "fin": 357.72,
+   "texto": "sobre todo para qué utilizáis el audio en vuestro caso,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 358.18,
+   "fin": 362.44,
+   "texto": "que es para ensanchar conocimiento y sentimiento.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 363.26,
+   "fin": 364.6,
+   "texto": "Y eso lo hacéis.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 364.6,
+   "fin": 367.56,
+   "texto": "nos ensancháis nuestro pequeño cuadrilátero",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 367.56,
+   "fin": 369.0,
+   "texto": "mental, nos ayudáis a",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 369.0,
+   "fin": 370.42,
+   "texto": "a ejercitarlo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 370.42,
+   "fin": 373.24,
+   "texto": "y que haya dos tías como vosotras",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 373.24,
+   "fin": 374.32000000000005,
+   "texto": "haciendo eso con el audio",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 374.32000000000005,
+   "fin": 376.08000000000004,
+   "texto": "pues me encanta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 376.08000000000004,
+   "fin": 378.42,
+   "texto": "y me encanta ser uno más de punzadas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 378.42,
+   "fin": 380.02000000000004,
+   "texto": "un beso muy fuerte",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 380.02000000000004,
+   "fin": 382.62,
+   "texto": "bueno, muchísimas gracias Aymar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 382.62,
+   "fin": 385.28000000000003,
+   "texto": "qué ilusión, qué privilegio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 385.28000000000003,
+   "fin": 386.78000000000003,
+   "texto": "contar con esa voz",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 386.78000000000003,
+   "fin": 389.62,
+   "texto": "por cierto, la primera voz masculina",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 389.62,
+   "fin": 390.88,
+   "texto": "que se escucha en punzadas sonoras",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 390.88,
+   "fin": 393.0,
+   "texto": "hasta que hemos encontrado a alguien decente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 393.0,
+   "fin": 394.16,
+   "texto": "Claro, claro, nos ha costado.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 394.18,
+   "fin": 395.84,
+   "texto": "En el mundo masculino, madre mía.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 396.0,
+   "fin": 396.48,
+   "texto": "Es verdad.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 397.24,
+   "fin": 405.04,
+   "texto": "Y nada, supongo que todo el mundo conoce a Aymar, pero para quien no lo sepa, no es el jefe de la ser, pero es el jefe de la ser en nuestro corazón.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 405.4,
+   "fin": 407.26,
+   "texto": "Efectivamente, muy bien puesto Inés.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 408.2,
+   "fin": 416.86,
+   "texto": "Bueno y precisamente para empezar así con el tema de la escucha y la radio, hablando de la radio, queríamos contar una idea de Aymar, o por lo menos yo se la he escuchado a él en entrevistas,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 416.86,
+   "fin": 419.96000000000004,
+   "texto": "que reflexiona un poco sobre la radio hoy en día",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 419.96000000000004,
+   "fin": 423.62,
+   "texto": "porque claro, la radio hoy en día no se puede representar con la imagen de un transistor",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 423.62,
+   "fin": 425.78000000000003,
+   "texto": "la radio ha pasado a ser muchísimas más cosas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 425.78000000000003,
+   "fin": 429.14,
+   "texto": "es un ordenador, es un móvil, son unos cascos inalámbricos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 429.14,
+   "fin": 431.88,
+   "texto": "que yo personalmente no tengo, pero debería",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 431.88,
+   "fin": 435.3,
+   "texto": "porque a veces me embrollo con mi propio cable",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 435.3,
+   "fin": 438.08000000000004,
+   "texto": "y son muy interesantes estos cambios que se producen",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 438.08000000000004,
+   "fin": 441.14,
+   "texto": "en el consumo del audio a raíz de estas nuevas tecnologías",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 441.14,
+   "fin": 443.66,
+   "texto": "y a raíz de un mercado cada vez más competitivo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 443.66,
+   "fin": 450.54,
+   "texto": "donde distintas formas de comunicación y distintas formas de entretenimiento luchan por conseguir el tiempo y la atención de los oyentes,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 450.68,
+   "fin": 455.38000000000005,
+   "texto": "que es el verdadero campo de batalla del sector cultural y el sector informativo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 455.38000000000005,
+   "fin": 463.38,
+   "texto": "Y la cuestión es que esos oyentes, que nosotras también somos oyentes de muchas cosas, no son solo oyentes, son lectores, son cinéfilos, son seriéfilos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 464.42,
+   "fin": 471.08000000000004,
+   "texto": "Entonces nosotras, Aymar, Hora 25, la última novedad de Sara Mesa, por ejemplo, competimos todos en este mercado cultural.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 471.08,
+   "fin": 474.08,
+   "texto": "O sea, Aymar y yo somos competidores.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 474.58,
+   "fin": 476.03999999999996,
+   "texto": "Pues hemos perdido, me temo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 476.12,
+   "fin": 477.58,
+   "texto": "Sí, nos tenemos que pegar.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 478.52,
+   "fin": 482.26,
+   "texto": "Y entonces hoy vamos a hablar un poquito de esto, vamos a hablar también de la voz, de la radio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 482.26,
+   "fin": 486.08,
+   "texto": "y sobre todo vamos a hablar de la escucha, que es como el título, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 486.41999999999996,
+   "fin": 489.59999999999997,
+   "texto": "Aparte de que es el cumpleaños de punzadas, vamos a hablar de la escucha.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 490.96,
+   "fin": 497.47999999999996,
+   "texto": "Y entonces hemos sacado así un concepto que es el del paisaje sonoro, que luego lo explicaremos,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 497.47999999999996,
+   "fin": 499.76,
+   "texto": "porque es interesante pensar en esto, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 499.76,
+   "fin": 502.74,
+   "texto": "desde el punto de vista filosófico, que son los paisajes sonoros.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 503.24,
+   "fin": 506.06,
+   "texto": "Pues igual que el pitido de los coches, o los sonidos de las ambulancias,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 506.2,
+   "fin": 509.74,
+   "texto": "o las conversaciones en distintos idiomas forman parte del paisaje sonoro urbano,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 510.42,
+   "fin": 512.8199999999999,
+   "texto": "el paisaje sonoro rural, Inés, ¿qué sería?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 513.02,
+   "fin": 514.74,
+   "texto": "¿Qué escuchas en el campo ese que tanto te gusta?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 515.54,
+   "fin": 517.64,
+   "texto": "Aparte de silencio, claro, que es muy importante.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 517.9399999999999,
+   "fin": 521.08,
+   "texto": "Sí, el viento, las vacas, los changarros.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 521.2,
+   "fin": 522.8,
+   "texto": "¿Qué cojones es un changarro?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 523.16,
+   "fin": 524.6,
+   "texto": "Los, ay, ¿cómo se llaman?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 525.92,
+   "fin": 526.3199999999999,
+   "texto": "Cencerros.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 526.4,
+   "fin": 526.98,
+   "texto": "Los cencerros.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 527.1,
+   "fin": 528.6,
+   "texto": "Es que en Gilbuena son changarros.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 528.72,
+   "fin": 529.2,
+   "texto": "Bueno, yo qué sé.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 529.2,
+   "fin": 530.26,
+   "texto": "el otro día",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 530.26,
+   "fin": 531.4200000000001,
+   "texto": "estábamos en un pueblo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 531.4200000000001,
+   "fin": 532.1400000000001,
+   "texto": "con mis padres",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 532.1400000000001,
+   "fin": 533.5200000000001,
+   "texto": "semi abandonado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 533.5200000000001,
+   "fin": 534.0600000000001,
+   "texto": "comiendo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 534.0600000000001,
+   "fin": 535.5200000000001,
+   "texto": "debajo de una iglesia destruida",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 535.5200000000001,
+   "fin": 536.34,
+   "texto": "todo como muy",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 536.34,
+   "fin": 537.44,
+   "texto": "como a mí me gusta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 537.44,
+   "fin": 538.1,
+   "texto": "como a ti te gusta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 538.1,
+   "fin": 538.32,
+   "texto": "sí",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 538.32,
+   "fin": 539.9000000000001,
+   "texto": "y había un ruido de fondo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 539.9000000000001,
+   "fin": 540.72,
+   "texto": "como constante",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 540.72,
+   "fin": 542.72,
+   "texto": "y eran changarros",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 542.72,
+   "fin": 543.34,
+   "texto": "eran changarros",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 543.34,
+   "fin": 543.58,
+   "texto": "en plan",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 543.58,
+   "fin": 544.5600000000001,
+   "texto": "tolón, tolón, tolón",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 544.5600000000001,
+   "fin": 545.22,
+   "texto": "era como el ruido",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 545.22,
+   "fin": 545.6600000000001,
+   "texto": "de la ciudad",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 545.6600000000001,
+   "fin": 546.72,
+   "texto": "de fondo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 546.72,
+   "fin": 547.72,
+   "texto": "sí, de pi, pi",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 547.72,
+   "fin": 548.36,
+   "texto": "pero otro",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 548.36,
+   "fin": 548.6800000000001,
+   "texto": "madre mía",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 548.6800000000001,
+   "fin": 549.24,
+   "texto": "yo haciendo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 549.24,
+   "fin": 550.6400000000001,
+   "texto": "como no hay",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 550.6400000000001,
+   "fin": 551.94,
+   "texto": "como no hay equipo técnico",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 551.94,
+   "fin": 552.96,
+   "texto": "ni no, ni no",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 552.96,
+   "fin": 554.74,
+   "texto": "bueno",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 554.74,
+   "fin": 555.62,
+   "texto": "entonces lo que queríamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 555.62,
+   "fin": 556.38,
+   "texto": "un poco comentar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 556.38,
+   "fin": 557.2800000000001,
+   "texto": "es que hoy en día",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 557.2800000000001,
+   "fin": 558.5,
+   "texto": "podemos elegir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 558.5,
+   "fin": 559.46,
+   "texto": "cada una de nosotras",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 559.46,
+   "fin": 561.38,
+   "texto": "nuestros propios",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 561.38,
+   "fin": 562.38,
+   "texto": "paisajes sonoros",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 562.38,
+   "fin": 563.5,
+   "texto": "porque te pones",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 563.5,
+   "fin": 564.08,
+   "texto": "los cascos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 564.08,
+   "fin": 564.78,
+   "texto": "y eso ya",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 564.78,
+   "fin": 565.84,
+   "texto": "es tu mundo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 565.84,
+   "fin": 566.56,
+   "texto": "entonces puedes elegir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 566.56,
+   "fin": 567.0,
+   "texto": "la música",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 567.0,
+   "fin": 568.42,
+   "texto": "la radio bajo demanda",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 568.42,
+   "fin": 569.22,
+   "texto": "los audiolibros",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 569.22,
+   "fin": 570.28,
+   "texto": "los audios de whatsapp",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 570.28,
+   "fin": 570.9,
+   "texto": "todo el mundo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 570.9,
+   "fin": 571.88,
+   "texto": "que calvarios audios",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 571.88,
+   "fin": 573.16,
+   "texto": "a ver depende de la",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 573.16,
+   "fin": 574.96,
+   "texto": "yo tengo audios tuyos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 574.96,
+   "fin": 576.24,
+   "texto": "bien graciosos Inés",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 576.24,
+   "fin": 576.76,
+   "texto": "ya bueno",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 576.76,
+   "fin": 577.84,
+   "texto": "yo no escucho tus audios",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 577.84,
+   "fin": 579.0,
+   "texto": "a doble velocidad de decir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 579.0,
+   "fin": 579.52,
+   "texto": "jamás",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 579.52,
+   "fin": 580.08,
+   "texto": "yo todos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 580.08,
+   "fin": 580.72,
+   "texto": "todos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 580.72,
+   "fin": 581.52,
+   "texto": "los míos también",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 581.52,
+   "fin": 582.34,
+   "texto": "seguramente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 582.34,
+   "fin": 582.92,
+   "texto": "vaya zorra",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 582.92,
+   "fin": 585.52,
+   "texto": "bueno todo esto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 585.52,
+   "fin": 586.34,
+   "texto": "el mundo del podcast",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 586.34,
+   "fin": 587.26,
+   "texto": "todo esto conforma",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 587.26,
+   "fin": 588.48,
+   "texto": "nuevos paisajes sonoros",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 588.48,
+   "fin": 592.64,
+   "texto": "individualizados, donde por supuesto también se da una batalla comercial entre estos distintos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 592.64,
+   "fin": 597.26,
+   "texto": "productos. Entonces nuestros oídos, igual que nuestros cuerpos, nuestros ojos, son también",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 597.26,
+   "fin": 600.72,
+   "texto": "un escenario de producción y de consumo, en el que quizás no pensemos tan a menudo,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 600.82,
+   "fin": 606.0,
+   "texto": "pero que también es importante, ¿no? Inés, voy a hacer una entrevista. ¿Cuál es tu",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 606.0,
+   "fin": 610.62,
+   "texto": "relación con el mundo de la radio? Claro, pues yo aquí tengo que hablar de mi casa,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 610.84,
+   "fin": 615.26,
+   "texto": "de Arnedillo, que es mi casa de verdad. En Madrid no tengo casa, solo cárceles, solo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 615.26,
+   "fin": 616.98,
+   "texto": "celdas, ¿sabes? Sí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 617.92,
+   "fin": 619.64,
+   "texto": "Mis padres, cuando construyeron",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 619.64,
+   "fin": 621.16,
+   "texto": "su casa, decidieron poner,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 621.4,
+   "fin": 623.54,
+   "texto": "claro, es que esto tendrá un nombre, pero yo no me lo sé,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 624.1,
+   "fin": 625.4399999999999,
+   "texto": "cacharritos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 626.88,
+   "fin": 627.28,
+   "texto": "Cacharritos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 627.28,
+   "fin": 629.4,
+   "texto": "De poner la radio, que es una cosita",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 629.4,
+   "fin": 630.84,
+   "texto": "que la echas para adelante. Que está en la pared.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 631.06,
+   "fin": 633.1,
+   "texto": "Claro, está en la pared y la pones para adelante.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 633.34,
+   "fin": 635.28,
+   "texto": "Madre mía, estoy explicándolo muy mal. No, nada, es como",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 635.28,
+   "fin": 637.4399999999999,
+   "texto": "que le das a un botón. Sí, pero como deslizando.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 637.52,
+   "fin": 639.18,
+   "texto": "Sí. Y si lo pones al final, pues",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 639.18,
+   "fin": 641.1,
+   "texto": "explota la casa. Madre mía.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 642.3199999999999,
+   "fin": 643.28,
+   "texto": "Lo de deslizar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 643.28,
+   "fin": 644.6,
+   "texto": "es crucial para la historia.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 645.26,
+   "fin": 646.1,
+   "texto": "En mi cabeza sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 646.54,
+   "fin": 650.68,
+   "texto": "Es claro que en todas las habitaciones de mi casa tenemos un cacharrito de radio.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 650.8199999999999,
+   "fin": 654.36,
+   "texto": "También he de decir que mi casa tiene muchos pisos, es una casa de pueblo muy alta,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 654.8199999999999,
+   "fin": 660.42,
+   "texto": "y entonces no tiene sentido subir al salón para poner la radio abajo, entonces es útil.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 660.42,
+   "fin": 665.02,
+   "texto": "Bueno, entonces en mi casa la radio, y concretamente la cadena SER,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 665.2,
+   "fin": 669.08,
+   "texto": "porque he de confesar que jamás ha habido otra radio sintonizada en esa casa,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 669.74,
+   "fin": 672.4,
+   "texto": "sale por las paredes, que a esta Paula le gustó mucho.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 672.4,
+   "fin": 676.4599999999999,
+   "texto": "O sea, yo el otro día cuando fui dije, un momento, y ya he estado en tu casa varias veces,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 676.5799999999999,
+   "fin": 681.26,
+   "texto": "pero dije, ¿cómo que me estás diciendo que le pulso un botón y la voz de Aymar sale por la pared?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 681.48,
+   "fin": 682.26,
+   "texto": "No entiendo nada.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 682.4,
+   "fin": 683.56,
+   "texto": "Eso es lo que pasa, además...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 683.56,
+   "fin": 685.04,
+   "texto": "Además pasa todas las putas noches.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 685.16,
+   "fin": 689.9,
+   "texto": "Sí, y sobre todo, nunca hemos tenido tele en la cocina, nunca, nunca, porque no...",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 689.9,
+   "fin": 693.4,
+   "texto": "No, no, yo perdón, pero me parece terrible tener una tele en la cocina.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 693.42,
+   "fin": 693.84,
+   "texto": "Jamás.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 694.02,
+   "fin": 698.1999999999999,
+   "texto": "Pero la radio siempre, o sea, en mi casa mucha más radio que tele, en plan, todo el rato.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 698.2,
+   "fin": 701.2,
+   "texto": "en la cocina es raro que no esté la radio puesta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 701.2,
+   "fin": 702.5200000000001,
+   "texto": "¿sabes? este quien este",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 702.5200000000001,
+   "fin": 705.5200000000001,
+   "texto": "y tenía un recuerdo muy bonito",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 705.5200000000001,
+   "fin": 707.44,
+   "texto": "de mis primeros recuerdos de infancia igual",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 707.44,
+   "fin": 709.26,
+   "texto": "no lo sé, habrá otros",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 709.26,
+   "fin": 711.1800000000001,
+   "texto": "pero este lo recuerdo especialmente que estábamos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 711.1800000000001,
+   "fin": 713.1,
+   "texto": "pues en 2008 hemos mirado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 713.1,
+   "fin": 714.9200000000001,
+   "texto": "cuando ganó las elecciones este señor",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 714.9200000000001,
+   "fin": 716.24,
+   "texto": "para poder contar esto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 716.24,
+   "fin": 718.76,
+   "texto": "estábamos mi hermano y yo en la bañera de mi baño",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 718.76,
+   "fin": 721.3000000000001,
+   "texto": "que no sé, iba a contar ahora",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 721.3000000000001,
+   "fin": 722.74,
+   "texto": "como el contexto, pero da igual",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 722.74,
+   "fin": 724.6,
+   "texto": "que es precioso, nada, éramos niños",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 724.6,
+   "fin": 725.74,
+   "texto": "y estábamos bañando",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 725.74,
+   "fin": 728.28,
+   "texto": "y entonces mi madre estaba",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 728.28,
+   "fin": 730.82,
+   "texto": "y mi padre estaban diciendo como que no gritásemos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 730.82,
+   "fin": 732.58,
+   "texto": "mucho, recuerdo, porque tenían",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 732.58,
+   "fin": 734.5,
+   "texto": "que decir algo importante por la radio que salía",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 734.5,
+   "fin": 735.02,
+   "texto": "de la pared",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 735.02,
+   "fin": 738.44,
+   "texto": "y entonces de repente dijeron que Zapatero",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 738.44,
+   "fin": 740.5600000000001,
+   "texto": "había ganado las elecciones y eso se celebró",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 740.5600000000001,
+   "fin": 742.54,
+   "texto": "mucho, es decir que es la única vez",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 742.54,
+   "fin": 743.98,
+   "texto": "que mis padres han votado al PSOE",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 743.98,
+   "fin": 745.9,
+   "texto": "aquí desvelando lo que votan mis padres",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 745.9,
+   "fin": 746.7,
+   "texto": "Sí, la verdad muy mal",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 746.7,
+   "fin": 748.98,
+   "texto": "Ahora la gente va a pensar que votan al PP",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 748.98,
+   "fin": 752.72,
+   "texto": "Por lo que sea no, chicas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 752.72,
+   "fin": 754.16,
+   "texto": "PSOE no, como más de",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 754.16,
+   "fin": 756.26,
+   "texto": "más de lo otro, más de la izquierda",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 756.26,
+   "fin": 758.3399999999999,
+   "texto": "más de lo otro, sí, pero se celebró",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 758.3399999999999,
+   "fin": 760.1999999999999,
+   "texto": "mucho y lo recuerdo porque fue una alegría",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 760.1999999999999,
+   "fin": 762.0799999999999,
+   "texto": "de verdad en esa casa, esa noche",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 762.0799999999999,
+   "fin": 763.4399999999999,
+   "texto": "que os la dio la radio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 763.4399999999999,
+   "fin": 766.26,
+   "texto": "y hoy en día escuchamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 766.26,
+   "fin": 768.1,
+   "texto": "podcast, he de decir que aquí hay",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 768.1,
+   "fin": 770.0,
+   "texto": "una persona que escucha muchos más podcast",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 770.0,
+   "fin": 770.9399999999999,
+   "texto": "que la otra",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 770.9399999999999,
+   "fin": 774.14,
+   "texto": "yo tengo que confesar que nunca he sido mucho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 774.14,
+   "fin": 776.2199999999999,
+   "texto": "de radio y no soy mucho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 776.2199999999999,
+   "fin": 778.6,
+   "texto": "de podcast, a pesar de que tengo un podcast",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 778.6,
+   "fin": 780.38,
+   "texto": "y soy consciente de que una no puede",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 780.38,
+   "fin": 782.42,
+   "texto": "hacer una cosa bien, si no sabe",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 782.42,
+   "fin": 785.18,
+   "texto": "qué es lo que están haciendo otras personas incluso mejor,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 785.3399999999999,
+   "fin": 786.52,
+   "texto": "entonces estoy haciendo un esfuerzo,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 787.0,
+   "fin": 791.24,
+   "texto": "pero he de decir que me cuesta un poco como introducir el audio en mi rutina diaria,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 791.4799999999999,
+   "fin": 793.02,
+   "texto": "nunca he estado acostumbrada a hacerlo,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 794.02,
+   "fin": 796.8199999999999,
+   "texto": "la radio, el sitio donde más la he escuchado es en el coche,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 797.14,
+   "fin": 799.66,
+   "texto": "con mis padres, con mi padre sobre todo a veces por las mañanas,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 799.66,
+   "fin": 804.14,
+   "texto": "en una época en la que me llevaba a la universidad o donde fuese y se ponía la radio,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 804.24,
+   "fin": 808.42,
+   "texto": "pero me cuesta, me cuesta sobre todo porque hay una actividad que yo hago mucho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 808.42,
+   "fin": 810.62,
+   "texto": "y que es como prioritaria de mi vida, que es leer,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 810.62,
+   "fin": 813.18,
+   "texto": "y me resulta imposible, claro, no puedo leer",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 813.18,
+   "fin": 815.18,
+   "texto": "y escuchar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 815.18,
+   "fin": 817.22,
+   "texto": "a Francino a la vez, porque no puedo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 817.22,
+   "fin": 819.24,
+   "texto": "entonces me cuesta mucho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 819.24,
+   "fin": 821.1,
+   "texto": "entonces tengo como podcast así como",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 821.1,
+   "fin": 822.82,
+   "texto": "elegidos, que sí que escucho regularmente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 822.82,
+   "fin": 825.14,
+   "texto": "pero es algo como una asignatura",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 825.14,
+   "fin": 826.68,
+   "texto": "pendiente, y cuando Inés me dice",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 826.68,
+   "fin": 828.66,
+   "texto": "si escucho como 35 podcasts, yo pero ¿cuándo?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 828.7,
+   "fin": 829.84,
+   "texto": "sacas el tiempo muchacha",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 829.84,
+   "fin": 831.58,
+   "texto": "claro, porque justamente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 831.58,
+   "fin": 834.6,
+   "texto": "las situaciones en las que no puedo leer",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 834.6,
+   "fin": 836.34,
+   "texto": "es cuando escucho el podcast",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 836.34,
+   "fin": 838.94,
+   "texto": "escucho el podcast haciendo cosas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 838.94,
+   "fin": 841.48,
+   "texto": "siempre me voy a dormir escuchando la radio",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 841.48,
+   "fin": 842.86,
+   "texto": "yo cuando me voy a dormir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 842.86,
+   "fin": 844.0200000000001,
+   "texto": "escucho el silencio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 844.0200000000001,
+   "fin": 846.6400000000001,
+   "texto": "claro, yo no, tengo que escuchar un podcast",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 846.6400000000001,
+   "fin": 849.5600000000001,
+   "texto": "¿no hubo una etapa en tu vida",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 849.5600000000001,
+   "fin": 851.2,
+   "texto": "en la que te dormías escuchando",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 851.2,
+   "fin": 852.24,
+   "texto": "los gritos de Ignatius?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 852.62,
+   "fin": 854.74,
+   "texto": "la vida moderna, hubo una época de mi vida",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 854.74,
+   "fin": 857.0400000000001,
+   "texto": "en que me dormía escuchando el capítulo de ese día",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 857.0400000000001,
+   "fin": 857.8800000000001,
+   "texto": "de la vida moderna",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 857.8800000000001,
+   "fin": 859.6800000000001,
+   "texto": "yo no sé cómo se duerme con eso",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 859.6800000000001,
+   "fin": 861.7800000000001,
+   "texto": "¿y qué tal las pesadillas luego?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 863.1,
+   "fin": 864.96,
+   "texto": "sí, no sé, yo sí escucho",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 864.96,
+   "fin": 866.58,
+   "texto": "bastante, también eso",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 866.58,
+   "fin": 868.5400000000001,
+   "texto": "como en mi casa siempre he estado de fondo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 868.54,
+   "fin": 870.98,
+   "texto": "como que lo primero que escuché",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 870.98,
+   "fin": 872.76,
+   "texto": "o sea que me acostumbré a escuchar es cuando me fui",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 872.76,
+   "fin": 874.56,
+   "texto": "de casa, escuchaba la SER",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 874.56,
+   "fin": 876.68,
+   "texto": "en la aplicación, que empecé como a manejar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 876.68,
+   "fin": 878.48,
+   "texto": "esto de que puedes escuchar, esto es una maravilla",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 878.48,
+   "fin": 879.9,
+   "texto": "la radio bajo demanda se llama",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 879.9,
+   "fin": 882.8,
+   "texto": "que puedes escuchar solo los trocitos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 882.8,
+   "fin": 884.8399999999999,
+   "texto": "de los programas, pues escuchaba muchísimo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 884.8399999999999,
+   "fin": 886.68,
+   "texto": "la SER y luego fueron",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 886.68,
+   "fin": 888.18,
+   "texto": "surgiendo como los podcast",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 888.18,
+   "fin": 890.4599999999999,
+   "texto": "nuestros podcast, pues de forma semanal",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 890.4599999999999,
+   "fin": 892.2199999999999,
+   "texto": "ciberlocutorio, las hijas de Felipe",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 892.2199999999999,
+   "fin": 894.3199999999999,
+   "texto": "reinas de algarito, me gusta mucho",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 894.3199999999999,
+   "fin": 896.48,
+   "texto": "la pija y la kink, todas estas cosas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 896.48,
+   "fin": 898.02,
+   "texto": "que escuchamos mucho y ya",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 898.02,
+   "fin": 899.34,
+   "texto": "pues también",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 899.34,
+   "fin": 901.36,
+   "texto": "escucho estas cosas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 901.36,
+   "fin": 904.36,
+   "texto": "bueno, pues mira, ya hemos dicho lo que hemos escuchado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 904.36,
+   "fin": 905.76,
+   "texto": "hoy no vamos a hablar de lo que leemos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 905.76,
+   "fin": 906.72,
+   "texto": "sino de lo que escuchamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 906.72,
+   "fin": 910.16,
+   "texto": "pero además de todos estos jijijajas sobre la radio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 910.16,
+   "fin": 911.16,
+   "texto": "hay que hablar de Bartes",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 911.16,
+   "fin": 914.1,
+   "texto": "porque no podemos abandonar a nuestro señor",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 914.1,
+   "fin": 915.6999999999999,
+   "texto": "que se va a revolver en su tumba",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 915.6999999999999,
+   "fin": 917.24,
+   "texto": "efectivamente, que está pendiente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 917.24,
+   "fin": 920.34,
+   "texto": "y además Bartes tiene muchas cosas sobre la escucha",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 920.34,
+   "fin": 921.16,
+   "texto": "sobre la voz",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 921.16,
+   "fin": 922.66,
+   "texto": "Inés, cuéntanoslas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 922.66,
+   "fin": 923.74,
+   "texto": "sí, un montón",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 923.74,
+   "fin": 927.56,
+   "texto": "seguramente a las personas que ya llevan aquí un año",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 927.56,
+   "fin": 928.9799999999999,
+   "texto": "con nosotras",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 928.9799999999999,
+   "fin": 931.64,
+   "texto": "ya les suenan algunas de estas figuras",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 931.64,
+   "fin": 933.66,
+   "texto": "porque las hemos ido tratando todas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 933.66,
+   "fin": 936.2199999999999,
+   "texto": "de hecho, la primera, Punzada Sonora",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 936.2199999999999,
+   "fin": 937.7199999999999,
+   "texto": "trataba sobre también",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 937.7199999999999,
+   "fin": 939.66,
+   "texto": "la que no tenéis que escuchar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 939.66,
+   "fin": 941.92,
+   "texto": "elegimos todas estas figuras",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 941.92,
+   "fin": 943.7199999999999,
+   "texto": "que tenían que ver con la voz, con el sonido",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 943.7199999999999,
+   "fin": 946.1999999999999,
+   "texto": "y con la escucha, ¿no? Habladuría, mutismo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 946.1999999999999,
+   "fin": 948.42,
+   "texto": "que si recordáis, aquí en mutismo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 948.42,
+   "fin": 949.8399999999999,
+   "texto": "está la definición de amistad",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 949.8399999999999,
+   "fin": 951.28,
+   "texto": "una de nuestras figuras favoritas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 951.28,
+   "fin": 953.5999999999999,
+   "texto": "y la cita que yo leí en Hora 25",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 953.5999999999999,
+   "fin": 954.9,
+   "texto": "yo leí una de Marx",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 954.9,
+   "fin": 957.1,
+   "texto": "que dos citas más buenas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 957.1,
+   "fin": 958.3,
+   "texto": "no es por tirarnos flores",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 958.3,
+   "fin": 959.6,
+   "texto": "pero están muy bien elegidas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 959.6,
+   "fin": 961.28,
+   "texto": "un 10 Inés y Paula",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 961.28,
+   "fin": 963.34,
+   "texto": "Paula e Inés",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 963.34,
+   "fin": 965.9599999999999,
+   "texto": "la democracia porque siempre ponemos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 965.9599999999999,
+   "fin": 967.84,
+   "texto": "siempre alternamos los nombres",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 967.84,
+   "fin": 969.88,
+   "texto": "se habrán dado cuenta de esto nuestros queridos oyentes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 969.88,
+   "fin": 972.28,
+   "texto": "se dio cuenta Bruno Padilla del Valle",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 972.28,
+   "fin": 973.64,
+   "texto": "que nos hizo nuestra primera entrevista",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 973.64,
+   "fin": 975.12,
+   "texto": "se dio cuenta pero vamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 975.12,
+   "fin": 977.68,
+   "texto": "porque se estudió punzadas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 977.68,
+   "fin": 980.12,
+   "texto": "para los que no están entendiendo nada",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 980.12,
+   "fin": 982.1,
+   "texto": "cuando firmamos las cosas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 982.1,
+   "fin": 983.5,
+   "texto": "en las cartas de la newsletter",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 983.5,
+   "fin": 986.5,
+   "texto": "y cuando ponemos la descripción del podcast alternamos...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 987.42,
+   "fin": 987.56,
+   "texto": "Y en un podcast.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 987.84,
+   "fin": 988.0,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 988.22,
+   "fin": 990.36,
+   "texto": "Punzadas sonoras por Inés García y Pablo Ducai.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 990.38,
+   "fin": 991.1,
+   "texto": "Sí, con la voz de Aura.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 991.36,
+   "fin": 992.02,
+   "texto": "Cada día es uno.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 992.14,
+   "fin": 994.86,
+   "texto": "Cada día va un hombre antes que otro porque somos...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 994.86,
+   "fin": 996.06,
+   "texto": "Democráticas al fin y al cabo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 996.14,
+   "fin": 999.42,
+   "texto": "Tenemos el 50% de las acciones de punzadas cada una y esto se refleja.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 999.54,
+   "fin": 999.68,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1001.4,
+   "fin": 1006.22,
+   "texto": "Entonces, como veis, tenemos muchas figuras relacionadas con la voz, con el sonido, con la escucha.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1007.12,
+   "fin": 1009.5,
+   "texto": "En concreto hoy nos vamos a centrar en resonancia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1009.5,
+   "fin": 1012.3,
+   "texto": "que aunque ya lo hemos tratado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1012.3,
+   "fin": 1014.58,
+   "texto": "vamos a centrarnos en el cuarto apartado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1014.58,
+   "fin": 1016.9,
+   "texto": "que se titula La escucha perfecta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1016.9,
+   "fin": 1018.6,
+   "texto": "y es interesante",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1018.6,
+   "fin": 1020.44,
+   "texto": "lo que nos cuenta Bartes, nos dice",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1020.44,
+   "fin": 1022.58,
+   "texto": "imaginemos que alguien",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1022.58,
+   "fin": 1023.48,
+   "texto": "Paula",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1023.48,
+   "fin": 1026.54,
+   "texto": "nos comunica un rumor desagradable",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1026.54,
+   "fin": 1027.68,
+   "texto": "que nos concierne",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1027.68,
+   "fin": 1030.54,
+   "texto": "entonces Paula me comunica a mi",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1030.54,
+   "fin": 1032.7,
+   "texto": "un rumor desagradable que me concierne",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1032.7,
+   "fin": 1034.88,
+   "texto": "como que el primer comentario",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1034.88,
+   "fin": 1035.82,
+   "texto": "en Youtube",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1035.82,
+   "fin": 1038.3,
+   "texto": "después de la entrevista de Hora 25",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1038.3,
+   "fin": 1039.9199999999998,
+   "texto": "fue un señor poniendo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1039.9199999999998,
+   "fin": 1042.2,
+   "texto": "ahora le dan un micrófono a cualquiera",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1042.2,
+   "fin": 1043.56,
+   "texto": "le dan altavoz a cualquiera",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1043.56,
+   "fin": 1046.26,
+   "texto": "y luego vino otro señor a defendernos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1046.26,
+   "fin": 1047.52,
+   "texto": "guerra de señores",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1047.52,
+   "fin": 1050.3799999999999,
+   "texto": "entonces esto, centrémonos en que alguien",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1050.3799999999999,
+   "fin": 1052.4199999999998,
+   "texto": "me comunica a mí un rumor desagradable",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1052.4199999999998,
+   "fin": 1054.52,
+   "texto": "que me concierne, entonces Vartes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1054.52,
+   "fin": 1056.34,
+   "texto": "nos explica que esto repercute",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1056.34,
+   "fin": 1058.26,
+   "texto": "en mí de dos maneras diferentes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1058.26,
+   "fin": 1060.6,
+   "texto": "primero recibo en carne viva",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1060.6,
+   "fin": 1062.06,
+   "texto": "el propósito del mensaje",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1062.06,
+   "fin": 1063.44,
+   "texto": "¿qué quiere decir en carne viva?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1063.76,
+   "fin": 1066.26,
+   "texto": "pues que me enfado, que me duele, que quiero desmentirlo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1066.26,
+   "fin": 1067.98,
+   "texto": "que me provoca",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1067.98,
+   "fin": 1069.7,
+   "texto": "algún tipo de emoción",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1069.7,
+   "fin": 1072.2,
+   "texto": "y la segunda manera es que percibo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1072.2,
+   "fin": 1074.28,
+   "texto": "el movimiento de agresividad",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1074.28,
+   "fin": 1076.06,
+   "texto": "que ha impulsado a esa persona",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1076.06,
+   "fin": 1078.52,
+   "texto": "que me lo ha contado a transmitirme",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1078.52,
+   "fin": 1080.0,
+   "texto": "una información que es hiriente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1080.0,
+   "fin": 1081.58,
+   "texto": "o sea que te planteas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1081.58,
+   "fin": 1084.14,
+   "texto": "por qué esa persona te ha contado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1084.14,
+   "fin": 1086.1,
+   "texto": "eso, si era necesario, de qué",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1086.1,
+   "fin": 1088.26,
+   "texto": "manera te lo ha contado, qué quería esa persona",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1088.26,
+   "fin": 1090.28,
+   "texto": "conseguir al contártelo, ayudarte",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1090.28,
+   "fin": 1092.5,
+   "texto": "informarte, herirte",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1092.5,
+   "fin": 1094.1200000000001,
+   "texto": "¿no? Entonces",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1094.1200000000001,
+   "fin": 1096.42,
+   "texto": "Vardes nos dije, joder macho",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1096.42,
+   "fin": 1097.72,
+   "texto": "no sé pronunciar las palabras",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1097.72,
+   "fin": 1127.7,
+   "texto": "Bueno, un problema.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1127.72,
+   "fin": 1130.34,
+   "texto": "en la sustancia misma del mensaje",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1130.34,
+   "fin": 1132.8600000000001,
+   "texto": "esto es lo que hacía la lingüística tradicional",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1132.8600000000001,
+   "fin": 1134.82,
+   "texto": "el contenido, el mensaje",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1134.82,
+   "fin": 1138.4,
+   "texto": "y luego desmenuzo con recelo y amargura",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1138.4,
+   "fin": 1140.2,
+   "texto": "la fuerza que lo funda",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1140.2,
+   "fin": 1142.76,
+   "texto": "que esto es lo que decíamos, ver qué hay detrás",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1142.76,
+   "fin": 1144.9,
+   "texto": "qué movimientos ocultos hay detrás del mensaje",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1144.9,
+   "fin": 1146.6200000000001,
+   "texto": "porque esa persona ha hecho eso",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1146.6200000000001,
+   "fin": 1151.52,
+   "texto": "y esto hace, dice Bartés, que pierda en los dos tableros",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1151.52,
+   "fin": 1153.42,
+   "texto": "me hiere por todas partes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1153.42,
+   "fin": 1157.64,
+   "texto": "no solo me hiere el mensaje, me hiere también la fuerza que ha impulsado ese mensaje",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1157.64,
+   "fin": 1160.72,
+   "texto": "la intencionalidad de hacer daño",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1160.72,
+   "fin": 1162.5,
+   "texto": "al final lo que te hace más daño",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1162.5,
+   "fin": 1164.94,
+   "texto": "es que sabes que una persona está intentando hacértelo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1164.94,
+   "fin": 1167.0200000000002,
+   "texto": "hay mucha gente que dice cosas por maldad",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1167.0200000000002,
+   "fin": 1167.72,
+   "texto": "sí",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1167.72,
+   "fin": 1170.94,
+   "texto": "es una indirecta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1170.94,
+   "fin": 1172.48,
+   "texto": "a ver si la captamos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1172.48,
+   "fin": 1174.1200000000001,
+   "texto": "y dice",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1174.1200000000001,
+   "fin": 1176.14,
+   "texto": "tal es la resonancia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1176.14,
+   "fin": 1179.1000000000001,
+   "texto": "la práctica afanosa de una escucha",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1179.1000000000001,
+   "fin": 1180.38,
+   "texto": "perfecta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1180.38,
+   "fin": 1181.98,
+   "texto": "al contrario que el analista",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1181.98,
+   "fin": 1184.9,
+   "texto": "lejos de flotar mientras el otro habla",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1184.9,
+   "fin": 1186.76,
+   "texto": "escucha completamente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1186.76,
+   "fin": 1188.82,
+   "texto": "en estado de conciencia total",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1188.82,
+   "fin": 1191.56,
+   "texto": "no puedo abstraerme de escucharlo todo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1191.56,
+   "fin": 1193.92,
+   "texto": "y es la pureza de esta escucha",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1193.92,
+   "fin": 1195.6,
+   "texto": "lo que me resulta doloroso",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1195.6,
+   "fin": 1198.24,
+   "texto": "muy bonito y muy bien Bartes como siempre",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1198.24,
+   "fin": 1199.56,
+   "texto": "este niño mágico",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1199.56,
+   "fin": 1202.42,
+   "texto": "y ahora quería mostraros un textito",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1202.42,
+   "fin": 1204.3799999999999,
+   "texto": "que se llama el arte de los ruidos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1204.3799999999999,
+   "fin": 1206.0,
+   "texto": "de Luigi Ruzzolo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1206.0,
+   "fin": 1208.2,
+   "texto": "Ruzzolo, no sé cómo se pronunciará",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1208.2,
+   "fin": 1210.3,
+   "texto": "que es un manifiesto futurista",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1210.3,
+   "fin": 1212.46,
+   "texto": "escrito en una carta en 1913",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1212.46,
+   "fin": 1215.22,
+   "texto": "y está considerado como uno de los más importantes",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1215.22,
+   "fin": 1217.1000000000001,
+   "texto": "e influyentes textos del siglo XX",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1217.1000000000001,
+   "fin": 1218.76,
+   "texto": "en cuanto a estética musical",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1218.76,
+   "fin": 1221.44,
+   "texto": "de esto sabrá Inés más que yo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1221.44,
+   "fin": 1223.28,
+   "texto": "porque Inés es una persona que toca el piano",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1223.28,
+   "fin": 1225.14,
+   "texto": "bueno, yo no toco el piano",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1225.14,
+   "fin": 1226.76,
+   "texto": "yo lo tocaba, yo solo toco los cojones",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1226.76,
+   "fin": 1229.8,
+   "texto": "más bien lo tocaba, cuando acabé el conservatorio",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1229.8,
+   "fin": 1230.42,
+   "texto": "acabé hasta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1230.42,
+   "fin": 1233.0,
+   "texto": "un lugar mal",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1233.0,
+   "fin": 1236.22,
+   "texto": "y quería vender el piano y ya no lo he tocado más",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1236.22,
+   "fin": 1237.28,
+   "texto": "bueno, a veces sí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1237.28,
+   "fin": 1238.72,
+   "texto": "un poquito de paralisa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1238.72,
+   "fin": 1241.8,
+   "texto": "bueno, pues es muy bonita la reflexión",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1241.8,
+   "fin": 1243.5,
+   "texto": "que hace Luigi, es un texto un poco",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1243.5,
+   "fin": 1248.92,
+   "texto": "loco, la verdad. Está en internet y son nueve paginitas de nada. Y es bonita la reflexión acerca",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1248.92,
+   "fin": 1254.84,
+   "texto": "del origen del ruido, porque él dice, la vida antigua fue toda silencio. En el siglo XIX, con",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1254.84,
+   "fin": 1261.36,
+   "texto": "la invención de las máquinas, nació el ruido, el ruido con mayúscula. Hoy el ruido triunfa y domina",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1261.36,
+   "fin": 1266.42,
+   "texto": "soberano sobre la sensibilidad de los hombres. Durante muchos siglos la vida se desarrolló en",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1266.42,
+   "fin": 1272.06,
+   "texto": "silencio o a lo sumo en sordina. Los ruidos más fuertes que interrumpían este silencio no eran",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1272.06,
+   "fin": 1274.3799999999999,
+   "texto": "ni intensos, ni prolongados, ni variados,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1274.96,
+   "fin": 1276.1399999999999,
+   "texto": "ya que exceptuando los",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1276.1399999999999,
+   "fin": 1278.1399999999999,
+   "texto": "movimientos telúricos, los huracanes,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1278.3799999999999,
+   "fin": 1280.1399999999999,
+   "texto": "las tempestades, los aludes",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1280.1399999999999,
+   "fin": 1282.1399999999999,
+   "texto": "y las cascadas, la naturaleza",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1282.1399999999999,
+   "fin": 1283.3999999999999,
+   "texto": "es silenciosa.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1283.6599999999999,
+   "fin": 1286.1399999999999,
+   "texto": "Es precioso. Por eso cuando Inés va",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1286.1399999999999,
+   "fin": 1288.1799999999998,
+   "texto": "al campo, también escucha el silencio.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1288.74,
+   "fin": 1290.1799999999998,
+   "texto": "Claro. Sí. Digo Inés va",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1290.1799999999998,
+   "fin": 1292.3,
+   "texto": "al campo como si yo no hubiese pisado un campo en mi vida,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1292.3999999999999,
+   "fin": 1293.74,
+   "texto": "pero cuando vamos al campo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1293.74,
+   "fin": 1295.5,
+   "texto": "pues escuchamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1295.5,
+   "fin": 1297.4199999999998,
+   "texto": "esa naturaleza silenciosa.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1298.32,
+   "fin": 1300.06,
+   "texto": "Y él dice un poco, cuenta que el sonido",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1300.06,
+   "fin": 1302.1599999999999,
+   "texto": "fue atribuido por los pueblos primitivos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1302.1599999999999,
+   "fin": 1303.86,
+   "texto": "a los dioses. Claro, de repente un ruido",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1303.86,
+   "fin": 1305.78,
+   "texto": "dices, pues ¿qué será? Pues el dios ruido, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1305.82,
+   "fin": 1307.8799999999999,
+   "texto": "Ruido con mayúscula. Que se consideraba",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1307.8799999999999,
+   "fin": 1310.06,
+   "texto": "sagrado y que se reservaba a los sacerdotes",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1310.06,
+   "fin": 1312.1599999999999,
+   "texto": "que lo utilizaban en los rituales.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1312.8999999999999,
+   "fin": 1314.1399999999999,
+   "texto": "Y dice, nació así",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1314.1399999999999,
+   "fin": 1315.94,
+   "texto": "la concepción del sonido como cosa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1315.94,
+   "fin": 1318.1599999999999,
+   "texto": "en sí, distinta e independiente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1318.1599999999999,
+   "fin": 1319.44,
+   "texto": "de la vida. Y la música",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1319.44,
+   "fin": 1321.76,
+   "texto": "resultó ser un mundo fantástico",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1321.76,
+   "fin": 1324.28,
+   "texto": "por encima de la realidad. Un mundo inviolable",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1324.28,
+   "fin": 1325.02,
+   "texto": "y sagrado.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1325.7,
+   "fin": 1328.1,
+   "texto": "Como Inés cuando hacía tin tin tin tin tin en el conservatorio.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1328.6799999999998,
+   "fin": 1329.0,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1329.0,
+   "fin": 1355.12,
+   "texto": "Y entonces hablando un poco del sonido en nuestras vidas, queríamos rescatar eso que os contábamos al principio sobre el paisaje sonoro y daros simplemente la pincelada de que este concepto de paisaje sonoro lo acuñó el compositor y el pedagogo musical Murray Schaffer, algo así, en los años 70, y que acuña el término en inglés soundscape, que lo que hace es juntar las dos palabras sound, sonido, y landscape, paisaje, para crear ese soundscape, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1355.12,
+   "fin": 1362.3999999999999,
+   "texto": "y habla de esos ambientes sonoros que pueden referirse a entornos naturales o urbanos, como hemos comentado, o a construcciones abstractas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1362.4799999999998,
+   "fin": 1369.34,
+   "texto": "Tiene una cita muy bonita que dice, un paisaje sonoro consiste en eventos escuchados y no en objetos vistos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1370.3999999999999,
+   "fin": 1373.7399999999998,
+   "texto": "Me recuerda esto a la exposición del Thyssen, que ya hemos nombrado aquí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1374.1,
+   "fin": 1375.34,
+   "texto": "No, aquí, en una carta.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1376.2399999999998,
+   "fin": 1378.7199999999998,
+   "texto": "¿Cómo se llamaba? Paisajes emocionales.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1378.86,
+   "fin": 1380.04,
+   "texto": "Ah, sí, mira, justo creo eso.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1380.04,
+   "fin": 1382.4599999999998,
+   "texto": "Que me lo ha recomendado mi tío favorito, Roberto.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1382.6,
+   "fin": 1383.4399999999998,
+   "texto": "Que es su tío favorito.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1383.5,
+   "fin": 1384.52,
+   "texto": "Un saludo desde aquí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1384.52,
+   "fin": 1385.6399999999999,
+   "texto": "por si no os ha quedado claro",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1385.6399999999999,
+   "fin": 1386.98,
+   "texto": "es su tío favorito",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1386.98,
+   "fin": 1388.48,
+   "texto": "que es la cosa más bonita",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1388.48,
+   "fin": 1388.92,
+   "texto": "que yo he visto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1388.92,
+   "fin": 1389.6399999999999,
+   "texto": "en mi vida entera",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1389.6399999999999,
+   "fin": 1390.16,
+   "texto": "sí",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1390.16,
+   "fin": 1391.22,
+   "texto": "esto es una cosa que es así",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1391.22,
+   "fin": 1391.76,
+   "texto": "era una sala",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1391.76,
+   "fin": 1392.6,
+   "texto": "donde entrabas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1392.6,
+   "fin": 1393.72,
+   "texto": "y estaba como todo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1393.72,
+   "fin": 1395.1,
+   "texto": "todo oscuro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1395.1,
+   "fin": 1396.76,
+   "texto": "pero había muchas pantallas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1396.76,
+   "fin": 1397.24,
+   "texto": "a lo largo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1397.24,
+   "fin": 1398.3,
+   "texto": "en las paredes",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1398.3,
+   "fin": 1399.12,
+   "texto": "que mal me estoy explicando",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1399.12,
+   "fin": 1399.48,
+   "texto": "pero bueno",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1399.48,
+   "fin": 1399.82,
+   "texto": "y de repente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1399.82,
+   "fin": 1400.9,
+   "texto": "se empezaban a encender",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1400.9,
+   "fin": 1402.22,
+   "texto": "y era una especie",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1402.22,
+   "fin": 1403.0,
+   "texto": "de videoclip",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1403.0,
+   "fin": 1404.0,
+   "texto": "los músicos iban",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1404.0,
+   "fin": 1405.1,
+   "texto": "estaban en una mansión",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1405.1,
+   "fin": 1405.54,
+   "texto": "de yo creo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1405.54,
+   "fin": 1406.54,
+   "texto": "pues Massachusetts",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1406.54,
+   "fin": 1407.3,
+   "texto": "probablemente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1407.3,
+   "fin": 1408.98,
+   "texto": "y iban colocando",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1408.98,
+   "fin": 1410.1,
+   "texto": "como los instrumentos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1410.1,
+   "fin": 1410.98,
+   "texto": "y hacían como una canción",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1410.98,
+   "fin": 1411.54,
+   "texto": "pero que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1411.54,
+   "fin": 1412.22,
+   "texto": "que atravesaba",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1412.22,
+   "fin": 1412.78,
+   "texto": "como toda la casa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1412.78,
+   "fin": 1413.26,
+   "texto": "si te ponías en medio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1413.26,
+   "fin": 1414.2,
+   "texto": "de la sala",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1414.2,
+   "fin": 1416.52,
+   "texto": "escuchabas todo, pero si te acercabas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1416.52,
+   "fin": 1418.3400000000001,
+   "texto": "a una pantalla concreta, escuchabas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1418.3400000000001,
+   "fin": 1420.3,
+   "texto": "más fuerte lo que estaba sonando en esa pantalla",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1420.3,
+   "fin": 1422.52,
+   "texto": "había un pianista en una, un celista",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1422.52,
+   "fin": 1424.16,
+   "texto": "en otro, sí, y duraba",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1424.16,
+   "fin": 1425.88,
+   "texto": "no sé, una hora, si lo recordar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1425.88,
+   "fin": 1428.24,
+   "texto": "y yo de verdad, o sea, si esto se hubiera",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1428.24,
+   "fin": 1429.68,
+   "texto": "quedado para siempre en el D-SEN",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1429.68,
+   "fin": 1432.3600000000001,
+   "texto": "yo lo hubiera agradecido, el primer día que fui",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1432.3600000000001,
+   "fin": 1434.22,
+   "texto": "había una chica sentada",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1434.22,
+   "fin": 1435.66,
+   "texto": "en el centro, sentada",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1435.66,
+   "fin": 1438.06,
+   "texto": "llorando como una desgraciada",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1438.06,
+   "fin": 1440.0800000000002,
+   "texto": "y yo dije, sí, sí",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1440.0800000000002,
+   "fin": 1442.22,
+   "texto": "llora hija, llora, es el lugar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1442.22,
+   "fin": 1442.8,
+   "texto": "para hacerlo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1442.8,
+   "fin": 1443.68,
+   "texto": "qué cosa más bonita",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1443.68,
+   "fin": 1444.16,
+   "texto": "te lo juro",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1444.16,
+   "fin": 1445.14,
+   "texto": "y luego cuando fuimos tú y yo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1445.14,
+   "fin": 1445.94,
+   "texto": "estaba lleno de boomers",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1445.94,
+   "fin": 1447.04,
+   "texto": "que no paraban de sacar fotos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1447.04,
+   "fin": 1448.02,
+   "texto": "ya además sacar fotos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1448.02,
+   "fin": 1448.9,
+   "texto": "es una cosa que es como",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1448.9,
+   "fin": 1450.6000000000001,
+   "texto": "infotografiable",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1450.6000000000001,
+   "fin": 1451.52,
+   "texto": "en plan es una experiencia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1451.52,
+   "fin": 1452.16,
+   "texto": "inmersiva",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1452.16,
+   "fin": 1453.2,
+   "texto": "súper sensorial",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1453.2,
+   "fin": 1454.26,
+   "texto": "que claramente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1454.26,
+   "fin": 1455.8600000000001,
+   "texto": "si echas una foto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1455.8600000000001,
+   "fin": 1457.1200000000001,
+   "texto": "no capta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1457.1200000000001,
+   "fin": 1458.42,
+   "texto": "ni un 1%",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1458.42,
+   "fin": 1459.0,
+   "texto": "en plan",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1459.0,
+   "fin": 1459.88,
+   "texto": "no sé",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1459.88,
+   "fin": 1460.46,
+   "texto": "igual se puede",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1460.46,
+   "fin": 1461.08,
+   "texto": "es que no sé",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1461.08,
+   "fin": 1462.38,
+   "texto": "que quiero que la gente lo vea",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1462.38,
+   "fin": 1463.06,
+   "texto": "lo sienta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1463.06,
+   "fin": 1463.84,
+   "texto": "pues igual está en Oslo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1463.84,
+   "fin": 1464.22,
+   "texto": "o algo así",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1464.22,
+   "fin": 1464.68,
+   "texto": "buscando",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1464.68,
+   "fin": 1465.42,
+   "texto": "sí",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1465.42,
+   "fin": 1468.2,
+   "texto": "y vamos a seguir",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1468.2,
+   "fin": 1469.44,
+   "texto": "vamos a volver a Vartes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1469.44,
+   "fin": 1470.1000000000001,
+   "texto": "porque hoy tenemos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1470.1000000000001,
+   "fin": 1470.88,
+   "texto": "mucho Vartes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1470.88,
+   "fin": 1477.1200000000001,
+   "texto": "de sitios diferentes, en concreto de un libro que se llama Lo Obvio y Lo Obtuso.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1477.5600000000002,
+   "fin": 1481.96,
+   "texto": "Es muy difícil de pronunciar este título y de escribirlo, ¿no?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1482.22,
+   "fin": 1484.0400000000002,
+   "texto": "No sé, porque tiene Bs y Vs todo junto.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1484.0400000000002,
+   "fin": 1485.1200000000001,
+   "texto": "Lo Obvio y Lo Obtuso.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1485.3000000000002,
+   "fin": 1489.7600000000002,
+   "texto": "Sí, para un niño igual sí, Inés, pero tú que eres una muchachita con 13 másters, pues...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1489.7600000000002,
+   "fin": 1495.0400000000002,
+   "texto": "Bueno, y concretamente nos vamos a centrar en un capítulo que se llama El acto de escuchar,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1495.2,
+   "fin": 1498.3200000000002,
+   "texto": "pero recomendamos mucho que ojéis este libro porque es muy interesante.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1498.32,
+   "fin": 1503.3999999999999,
+   "texto": "Este capítulo empieza diferenciándolo entre oír y escuchar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1503.3999999999999,
+   "fin": 1506.1799999999998,
+   "texto": "Oír es un fenómeno fisiológico",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1506.1799999999998,
+   "fin": 1509.2,
+   "texto": "Podemos describir las condiciones físicas de la audición",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1509.2,
+   "fin": 1511.22,
+   "texto": "Esos mecanismos que se activan",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1511.22,
+   "fin": 1513.3999999999999,
+   "texto": "La clase de conocimiento del medio",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1513.3999999999999,
+   "fin": 1515.06,
+   "texto": "Donde te explicaban el sistema auditivo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1515.06,
+   "fin": 1517.1,
+   "texto": "El tímpano, la coclea",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1517.1,
+   "fin": 1522.1799999999998,
+   "texto": "Y luego escuchar, sin embargo, es una acción psicológica",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1522.1799999999998,
+   "fin": 1526.24,
+   "texto": "Que no puede definirse más que por su objeto o alcance",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1526.24,
+   "fin": 1528.44,
+   "texto": "el objetivo, el objeto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1528.44,
+   "fin": 1530.56,
+   "texto": "que ha ido variando, nos dice Bartes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1530.56,
+   "fin": 1531.72,
+   "texto": "a lo largo de la historia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1531.72,
+   "fin": 1534.28,
+   "texto": "y diferencia entre tres tipos de escucha diferentes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1534.28,
+   "fin": 1536.14,
+   "texto": "el primero es la alerta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1536.14,
+   "fin": 1537.64,
+   "texto": "que esta es típica de los animales",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1537.64,
+   "fin": 1540.0,
+   "texto": "nos pone un ejemplo concreto como un lobo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1540.0,
+   "fin": 1541.82,
+   "texto": "que escucha el sonido de su presa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1541.82,
+   "fin": 1543.82,
+   "texto": "luego la escucha",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1543.82,
+   "fin": 1546.06,
+   "texto": "pasa a otro nivel que es el del",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1546.06,
+   "fin": 1547.22,
+   "texto": "desciframiento",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1547.22,
+   "fin": 1549.56,
+   "texto": "lo que intentamos captar por los oídos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1549.56,
+   "fin": 1551.78,
+   "texto": "no son simplemente alertas sino signos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1551.78,
+   "fin": 1553.86,
+   "texto": "y aquí comienza, según Bartes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1553.86,
+   "fin": 1555.88,
+   "texto": "el ser humano, la diferencia con",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1555.88,
+   "fin": 1557.9,
+   "texto": "o el alejamiento con el animal.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1558.5200000000002,
+   "fin": 1563.0400000000002,
+   "texto": "Dice, escuchamos como leemos, es decir, de acuerdo con ciertos códigos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1563.88,
+   "fin": 1572.8400000000001,
+   "texto": "Y el tercer tipo de escucha es en el que estamos interesados",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1572.8400000000001,
+   "fin": 1575.38,
+   "texto": "no en qué se dice, sino en quién habla.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1575.5600000000002,
+   "fin": 1577.9,
+   "texto": "Claro, porque surge un espacio intersubjetivo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1578.5,
+   "fin": 1581.5,
+   "texto": "Hay dos personas que se comunican y dice Bartes,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1581.66,
+   "fin": 1584.2,
+   "texto": "yo escucho también quiere decir escúchame.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1584.2,
+   "fin": 1586.0,
+   "texto": "hay un intercambio",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1586.0,
+   "fin": 1589.0,
+   "texto": "es también interesante que en este capítulo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1589.0,
+   "fin": 1591.28,
+   "texto": "hace una diferenciación entre los sentidos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1591.28,
+   "fin": 1592.5,
+   "texto": "los distintos sentidos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1592.5,
+   "fin": 1593.78,
+   "texto": "la vista, la audición",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1593.78,
+   "fin": 1596.32,
+   "texto": "espérate que no me sé más sentidos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1596.32,
+   "fin": 1597.7,
+   "texto": "el sabor, el tacto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1597.7,
+   "fin": 1598.3,
+   "texto": "el sabor",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1598.3,
+   "fin": 1600.1000000000001,
+   "texto": "el olfato",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1600.1000000000001,
+   "fin": 1602.42,
+   "texto": "bueno, ahora nos vamos a centrar en lo que dije",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1602.42,
+   "fin": 1603.5,
+   "texto": "si tuvieras que perder uno",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1603.5,
+   "fin": 1605.22,
+   "texto": "típica pregunta esta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1605.22,
+   "fin": 1606.66,
+   "texto": "ya bueno, perdón",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1606.66,
+   "fin": 1607.92,
+   "texto": "no, es que es difícil",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1607.92,
+   "fin": 1608.8,
+   "texto": "me parece difícil",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1608.8,
+   "fin": 1610.4,
+   "texto": "yo creo que el olfato",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1610.4,
+   "fin": 1612.46,
+   "texto": "porque así no me huelo los sobacos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1612.46,
+   "fin": 1614.76,
+   "texto": "que estoy obsesionada con esto, ¿sabes?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1615.8,
+   "fin": 1616.54,
+   "texto": "Y que estás...",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1616.54,
+   "fin": 1617.9,
+   "texto": "Y ducharme compulsivamente.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1619.14,
+   "fin": 1620.1200000000001,
+   "texto": "No, pero...",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1620.1200000000001,
+   "fin": 1622.58,
+   "texto": "El gusto no, porque cuando tuve COVID",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1622.58,
+   "fin": 1624.18,
+   "texto": "lo pasé realmente mal comiendo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1624.18,
+   "fin": 1626.44,
+   "texto": "mierdas, masas, que no sabían a nada.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1626.58,
+   "fin": 1628.3600000000001,
+   "texto": "Nes ha tenido COVID como 50 veces.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1629.5,
+   "fin": 1629.8400000000001,
+   "texto": "¡Ay!",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1630.76,
+   "fin": 1631.8600000000001,
+   "texto": "Y tiene un trauma con los...",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1631.8600000000001,
+   "fin": 1634.68,
+   "texto": "Experta en test de antígenos, pero esto lo contamos en otro momento.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1634.76,
+   "fin": 1636.1200000000001,
+   "texto": "En otro momento, sí, en otro momento.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1636.76,
+   "fin": 1638.0,
+   "texto": "Pero sí, es una pregunta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1638.0,
+   "fin": 1640.18,
+   "texto": "y no sabría qué decirte. El oído y la vista, ¿no?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1640.42,
+   "fin": 1642.1200000000001,
+   "texto": "O sea, por favor, ¿no? ¿Y el tacto?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1642.46,
+   "fin": 1644.32,
+   "texto": "Mira, el tacto total no me toca a nadie.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1645.0,
+   "fin": 1646.52,
+   "texto": "Pues adelante, ¿sabes?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1646.58,
+   "fin": 1647.5,
+   "texto": "Yo ya...",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1647.5,
+   "fin": 1649.52,
+   "texto": "Me quiten la piel, si no la uso para nada.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1649.58,
+   "fin": 1651.0,
+   "texto": "Ay, Dios mío, madre mía.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1651.2,
+   "fin": 1652.88,
+   "texto": "La van a desollar, joder.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1653.52,
+   "fin": 1654.3600000000001,
+   "texto": "Mira el desollado.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1654.3600000000001,
+   "fin": 1655.6200000000001,
+   "texto": "El desollado es una figura de Bartes.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1655.64,
+   "fin": 1656.44,
+   "texto": "Sí, es una figura, sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1656.76,
+   "fin": 1659.76,
+   "texto": "Bueno, nos dice Bartes que la audición está ligada",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1659.76,
+   "fin": 1662.46,
+   "texto": "a la evaluación de la situación espaciotemporal.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1662.74,
+   "fin": 1664.76,
+   "texto": "Y es muy interesante como que le da una mirada",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1664.76,
+   "fin": 1670.54,
+   "texto": "que quizá no solemos relacionar con la audición,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1670.54,
+   "fin": 1672.5,
+   "texto": "sino más seguramente con la vista.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1673.18,
+   "fin": 1677.06,
+   "texto": "Dice que la escucha es el sentido propio del espacio y del tiempo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1677.06,
+   "fin": 1682.62,
+   "texto": "porque capta los grados de alejamiento y los retornos también de la estimulación sonora.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1683.3999999999999,
+   "fin": 1685.56,
+   "texto": "Y dice, voy a leer una cita.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1685.96,
+   "fin": 1686.44,
+   "texto": "Atención.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1686.96,
+   "fin": 1692.6399999999999,
+   "texto": "Es sonora la apropiación del espacio, el espacio doméstico, el de la casa, el del piso,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1693.12,
+   "fin": 1695.74,
+   "texto": "el equivalente aproximado del territorio animal.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1695.74,
+   "fin": 1699.24,
+   "texto": "Es el espacio de los ruidos familiares, reconocibles",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1699.24,
+   "fin": 1702.84,
+   "texto": "Y su conjunto forma una especie de sinfonía doméstica",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1702.84,
+   "fin": 1706.08,
+   "texto": "Los diferentes golpeteos de las puertas, las voces",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1706.08,
+   "fin": 1710.56,
+   "texto": "Los ruidos de la cocina, de cañerías, los rumores exteriores",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1710.56,
+   "fin": 1713.92,
+   "texto": "He de decir que nosotras, como no grabamos en un estudio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1713.92,
+   "fin": 1715.64,
+   "texto": "Sino que grabamos en nuestras casas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1715.64,
+   "fin": 1719.46,
+   "texto": "Tenemos muchos problemas con este paisaje de sinfonía doméstica",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1719.46,
+   "fin": 1720.86,
+   "texto": "Es un calvario",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1720.86,
+   "fin": 1723.06,
+   "texto": "Hay que parar la grabación porque los vecinos de arriba",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1723.06,
+   "fin": 1724.34,
+   "texto": "Tocan el puto organillo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1724.34,
+   "fin": 1726.98,
+   "texto": "tocan villancicos en Ahora",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1726.98,
+   "fin": 1728.06,
+   "texto": "por ejemplo en febrero",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1728.06,
+   "fin": 1729.9599999999998,
+   "texto": "y las tuberías",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1729.9599999999998,
+   "fin": 1731.3999999999999,
+   "texto": "necesitamos una",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1731.3999999999999,
+   "fin": 1732.84,
+   "texto": "esto es una indirecta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1732.84,
+   "fin": 1734.3799999999999,
+   "texto": "de nuevo vamos a mandar indirectas hoy",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1734.3799999999999,
+   "fin": 1734.98,
+   "texto": "no es una indirecta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1734.98,
+   "fin": 1735.8799999999999,
+   "texto": "ya vamos pidiéndolo un año",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1735.8799999999999,
+   "fin": 1737.6599999999999,
+   "texto": "por favor que alguien nos produzca el podcast",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1737.6599999999999,
+   "fin": 1740.6599999999999,
+   "texto": "necesitamos un estudio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1740.6599999999999,
+   "fin": 1741.9599999999998,
+   "texto": "necesitamos un estudio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1741.9599999999998,
+   "fin": 1743.36,
+   "texto": "yo creo que cuando nos hagamos millonarias",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1743.36,
+   "fin": 1744.4199999999998,
+   "texto": "que será próximamente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1744.4199999999998,
+   "fin": 1745.48,
+   "texto": "por cosas que ya os contaremos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1745.48,
+   "fin": 1747.76,
+   "texto": "va a haber que alquilar uno por directa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1747.76,
+   "fin": 1749.1,
+   "texto": "y alguien que sepa usar el micro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1749.1,
+   "fin": 1750.22,
+   "texto": "por supuesto es que el micro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1750.22,
+   "fin": 1751.1399999999999,
+   "texto": "es un misterio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1751.1399999999999,
+   "fin": 1751.5,
+   "texto": "de nuevo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1751.5,
+   "fin": 1752.78,
+   "texto": "necesitamos técnicos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1752.78,
+   "fin": 1753.74,
+   "texto": "en medio de este programa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1753.74,
+   "fin": 1756.52,
+   "texto": "no se habrá notado, esperamos, pero hemos tocado un montón de botones.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1757.22,
+   "fin": 1758.52,
+   "texto": "El puto gain, ¿eh?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1758.52,
+   "fin": 1760.34,
+   "texto": "El puto gain, según dices tú, sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1760.9,
+   "fin": 1765.08,
+   "texto": "Vale, entonces, la escucha se yergue sobre un fondo auditivo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1765.56,
+   "fin": 1767.8,
+   "texto": "Y esto es muy interesante, que dentro del fondo auditivo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1767.8,
+   "fin": 1770.6,
+   "texto": "tenemos una capacidad de selección, como la inteligencia, ¿no?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1770.6,
+   "fin": 1772.06,
+   "texto": "De interpretar, de seleccionar.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1773.2,
+   "fin": 1774.38,
+   "texto": "¿Cuándo surge el problema?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1774.68,
+   "fin": 1779.08,
+   "texto": "Cuando este fondo auditivo invade por completo el espacio sonoro.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1779.2,
+   "fin": 1781.56,
+   "texto": "Es decir, el ruido ambiental, este del que estamos hablando,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1781.56,
+   "fin": 1784.04,
+   "texto": "se convierte en demasiado fuerte",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1784.04,
+   "fin": 1785.58,
+   "texto": "porque aquí no nos permite",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1785.58,
+   "fin": 1787.72,
+   "texto": "como que lo abarca todo y no nos permite",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1787.72,
+   "fin": 1789.3799999999999,
+   "texto": "ejercitar esta función de selección",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1789.3799999999999,
+   "fin": 1791.04,
+   "texto": "del sonido, sino que solo hay",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1791.04,
+   "fin": 1792.84,
+   "texto": "lo que decía antes Paula, el ruido",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1792.84,
+   "fin": 1794.9199999999998,
+   "texto": "y dice Bartes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1794.9199999999998,
+   "fin": 1797.86,
+   "texto": "la selección, la inteligencia del espacio",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1797.86,
+   "fin": 1799.1,
+   "texto": "ya no es posible",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1799.1,
+   "fin": 1801.4199999999998,
+   "texto": "la escucha resulta perjudicada",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1801.4199999999998,
+   "fin": 1803.34,
+   "texto": "el fenómeno ecológico",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1803.34,
+   "fin": 1805.52,
+   "texto": "que hoy llamamos hoy en día la polución",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1805.52,
+   "fin": 1807.6599999999999,
+   "texto": "que de hecho",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1807.6599999999999,
+   "fin": 1809.9199999999998,
+   "texto": "existe, la polución sonora",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1809.92,
+   "fin": 1812.92,
+   "texto": "que vienen con la policía con los megavatios",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1812.92,
+   "fin": 1813.46,
+   "texto": "y te mide",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1813.46,
+   "fin": 1817.3600000000001,
+   "texto": "¿cómo? ¿qué es esto de que viene la policía con los megavatios?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1817.52,
+   "fin": 1818.9,
+   "texto": "¿no pasa esto en las fiestas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1818.9,
+   "fin": 1820.76,
+   "texto": "de los pisos como que pueden venir con un cacharro",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1820.76,
+   "fin": 1821.3200000000002,
+   "texto": "o a los bares?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1822.24,
+   "fin": 1823.74,
+   "texto": "¿qué he dicho de los megavatios?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1825.42,
+   "fin": 1826.26,
+   "texto": "perdón Nacho",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1826.26,
+   "fin": 1827.72,
+   "texto": "que es nuestro técnico, que es ingeniero",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1827.72,
+   "fin": 1829.6200000000001,
+   "texto": "se habrá sentido como ofendido",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1829.6200000000001,
+   "fin": 1831.48,
+   "texto": "por esta confusión",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1831.48,
+   "fin": 1835.04,
+   "texto": "pero bueno, lo importante es que esta polución",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1835.04,
+   "fin": 1837.04,
+   "texto": "no solo en el sentido que hemos dicho",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1837.04,
+   "fin": 1839.22,
+   "texto": "de medida, en el sentido de lo que dice",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1839.22,
+   "fin": 1840.74,
+   "texto": "la ley municipal sobre la cantidad de ruido.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1840.74,
+   "fin": 1843.1000000000001,
+   "texto": "Es muy interesante, no lo hemos estudiado, pero el tema",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1843.1000000000001,
+   "fin": 1845.02,
+   "texto": "de cómo el ruido excesivo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1845.02,
+   "fin": 1846.7,
+   "texto": "incide en la salud de las personas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1847.3,
+   "fin": 1848.34,
+   "texto": "Absolutamente. En fin, sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1848.68,
+   "fin": 1850.78,
+   "texto": "Y no solo esto, sino que además esta polución",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1850.78,
+   "fin": 1854.96,
+   "texto": "altera, dice Bartes, insoportablemente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1854.96,
+   "fin": 1856.38,
+   "texto": "¡Madre mía, madre mía!",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1856.48,
+   "fin": 1857.16,
+   "texto": "¡Está muy bonito!",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1859.22,
+   "fin": 1859.7,
+   "texto": "¡Insoportablemente!",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1859.7,
+   "fin": 1861.1200000000001,
+   "texto": "¡Mente! ¡Parece Shakira!",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1861.4,
+   "fin": 1862.88,
+   "texto": "¡Sí, sí, sí! ¡Clara! ¡Mente!",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1863.0,
+   "fin": 1865.54,
+   "texto": "Bueno, el espacio humano lesiona",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1865.54,
+   "fin": 1867.6000000000001,
+   "texto": "los sentidos que sirven al ser humano.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1867.6,
+   "fin": 1869.6999999999998,
+   "texto": "entonces esto lo llama",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1869.6999999999998,
+   "fin": 1871.4399999999998,
+   "texto": "Bartes contaminación sonora",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1871.4399999999998,
+   "fin": 1873.6599999999999,
+   "texto": "que es una polución que impide",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1873.6599999999999,
+   "fin": 1875.3999999999999,
+   "texto": "escuchar y esto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1875.3999999999999,
+   "fin": 1877.6,
+   "texto": "tampoco lo hemos querido llevar por este lado pero",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1877.6,
+   "fin": 1879.4399999999998,
+   "texto": "claramente tiene una aplicación muy clara",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1879.4399999999998,
+   "fin": 1880.9399999999998,
+   "texto": "en el aspecto político",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1880.9399999999998,
+   "fin": 1883.8999999999999,
+   "texto": "en el ambiente social cuando la polución",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1883.8999999999999,
+   "fin": 1885.76,
+   "texto": "es tal, esto pasa en los congresos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1885.76,
+   "fin": 1887.82,
+   "texto": "de los diputados",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1887.82,
+   "fin": 1889.86,
+   "texto": "que la polución",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1889.86,
+   "fin": 1891.36,
+   "texto": "impide escuchar, esto es así",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1891.36,
+   "fin": 1893.3999999999999,
+   "texto": "no puedes ni hacer que te escuchen ni escuchar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1893.3999999999999,
+   "fin": 1895.98,
+   "texto": "es un problema democrático",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1895.98,
+   "fin": 1897.8600000000001,
+   "texto": "Todo el rato tonterías en ese sitio.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1898.0,
+   "fin": 1898.8600000000001,
+   "texto": "Me cago en la...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1898.8600000000001,
+   "fin": 1899.16,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1899.4,
+   "fin": 1899.8,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1900.96,
+   "fin": 1902.02,
+   "texto": "Yo me enervo de verdad, ¿eh?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1902.02,
+   "fin": 1903.78,
+   "texto": "Cuando lo veo, me...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1903.78,
+   "fin": 1905.5,
+   "texto": "Es mejor ver el Parlamento riojano.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1905.64,
+   "fin": 1906.38,
+   "texto": "Mira tú, pues estupendo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1906.38,
+   "fin": 1908.88,
+   "texto": "Porque como ocho personas...",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1908.88,
+   "fin": 1913.4,
+   "texto": "Es gracioso porque intentan como imitar el ambiente del Congreso de los Diputados grande...",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1913.4,
+   "fin": 1913.98,
+   "texto": "Y no les sale.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1914.26,
+   "fin": 1915.1200000000001,
+   "texto": "Pero claro, es como raro.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1915.4,
+   "fin": 1917.56,
+   "texto": "Porque no hay aplausos masivos, ¿sabes?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1917.74,
+   "fin": 1919.2,
+   "texto": "Nadie te grita...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1919.2,
+   "fin": 1919.88,
+   "texto": "Cállate.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1919.88,
+   "fin": 1925.58,
+   "texto": "Me fastidia que pudiendo como conservar ese espacio como fuera de la contaminación justamente,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1925.98,
+   "fin": 1928.38,
+   "texto": "se intente imitar, como espectacularizar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1928.38,
+   "fin": 1929.4,
+   "texto": "como se hace, ¿no?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1929.7,
+   "fin": 1931.66,
+   "texto": "es como, hermano, sois ocho",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1931.66,
+   "fin": 1933.68,
+   "texto": "tenéis una conversación en serio, ¿no?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1933.7,
+   "fin": 1936.48,
+   "texto": "es una oportunidad mágica para que se os...",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1936.48,
+   "fin": 1937.38,
+   "texto": "pero bueno, está bien, ¿eh?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1937.66,
+   "fin": 1939.56,
+   "texto": "¡Viva el Parlamento Riojano! ¡Viva!",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1939.8600000000001,
+   "fin": 1941.34,
+   "texto": "¿Dónde está eso? ¿En Logroño?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1941.44,
+   "fin": 1943.04,
+   "texto": "claro, claro, ya podría estar en Arnedillo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1943.04,
+   "fin": 1945.66,
+   "texto": "pues es que debería, pero la verdad es que no, porque mira, de verdad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1945.66,
+   "fin": 1947.24,
+   "texto": "estás ahí en ese sitio precioso",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1947.24,
+   "fin": 1949.66,
+   "texto": "bueno, queríamos recomendaros",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1949.66,
+   "fin": 1952.06,
+   "texto": "algunas pinceladas literarias",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1952.06,
+   "fin": 1953.88,
+   "texto": "y filosóficas relacionadas con el mundo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1953.88,
+   "fin": 1955.6200000000001,
+   "texto": "de la radio, de la escucha, de la voz",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1955.62,
+   "fin": 1959.26,
+   "texto": "vamos a empezar por un cuento que se llama",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1959.26,
+   "fin": 1960.4399999999998,
+   "texto": "El fin de lo mismo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1960.4399999999998,
+   "fin": 1962.76,
+   "texto": "El fin de lo mismo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1962.76,
+   "fin": 1965.8799999999999,
+   "texto": "lo repito porque es uno de los mejores libros que he leído en años",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1965.8799999999999,
+   "fin": 1967.58,
+   "texto": "esto no lo digo habitualmente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1967.58,
+   "fin": 1968.9599999999998,
+   "texto": "es de Marcelo Cohen",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1968.9599999999998,
+   "fin": 1971.3799999999999,
+   "texto": "me parece una puta pasada, es un libro muy literario",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1971.3799999999999,
+   "fin": 1974.12,
+   "texto": "para leer despacio y disfrutar realmente de la prosa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1974.12,
+   "fin": 1975.8,
+   "texto": "y tiene un cuento",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1975.8,
+   "fin": 1978.02,
+   "texto": "que se llama Aspectos de la vida de Ensati",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1978.02,
+   "fin": 1979.08,
+   "texto": "que os voy a leer el inicio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1979.08,
+   "fin": 1981.3,
+   "texto": "porque es que, que inicio, dice",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1981.3,
+   "fin": 1983.8,
+   "texto": "Baja un... bueno, espérate",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1983.8,
+   "fin": 1984.8,
+   "texto": "que me atropello",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1984.8,
+   "fin": 1987.1,
+   "texto": "está sonando el organillo de los vecinos, no me jodas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1987.1,
+   "fin": 1987.8999999999999,
+   "texto": "nada, tírate",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1987.8999999999999,
+   "fin": 1991.36,
+   "texto": "bajo un espeso cielo sin luna",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1991.36,
+   "fin": 1993.58,
+   "texto": "hay un edificio, en el edificio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1993.58,
+   "fin": 1995.1599999999999,
+   "texto": "varias ventanas abiertas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1995.1599999999999,
+   "fin": 1996.54,
+   "texto": "aunque ninguna iluminada",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1996.54,
+   "fin": 1998.6,
+   "texto": "y cerca de una de esas ventanas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1998.6,
+   "fin": 2001.4199999999998,
+   "texto": "un hombre pensando que ocupa el centro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2001.4199999999998,
+   "fin": 2002.08,
+   "texto": "de la noche",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2002.08,
+   "fin": 2004.98,
+   "texto": "es que, madre de Dios",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2004.98,
+   "fin": 2007.32,
+   "texto": "es que es bonito, y traigo este cuento",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2007.32,
+   "fin": 2009.32,
+   "texto": "a colación porque es un cuento sobre un",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2009.32,
+   "fin": 2011.2,
+   "texto": "hombre que persigue un grito",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2011.2,
+   "fin": 2013.44,
+   "texto": "en la noche, él está en la cama",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2013.44,
+   "fin": 2018.3,
+   "texto": "en esa duermevela que Cohen explica con tanta maña literaria",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2018.3,
+   "fin": 2019.78,
+   "texto": "y de repente escucha un grito.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2020.3600000000001,
+   "fin": 2022.64,
+   "texto": "Y es un grito fascinante porque dice algo así como",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2022.64,
+   "fin": 2025.78,
+   "texto": "el grito no es un insulto, no es un gemido,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2026.0,
+   "fin": 2029.5,
+   "texto": "no se hunde claramente en el silencio como el chillido de un lirón,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2029.8200000000002,
+   "fin": 2033.42,
+   "texto": "no le da peso al silencio ni lo forma, lo fractura.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2034.54,
+   "fin": 2036.24,
+   "texto": "Y es muy guay cómo persigue el grito,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2036.24,
+   "fin": 2037.92,
+   "texto": "no os cuento al final qué es el grito,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2038.0800000000002,
+   "fin": 2039.66,
+   "texto": "pero porque tenéis que leerlo y comprar este libro.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2039.66,
+   "fin": 2045.0400000000002,
+   "texto": "y luego también quería contaros un poco un cuento de John Cheever",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2045.0400000000002,
+   "fin": 2049.7000000000003,
+   "texto": "que es un cuentista que nos gusta mucho porque a mí sobre todo estos cuentistas norteamericanos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2049.7000000000003,
+   "fin": 2053.82,
+   "texto": "de los que ya hemos hablado alguna vez, hemos hablado de Carver, habremos mencionado a Salinger alguna vez",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2053.82,
+   "fin": 2059.56,
+   "texto": "que se dedicaban básicamente a contar en sus cuentos todo aquello que estaba por debajo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2059.56,
+   "fin": 2062.54,
+   "texto": "de la clase media de los años 50 y 60 en Estados Unidos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2062.54,
+   "fin": 2065.46,
+   "texto": "de estos suburbios que salen en Mad Men que a mí me fascinan",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2065.46,
+   "fin": 2068.7400000000002,
+   "texto": "y entonces Cheever tiene un cuento que se llama La radio monstruosa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2068.74,
+   "fin": 2073.64,
+   "texto": "y es uno de sus primeros cuentos, yo creo que cuenta la trama de un matrimonio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2073.64,
+   "fin": 2077.4199999999996,
+   "texto": "que son Irene y Jim, los Westcott, y entonces se compran una radio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2077.4199999999996,
+   "fin": 2082.56,
+   "texto": "¿y qué pasa con la radio? Pues que empiezan no a escuchar lo que se sintoniza en la radio normal",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2082.56,
+   "fin": 2084.7,
+   "texto": "sino que empiezan a escuchar a sus vecinos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2084.7,
+   "fin": 2088.06,
+   "texto": "es como que la radio se conecta con las casas de los vecinos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2088.06,
+   "fin": 2090.06,
+   "texto": "y entonces dice, dice Chiver",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2090.06,
+   "fin": 2094.2599999999998,
+   "texto": "los Westcott oyeron esa noche un monólogo sobre la pesca del salmón en Canadá",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2094.2599999999998,
+   "fin": 2097.7599999999998,
+   "texto": "una partida de bridge, comentarios sobre una película casera",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2097.76,
+   "fin": 2102.0800000000004,
+   "texto": "y una agria disputa doméstica a propósito de unos números rojos en un banco.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2102.5800000000004,
+   "fin": 2106.32,
+   "texto": "Apagaron la radio a medianoche y se fueron a la cama cansados de tanto reír.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2106.5400000000004,
+   "fin": 2110.0400000000004,
+   "texto": "Claro, ellos empiezan a escuchar las conversaciones privadas de sus vecinos, de su edificio.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2110.5400000000004,
+   "fin": 2114.32,
+   "texto": "Y entonces, al principio del cuento están en plan, jiji, jaja, qué divertido es esto,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2114.44,
+   "fin": 2116.38,
+   "texto": "pero luego todo se enturbia, obviamente.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2117.88,
+   "fin": 2121.28,
+   "texto": "Empiezan a escuchar las miserias de los vecinos, ahí ya no es tan divertido, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2121.38,
+   "fin": 2124.1400000000003,
+   "texto": "Y escuchan incluso a un hombre dándole una paliza a su mujer.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2124.5,
+   "fin": 2126.98,
+   "texto": "Esto, por supuesto, pues causa dilemas éticos en el matrimonio.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2126.98,
+   "fin": 2128.64,
+   "texto": "no os cuento cómo termina el cuento",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2128.64,
+   "fin": 2130.86,
+   "texto": "pero es curioso como",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2130.86,
+   "fin": 2132.82,
+   "texto": "la primera reacción de ella, de la mujer",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2132.82,
+   "fin": 2134.66,
+   "texto": "de Irene cuando empiezan a escuchar a los vecinos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2134.66,
+   "fin": 2136.84,
+   "texto": "es decir, me podrán escuchar ellos a mí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2136.84,
+   "fin": 2138.86,
+   "texto": "como un miedo a que también a través",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2138.86,
+   "fin": 2140.62,
+   "texto": "de la radio se desvelen",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2140.62,
+   "fin": 2143.1,
+   "texto": "esas miserias que están por debajo de esta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2143.1,
+   "fin": 2144.82,
+   "texto": "patina impoluta de matrimonios",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2144.82,
+   "fin": 2146.62,
+   "texto": "perfectos, etc. Interesante",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2146.62,
+   "fin": 2148.64,
+   "texto": "Sí, es muy bueno este cuento. También queríamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2148.64,
+   "fin": 2150.76,
+   "texto": "recomendaros, aunque es una recomendación que todo el mundo ya",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2150.76,
+   "fin": 2152.76,
+   "texto": "conocerá, pero bueno, Llamadas telefónicas de Roberto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2152.76,
+   "fin": 2153.94,
+   "texto": "Bolaño, también de nuevo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2153.94,
+   "fin": 2156.7400000000002,
+   "texto": "una serie de cuentos que tienen mucho que ver con la",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2156.74,
+   "fin": 2158.8999999999996,
+   "texto": "escucha y un cuento",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2158.8999999999996,
+   "fin": 2160.72,
+   "texto": "de Salinger que se llama Linda Boquita",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2160.72,
+   "fin": 2162.9599999999996,
+   "texto": "y verdes mis ojos, a mí este título en español me parece",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2162.9599999999996,
+   "fin": 2164.9199999999996,
+   "texto": "como absurdo porque lo de Boquita me saca mucho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2164.9199999999996,
+   "fin": 2166.8199999999997,
+   "texto": "pero es un cuento fascinante",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2166.8199999999997,
+   "fin": 2169.08,
+   "texto": "de verdad, es que leed a Salinger",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2169.08,
+   "fin": 2171.02,
+   "texto": "yo ya, yo no lo digo más",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2171.02,
+   "fin": 2172.7999999999997,
+   "texto": "pero es un cuento que se desarrolla",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2172.7999999999997,
+   "fin": 2174.8599999999997,
+   "texto": "prácticamente entera a través",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2174.8599999999997,
+   "fin": 2176.8199999999997,
+   "texto": "de una conversación telefónica, Salinger",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2176.8199999999997,
+   "fin": 2178.4799999999996,
+   "texto": "era muy buen cuentista y muy buen",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2178.4799999999996,
+   "fin": 2180.7799999999997,
+   "texto": "esta palabra me la voy a inventar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2180.7799999999997,
+   "fin": 2183.12,
+   "texto": "pero dialoguista, o sea escribía muy buenos diálogos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2183.12,
+   "fin": 2184.68,
+   "texto": "y es fascinante",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2184.68,
+   "fin": 2186.96,
+   "texto": "cómo sucede el cuento a través de una sola",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2186.96,
+   "fin": 2187.7999999999997,
+   "texto": "llamada telefónica",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2187.7999999999997,
+   "fin": 2191.08,
+   "texto": "y luego también queríamos hacer algunas recomendaciones",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2191.08,
+   "fin": 2192.8999999999996,
+   "texto": "filosóficas sobre la escucha",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2192.8999999999996,
+   "fin": 2194.74,
+   "texto": "os sonará quizás que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2194.74,
+   "fin": 2196.54,
+   "texto": "Eric Fromm tiene un libro que se llama",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2196.54,
+   "fin": 2198.8199999999997,
+   "texto": "El arte de escuchar que creo que tiene mucho que ver",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2198.8199999999997,
+   "fin": 2201.0,
+   "texto": "con el psicoanálisis, claramente no",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2201.0,
+   "fin": 2202.62,
+   "texto": "Barthes también tiene una parte",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2202.62,
+   "fin": 2204.8999999999996,
+   "texto": "en lo obvio y lo obtuso",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2204.8999999999996,
+   "fin": 2206.48,
+   "texto": "que tiene mucho que ver con el psicoanálisis",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2206.48,
+   "fin": 2208.22,
+   "texto": "por supuesto porque tiene mucho de escucha",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2208.22,
+   "fin": 2210.54,
+   "texto": "y luego Jan Luknansi",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2210.54,
+   "fin": 2212.4199999999996,
+   "texto": "que tiene uno que se llama",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2212.42,
+   "fin": 2214.96,
+   "texto": "a la escucha que es un textito como de 50 páginas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2214.96,
+   "fin": 2216.32,
+   "texto": "que yo he leído",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2216.32,
+   "fin": 2218.54,
+   "texto": "la mitad y me ha parecido súper interesante",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2218.54,
+   "fin": 2220.04,
+   "texto": "es verdad que es un poco demasiado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2220.04,
+   "fin": 2221.86,
+   "texto": "como muy sesudo para contaroslo aquí",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2221.86,
+   "fin": 2224.2400000000002,
+   "texto": "pero os lo recomendamos si estáis interesadas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2224.2400000000002,
+   "fin": 2224.96,
+   "texto": "en estos temas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2224.96,
+   "fin": 2228.16,
+   "texto": "y ahora, claro yo anoche",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2228.16,
+   "fin": 2229.64,
+   "texto": "a la una de la mañana",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2229.64,
+   "fin": 2232.28,
+   "texto": "me puse a buscar en Dialnet porque esta soy yo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2232.28,
+   "fin": 2232.94,
+   "texto": "esta es mi vida",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2232.94,
+   "fin": 2236.16,
+   "texto": "me encanta que el otro día en un contexto que no tenía",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2236.16,
+   "fin": 2238.2200000000003,
+   "texto": "que ver me dijeron Inés ¿conoces Dialnet?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2238.28,
+   "fin": 2239.66,
+   "texto": "y yo si esta gente supiera",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2239.66,
+   "fin": 2242.0,
+   "texto": "aparte que voy a reivindicar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2242.0,
+   "fin": 2243.7,
+   "texto": "Dianet porque es riojano",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2243.7,
+   "fin": 2245.22,
+   "texto": "Sí, es verdad, de la universidad",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2245.22,
+   "fin": 2247.9,
+   "texto": "Y es una cosa que está muy bien hecha y muy interesante",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2247.9,
+   "fin": 2249.32,
+   "texto": "Y muy importante, entonces muy bien",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2249.32,
+   "fin": 2252.28,
+   "texto": "Pues encontré un paper en esta navegación nocturna",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2252.28,
+   "fin": 2253.16,
+   "texto": "Que se llamaba",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2253.16,
+   "fin": 2255.46,
+   "texto": "La escucha como apertura existencial",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2255.46,
+   "fin": 2257.72,
+   "texto": "Que posibilita la comprensión del otro",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2257.72,
+   "fin": 2260.26,
+   "texto": "Y yo dije, bueno, hay que leer esto antes de irse a la cama",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2260.26,
+   "fin": 2261.44,
+   "texto": "Claro, 30 páginas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2261.44,
+   "fin": 2263.26,
+   "texto": "Y dije, bueno, pues me las meto por donde sea",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2263.26,
+   "fin": 2266.28,
+   "texto": "Mientras escuchabas, qué pensé, Arsénico Caviar o algo así",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2266.28,
+   "fin": 2268.3,
+   "texto": "Escuchaba Aliz, por supuesto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2268.3,
+   "fin": 2268.58,
+   "texto": "Aliz",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2268.58,
+   "fin": 2269.82,
+   "texto": "Todo está bien además en bucle",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2269.82,
+   "fin": 2272.3,
+   "texto": "Bueno, Aliz, que ha sacado EP",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2272.3,
+   "fin": 2274.7200000000003,
+   "texto": "Aliz, que es probablemente nuestro artista compartido",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2274.7200000000003,
+   "fin": 2275.36,
+   "texto": "favorito",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2275.36,
+   "fin": 2277.98,
+   "texto": "Es que de verdad, es un himno",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2277.98,
+   "fin": 2279.06,
+   "texto": "¿Sabes lo que te quiero decir?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2279.06,
+   "fin": 2280.34,
+   "texto": "Todo está bien es una de las canciones",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2280.34,
+   "fin": 2281.6600000000003,
+   "texto": "No es que todo esté bien",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2281.6600000000003,
+   "fin": 2283.78,
+   "texto": "O sea, todo no está bien, pero bueno, ojalá",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2283.78,
+   "fin": 2285.38,
+   "texto": "¿Qué canción? Bueno",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2285.38,
+   "fin": 2287.86,
+   "texto": "Y el paper está escrito por dos personas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2287.86,
+   "fin": 2290.2400000000002,
+   "texto": "que son Darwin Joaquín Robles",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2290.2400000000002,
+   "fin": 2291.82,
+   "texto": "y Doris Noemi Ortiz",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2291.82,
+   "fin": 2293.6200000000003,
+   "texto": "Una persona que realmente se llama Darwin",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2293.6200000000003,
+   "fin": 2295.38,
+   "texto": "Esto me parece muy bien",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2295.38,
+   "fin": 2298.4,
+   "texto": "En Sudamérica hay muchas personas que se llaman Darwin",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2298.4,
+   "fin": 2300.2000000000003,
+   "texto": "creo. O sea, no sé si muchas, pero",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2300.2000000000003,
+   "fin": 2302.32,
+   "texto": "sí que lo he oído más veces en papers, además.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2303.26,
+   "fin": 2303.52,
+   "texto": "Bueno,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2304.28,
+   "fin": 2306.4,
+   "texto": "en este texto se identifica como problema",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2306.4,
+   "fin": 2307.96,
+   "texto": "el hecho de que las personas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2307.96,
+   "fin": 2310.36,
+   "texto": "escuchan de manera deficiente. Esto podemos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2310.36,
+   "fin": 2312.44,
+   "texto": "hilarlo con partes y con cosas que ya hemos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2312.44,
+   "fin": 2314.34,
+   "texto": "dicho, como la polución, contaminación,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2314.78,
+   "fin": 2315.98,
+   "texto": "deficiencia sonora, ¿no?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2316.36,
+   "fin": 2318.2400000000002,
+   "texto": "Además, nos dicen que hay una dificultad",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2318.2400000000002,
+   "fin": 2320.54,
+   "texto": "que es doble, porque hay dificultad",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2320.54,
+   "fin": 2322.2400000000002,
+   "texto": "en escuchar lo que dicen los otros",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2322.2400000000002,
+   "fin": 2324.5,
+   "texto": "y en hacerse escuchar de la manera",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2324.5,
+   "fin": 2326.58,
+   "texto": "que a ti te gustaría. O sea, que hay dos problemas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2326.58,
+   "fin": 2328.2200000000003,
+   "texto": "en cuanto a la escucha.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2328.4,
+   "fin": 2330.32,
+   "texto": "también hablan mucho",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2330.32,
+   "fin": 2331.94,
+   "texto": "y esto me parece un tema interesantísimo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2331.94,
+   "fin": 2334.76,
+   "texto": "que podríamos tratar en otro momento pero lo vamos a lanzar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2334.76,
+   "fin": 2336.56,
+   "texto": "que es el privilegio",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2336.56,
+   "fin": 2338.46,
+   "texto": "de lo visual frente a lo auditivo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2338.46,
+   "fin": 2340.48,
+   "texto": "o sea, ¿qué relación existe entre lo visual",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2340.48,
+   "fin": 2342.52,
+   "texto": "y lo auditivo? ¿hay alguna diferencia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2342.52,
+   "fin": 2344.76,
+   "texto": "entre los medios de expresión que están basados en la imagen",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2344.76,
+   "fin": 2346.7400000000002,
+   "texto": "y los que privilegian la voz?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2347.06,
+   "fin": 2348.26,
+   "texto": "porque a mí me perturba",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2348.26,
+   "fin": 2350.2400000000002,
+   "texto": "he de confesar que en Spotify",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2350.2400000000002,
+   "fin": 2352.36,
+   "texto": "de repente puedas ver el vídeo de la gente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2352.36,
+   "fin": 2353.62,
+   "texto": "o sea, jamás lo vería",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2353.62,
+   "fin": 2355.76,
+   "texto": "me sale un vídeo de Isabel y Lucía",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2355.76,
+   "fin": 2356.7200000000003,
+   "texto": "y yo, ¿qué es esto?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2356.72,
+   "fin": 2358.3799999999997,
+   "texto": "Me saca mucho, me saca mucho.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2358.52,
+   "fin": 2361.2999999999997,
+   "texto": "También quizá porque estoy acostumbrada a escucharlas y no a verlas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2361.8999999999996,
+   "fin": 2363.98,
+   "texto": "No sé, también me pasa mucho con la radio,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2364.14,
+   "fin": 2366.58,
+   "texto": "que no siento la necesidad de ver los vídeos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2366.7599999999998,
+   "fin": 2368.4399999999996,
+   "texto": "como que, no sé, no sé.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2368.56,
+   "fin": 2369.24,
+   "texto": "Pero bueno, este es un tema.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2369.3999999999996,
+   "fin": 2371.12,
+   "texto": "A nosotras nos grabaron las caras en la radio.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2371.16,
+   "fin": 2372.3199999999997,
+   "texto": "Sí, me pasó algo de mal.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2372.54,
+   "fin": 2374.54,
+   "texto": "No lo he visto más que una vez el día que salió",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2374.54,
+   "fin": 2376.54,
+   "texto": "y nunca más porque digo, mira, yo para ver esta cara...",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2376.54,
+   "fin": 2378.3399999999997,
+   "texto": "Pero lo interesante que fue en ese medio de la entrevista",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2378.3399999999997,
+   "fin": 2380.3199999999997,
+   "texto": "tú que te ponías a mirar las cámaras y los focos...",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2380.3199999999997,
+   "fin": 2381.8599999999997,
+   "texto": "Sí, a menos mal que luego me di cuenta, claro,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2381.9399999999996,
+   "fin": 2384.2599999999998,
+   "texto": "que como yo en ese momento no hablaba, no me enfocaba ni yo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2384.3399999999997,
+   "fin": 2384.8999999999996,
+   "texto": "Menos mal.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2384.9199999999996,
+   "fin": 2386.3399999999997,
+   "texto": "Porque necesitaba por un vaso.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2386.34,
+   "fin": 2388.3,
+   "texto": "mirando, pero no me quede cosas,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2388.4,
+   "fin": 2390.48,
+   "texto": "quede cables. Bueno, entonces os animamos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2390.48,
+   "fin": 2392.44,
+   "texto": "a pensar la diferencia entre los medios de la",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2392.44,
+   "fin": 2394.4,
+   "texto": "imagen, de la voz, qué contenido",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2394.4,
+   "fin": 2396.48,
+   "texto": "se trata a través de la imagen y a través de la",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2396.48,
+   "fin": 2398.02,
+   "texto": "voz, ¿no? Esto es bastante interesante.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2399.08,
+   "fin": 2400.42,
+   "texto": "Recuerdo, no me acuerdo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2400.42,
+   "fin": 2402.1000000000004,
+   "texto": "bien de esto, pero cuando fuimos a ver a",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2402.1000000000004,
+   "fin": 2404.2000000000003,
+   "texto": "Remedio Estafra en el Ateneo, que hablaba",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2404.2000000000003,
+   "fin": 2406.48,
+   "texto": "de la diferencia entre lo visual",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2406.48,
+   "fin": 2408.4,
+   "texto": "y lo auditivo,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2409.08,
+   "fin": 2410.32,
+   "texto": "digamos, o lo sonoro,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2410.54,
+   "fin": 2412.6000000000004,
+   "texto": "y lo analizaba",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2412.6000000000004,
+   "fin": 2414.3,
+   "texto": "desde la perspectiva de género, como",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2414.3,
+   "fin": 2416.54,
+   "texto": "diciendo que las mujeres estaban mucho más sometidas a la imagen",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2416.54,
+   "fin": 2419.5800000000004,
+   "texto": "y que al mismo tiempo muchas veces estaban mucho más cómodas en el audio",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2419.5800000000004,
+   "fin": 2422.6400000000003,
+   "texto": "justo para no tener que ser como esclavas de la imagen.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2423.1000000000004,
+   "fin": 2426.3,
+   "texto": "Y hablaba así como de la diferencia entre YouTube, Instagram, TikTok",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2426.3,
+   "fin": 2429.32,
+   "texto": "y los medios de expresión y es una cosa bastante interesante.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2430.44,
+   "fin": 2433.86,
+   "texto": "La tesis del artículo, yendo ya como hacia adelante,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2434.1400000000003,
+   "fin": 2436.3,
+   "texto": "se construye a través de la hermenéutica de Gadamer.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2436.42,
+   "fin": 2440.5800000000004,
+   "texto": "Entonces esto, pues claramente, no os voy a meter aquí una chapa sideral",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2440.5800000000004,
+   "fin": 2442.02,
+   "texto": "sobre la hermenéutica de Gadamer,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2442.02,
+   "fin": 2445.06,
+   "texto": "pero que es como una idea muy clara que además es muy sencilla",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2445.06,
+   "fin": 2448.56,
+   "texto": "que es que cuando se escucha al mundo se le interpreta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2448.56,
+   "fin": 2453.02,
+   "texto": "y eso tiene mucho que ver también con el desciframiento del segundo tipo de escucha que hablábamos de Bartes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2453.02,
+   "fin": 2457.78,
+   "texto": "que no es solo una alerta sino que hay un nivel interpretativo que va más allá de la mera percepción",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2457.78,
+   "fin": 2460.42,
+   "texto": "entonces el círculo hermenéutico y todas estas cosas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2460.42,
+   "fin": 2464.86,
+   "texto": "lo podemos resumir, aunque los hermenéutas seguramente se estén cagando en mi estampa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2464.86,
+   "fin": 2471.66,
+   "texto": "en que escuchar es oír más interpretar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2471.66,
+   "fin": 2479.24,
+   "texto": "y aparte tiene también el círculo hermenéutico y toda esta tesis tiene como una apertura existencial",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2479.24,
+   "fin": 2482.8599999999997,
+   "texto": "y esto es muy interesante en verdad aunque suene un poco como rimbombante",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2482.8599999999997,
+   "fin": 2488.7,
+   "texto": "básicamente te dice que la escucha también es comprender al otro, también es darle existencia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2488.7,
+   "fin": 2493.96,
+   "texto": "no es sólo captar un mensaje y decodificar el sentido sino que, y cito,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2494.3599999999997,
+   "fin": 2499.7,
+   "texto": "reconoce al otro como ser humano y lo valida en su presencia narrativa, identidad y autenticidad",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2499.7,
+   "fin": 2507.8199999999997,
+   "texto": "Es decir, al escuchar nos colocamos en la disposición de aceptar la posibilidad de que existan otras formas de ser que no son la nuestra.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2508.3199999999997,
+   "fin": 2511.8599999999997,
+   "texto": "Con lo cual esto es importante, la verdad.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2512.4399999999996,
+   "fin": 2516.54,
+   "texto": "Y es necesaria la aceptación del otro en su calidad de diferente a uno mismo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2517.0,
+   "fin": 2521.04,
+   "texto": "El otro tiene una narración que hacer, no solo existe mi narración como centro del universo,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2521.6,
+   "fin": 2526.1,
+   "texto": "que esto mucha gente tiene problemas con entender esto, sino que hay más narraciones.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2526.1,
+   "fin": 2529.1,
+   "texto": "de otra manera, de hecho, si no hubiera más narraciones",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2529.1,
+   "fin": 2530.88,
+   "texto": "el acto de escuchar es imposible",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2530.88,
+   "fin": 2532.7799999999997,
+   "texto": "¿qué vas a escuchar? a ti mismo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2532.7799999999997,
+   "fin": 2535.12,
+   "texto": "y de nuevo volvemos al tercer tipo de escucha de Bartes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2535.12,
+   "fin": 2537.12,
+   "texto": "es un intercambio intersubjetivo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2537.12,
+   "fin": 2539.42,
+   "texto": "te escuchan y escuchas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2539.42,
+   "fin": 2541.14,
+   "texto": "o a veces cuando te escuchas a ti mismo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2541.14,
+   "fin": 2543.08,
+   "texto": "porque te pones tus propios audios de whatsapp",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2543.08,
+   "fin": 2545.42,
+   "texto": "¿sabes qué hemos perdido respecto a la voz?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2546.06,
+   "fin": 2546.38,
+   "texto": "ese",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2546.38,
+   "fin": 2548.7799999999997,
+   "texto": "asombro que nos daba de pequeñas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2548.7799999999997,
+   "fin": 2550.02,
+   "texto": "escuchar nuestra propia voz",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2550.02,
+   "fin": 2551.8399999999997,
+   "texto": "que era una sensación",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2551.8399999999997,
+   "fin": 2553.4,
+   "texto": "claro, era muy raro decir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2553.4,
+   "fin": 2555.8399999999997,
+   "texto": "esa no es mi voz, esa no soy yo, no voy a volver a hablar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2555.84,
+   "fin": 2557.84,
+   "texto": "porque esto es rarísimo. Y claro, eso lo hemos perdido",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2557.84,
+   "fin": 2559.7400000000002,
+   "texto": "completamente. Todo el mundo, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2559.84,
+   "fin": 2561.28,
+   "texto": "No solo la gente que tenemos un podcast.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2561.4,
+   "fin": 2563.52,
+   "texto": "La gente narcisista, me la imagino",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2563.52,
+   "fin": 2565.5,
+   "texto": "escuchando en bucle, ¿sabes? Se van a dormir no",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2565.5,
+   "fin": 2567.34,
+   "texto": "escuchando un podcast, sino",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2567.34,
+   "fin": 2568.44,
+   "texto": "sus propios audios.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2569.44,
+   "fin": 2570.86,
+   "texto": "Se hacen una playlist de audios.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2570.88,
+   "fin": 2573.3,
+   "texto": "Qué calvario. Y esta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2573.3,
+   "fin": 2575.28,
+   "texto": "dimensión que hemos llamado un poco ontológica",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2575.28,
+   "fin": 2577.1000000000004,
+   "texto": "también es ética, ¿no?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2577.2400000000002,
+   "fin": 2579.08,
+   "texto": "Una dimensión ética de la escucha.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2579.76,
+   "fin": 2581.28,
+   "texto": "La historia, dicen los autores,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2581.42,
+   "fin": 2583.26,
+   "texto": "no es algo que una persona cuenta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2583.26,
+   "fin": 2585.1000000000004,
+   "texto": "en la soledad de su discurso.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2585.1,
+   "fin": 2592.52,
+   "texto": "Es algo que se construye como un entramado de narraciones, constituido por los relatos de muchas personas a lo largo del tiempo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2592.96,
+   "fin": 2597.08,
+   "texto": "Es por esta razón que el acto de escuchar tiene un principio ético.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2597.48,
+   "fin": 2598.22,
+   "texto": "Es que es muy bueno.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2598.46,
+   "fin": 2606.06,
+   "texto": "Sí, de hecho tiene, como decíamos antes, en el ámbito político-social, muchas veces se colapsa la escucha y eso tiene unas implicaciones...",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2606.7599999999998,
+   "fin": 2607.44,
+   "texto": "Mifastas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2607.52,
+   "fin": 2609.02,
+   "texto": "Claro, en muchísimos sentidos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2609.96,
+   "fin": 2611.88,
+   "texto": "Así que animamos a escuchar a la gente.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2611.88,
+   "fin": 2612.8,
+   "texto": "yo soy una persona",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2612.8,
+   "fin": 2615.56,
+   "texto": "como una de las cosas que me definirían",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2615.56,
+   "fin": 2616.86,
+   "texto": "es que me encanta escuchar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2616.86,
+   "fin": 2619.9,
+   "texto": "porque soy una persona extremadamente tímida",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2619.9,
+   "fin": 2621.92,
+   "texto": "entonces siempre nunca he querido hablar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2621.92,
+   "fin": 2624.42,
+   "texto": "siempre me ha gustado tener la posición de persona que escucha",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2624.42,
+   "fin": 2626.0,
+   "texto": "con el tiempo he aprendido",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2626.0,
+   "fin": 2627.56,
+   "texto": "que es importante que también te escuchen",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2627.56,
+   "fin": 2629.52,
+   "texto": "y hacerte escuchar, y lo intento",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2629.52,
+   "fin": 2631.62,
+   "texto": "cada vez más, pero como que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2631.62,
+   "fin": 2634.1400000000003,
+   "texto": "hay gente que creo que jamás se ha pensado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2634.1400000000003,
+   "fin": 2635.92,
+   "texto": "a sí misma como en posición de persona",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2635.92,
+   "fin": 2638.0,
+   "texto": "que escucha, y esto es un problema tremendo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2638.0,
+   "fin": 2639.6400000000003,
+   "texto": "sí, esto es fascinante",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2639.6400000000003,
+   "fin": 2641.04,
+   "texto": "esto da para otro episodio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2641.04,
+   "fin": 2644.94,
+   "texto": "queríamos hablar también un poco de la película",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2644.94,
+   "fin": 2647.12,
+   "texto": "El agua de Elena López Riera",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2647.12,
+   "fin": 2649.2799999999997,
+   "texto": "ahora que además acabamos de terminar toda la",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2649.2799999999997,
+   "fin": 2650.66,
+   "texto": "fase de los",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2650.66,
+   "fin": 2653.2,
+   "texto": "iba a decir de los ondas, no, de los Goya",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2653.2,
+   "fin": 2655.2599999999998,
+   "texto": "porque la vimos, además la vimos aquí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2655.2599999999998,
+   "fin": 2656.38,
+   "texto": "y nos gustó mucho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2656.38,
+   "fin": 2658.2,
+   "texto": "no, la vimos en mi casa, que coño",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2658.2,
+   "fin": 2660.32,
+   "texto": "no, en mi casa cariño, en mi casa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2660.32,
+   "fin": 2662.58,
+   "texto": "no te acuerdas de nada hoy, yo un poco tampoco",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2662.58,
+   "fin": 2664.18,
+   "texto": "entonces",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2664.18,
+   "fin": 2666.24,
+   "texto": "en el pueblo este de Orihuela",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2666.24,
+   "fin": 2668.08,
+   "texto": "que es el pueblo de donde es ella, Elena",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2668.08,
+   "fin": 2669.72,
+   "texto": "Sí, que es el pueblo de la directora.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2669.7799999999997,
+   "fin": 2671.7999999999997,
+   "texto": "Se escuchaban un montón de relatos acerca del agua,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2671.92,
+   "fin": 2673.2799999999997,
+   "texto": "que es un poco de lo que trata la película.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2673.44,
+   "fin": 2675.64,
+   "texto": "No os vamos a hacer spoiler para quienes no la hayáis visto.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2676.42,
+   "fin": 2679.18,
+   "texto": "Pero es un poco esta idea de que el agua se mete dentro de las mujeres",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2679.18,
+   "fin": 2683.36,
+   "texto": "y se las lleva en las inundaciones que arrasaban el pueblo periódicamente.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2683.94,
+   "fin": 2686.38,
+   "texto": "Está la leyenda esta sobre la novia que se llevó el agua",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2686.38,
+   "fin": 2688.98,
+   "texto": "porque el agua como que se enamora de la mujer y entonces se la lleva.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2690.14,
+   "fin": 2693.02,
+   "texto": "Y esto lo cuentan las entrevistas que aparecen en la película",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2693.02,
+   "fin": 2694.7599999999998,
+   "texto": "porque la película hace una cosa muy curiosa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2694.7599999999998,
+   "fin": 2697.1,
+   "texto": "que es aparte de la narración de ficción que tiene,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2697.1,
+   "fin": 2699.46,
+   "texto": "tiene también entrevistas como esa parte de documental",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2699.46,
+   "fin": 2701.04,
+   "texto": "Sí, hay muchas entrevistas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2701.04,
+   "fin": 2702.2,
+   "texto": "si os interesa esto sobre",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2702.2,
+   "fin": 2704.56,
+   "texto": "de Elena contando que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2704.56,
+   "fin": 2706.9,
+   "texto": "no le gustan los guiones absolutamente cerrados",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2706.9,
+   "fin": 2708.9,
+   "texto": "sino que le interesa mucho el documental porque",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2708.9,
+   "fin": 2710.7999999999997,
+   "texto": "van surgiendo cosas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2710.7999999999997,
+   "fin": 2712.96,
+   "texto": "que está mucho más abierto y puedes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2712.96,
+   "fin": 2715.04,
+   "texto": "incorporar y es verdad que lo hace muy bien",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2715.04,
+   "fin": 2717.0,
+   "texto": "lo hace muy bien, como que es una película muy",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2717.0,
+   "fin": 2718.7799999999997,
+   "texto": "no sé si experimental pero",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2718.7799999999997,
+   "fin": 2719.8399999999997,
+   "texto": "diferente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2719.8399999999997,
+   "fin": 2721.7599999999998,
+   "texto": "y tiene coherencia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2721.7599999999998,
+   "fin": 2723.24,
+   "texto": "no es random",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2723.24,
+   "fin": 2725.7799999999997,
+   "texto": "y entonces la idea esta de la película",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2725.78,
+   "fin": 2727.94,
+   "texto": "ella cuenta que viene de un recuerdo que tiene",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2727.94,
+   "fin": 2729.76,
+   "texto": "de la riada de 1987",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2729.76,
+   "fin": 2731.92,
+   "texto": "porque claro, ella tenía 5 años",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2731.92,
+   "fin": 2733.6200000000003,
+   "texto": "y le marcó mucho, de repente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2733.6200000000003,
+   "fin": 2736.2000000000003,
+   "texto": "la gente muy asustada por lo que el agua podía provocar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2736.2000000000003,
+   "fin": 2737.92,
+   "texto": "en su ciudad, en el sitio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2737.92,
+   "fin": 2739.76,
+   "texto": "donde vivían, y dice",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2739.76,
+   "fin": 2742.1600000000003,
+   "texto": "lo que me llamaba la atención es la mitología",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2742.1600000000003,
+   "fin": 2743.9,
+   "texto": "y el miedo atávico con el que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2743.9,
+   "fin": 2745.86,
+   "texto": "crecemos hacia este tipo de fenómenos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2745.86,
+   "fin": 2747.44,
+   "texto": "y las explicaciones que le damos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2747.44,
+   "fin": 2749.9,
+   "texto": "siempre preferimos apelar a lo mágico",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2749.9,
+   "fin": 2752.34,
+   "texto": "o fantástico que a la explicación científica",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2752.34,
+   "fin": 2753.78,
+   "texto": "de que estamos destruyendo el planeta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2753.78,
+   "fin": 2757.0800000000004,
+   "texto": "también es verdad que es mucho más jugoso para hacer una peli",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2757.0800000000004,
+   "fin": 2759.0,
+   "texto": "este mito de que el agua",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2759.0,
+   "fin": 2760.2000000000003,
+   "texto": "se enamora de la mujer y se la lleva",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2760.2000000000003,
+   "fin": 2762.34,
+   "texto": "y entonces ella en la entrevista habla de la fuerza",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2762.34,
+   "fin": 2764.94,
+   "texto": "que tienen los relatos, los mitos y las leyendas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2764.94,
+   "fin": 2766.5600000000004,
+   "texto": "y que escuchamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2766.5600000000004,
+   "fin": 2769.1400000000003,
+   "texto": "porque bueno, esto no lo hemos mencionado pero la tradición oral",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2769.1400000000003,
+   "fin": 2770.96,
+   "texto": "de transmisión de los mitos y de transmisión",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2770.96,
+   "fin": 2772.7000000000003,
+   "texto": "del conocimiento pues por supuesto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2772.7000000000003,
+   "fin": 2774.2200000000003,
+   "texto": "mucho anterior a la escritura",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2774.2200000000003,
+   "fin": 2776.6200000000003,
+   "texto": "la forma de escucha más importante",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2776.6200000000003,
+   "fin": 2778.76,
+   "texto": "los relatos que te conforman porque los has",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2778.76,
+   "fin": 2780.1400000000003,
+   "texto": "escuchado desde que has nacido",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2780.1400000000003,
+   "fin": 2781.96,
+   "texto": "y es lo que inaugura un poco la filosofía",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2781.96,
+   "fin": 2783.88,
+   "texto": "y todos esos diálogos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2783.88,
+   "fin": 2786.54,
+   "texto": "de Platón y todas esas cosas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2786.54,
+   "fin": 2789.0,
+   "texto": "que se transmitían a través de la escucha y la conversación",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2789.0,
+   "fin": 2790.14,
+   "texto": "y entonces pues",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2790.14,
+   "fin": 2792.88,
+   "texto": "preguntas que surgen a Elena y que no surgen a nosotras",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2792.88,
+   "fin": 2794.8,
+   "texto": "es que si los relatos pueden tener una fuerza",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2794.8,
+   "fin": 2796.78,
+   "texto": "opresora, si debemos reinterpretarlos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2796.78,
+   "fin": 2798.62,
+   "texto": "qué hacemos con ellos a la hora de",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2798.62,
+   "fin": 2800.54,
+   "texto": "escucharlos y nos parece una",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2800.54,
+   "fin": 2802.7200000000003,
+   "texto": "película interesante para pensarlo desde este prisma",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2802.7200000000003,
+   "fin": 2804.82,
+   "texto": "y ahora para acabar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2804.82,
+   "fin": 2806.4,
+   "texto": "en vez de contar que estamos leyendo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2806.4,
+   "fin": 2808.32,
+   "texto": "tú ya has mencionado un montón de podcast",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2808.32,
+   "fin": 2810.18,
+   "texto": "pero yo quiero echarle la bronca a un podcast",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2810.18,
+   "fin": 2812.9199999999996,
+   "texto": "yo quería decirles que estoy escuchando",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2812.9199999999996,
+   "fin": 2814.7,
+   "texto": "ayer concretamente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2814.7,
+   "fin": 2815.72,
+   "texto": "ayer 17",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2815.72,
+   "fin": 2819.14,
+   "texto": "ayer cuando me fui a dormir porque sabía",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2819.14,
+   "fin": 2820.16,
+   "texto": "que me iba a costar un poco",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2820.16,
+   "fin": 2822.52,
+   "texto": "estuve escuchando a las hijas de Felipe",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2822.52,
+   "fin": 2825.1,
+   "texto": "y su último episodio que se llama Obediencia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2825.1,
+   "fin": 2827.2999999999997,
+   "texto": "Bill Gusanillo con Placiente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2827.2999999999997,
+   "fin": 2828.3999999999996,
+   "texto": "eso me encanta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2828.3999999999996,
+   "fin": 2830.56,
+   "texto": "y me lo pasé muy bien la verdad",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2830.56,
+   "fin": 2832.96,
+   "texto": "y luego me quedé dormida claro porque no lo acabé",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2832.96,
+   "fin": 2834.54,
+   "texto": "porque me pongo la lunita",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2834.54,
+   "fin": 2836.68,
+   "texto": "a apagarse automáticamente en 30 minutos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2836.68,
+   "fin": 2839.2799999999997,
+   "texto": "y luego es decir que tengo una capacidad",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2839.28,
+   "fin": 2843.0,
+   "texto": "ya desarrollada que es noto que tengo sueño y me estoy durmiendo y lo paro yo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2843.2200000000003,
+   "fin": 2843.6600000000003,
+   "texto": "Claro, bien.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2843.6800000000003,
+   "fin": 2845.2400000000002,
+   "texto": "Cuando ya estoy como en otra parte.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2845.48,
+   "fin": 2846.3,
+   "texto": "Como en el quinto, sí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2846.86,
+   "fin": 2851.38,
+   "texto": "También he estado escuchando ayer la entrevista que le hizo Imar en Hora 25 a Alberto Ruano,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2851.5400000000004,
+   "fin": 2854.8,
+   "texto": "que es el jefe de emisiones de la cadena SER, que es súper interesante porque es una persona",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2854.8,
+   "fin": 2859.1800000000003,
+   "texto": "que lleva 41 años creo trabajando en la cadena SER, siempre detrás de los micros, ¿no?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2859.5800000000004,
+   "fin": 2860.5800000000004,
+   "texto": "Y decía que estaba nervioso.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2860.86,
+   "fin": 2861.5,
+   "texto": "¿Por qué los micros?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2861.94,
+   "fin": 2862.46,
+   "texto": "Claro, detrás.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2862.52,
+   "fin": 2863.6800000000003,
+   "texto": "Claro, no delante, claro.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2863.7000000000003,
+   "fin": 2864.0400000000004,
+   "texto": "Detrás.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2864.1600000000003,
+   "fin": 2864.94,
+   "texto": "Claro, yo qué sé.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2865.84,
+   "fin": 2867.7000000000003,
+   "texto": "Detrás del cristal ese donde hay botones.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2867.7,
+   "fin": 2880.3799999999997,
+   "texto": "Y entonces estaba como, decía, jo, es que claro, yo aquí trabajando toda la vida, además era muy bonito porque hablaba de la ser como su hogar, como su casa, y de estar delante del micro, pues le atoraba, claro, normal. A mí también me atoró.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2880.4199999999996,
+   "fin": 2880.9399999999996,
+   "texto": "Sí, a mí también.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2882.14,
+   "fin": 2886.7,
+   "texto": "Y aunque ya lo hemos nombrado, también quería decir que estoy obsesionada con Boycott, que es el álbum de Aliz.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2886.8599999999997,
+   "fin": 2887.46,
+   "texto": "Sí, es verdad.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2887.46,
+   "fin": 2891.8799999999997,
+   "texto": "Esto es lo que escucho obsesivamente como una psicópata. Otra vez, y otra vez, y otra vez.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2892.2999999999997,
+   "fin": 2894.68,
+   "texto": "Bueno, es que lo vamos a ver en concierto pronto, hay que prepararse.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2894.8999999999996,
+   "fin": 2895.06,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2895.06,
+   "fin": 2898.16,
+   "texto": "yo a pesar de que me cuesta escuchar podcast",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2898.16,
+   "fin": 2898.98,
+   "texto": "lo admito aquí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2898.98,
+   "fin": 2901.18,
+   "texto": "el otro día escuché el",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2901.18,
+   "fin": 2904.06,
+   "texto": "episodio de Arsénico Caviar que por cierto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2904.06,
+   "fin": 2906.38,
+   "texto": "enhorabuena a quien haya pensado el nombre de ese podcast",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2906.38,
+   "fin": 2907.9,
+   "texto": "me parece absolutamente brillante",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2907.9,
+   "fin": 2909.7999999999997,
+   "texto": "Arsénico Caviar, me parece buenísimo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2909.7999999999997,
+   "fin": 2911.68,
+   "texto": "que hablaban del deporte",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2911.68,
+   "fin": 2914.5,
+   "texto": "contra el deporte me imagino que se titulaba",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2914.5,
+   "fin": 2916.58,
+   "texto": "y por culpa suya",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2916.58,
+   "fin": 2917.98,
+   "texto": "que lo graban en un bar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2917.98,
+   "fin": 2920.42,
+   "texto": "cerca del Bernabéu en día de partido",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2920.42,
+   "fin": 2922.52,
+   "texto": "entonces claro, te puedes imaginar el ambiente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2922.52,
+   "fin": 2924.16,
+   "texto": "en ese sitio, bueno yo no es que me lo pueda imaginar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2924.16,
+   "fin": 2925.8599999999997,
+   "texto": "es que lo he vivido",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2925.8599999999997,
+   "fin": 2928.3399999999997,
+   "texto": "porque yo trabajé muchos años de azafata en el Bernabéu",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2928.3399999999997,
+   "fin": 2930.22,
+   "texto": "sirviendo canapés a las personas que iban",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2930.22,
+   "fin": 2931.3599999999997,
+   "texto": "a los palcos a ver los partidos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2931.3599999999997,
+   "fin": 2934.56,
+   "texto": "y entonces esa noche soñé con el trabajo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2934.56,
+   "fin": 2936.3999999999996,
+   "texto": "soñé que yo volvía al Bernabéu",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2936.3999999999996,
+   "fin": 2938.52,
+   "texto": "como jefa, o sea como coordinadora",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2938.52,
+   "fin": 2940.5,
+   "texto": "porque cada grupo de azafatas y azafatos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2940.5,
+   "fin": 2941.98,
+   "texto": "tienen una coordinadora",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2941.98,
+   "fin": 2944.22,
+   "texto": "y lo primero que hacía yo al llegar ahí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2944.22,
+   "fin": 2946.22,
+   "texto": "era subir el sueldo de los trabajadores",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2946.22,
+   "fin": 2947.6,
+   "texto": "¡Oh!",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2947.72,
+   "fin": 2949.44,
+   "texto": "Como se nota que Paula es Marx",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2949.44,
+   "fin": 2952.16,
+   "texto": "Un sueño marxista en el Bernabéu",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2952.16,
+   "fin": 2953.8399999999997,
+   "texto": "Florentino hiperventilando",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2953.84,
+   "fin": 2955.58,
+   "texto": "probablemente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2955.58,
+   "fin": 2956.6400000000003,
+   "texto": "bueno y eso",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2956.6400000000003,
+   "fin": 2957.1000000000004,
+   "texto": "queríamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2957.1000000000004,
+   "fin": 2958.6200000000003,
+   "texto": "cerrar este",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2958.6200000000003,
+   "fin": 2959.7200000000003,
+   "texto": "este podcast",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2959.7200000000003,
+   "fin": 2960.08,
+   "texto": "y agradeceros",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2960.08,
+   "fin": 2960.44,
+   "texto": "cosas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2960.44,
+   "fin": 2961.42,
+   "texto": "agradeceros por",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2961.42,
+   "fin": 2962.5,
+   "texto": "por llevar aquí ya un año",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2962.5,
+   "fin": 2963.2000000000003,
+   "texto": "los que llevéis un año",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2963.2000000000003,
+   "fin": 2964.0,
+   "texto": "y los que seáis nuevos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2964.0,
+   "fin": 2964.82,
+   "texto": "que ahora intuimos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2964.82,
+   "fin": 2965.92,
+   "texto": "que habrá muchas personas nuevas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2965.92,
+   "fin": 2967.02,
+   "texto": "pues bienvenidos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2967.02,
+   "fin": 2967.78,
+   "texto": "y bienvenidas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2967.78,
+   "fin": 2968.1800000000003,
+   "texto": "sí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2968.1800000000003,
+   "fin": 2969.1600000000003,
+   "texto": "nos gusta mucho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2969.1600000000003,
+   "fin": 2970.02,
+   "texto": "hacer este programa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2970.02,
+   "fin": 2970.58,
+   "texto": "sí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2970.58,
+   "fin": 2971.5,
+   "texto": "nos lo pasamos muy bien",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2971.5,
+   "fin": 2971.9,
+   "texto": "la verdad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2971.9,
+   "fin": 2973.32,
+   "texto": "aprendemos muchas cosas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2973.32,
+   "fin": 2975.3,
+   "texto": "no solo sobre las cosas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2975.3,
+   "fin": 2976.02,
+   "texto": "que os contamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2976.02,
+   "fin": 2976.5,
+   "texto": "sino sobre",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2976.5,
+   "fin": 2977.84,
+   "texto": "cómo funcionan los micrófonos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2977.84,
+   "fin": 2978.6400000000003,
+   "texto": "y el Audacity",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2978.6400000000003,
+   "fin": 2980.4,
+   "texto": "que yo sí que tengo pesadillas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2980.4,
+   "fin": 2981.38,
+   "texto": "con el Audacity",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2981.38,
+   "fin": 2982.5,
+   "texto": "con el programa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2982.5,
+   "fin": 2983.6600000000003,
+   "texto": "que utilizamos para editar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2983.66,
+   "fin": 2986.44,
+   "texto": "y nada, que muchísimas gracias",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2986.44,
+   "fin": 2988.12,
+   "texto": "feliz cumpleaños a Punzadas Sonoras",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2988.12,
+   "fin": 2990.16,
+   "texto": "esperamos dentro de exactamente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2990.16,
+   "fin": 2992.2,
+   "texto": "un año sacar otro episodio que diga exactamente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2992.2,
+   "fin": 2993.94,
+   "texto": "lo mismo, feliz cumpleaños número 2",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2993.94,
+   "fin": 2995.68,
+   "texto": "y nos escuchamos, claro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2995.68,
+   "fin": 2997.22,
+   "texto": "y nos escuchamos, por ahí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2997.22,
+   "fin": 2999.14,
+   "texto": "y vamos a leer una cita para el final, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2999.2599999999998,
+   "fin": 3001.2,
+   "texto": "sí, es de Bartes y es de",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3001.2,
+   "fin": 3002.5,
+   "texto": "Lobio y Lobstuso",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3002.5,
+   "fin": 3005.56,
+   "texto": "yo ¿por qué? porque te lo has elegido tú",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3005.56,
+   "fin": 3007.68,
+   "texto": "Pauli, léalo tú",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3007.68,
+   "fin": 3009.08,
+   "texto": "por favor",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3009.08,
+   "fin": 3010.8599999999997,
+   "texto": "es que le he dejado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3010.8599999999997,
+   "fin": 3013.64,
+   "texto": "no, no, no, esto es absolutamente mentira",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3013.64,
+   "fin": 3017.8199999999997,
+   "texto": "Bueno, me obligan. Me obligan desde los controles. La directora del programa.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3018.16,
+   "fin": 3018.8199999999997,
+   "texto": "Sí, soy.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3019.3199999999997,
+   "fin": 3020.44,
+   "texto": "Venga, va, voy.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3020.94,
+   "fin": 3029.54,
+   "texto": "Desde el punto de vista morfológico, es decir, lo más cerca posible de la especie, la oreja parece hecha para la captura del indicio que pasa.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3029.98,
+   "fin": 3034.08,
+   "texto": "Es inmóvil, está clavada, tiesa, como un animal al acecho.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3034.7599999999998,
+   "fin": 3040.8599999999997,
+   "texto": "Recibe el máximo de impresiones y las canaliza hacia un centro de vigilancia, selección y decisión.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3040.86,
+   "fin": 3046.6,
+   "texto": "Los pliegues, las revueltas de su pabellón, parecen querer multiplicar el contacto entre",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3046.6,
+   "fin": 3053.38,
+   "texto": "el individuo y el mundo. Y sin embargo, también reducen esta multiplicidad sometiéndola a un",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3053.38,
+   "fin": 3058.76,
+   "texto": "recorrido ya elegido, pues es necesario, en eso reside el papel de esta primera escucha,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3059.26,
+   "fin": 3064.94,
+   "texto": "que lo que era confuso e indiferente se vuelva distinto y pertinente, y que toda la naturaleza",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3064.94,
+   "fin": 3072.7400000000002,
+   "texto": "tome la forma particular de un peligro o una presa. La escucha es la operación en que esta metamorfosis se realiza.",
+   "hablante": "SPEAKER_00"
+  }
+ ]
+}

@@ -1,0 +1,7114 @@
+{
+ "slug": "2026-05-14_sincodigo",
+ "codigo": "",
+ "titulo": "Las Glosas: «Del miedo y los extranjeros», George Makari",
+ "fecha": "2026-05-14",
+ "video_id": "",
+ "url_audio": "https://traffic.megaphone.fm/PMSL8957199756.mp3",
+ "segmentos": [
+  {
+   "inicio": 0.0,
+   "fin": 3.62,
+   "texto": "¿Estás escuchando? Radio Primavera Sound.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 4.32,
+   "fin": 6.36,
+   "texto": "Proudly presented by Cucra.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 30.0,
+   "fin": 37.84,
+   "texto": "Las Glosas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 38.4,
+   "fin": 40.84,
+   "texto": "Un apunte breve de punzadas sonoras.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 41.36,
+   "fin": 43.58,
+   "texto": "Con Paula Ducay e Inés García.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 46.4,
+   "fin": 47.68,
+   "texto": "Hola, chicas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 48.06,
+   "fin": 48.28,
+   "texto": "Hola.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 49.2,
+   "fin": 50.74,
+   "texto": "¿Cómo estáis?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 51.72,
+   "fin": 53.56,
+   "texto": "Vamos a colocar los asuntos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 54.06,
+   "fin": 55.120000000000005,
+   "texto": "Bueno, muchas gracias por venir.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 55.3,
+   "fin": 59.0,
+   "texto": "Que como vivo con Paula Ducay, sé que un madrileño ve una gota de agua y ya...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 60.0,
+   "fin": 61.3,
+   "texto": "y nadie sale de casa.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 61.38,
+   "fin": 63.0,
+   "texto": "Yo he visto a Paula cancelar dentistas,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 63.26,
+   "fin": 64.54,
+   "texto": "cancelar citas médicas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 64.66,
+   "fin": 65.0,
+   "texto": "Esto es verdad.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 65.02,
+   "fin": 66.34,
+   "texto": "Porque en plan, Inés, es que llueve.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 66.36,
+   "fin": 67.46,
+   "texto": "Yo no habría venido a esto.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 67.6,
+   "fin": 68.26,
+   "texto": "O sea, yo he venido a esto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 68.26,
+   "fin": 69.22,
+   "texto": "porque lo tenía que hacer yo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 69.82,
+   "fin": 70.98,
+   "texto": "Pero es que está lloviendo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 71.12,
+   "fin": 72.48,
+   "texto": "De hecho, quiero pedir, perdón,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 72.62,
+   "fin": 74.34,
+   "texto": "públicamente a mi madre, que está aquí,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 74.74,
+   "fin": 76.38,
+   "texto": "porque hoy daban lluvia todo el día",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 76.38,
+   "fin": 78.34,
+   "texto": "y me he puesto las zapatillas blancas,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 78.62,
+   "fin": 79.14,
+   "texto": "mamá fatal,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 79.7,
+   "fin": 81.08,
+   "texto": "que me las había limpiado la mujer",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 81.08,
+   "fin": 82.52,
+   "texto": "porque no sabíamos limpiarlas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 82.52,
+   "fin": 83.96000000000001,
+   "texto": "porque son como de pija.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 84.8,
+   "fin": 86.03999999999999,
+   "texto": "Ese plural de no sabemos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 86.68,
+   "fin": 87.68,
+   "texto": "yo no lo intenté, Paula.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 88.03999999999999,
+   "fin": 88.66,
+   "texto": "No, claro.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 88.66,
+   "fin": 90.14,
+   "texto": "pero tú sabes limpiar estas cosas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 90.14,
+   "fin": 92.6,
+   "texto": "tú sabes limpiar todo, bueno pues yo no",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 92.6,
+   "fin": 95.08,
+   "texto": "las limpió mi mamá y ya no están limpias",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 95.08,
+   "fin": 96.8,
+   "texto": "la manera en que Paula se ha venido abajo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 96.8,
+   "fin": 98.25999999999999,
+   "texto": "yendo al metro de Marques de Vadillo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 98.25999999999999,
+   "fin": 100.08,
+   "texto": "mirándome todo el rato los pies diciendo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 100.08,
+   "fin": 101.28,
+   "texto": "se está manchando",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 101.28,
+   "fin": 103.5,
+   "texto": "no he podido hacer nada",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 103.5,
+   "fin": 105.52,
+   "texto": "estamos muy contentas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 105.52,
+   "fin": 108.14,
+   "texto": "estamos en la sala de comedia Valladominos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 108.14,
+   "fin": 110.0,
+   "texto": "muy contentas haciendo una glosa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 110.0,
+   "fin": 112.34,
+   "texto": "en directo, nuestra segunda",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 112.34,
+   "fin": 113.82,
+   "texto": "glosa en directo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 113.82,
+   "fin": 116.24,
+   "texto": "muy contentas, la verdad en general",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 116.24,
+   "fin": 118.14,
+   "texto": "esto lo decimos en todos los episodios de las glosas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 118.14,
+   "fin": 119.9,
+   "texto": "pero de que haya salido adelante",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 119.9,
+   "fin": 121.54,
+   "texto": "porque de repente tuvimos una idea",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 121.54,
+   "fin": 123.66,
+   "texto": "porque somos unas frikis de las glosas emilianenses",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 123.66,
+   "fin": 124.76,
+   "texto": "de San Millán de la Cogolla",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 124.76,
+   "fin": 126.26,
+   "texto": "en La Rioja",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 126.26,
+   "fin": 129.56,
+   "texto": "y pues se nos ocurrió esta idea",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 129.56,
+   "fin": 131.42000000000002,
+   "texto": "y ahora la estamos pudiendo llevar a cabo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 131.42000000000002,
+   "fin": 132.82,
+   "texto": "y estamos como muy contentas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 132.82,
+   "fin": 133.82,
+   "texto": "porque no es fácil",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 133.82,
+   "fin": 136.16,
+   "texto": "así que queremos agradecer a todo el mundo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 136.16,
+   "fin": 137.52,
+   "texto": "que ha hecho posible esta grosa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 137.52,
+   "fin": 139.36,
+   "texto": "aparte de Radio Primavera Sound",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 139.36,
+   "fin": 140.62,
+   "texto": "que siempre están ahí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 140.62,
+   "fin": 142.76,
+   "texto": "a nuestros técnicos en el día de hoy",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 142.76,
+   "fin": 144.6,
+   "texto": "que tienen ahí una cantidad de botones",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 144.6,
+   "fin": 146.8,
+   "texto": "y gente que yo paso por al lado y me da ansiedad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 146.8,
+   "fin": 148.46,
+   "texto": "pero menos mal que ellos lo controlan",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 148.46,
+   "fin": 151.0,
+   "texto": "a Sexto Piso también porque es nuestra",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 151.0,
+   "fin": 153.24,
+   "texto": "primera glosa en colaboración",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 153.24,
+   "fin": 154.92000000000002,
+   "texto": "con una editorial que esto también nos hace",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 154.92000000000002,
+   "fin": 156.58,
+   "texto": "mucha ilusión, nos llena de orgullo y satisfacción",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 156.58,
+   "fin": 159.16000000000003,
+   "texto": "y a Cristina",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 159.16000000000003,
+   "fin": 160.9,
+   "texto": "y a Rocío que están ahí fuera además",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 160.9,
+   "fin": 163.22000000000003,
+   "texto": "vendiendo y acompañándonos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 163.22000000000003,
+   "fin": 164.88000000000002,
+   "texto": "y a Rocío",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 164.88000000000002,
+   "fin": 167.12,
+   "texto": "también, hay muchas Rocío",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 167.12,
+   "fin": 169.14000000000001,
+   "texto": "hay muchas Rocío, sí, a todo el mundo en general",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 169.14000000000001,
+   "fin": 171.02,
+   "texto": "muchas gracias, al Terrat por programar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 171.02,
+   "fin": 172.8,
+   "texto": "esto y a vosotras por venir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 172.8,
+   "fin": 175.02,
+   "texto": "también, y a mis tíos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 175.02,
+   "fin": 176.58,
+   "texto": "abuelos que están aquí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 176.58,
+   "fin": 180.3,
+   "texto": "y que es lo más cerca que va a estar de que mi abuelo Reika venga a verme,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 180.42000000000002,
+   "fin": 183.24,
+   "texto": "que nunca va a venir porque es un señor que está en un pueblo de Ávila encerrado,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 183.70000000000002,
+   "fin": 185.3,
+   "texto": "pero está su hermana y me hace mucha ilusión.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 185.70000000000002,
+   "fin": 187.78,
+   "texto": "Eso, muy bien. Eso queremos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 188.0,
+   "fin": 188.66000000000003,
+   "texto": "Eso queremos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 190.08,
+   "fin": 190.84,
+   "texto": "Viva Ávila.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 191.46,
+   "fin": 192.04000000000002,
+   "texto": "Viva Gilbuena.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 192.12,
+   "fin": 192.78,
+   "texto": "Viva Gilbuena.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 193.60000000000002,
+   "fin": 195.78,
+   "texto": "Todos los pueblos de Inés siempre hay que...",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 195.78,
+   "fin": 196.94,
+   "texto": "No está bien darles un espacio.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 197.08,
+   "fin": 199.06,
+   "texto": "Sí, todos mis directos están llenos de mi familia.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 199.32000000000002,
+   "fin": 200.5,
+   "texto": "Sea donde sea.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 200.64000000000001,
+   "fin": 201.32000000000002,
+   "texto": "Eso está genial.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 201.54000000000002,
+   "fin": 201.76000000000002,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 202.42000000000002,
+   "fin": 204.48000000000002,
+   "texto": "El chiste de Aitana ya lo hicimos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 204.48,
+   "fin": 207.88,
+   "texto": "No podemos hacer otro chiste de que somos como Aitana porque estamos en el We Think Center.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 208.14,
+   "fin": 208.28,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 208.85999999999999,
+   "fin": 210.94,
+   "texto": "La última vez que vinimos fue para ver a Rosalía.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 211.54,
+   "fin": 215.17999999999998,
+   "texto": "Entonces yo creo que esta experiencia, chicas, va a ser menos mística inevitablemente,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 215.62,
+   "fin": 218.04,
+   "texto": "pero tendrá valor de otra manera.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 218.14,
+   "fin": 219.48,
+   "texto": "Tendrá valor de otra manera, efectivamente.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 219.82,
+   "fin": 219.98,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 220.34,
+   "fin": 222.07999999999998,
+   "texto": "Bueno, es verdad que llevamos unos meses de viajar.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 222.88,
+   "fin": 224.28,
+   "texto": "No hemos estado bien porque hay mucho viaje.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 224.5,
+   "fin": 224.67999999999998,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 224.95999999999998,
+   "fin": 227.29999999999998,
+   "texto": "Ahora ya estamos más asentadas, pero la semana que viene hay que ir a Barcelona.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 227.48,
+   "fin": 230.33999999999997,
+   "texto": "Entonces nos dura la calma medio segundo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 230.34,
+   "fin": 235.28,
+   "texto": "Yo estoy tan atorada con lo de viajar que el otro día llegó el punto que metí un cuchillo en un avión sin querer.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 236.42000000000002,
+   "fin": 238.32,
+   "texto": "Esto es real. Y además un cuchillo robado.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 238.56,
+   "fin": 239.22,
+   "texto": "Un cuchillo robado.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 239.58,
+   "fin": 240.7,
+   "texto": "¿Robó un cuchillo de su hotel?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 240.9,
+   "fin": 241.1,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 241.2,
+   "fin": 241.76,
+   "texto": "¿No se dio cuenta?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 241.84,
+   "fin": 242.44,
+   "texto": "También sin querer.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 242.94,
+   "fin": 245.28,
+   "texto": "Pero cuenta el momento en el que, o sea, el momento aeropuerto.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 245.7,
+   "fin": 250.78,
+   "texto": "Nada, o sea, que estaba pasando la esta de seguridad y vi que mi mochila salía y entraba, salía y entraba.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 250.84,
+   "fin": 252.96,
+   "texto": "Yo pensando, pues si llevo, no llevo nada ahí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 253.46,
+   "fin": 257.44,
+   "texto": "Y luego me dijeron, la dejaron pasar y al rato fui al baño, abrí la mochila y dije, llevo un cuchillo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 257.44,
+   "fin": 260.3,
+   "texto": "Vieron esta cara y dijeron, vale, le dejamos el cuchillo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 260.34,
+   "fin": 261.26,
+   "texto": "No hay peligro.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 262.02,
+   "fin": 264.29999999999995,
+   "texto": "También te digo que era un cuchillo que para provocar un problema",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 264.29999999999995,
+   "fin": 265.7,
+   "texto": "ese cuchillo hay que echarle ganas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 265.85999999999996,
+   "fin": 267.21999999999997,
+   "texto": "Bueno, pero si le echas ganas lo provocas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 267.64,
+   "fin": 268.85999999999996,
+   "texto": "Pero no lo provocaste.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 269.11999999999995,
+   "fin": 271.88,
+   "texto": "Pero me dejaron pasar. Bueno, ya no sé lo que meto a los sitios.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 272.52,
+   "fin": 273.09999999999997,
+   "texto": "De verdad.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 273.59999999999997,
+   "fin": 275.65999999999997,
+   "texto": "El mensaje de WhatsApp tienes, he metido un cuchillo al avión.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 275.82,
+   "fin": 278.29999999999995,
+   "texto": "Tía, por favor, modérate.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 278.58,
+   "fin": 279.5,
+   "texto": "No volverá a pasar.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 280.28,
+   "fin": 282.02,
+   "texto": "Queríamos contaros un poco, para empezar,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 282.29999999999995,
+   "fin": 284.29999999999995,
+   "texto": "cómo surge hacer esta glosa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 284.29999999999995,
+   "fin": 285.55999999999995,
+   "texto": "porque es una historia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 285.55999999999995,
+   "fin": 288.12,
+   "texto": "doméstica. Porque yo un día, Inés y yo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 288.12,
+   "fin": 289.94,
+   "texto": "vivimos juntas, para quien no lo sepa, esto sorprende",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 289.94,
+   "fin": 291.9,
+   "texto": "de mucha gente porque la gente nos mira en plan",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 291.9,
+   "fin": 294.04,
+   "texto": "podéis parar con esta relación, todas luces",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 294.04,
+   "fin": 294.54,
+   "texto": "tóxicas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 296.0,
+   "fin": 297.92,
+   "texto": "Inés estaba un día, una noche, metida",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 297.92,
+   "fin": 299.92,
+   "texto": "en la cama. Yo voy todas las noches",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 299.92,
+   "fin": 301.86,
+   "texto": "a darle las buenas noches a Inés. Y apagarme la luz.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 301.92,
+   "fin": 303.48,
+   "texto": "Me asomo a la puerta y le apago la luz.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 303.74,
+   "fin": 305.76,
+   "texto": "Y yo estaba leyendo el libro que vamos a glosar, perdón,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 305.82,
+   "fin": 307.86,
+   "texto": "es que no hemos dicho el título, que es Del miedo de los",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 307.86,
+   "fin": 309.82,
+   "texto": "extranjeros, una historia de la xenofobia de",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 309.82,
+   "fin": 311.62,
+   "texto": "George Macari, que está aquí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 311.72,
+   "fin": 313.82,
+   "texto": "Que yo lo estaba leyendo por leerlo, no porque",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 313.82,
+   "fin": 315.98,
+   "texto": "fuéramos a hacer nada con él. Y entonces yo entré",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 315.98,
+   "fin": 317.9,
+   "texto": "y Inés empezó a gimotear, básicamente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 317.9,
+   "fin": 319.15999999999997,
+   "texto": "solo lo puedo describir así, diciendo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 319.16,
+   "fin": 321.74,
+   "texto": "Paula, tengo que hablar de este libro y no sé cómo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 322.04,
+   "fin": 324.70000000000005,
+   "texto": "Y yo, tú sabes que tienes un podcast donde se habla de libros.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 324.74,
+   "fin": 326.18,
+   "texto": "Y ella, no me vale.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 326.70000000000005,
+   "fin": 327.42,
+   "texto": "Yo, no le vale.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 327.62,
+   "fin": 327.72,
+   "texto": "Vale.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 328.08000000000004,
+   "fin": 330.78000000000003,
+   "texto": "Y yo, bueno, a ver, pues escribe algo en redes sociales.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 330.96000000000004,
+   "fin": 332.0,
+   "texto": "No vale en las redes sociales.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 332.38000000000005,
+   "fin": 332.78000000000003,
+   "texto": "Vale.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 333.04,
+   "fin": 335.78000000000003,
+   "texto": "Bueno, pues escribe un artículo, lo mandas a un medio,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 335.90000000000003,
+   "fin": 336.86,
+   "texto": "que seguro que alguno...",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 336.86,
+   "fin": 338.54,
+   "texto": "No, no me vale.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 339.12,
+   "fin": 342.64000000000004,
+   "texto": "Y entonces yo me sentí genuina angustia por parte de esta persona.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 343.12,
+   "fin": 345.06,
+   "texto": "Y entonces dije, bueno, pues lo glosamos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 345.18,
+   "fin": 347.94000000000005,
+   "texto": "Y ahí ya sí, ahí ya me cautivó la idea.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 347.94,
+   "fin": 351.86,
+   "texto": "Porque, claro, Glossar nos permite, como bien sabéis, hablar en profundidad de un texto.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 352.08,
+   "fin": 355.08,
+   "texto": "En este caso es este libro, más bien uno de los capítulos de este libro,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 355.16,
+   "fin": 357.94,
+   "texto": "porque sabéis que siempre intentamos que sean textos un poco más cortos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 358.06,
+   "fin": 361.72,
+   "texto": "que podáis leer, que de hecho lo vais a poder leer porque está colgado en nuestra web,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 362.0,
+   "fin": 362.82,
+   "texto": "elcapitulo14.com.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 362.9,
+   "fin": 365.6,
+   "texto": "Sí, el capítulo 14 de este libro es lo que vamos a glosar.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 366.54,
+   "fin": 370.98,
+   "texto": "Así que vamos a empezar diciendo un poco que valoramos mucho que editoriales independientes",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 370.98,
+   "fin": 376.02,
+   "texto": "como Sextepiso publiquen este tipo de ensayos, que quizá no es lo más comercial del mundo,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 376.02,
+   "fin": 377.84,
+   "texto": "no es la asistenta de repente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 377.84,
+   "fin": 379.59999999999997,
+   "texto": "pero afortunadamente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 379.59999999999997,
+   "fin": 381.32,
+   "texto": "que claramente es importante",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 381.32,
+   "fin": 384.35999999999996,
+   "texto": "mucho más que la asistenta que esté en las librerías",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 384.35999999999996,
+   "fin": 385.76,
+   "texto": "y que esté a nuestro alcance",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 385.76,
+   "fin": 388.32,
+   "texto": "decimos esto porque del miedo y los extranjeros",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 388.32,
+   "fin": 389.71999999999997,
+   "texto": "es un ensayo largo, lo veis aquí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 389.71999999999997,
+   "fin": 392.2,
+   "texto": "he de decir que engaña porque las 100 últimas páginas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 392.2,
+   "fin": 393.09999999999997,
+   "texto": "son bibliografía",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 393.09999999999997,
+   "fin": 396.68,
+   "texto": "esto siempre hay que tenerlo en cuenta cuando hay mucha bibliografía",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 396.68,
+   "fin": 397.85999999999996,
+   "texto": "pero eso",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 397.85999999999996,
+   "fin": 399.84,
+   "texto": "es un libro largo, es un libro además",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 399.84,
+   "fin": 402.32,
+   "texto": "un ensayo sobre un tema muy específico",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 402.32,
+   "fin": 404.41999999999996,
+   "texto": "que es la xenofobia desde una mirada muy concreta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 404.42,
+   "fin": 408.28000000000003,
+   "texto": "que es la filosófica, psiquiátrica, psicológica, como ahora os explicaremos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 408.82,
+   "fin": 412.28000000000003,
+   "texto": "Y estamos en un momento en que creo que comunitariamente, como sociedad,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 412.7,
+   "fin": 416.54,
+   "texto": "nos cuesta leer libros de 400 páginas y más si son ensayísticos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 416.70000000000005,
+   "fin": 419.6,
+   "texto": "Yo como defensora del ensayo pido por favor que se siga haciendo este esfuerzo,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 420.04,
+   "fin": 422.14,
+   "texto": "porque el ensayo es lo mejor que ha inventado el ser humano.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 423.14,
+   "fin": 428.28000000000003,
+   "texto": "Y por eso queremos animaros a hacerlo, a leer este libro y ensayos, y ensayos largos en general.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 428.84000000000003,
+   "fin": 432.14,
+   "texto": "Este en particular está muy bien escrito, está estructurado de forma genial,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 432.14,
+   "fin": 434.82,
+   "texto": "que a mi mente analítica esto le interesa muchísimo,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 434.94,
+   "fin": 438.5,
+   "texto": "me parece que es un libro que está muy inteligentemente organizado,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 438.64,
+   "fin": 441.14,
+   "texto": "que esto me molesta mucho cuando los ensayos son un caos, me enfado.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 441.5,
+   "fin": 442.34,
+   "texto": "Efectivamente se enfada.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 442.5,
+   "fin": 443.12,
+   "texto": "En este caso no.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 443.56,
+   "fin": 445.84,
+   "texto": "Y también creo que te va llevando argumentalmente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 445.84,
+   "fin": 449.38,
+   "texto": "hacia la propuesta que el autor te quiere hacer entender.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 450.06,
+   "fin": 452.59999999999997,
+   "texto": "Esta glosa, por tanto, es una gran oportunidad para hablar del libro,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 452.74,
+   "fin": 454.38,
+   "texto": "para darlo a conocer y, como decíamos,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 454.56,
+   "fin": 457.2,
+   "texto": "ahora vosotras estáis obligados a tener la experiencia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 457.2,
+   "fin": 460.09999999999997,
+   "texto": "de escuchar primero la glosa y luego leer el texto.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 460.1,
+   "fin": 466.68,
+   "texto": "la gente que esté escuchándolo en el futuro, pues quizás ya ha podido leer el capítulo 14 que vamos a glosar,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 466.84000000000003,
+   "fin": 470.76000000000005,
+   "texto": "pero bueno, sea como sea la experiencia, vamos a empezar contextualizando el texto.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 471.18,
+   "fin": 478.06,
+   "texto": "Sí, queríamos hablaros primero del autor, que es George Makary, que es un historiador, un psiquiatra y psicoanalista,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 478.32000000000005,
+   "fin": 480.96000000000004,
+   "texto": "lo cual se nota en el libro porque tiene un enfoque muy claro.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 481.5,
+   "fin": 487.34000000000003,
+   "texto": "Y en el libro hay un prólogo más personal donde él cuenta cómo la historia del libro",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 487.34,
+   "fin": 490.14,
+   "texto": "y el tema del libro está entrelazada con su propia historia.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 490.56,
+   "fin": 492.73999999999995,
+   "texto": "Es un prólogo que se llama Fuera de Beirut.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 493.17999999999995,
+   "fin": 497.52,
+   "texto": "Y es que la idea de escribir este libro surge para Macarís en el contexto del Brexit",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 497.52,
+   "fin": 500.78,
+   "texto": "y de la elección de Donald Trump como presidente de Estados Unidos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 501.32,
+   "fin": 507.0,
+   "texto": "Todas estas cosas que están pasando en ese momento le hacen pensar en cómo las personas nos hemos equivocado,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 507.0,
+   "fin": 509.64,
+   "texto": "dice, al imaginarnos los unos a los otros.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 510.08,
+   "fin": 511.78,
+   "texto": "Esta es un poco la semilla de esta idea.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 512.3,
+   "fin": 515.9,
+   "texto": "En este momento él se propone analizar una palabra que está en boca de todos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 515.9,
+   "fin": 519.74,
+   "texto": "y que sale mucho en los medios, que es xenofobia, el miedo a los extranjeros.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 520.5,
+   "fin": 523.76,
+   "texto": "Hay una cosa curiosa del libro, que es que no se propone hacer un registro",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 523.76,
+   "fin": 528.4,
+   "texto": "de todas las personas que han sido esclavizadas o masacradas por actos xenófobos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 528.54,
+   "fin": 532.66,
+   "texto": "sino que lo que quiere hacer es una narración de una historia oculta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 532.66,
+   "fin": 534.22,
+   "texto": "que subyace a la palabra.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 534.4399999999999,
+   "fin": 536.66,
+   "texto": "Quiere ver qué es lo que va por debajo de la xenofobia,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 537.3199999999999,
+   "fin": 539.96,
+   "texto": "qué interpretaciones se le han dado, cómo se ha utilizado.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 539.96,
+   "fin": 542.48,
+   "texto": "Y es cierto que la palabra, ahora lo iremos contando,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 543.0799999999999,
+   "fin": 544.9,
+   "texto": "tiene una historia que yo no sabía que tenía,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 544.9,
+   "fin": 548.66,
+   "texto": "o sea, que su origen y todo esto no es el uso que le damos ahora.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 548.8,
+   "fin": 552.64,
+   "texto": "O sea, hay muchos matices dentro del propio concepto.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 552.6999999999999,
+   "fin": 555.48,
+   "texto": "Sí, además me gusta mucho que Macari dice las cosas que va a hacer",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 555.48,
+   "fin": 558.3199999999999,
+   "texto": "y también las cosas que no hace, porque ya en el prólogo te dice",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 558.3199999999999,
+   "fin": 561.4399999999999,
+   "texto": "que no es un libro testimonial en el sentido de cómo un cuerpo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 561.4399999999999,
+   "fin": 563.78,
+   "texto": "o una experiencia específica ha vivido la xenofobia,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 564.3199999999999,
+   "fin": 566.48,
+   "texto": "que también podría haberlo hecho, porque tiene esta experiencia,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 566.6999999999999,
+   "fin": 569.74,
+   "texto": "pero él decide hacer una cosa mucho más académica, analítica,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 570.18,
+   "fin": 573.5799999999999,
+   "texto": "pero siempre está esta cosa de lo otro que lo hagan otras personas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 573.58,
+   "fin": 581.46,
+   "texto": "Tenemos mucho trabajo que hacer y creo que es un trabajo colectivo o compartido de alguna manera diciendo yo llego hasta aquí y que sigan otras o otros.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 582.1,
+   "fin": 589.74,
+   "texto": "Y cuenta en el prólogo también que él nunca ha pronunciado la expresión soy hijo de inmigrantes por la extrañeza que esta expresión le supone,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 589.9200000000001,
+   "fin": 598.62,
+   "texto": "también por la escisión que él siente en su propia identidad, pero explica cómo se entrelaza su historia con la historia de los migrantes, las fronteras o los conflictos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 598.62,
+   "fin": 613.84,
+   "texto": "Su abuelo migró de Líbano a Estados Unidos cuando tenía ocho años, en 1877, pero más tarde regresó, así que sus padres nacieron en Líbano, pero luego se volvieron a trasladar a Estados Unidos en 1955 con la intención de volver, pero luego nunca pudieron hacerlo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 613.84,
+   "fin": 619.2800000000001,
+   "texto": "Y ya empezando a glosar partes específicas del texto, os leo una cita que dice",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 619.2800000000001,
+   "fin": 630.52,
+   "texto": "Mis hermanas y yo nos criamos como portadores inconscientes de extravagancias, dichos, jergas, hábitos y costumbres británicas, francesas, bizantinas y libanesas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 630.98,
+   "fin": 637.88,
+   "texto": "Éramos ortodoxos griegos, es decir, árabes cristianos, lo que nos convertía para muchos en una paradoja que anulaba el yo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 638.36,
+   "fin": 642.46,
+   "texto": "En casa hablábamos una mezcla de inglés, francés y árabe levantino.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 642.46,
+   "fin": 644.94,
+   "texto": "por esto esta idea de la confusión y de la",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 644.94,
+   "fin": 647.0400000000001,
+   "texto": "escisión, de la sensación de no saber",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 647.0400000000001,
+   "fin": 649.1600000000001,
+   "texto": "dónde encajar, él dice que en ese momento",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 649.1600000000001,
+   "fin": 650.98,
+   "texto": "se está viviendo en Estados Unidos una",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 650.98,
+   "fin": 653.0600000000001,
+   "texto": "batalla brutal contra",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 653.0600000000001,
+   "fin": 654.88,
+   "texto": "los afroamericanos que están sufriendo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 654.88,
+   "fin": 657.02,
+   "texto": "muchísimo racismo y que él no sentía",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 657.02,
+   "fin": 659.08,
+   "texto": "que pudiera, no estaba tan legitimado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 659.08,
+   "fin": 661.1,
+   "texto": "a denunciar el racismo como",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 661.1,
+   "fin": 662.96,
+   "texto": "luchas de otros colectivos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 662.96,
+   "fin": 665.1600000000001,
+   "texto": "como el antisemitismo también que se estaba dando",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 665.1600000000001,
+   "fin": 666.98,
+   "texto": "entonces él siente que no",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 666.98,
+   "fin": 668.6800000000001,
+   "texto": "fue asimilado sino que lo llama",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 668.6800000000001,
+   "fin": 671.26,
+   "texto": "autoaniquilación, que es la voluntad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 671.26,
+   "fin": 673.3199999999999,
+   "texto": "de escapar a tu condición de extranjero.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 673.84,
+   "fin": 677.9,
+   "texto": "Y aunque sus padres siempre quisieron volver, no pudieron hacerlo, como decía, por la guerra",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 677.9,
+   "fin": 681.9399999999999,
+   "texto": "de Líbano, que además mató y tuvo mucho impacto en muchos miembros de su familia.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 682.4399999999999,
+   "fin": 687.62,
+   "texto": "Y es esta experiencia la que le inclina a obsesionarse desde muy joven por cómo gente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 687.62,
+   "fin": 692.48,
+   "texto": "normal puede convertirse en asesina de un día para otra, que es lo que él cuenta que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 692.48,
+   "fin": 693.66,
+   "texto": "sucedió en esta guerra.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 693.66,
+   "fin": 698.12,
+   "texto": "Que una de sus tías, dependiendo de dónde estuviera tu casa, eras blanco de unos o de",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 698.12,
+   "fin": 703.36,
+   "texto": "otros, no dependía tanto de quién era, sino que simplemente es una cosa que empieza una espiral",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 703.36,
+   "fin": 707.94,
+   "texto": "de violencia que de repente nadie entiende, pero que ha explotado a puntos inimaginables.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 707.96,
+   "fin": 712.64,
+   "texto": "Duró como 15 años, cuenta en el libro. Sí, él cuenta también que él era una persona claramente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 712.64,
+   "fin": 716.6,
+   "texto": "estadounidense y un adolescente estadounidense y que en esa voluntad de escapar de su condición",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 716.6,
+   "fin": 721.18,
+   "texto": "de extranjero, pues dice me dejé el pelo largo, me obsesioné con el rock and roll, o sea, da una",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 721.18,
+   "fin": 726.16,
+   "texto": "serie de características que se alejan de las tradiciones que están en su casa y en su familia.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 726.16,
+   "fin": 739.24,
+   "texto": "Claro, y además lo doloroso de esto, que también lo comenta, es que aunque él esté llevando a cabo ese ejercicio de autoaniquilación, como lo llama, se topa cuando va a la escuela de medicina porque quiere el psiquiatra y va su padre con él o algo así.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 739.74,
+   "fin": 740.6999999999999,
+   "texto": "En Harvard, además.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 741.0,
+   "fin": 747.16,
+   "texto": "Sí, creo que hay una experiencia en la que la persona, el señor que mandara allí, le dice a su padre, ¿tú te crees que este chaval…?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 748.0,
+   "fin": 755.1,
+   "texto": "Que el racismo lo sufre constantemente incluso con el ejercicio de intentar escapar de ello.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 755.1,
+   "fin": 759.7,
+   "texto": "Pues Macari encuentra su propia historia en el concepto de xenofobia y dice",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 759.7,
+   "fin": 767.98,
+   "texto": "Xenofobia es una palabra repleta de exiliados arrojados al mar, de sueños con un buen recibimiento y del relampagueante fantasma de la violencia.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 768.5600000000001,
+   "fin": 772.94,
+   "texto": "En toda su extensa amplitud caben mi tocayo que emigró a Texas, que era su abuelo,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 773.48,
+   "fin": 779.52,
+   "texto": "mis desconcertados padres, a menudo perdidos en Nueva Jersey, un novato en su primer año de instituto,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 779.88,
+   "fin": 784.6600000000001,
+   "texto": "hirgiéndose en el asiento cuando las noticias inauguraban en la radio una década de guerra civil,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 784.66,
+   "fin": 789.0799999999999,
+   "texto": "porque él yendo en el coche y en el instituto empieza a escuchar noticias sobre el Líbano",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 789.0799999999999,
+   "fin": 793.48,
+   "texto": "y en un primer momento se alegra porque dice, ah, qué bien, mi país sale en las noticias",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 793.48,
+   "fin": 796.28,
+   "texto": "e inmediatamente después se da cuenta de que es por lo que acaba de empezar.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 796.9599999999999,
+   "fin": 802.26,
+   "texto": "Y dice, y finalmente el descendiente de todos ellos, un psiquiatra que al escuchar los gritos estridentes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 802.26,
+   "fin": 805.5,
+   "texto": "y crecientes de la división, necesitó recordar y comprender.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 806.24,
+   "fin": 810.56,
+   "texto": "Entonces este es un poco el momento en el que surge el libro, en esta escisión identitaria para él",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 810.56,
+   "fin": 813.8399999999999,
+   "texto": "y en este darse cuenta que el concepto de xenofobia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 813.8399999999999,
+   "fin": 817.1199999999999,
+   "texto": "tiene la suficiente chicha como para tirar del hilo,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 817.2199999999999,
+   "fin": 818.5999999999999,
+   "texto": "que es lo que un poco también vamos a hacer hoy aquí",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 818.5999999999999,
+   "fin": 819.9599999999999,
+   "texto": "y explicar un montón de cosas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 820.38,
+   "fin": 820.5799999999999,
+   "texto": "Claro.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 821.0799999999999,
+   "fin": 822.26,
+   "texto": "Como esta glosa es más larga,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 822.3399999999999,
+   "fin": 824.3399999999999,
+   "texto": "porque nosotras normalmente tenemos glosas de media hora.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 824.56,
+   "fin": 826.04,
+   "texto": "Pero no os íbamos a tener aquí solo media hora,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 826.14,
+   "fin": 828.16,
+   "texto": "porque habéis venido, habéis atravesado el diluvio universal.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 828.68,
+   "fin": 830.5999999999999,
+   "texto": "Entonces os vamos a tener el doble, ni más ni menos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 831.9399999999999,
+   "fin": 835.0799999999999,
+   "texto": "Porque normalmente iríamos directamente ya a nuestro capítulo 14,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 835.18,
+   "fin": 836.14,
+   "texto": "que es lo que vamos a glosar,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 836.14,
+   "fin": 837.8,
+   "texto": "pero como tenemos más margen,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 837.8,
+   "fin": 840.4799999999999,
+   "texto": "esto nos da la oportunidad para contextualizar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 840.4799999999999,
+   "fin": 842.4,
+   "texto": "el libro antes de meternos en este capítulo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 842.4,
+   "fin": 844.3399999999999,
+   "texto": "concreto y queremos explicar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 844.3399999999999,
+   "fin": 845.9599999999999,
+   "texto": "un momento cómo se organiza el libro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 845.9599999999999,
+   "fin": 847.74,
+   "texto": "porque ya hemos explicado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 847.74,
+   "fin": 850.3599999999999,
+   "texto": "la parte favorita de la glosa de Inés es explicar cómo se organiza",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 850.3599999999999,
+   "fin": 850.4,
+   "texto": "el libro",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 850.4,
+   "fin": 852.9799999999999,
+   "texto": "ha elegido",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 852.9799999999999,
+   "fin": 856.3,
+   "texto": "igual hay otras tablas en el libro pero el único",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 856.3,
+   "fin": 858.1999999999999,
+   "texto": "capítulo que tenía una tabla explicativa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 858.1999999999999,
+   "fin": 859.54,
+   "texto": "vale Inés",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 859.54,
+   "fin": 862.4799999999999,
+   "texto": "pero esa tabla es la más grande",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 862.4799999999999,
+   "fin": 866.3399999999999,
+   "texto": "ojalá glosar un día solo una tabla",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 866.34,
+   "fin": 870.46,
+   "texto": "Eso se podría hacer, sí. Si alguien tiene una tabla por ahí que le parece interesante.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 870.98,
+   "fin": 871.52,
+   "texto": "Que nos la mande.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 871.5600000000001,
+   "fin": 872.2800000000001,
+   "texto": "Que nos la mande, sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 872.74,
+   "fin": 877.02,
+   "texto": "Entonces, bueno, como ya hemos dicho, en un primer momento está el prólogo, que hemos comentado algunas cosas de este texto.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 877.5,
+   "fin": 879.5,
+   "texto": "Luego está la primera parte, la segunda y la tercera.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 879.9200000000001,
+   "fin": 887.84,
+   "texto": "En la primera nos vamos a centrar bastante ahora, así que vais a ver lo que propone, porque habla de los orígenes de la xenofobia y vemos cómo se construye la historia de la palabra.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 888.4200000000001,
+   "fin": 896.1800000000001,
+   "texto": "La segunda parte, esta nos la vamos a saltar más, son capítulos distintos entre sí en los que Macari se centra en ver qué hay dentro de la mente xenófoba.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 896.18,
+   "fin": 905.8399999999999,
+   "texto": "Y para ello recurre a investigaciones de la psicología, de la filosofía, de la sociología, de diferentes miradas que se han hecho esta pregunta desde el ámbito, digamos, académico o analítico.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 906.7199999999999,
+   "fin": 915.7199999999999,
+   "texto": "Se han preguntado por qué sentimos este miedo hacia los extranjeros, por qué se da la xenofobia, con siempre esta idea de que si descubrimos por qué podremos pararlo, podremos hacer algo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 915.72,
+   "fin": 932.9,
+   "texto": "Se habla de autores concretos como Pablo Walter Lippmann, que es un chico que, esto me gustó mucho estos capítulos, desarrolla el concepto de estereotipo en Estados Unidos y analizan mucho el tema de cómo se construye el estereotipo racista acerca de las diferentes comunidades.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 932.9,
+   "fin": 941.14,
+   "texto": "habla también de Simmel, de Adorno, de Sartre, de Simone de Beauvoir, de Albert Memmi, de Fran Fanon, de Foucault, de mucha gente.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 941.68,
+   "fin": 946.52,
+   "texto": "Y luego en la tercera parte que es donde se encuentra el capítulo que vamos a glosar que se llama ¿Por qué los odiamos?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 946.52,
+   "fin": 952.74,
+   "texto": "Y también un capítulo final en el que hace un recorrido de la xenofobia actualmente analizando cuestiones contemporáneas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 952.74,
+   "fin": 956.9399999999999,
+   "texto": "como a Donald Trump, el Brexit, crisis de refugiados y otras muchas cosas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 956.94,
+   "fin": 958.6,
+   "texto": "y luego está La Coda",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 958.6,
+   "fin": 960.6800000000001,
+   "texto": "que me gustó mucho también, la verdad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 960.6800000000001,
+   "fin": 962.1,
+   "texto": "también muy personal",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 962.1,
+   "fin": 964.1800000000001,
+   "texto": "porque su mujer tiene una casa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 964.1800000000001,
+   "fin": 965.86,
+   "texto": "en el Pirineo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 965.86,
+   "fin": 969.1800000000001,
+   "texto": "su familia también son exiliados argentinos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 969.1800000000001,
+   "fin": 970.44,
+   "texto": "creo, y compraron una casa allí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 970.44,
+   "fin": 972.6400000000001,
+   "texto": "y cuenta la historia de Walter Benjamin",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 972.6400000000001,
+   "fin": 974.82,
+   "texto": "que huyó de los nazis y finalmente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 974.82,
+   "fin": 977.0400000000001,
+   "texto": "se terminó suicidando en Portbou",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 977.0400000000001,
+   "fin": 978.82,
+   "texto": "no sé cómo se dirá, que creo que es",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 978.82,
+   "fin": 981.1400000000001,
+   "texto": "en Cataluña, no recuerdo exactamente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 981.1400000000001,
+   "fin": 982.94,
+   "texto": "dónde, pero huía de los nazis",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 982.94,
+   "fin": 985.0200000000001,
+   "texto": "y se encontró con los franquistas y cuenta un poco",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 985.0200000000001,
+   "fin": 986.82,
+   "texto": "la idea de esta, bueno, la",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 986.82,
+   "fin": 992.5200000000001,
+   "texto": "historia de esta huida. Mal momento, ¿eh? Sí, no había dónde ir. Y entonces vamos a centrarnos un",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 992.5200000000001,
+   "fin": 997.5600000000001,
+   "texto": "momento en la primera parte para ver la historia de la xenofobia. Claro, es verdad que esto nos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 997.5600000000001,
+   "fin": 1003.1800000000001,
+   "texto": "sirve mucho de contexto para luego glosar el capítulo concreto, y es que el término xenofobia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1003.1800000000001,
+   "fin": 1007.7800000000001,
+   "texto": "no aparece en textos de la antigüedad que hayan llegado hasta nuestros días. De hecho, Macari hace",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1007.7800000000001,
+   "fin": 1011.9000000000001,
+   "texto": "toda una labor de irse a archivos, da muchas gracias en el libro a los bibliotecarios y bibliotecarias,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1012.2800000000001,
+   "fin": 1016.62,
+   "texto": "para ir a rastrear si alguna vez en algún texto que nos haya llegado de la antigüedad alguien",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1016.62,
+   "fin": 1022.74,
+   "texto": "dijo la palabra xenofobia o alguna cosa parecida. Y parece que la palabra no nace en la antigua",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1022.74,
+   "fin": 1027.72,
+   "texto": "Grecia, sino que tenemos que viajar, dar un salto muy grande al siglo XIX para empezar a ver un uso",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1027.72,
+   "fin": 1033.36,
+   "texto": "un poco más común. Y es que en el siglo XIX se da esta explosión de las fobias. A todo era una",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1033.36,
+   "fin": 1037.6,
+   "texto": "fobia. Si una persona tenía miedo a algo, se le colocaba la etiqueta de X-fobia, lo que fuera.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1038.06,
+   "fin": 1044.9,
+   "texto": "Y la xenofobia surge como un miedo patológico, que es el pánico mórbido a encontrarse con extraños.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1044.9,
+   "fin": 1047.64,
+   "texto": "esta es una definición de uno de los diccionarios médicos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1047.64,
+   "fin": 1049.3200000000002,
+   "texto": "que pululaban por la época",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1049.3200000000002,
+   "fin": 1051.2,
+   "texto": "y más tarde enseguida",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1051.2,
+   "fin": 1053.38,
+   "texto": "se desacredita ese frenesí de nombrar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1053.38,
+   "fin": 1054.92,
+   "texto": "fobias y ponerle fobia a todo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1054.92,
+   "fin": 1057.5800000000002,
+   "texto": "porque yo creo que la gente dijo hay que parar este carro",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1057.5800000000002,
+   "fin": 1059.26,
+   "texto": "porque si no todo va a ser una fobia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1059.26,
+   "fin": 1060.94,
+   "texto": "no cualquier miedo es una fobia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1060.94,
+   "fin": 1062.7800000000002,
+   "texto": "me estoy acuerdando de que Paula se metió",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1062.7800000000002,
+   "fin": 1065.8200000000002,
+   "texto": "hizo risa sobre la aceitunofobia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1065.8200000000002,
+   "fin": 1067.0,
+   "texto": "en punzadas sonoras",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1067.0,
+   "fin": 1069.24,
+   "texto": "y molestaste al colectivo de la gente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1069.24,
+   "fin": 1070.9,
+   "texto": "que es aceitunofóboba",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1070.9,
+   "fin": 1073.66,
+   "texto": "hubo gente que dijo que no te rieras de los miedos de la gente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1073.66,
+   "fin": 1074.0800000000002,
+   "texto": "Es que...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1074.0800000000002,
+   "fin": 1075.22,
+   "texto": "Pero es que...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1075.22,
+   "fin": 1076.5600000000002,
+   "texto": "Bueno, yo lo siento mucho.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1076.66,
+   "fin": 1077.8000000000002,
+   "texto": "Es gracioso la aceitunofobia.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1078.0,
+   "fin": 1080.0800000000002,
+   "texto": "Es que me voy a tener que poner como un señor que dice",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1080.0800000000002,
+   "fin": 1081.28,
+   "texto": "ya no se puede decir nada.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1083.16,
+   "fin": 1084.5400000000002,
+   "texto": "Hombre, está aquí mi amigo Gonzalo,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1084.64,
+   "fin": 1086.5800000000002,
+   "texto": "que es el jefe de los aceitunófobos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1086.6000000000001,
+   "fin": 1088.1200000000001,
+   "texto": "y a Gonzalo no le pasó nada.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1088.22,
+   "fin": 1090.02,
+   "texto": "Espero que no haya ninguna pizza con aceituno",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1090.02,
+   "fin": 1090.8200000000002,
+   "texto": "por el bien de Gonzalo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1091.02,
+   "fin": 1091.22,
+   "texto": "¡Ay!",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1091.7,
+   "fin": 1093.14,
+   "texto": "Ya, y no lo estás pasando bien, ¿eh?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1093.24,
+   "fin": 1094.02,
+   "texto": "Ya, pobrecito.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1095.1000000000001,
+   "fin": 1097.4,
+   "texto": "Bueno, sí es verdad que recibimos comentarios estrambóticos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1097.5400000000002,
+   "fin": 1097.8400000000001,
+   "texto": "pero, hombre...",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1097.8400000000001,
+   "fin": 1099.02,
+   "texto": "No, pero me hace...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1099.02,
+   "fin": 1100.22,
+   "texto": "O sea, lo decía justo por esto,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1100.22,
+   "fin": 1103.22,
+   "texto": "porque llega un momento que los propios psiquiatras",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1103.66,
+   "fin": 1106.78,
+   "texto": "médicos o quien sea dice vamos a parar con esto porque no puede ser que una persona aparezca",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1106.78,
+   "fin": 1110.92,
+   "texto": "diciendo que tengo miedo a esto y digamos que es una no sé qué fobia porque entonces existían",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1110.92,
+   "fin": 1115.44,
+   "texto": "tantas fobias a todo que se le da una característica más ligada a la enfermedad igual no hay que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1115.44,
+   "fin": 1122.0400000000002,
+   "texto": "magnificar todo tanto algunas cosas sí pero no todo en el año 1880 algunos periodistas de la",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1122.0400000000002,
+   "fin": 1126.8200000000002,
+   "texto": "prensa británica y francesa empiezan a nombrar el grave problema que está empezando a surgir que es",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1126.8200000000002,
+   "fin": 1131.52,
+   "texto": "la xenofobia y la palabra se va alejando poco a poco del ámbito médico y pasa al ámbito político",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1131.52,
+   "fin": 1134.82,
+   "texto": "que es un poco el ámbito en el que creo todavía existe hoy en día.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1135.34,
+   "fin": 1139.58,
+   "texto": "La xenofobia en ese momento se asocia al nacionalismo o a este odio irracional",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1139.58,
+   "fin": 1142.86,
+   "texto": "que las naciones sienten unas contra otras en este momento histórico.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1143.06,
+   "fin": 1144.42,
+   "texto": "Sí, pero el momento...",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1144.42,
+   "fin": 1145.16,
+   "texto": "Aquí viene lo interesante.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1145.34,
+   "fin": 1148.54,
+   "texto": "Sí, el momento que Macari señala donde este concepto,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1148.7,
+   "fin": 1152.24,
+   "texto": "además tanto en francés como en inglés como en español y otros idiomas,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1152.32,
+   "fin": 1155.3,
+   "texto": "se va asentando la palabra es ya a principios del siglo XX",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1155.3,
+   "fin": 1158.8799999999999,
+   "texto": "porque en periódicos franceses se empiezan a publicar noticias",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1158.88,
+   "fin": 1162.0400000000002,
+   "texto": "sobre un movimiento que llaman xenófobo en China.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1162.68,
+   "fin": 1167.3600000000001,
+   "texto": "Y como digo, es aquí donde la palabra empieza a formar parte habitualmente del vocabulario francés",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1167.3600000000001,
+   "fin": 1170.0,
+   "texto": "y se trataba de la revuelta de los boxers,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1170.44,
+   "fin": 1174.1200000000001,
+   "texto": "que fue organizada por un grupo de jóvenes empobrecidos del norte de China",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1174.1200000000001,
+   "fin": 1178.6200000000001,
+   "texto": "que básicamente se hartaron de que un montón de potencias extranjeras diversas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1178.6200000000001,
+   "fin": 1181.92,
+   "texto": "llevaran décadas esquilmando y colonizando su territorio.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1181.92,
+   "fin": 1185.3200000000002,
+   "texto": "Por ejemplo, alemanes, británicos, franceses, rusos, japoneses.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1185.32,
+   "fin": 1189.34,
+   "texto": "Y lo que hacen en este grupo de jóvenes es declararle la guerra a todas ellas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1189.86,
+   "fin": 1193.74,
+   "texto": "Entonces se llevan a cabo un montón de asesinatos diferentes de personas extranjeras.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1193.8999999999999,
+   "fin": 1199.46,
+   "texto": "No daba un poco igual quién fueras y de dónde, sino esta cosa de eres uno de los que vienen de fuera.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1200.1,
+   "fin": 1204.1799999999998,
+   "texto": "Entonces en Francia esto se empieza a contar en los periódicos de la siguiente manera.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1204.46,
+   "fin": 1210.6,
+   "texto": "Se decía un grupo de rebeldes chinos endemoniados y medio locos atacaba a cualquiera que no fuera chino.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1210.6,
+   "fin": 1215.5,
+   "texto": "y esto hace que la palabra xenofobia, que al principio en estos periódicos está en francés,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1215.6599999999999,
+   "fin": 1220.1599999999999,
+   "texto": "se empieza a traducir al inglés, el español, el italiano, el portugués,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1220.52,
+   "fin": 1225.06,
+   "texto": "porque la palabra sirve para explicar el problema que los occidentales,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1225.06,
+   "fin": 1230.3799999999999,
+   "texto": "que supone que llevaban la globalización, la libertad y la tolerancia a todas las partes,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1230.6,
+   "fin": 1234.8999999999999,
+   "texto": "se encontraban en Oriente, de repente llegaban a Oriente y se encontraban con la xenofobia.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1235.04,
+   "fin": 1238.8999999999999,
+   "texto": "O sea, fijaros que es justo el sentido contrario del que tenemos ahora mismo,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1238.9,
+   "fin": 1245.0600000000002,
+   "texto": "porque es un momento en el que el miedo a la xenofobia brota por todas partes.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1245.6200000000001,
+   "fin": 1248.42,
+   "texto": "Por supuesto, en China lo que sucedió es que las potencias coloniales",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1248.42,
+   "fin": 1251.1200000000001,
+   "texto": "se unen y aplastan el levantamiento de manera brutal,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1251.6000000000001,
+   "fin": 1254.96,
+   "texto": "pero hay otros denominados salvajes, semi-humanos,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1255.18,
+   "fin": 1257.66,
+   "texto": "que de repente dicen, ojo, y si se van enfadando todos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1257.66,
+   "fin": 1260.48,
+   "texto": "en un momento de expansión colonial brutal,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1261.38,
+   "fin": 1263.8600000000001,
+   "texto": "pues empiezan a tener miedo de que no solo los chinos,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1263.8600000000001,
+   "fin": 1268.5600000000002,
+   "texto": "sino de repente los indios y otras muchas personas puedan tener esta actitud.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1268.9,
+   "fin": 1271.18,
+   "texto": "xenófoba. Entonces, la xenofobia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1271.18,
+   "fin": 1273.0800000000002,
+   "texto": "designa lo que los pacíficos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1273.0800000000002,
+   "fin": 1274.72,
+   "texto": "colonizadores, que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1274.72,
+   "fin": 1276.8600000000001,
+   "texto": "eran civilizadores, reformadores,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1277.0600000000002,
+   "fin": 1278.8000000000002,
+   "texto": "eran razonables, de repente se",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1278.8000000000002,
+   "fin": 1281.02,
+   "texto": "encontraban cuando llegaban a lugares habitados",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1281.02,
+   "fin": 1282.9,
+   "texto": "por los salvajes. Que es en este",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1282.9,
+   "fin": 1284.92,
+   "texto": "momento en que Macari cuenta que surge",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1284.92,
+   "fin": 1286.9,
+   "texto": "la ciencia racial o la idea",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1286.9,
+   "fin": 1288.8400000000001,
+   "texto": "de la jerarquía racial, pero",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1288.8400000000001,
+   "fin": 1290.88,
+   "texto": "científicamente demostrada. Se empieza a",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1290.88,
+   "fin": 1292.8400000000001,
+   "texto": "decir que no pueden contestar de otra manera",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1292.8400000000001,
+   "fin": 1294.7,
+   "texto": "porque en el fondo son razas inferiores, que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1294.7,
+   "fin": 1296.1000000000001,
+   "texto": "no tienen otra manera de...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1296.1000000000001,
+   "fin": 1298.14,
+   "texto": "Responder ante la llegada de un otro.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1298.14,
+   "fin": 1302.1000000000001,
+   "texto": "Sí, de un otro que además trae libertad, tolerancia, civilización, todo esto.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1302.3600000000001,
+   "fin": 1305.5200000000002,
+   "texto": "Y entonces los salvajes, que son todas esas razas inferiores,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1305.8200000000002,
+   "fin": 1309.5600000000002,
+   "texto": "se califican a los africanos, asiáticos y a todo aquel que no sea occidental,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1310.1000000000001,
+   "fin": 1314.88,
+   "texto": "perciben a los extraños como enemigos y unos enemigos que encima no son capaces de ser tolerantes.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1315.0800000000002,
+   "fin": 1319.74,
+   "texto": "O sea, digamos que se mide biológicamente la incapacidad para la tolerancia.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1320.4,
+   "fin": 1326.5400000000002,
+   "texto": "Y dice Macari, no era posible para quienes se encontraban en el escalafón más bajo de la escalera evolutiva,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1326.54,
+   "fin": 1332.12,
+   "texto": "Como los niños y las mujeres, las razas primitivas caen en emociones primitivas como el miedo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1332.5,
+   "fin": 1335.86,
+   "texto": "No se odian porque están hechos así y tienen una mentalidad racial primitiva.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1336.0,
+   "fin": 1339.02,
+   "texto": "Y todo esto se empieza a medir científicamente, se empieza a justificar.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1339.22,
+   "fin": 1342.54,
+   "texto": "Claro, y es así como la xenofobia se convierte en una herramienta biopolítica",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1343.22,
+   "fin": 1348.02,
+   "texto": "que está muy vinculada, o se vincula, por intereses evidentemente, a la ciencia y a la raza.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1348.3,
+   "fin": 1353.58,
+   "texto": "Y dice Macari, definía quién era un oriental primitivo y quién un occidental civilizado.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1353.58,
+   "fin": 1359.5,
+   "texto": "es decir, se empieza a construir un relato por el cual los misioneros, los comerciantes y los colonos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1359.5,
+   "fin": 1364.84,
+   "texto": "son maltratados por estos anfitriones primitivos cuando precisamente lo que pretenden llevar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1364.84,
+   "fin": 1368.1999999999998,
+   "texto": "es la libertad, la igualdad, la fraternidad, en el caso de los franceses",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1368.1999999999998,
+   "fin": 1372.28,
+   "texto": "y así lo que se hace es que se oculta la violencia y la injusticia a la vez",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1372.28,
+   "fin": 1377.08,
+   "texto": "porque en vez de pensar por qué estallan estas revueltas, o sea, cuál es el motivo real",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1377.08,
+   "fin": 1380.8,
+   "texto": "de que estas personas se rebelen contra estas potencias que van a sus territorios",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1380.8,
+   "fin": 1386.36,
+   "texto": "se explica la xenofobia como una reacción generada precisamente por esta inferioridad biológica",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1386.36,
+   "fin": 1389.52,
+   "texto": "que les viene muy bien inventarse y proponer.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1390.04,
+   "fin": 1395.78,
+   "texto": "La culpa, por tanto, sería de los nativos y, por tanto, estaría a su vez justificado utilizar la violencia contra ellos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1396.32,
+   "fin": 1401.7,
+   "texto": "Macari hace una cosa en el libro que está muy bien, que es que a veces se pone en la voz de los colonos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1401.7,
+   "fin": 1406.04,
+   "texto": "y dice, hemos venido hasta vosotros como extranjeros inocentes, nos habéis atacado,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1406.04,
+   "fin": 1410.92,
+   "texto": "os hemos traído la civilización y el progreso, habéis sido irracionales e intolerantes.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1411.26,
+   "fin": 1414.56,
+   "texto": "O sea que de manera muy directa te explica cuál es el relato que se cuenta.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1415.06,
+   "fin": 1420.7,
+   "texto": "Y dice, por consiguiente, el concepto de xenofobia trabajaría a favor de la expansión de los imperios occidentales.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1421.46,
+   "fin": 1428.36,
+   "texto": "¿Qué pasa? Que poco a poco, a partir de 1900, empiezan a surgir voces que están indignadas con los procesos coloniales y con la ideología colonial.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1429.18,
+   "fin": 1433.3999999999999,
+   "texto": "Tenemos muchísimos ejemplos, y Macari los cita en el libro, de grandes escritores y pensadores,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1433.4,
+   "fin": 1436.6000000000001,
+   "texto": "que además seguro que aquí habéis leído quizás a algunos de ellos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1437.0,
+   "fin": 1440.8600000000001,
+   "texto": "como Tolstoy, Mark Twain, Joseph Conrad, Edmund Morel,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1441.0800000000002,
+   "fin": 1445.3400000000001,
+   "texto": "que empiezan a cambiar un poco el discurso y a criticar esta ideología colonial.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1445.8400000000001,
+   "fin": 1449.46,
+   "texto": "Hay acusaciones muy concretas, específicamente con todas las atrocidades",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1449.46,
+   "fin": 1452.88,
+   "texto": "que se cometieron en el Congo, este llamado holocausto africano,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1453.2800000000002,
+   "fin": 1456.1000000000001,
+   "texto": "que los últimos datos que también se citan aquí apuntan a la muerte",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1456.1000000000001,
+   "fin": 1457.48,
+   "texto": "de unas 10 millones de personas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1458.0600000000002,
+   "fin": 1461.8200000000002,
+   "texto": "Entonces todo esto que está pasando empieza a provocar, menos mal también,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1461.82,
+   "fin": 1464.8,
+   "texto": "una crisis de conciencia con respecto al imperialismo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1465.1399999999999,
+   "fin": 1468.6599999999999,
+   "texto": "Ya no está el imperialismo en su pedestal intocable,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1469.1399999999999,
+   "fin": 1473.3999999999999,
+   "texto": "sino que la xenofobia se empieza a asociar con algo que habla del horror,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1473.86,
+   "fin": 1476.74,
+   "texto": "con esta creencia en la inferioridad, con las teorías raciales,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1476.8799999999999,
+   "fin": 1478.84,
+   "texto": "con la conquista, con el interés económico.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1478.84,
+   "fin": 1481.4399999999998,
+   "texto": "De repente el imperialismo significa todas esas cosas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1481.4399999999998,
+   "fin": 1486.76,
+   "texto": "y ya no solo es voy a llevarte el progreso, la igualdad y los derechos humanos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1487.24,
+   "fin": 1490.28,
+   "texto": "Entonces se empieza a denunciar esta ceguera que había reinado anteriormente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1490.28,
+   "fin": 1499.8799999999999,
+   "texto": "y Macari dice, en las capitales del mundo occidental, la xenofobia, que se atribuía a seres primitivos e inferiores, parecía consumir a pueblos vecinos supuestamente civilizados.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1500.2,
+   "fin": 1505.3799999999999,
+   "texto": "Como que de repente hemos dado la vuelta y nos hemos acercado un poco al concepto que tenemos hoy en día.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1505.72,
+   "fin": 1512.3,
+   "texto": "Sí, de hecho esta parte del libro es muy interesante porque entra a analizar personajes de novela, personajes en la ficción,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1512.44,
+   "fin": 1519.32,
+   "texto": "que empiezan a construir estas personas que intentan darle la vuelta al estereotipo y a la imagen de todos aquellos considerados salvajes y bárbaros.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1519.32,
+   "fin": 1527.36,
+   "texto": "O sea, que me hizo ilusión y me gustó que fuera narrativa de alguna manera en un momento en que decir ciertas cosas en el Imperio Británico no era fácil.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1527.78,
+   "fin": 1532.82,
+   "texto": "Pues fue por ahí por donde mucha gente empezó a dejar sus huellas, sus críticas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1533.3999999999999,
+   "fin": 1542.86,
+   "texto": "Sí que esto lo iremos viendo y lo comentaremos más hacia el final, pero evidentemente la idea del relato está muy presente en el libro y está muy presente también en el análisis que hemos hecho nosotras.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1542.86,
+   "fin": 1547.46,
+   "texto": "De cómo se construyen ciertos relatos que pueden servir tanto de un lado como del otro.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1547.46,
+   "fin": 1549.44,
+   "texto": "y esto es muy interesante de ver",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1549.44,
+   "fin": 1552.48,
+   "texto": "y es verdad que en el libro también tiene carteles",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1552.48,
+   "fin": 1554.3600000000001,
+   "texto": "o sea que se pueden ver en el propio libro",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1554.3600000000001,
+   "fin": 1556.96,
+   "texto": "de pues el racismo que había contra los chinos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1556.96,
+   "fin": 1557.96,
+   "texto": "por ejemplo en Estados Unidos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1557.96,
+   "fin": 1559.94,
+   "texto": "que eran directamente, chinos no",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1559.94,
+   "fin": 1561.9,
+   "texto": "o sea era un mensaje muy directo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1561.9,
+   "fin": 1564.38,
+   "texto": "porque está ese relato del cartel que es muy evidente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1564.38,
+   "fin": 1566.3400000000001,
+   "texto": "y luego analiza también los relatos un poco más",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1566.3400000000001,
+   "fin": 1567.1200000000001,
+   "texto": "sutiles",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1567.1200000000001,
+   "fin": 1570.72,
+   "texto": "que a veces son los más eficientes por otra parte",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1570.72,
+   "fin": 1572.74,
+   "texto": "y que están presentes en las ficciones, en el cine",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1572.74,
+   "fin": 1574.04,
+   "texto": "y en los libros",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1574.04,
+   "fin": 1576.5,
+   "texto": "Sí, y después de este un poco, podríamos decir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1576.5,
+   "fin": 1578.5,
+   "texto": "despertar y esta crítica que Paula decía",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1578.5,
+   "fin": 1580.58,
+   "texto": "a la ideología criminal,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1580.7,
+   "fin": 1582.36,
+   "texto": "iba a decir, también, colonial,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1582.84,
+   "fin": 1584.42,
+   "texto": "al mismo tiempo, dice Macari,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1584.58,
+   "fin": 1586.7,
+   "texto": "que los invasores comienzan a temer",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1586.7,
+   "fin": 1588.6,
+   "texto": "una invasión. ¿Por qué? ¿Qué pasa?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1588.66,
+   "fin": 1590.56,
+   "texto": "Que muchísimos extranjeros que antes estaban",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1590.56,
+   "fin": 1592.8,
+   "texto": "en las colonias y eran seres lejanos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1592.8,
+   "fin": 1594.64,
+   "texto": "a los que no había que ver, de repente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1594.64,
+   "fin": 1596.9,
+   "texto": "empiezan, por la mejora de los transportes",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1596.9,
+   "fin": 1599.12,
+   "texto": "y otras cuestiones, a llegar a las metrópolis.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1599.28,
+   "fin": 1601.02,
+   "texto": "Es decir, empieza a haber una gran inmigración.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1601.44,
+   "fin": 1603.0,
+   "texto": "Y la reacción de muchas naciones",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1603.0,
+   "fin": 1604.6,
+   "texto": "que previamente habían sido",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1604.6,
+   "fin": 1611.1599999999999,
+   "texto": "representantes de la tolerancia y la libertad, fue decir qué miedo llegan desde allí los salvajes,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1611.26,
+   "fin": 1614.9399999999998,
+   "texto": "la violencia, empieza a haber muchas protestas, también muchos actos violentos en las calles,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1615.34,
+   "fin": 1620.08,
+   "texto": "y en este caso la xenofobia tiene que ver con, se ve muy bien que empiezan a surgir grupos como la",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1620.08,
+   "fin": 1625.6599999999999,
+   "texto": "Liga Nacional Antisemita en Francia, lo que decía Paula, en Estados Unidos empieza a haber una cosa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1625.6599999999999,
+   "fin": 1630.74,
+   "texto": "brutal acerca del peligro chino, de hecho se acaba promulgando una ley, la ley de exclusión china,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1630.74,
+   "fin": 1638.6,
+   "texto": "hay muchísima violencia contra los afroamericanos, surge y está en auge el Ku Klux Klan, que también cuenta Macari cosas acerca de esto,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1639.2,
+   "fin": 1648.88,
+   "texto": "y lo que están pensando estas personas a las que les asusta esta llegada de la inmigración, dice Macari, es fuimos a tu país para apoderarnos de tu pasado y controlar tu futuro,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1649.24,
+   "fin": 1656.7,
+   "texto": "y ahora tú vienes al nuestro para hacernos lo mismo. Los invasores empezaron a sentirse invadidos, ningún muro podía protegerlos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1656.7,
+   "fin": 1678.32,
+   "texto": "Y esta situación de miedo a los extranjeros va en aumento, habiendo lo que se denominaba en ese momento, porque Macari analiza mucha prensa, es muy interesante porque se mete mucho en el sentir del momento, se llamaba xenofobia generalizada, que empeoró, por supuesto, en gran medida después de la Primera Guerra Mundial, donde muchas naciones, sabéis, que se sentían humilladas, que habían perdido.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1678.32,
+   "fin": 1684.48,
+   "texto": "y muchas personas destacan que en los años 40 el planeta sufre una oleada tras otra de xenofobia,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1684.7,
+   "fin": 1685.98,
+   "texto": "como oleadas constantes.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1686.4399999999998,
+   "fin": 1691.04,
+   "texto": "Y Macari explica en este momento en el libro cómo conduce todo esto al holocausto,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1691.04,
+   "fin": 1696.04,
+   "texto": "a todo lo que sucedió con los nazis, como momento algido en que la ciencia racial,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1696.3,
+   "fin": 1700.52,
+   "texto": "que hasta ese momento quizá había sido algo más teórico, una manera de explicar,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1701.0,
+   "fin": 1704.1399999999999,
+   "texto": "se vuelve algo que se ha aplicado en la realidad.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1704.14,
+   "fin": 1706.0400000000002,
+   "texto": "no lo vamos a contar aquí porque tampoco",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1706.0400000000002,
+   "fin": 1708.6200000000001,
+   "texto": "nos estamos saltando evidentemente muchas cosas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1708.6200000000001,
+   "fin": 1710.3000000000002,
+   "texto": "si queréis ver en profundidad cómo se explica",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1710.3000000000002,
+   "fin": 1712.9,
+   "texto": "también se habla mucho de la conquista de América",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1712.9,
+   "fin": 1714.94,
+   "texto": "de la llegada de los españoles allí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1714.94,
+   "fin": 1716.1200000000001,
+   "texto": "de Bartolomé de las Casas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1716.1200000000001,
+   "fin": 1716.9,
+   "texto": "Ayuso a favor",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1716.9,
+   "fin": 1720.1200000000001,
+   "texto": "ay que la han echado, que risa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1720.1200000000001,
+   "fin": 1722.48,
+   "texto": "cómo se puede ser tan ridícula",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1722.48,
+   "fin": 1724.16,
+   "texto": "es que esa persona no necesita oposiciones",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1724.16,
+   "fin": 1725.9,
+   "texto": "no, no, se la hace ella sola",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1725.9,
+   "fin": 1728.44,
+   "texto": "qué ridícula, este libro se tenía que leer Ayuso",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1728.44,
+   "fin": 1730.6000000000001,
+   "texto": "igual se lo podemos regalar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1730.6000000000001,
+   "fin": 1732.3400000000001,
+   "texto": "no, que se lo compre, qué cojones",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1732.34,
+   "fin": 1733.9599999999998,
+   "texto": "Yo me...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1733.9599999999998,
+   "fin": 1735.3799999999999,
+   "texto": "O sea, me...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1735.3799999999999,
+   "fin": 1736.6599999999999,
+   "texto": "¿Sabes cómo se dice en los Juegos del Hambre?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1736.6999999999998,
+   "fin": 1738.22,
+   "texto": "Me presento voluntaria como tributo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1738.24,
+   "fin": 1738.4599999999998,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1738.82,
+   "fin": 1739.3,
+   "texto": "¿Para qué?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1739.4599999999998,
+   "fin": 1740.6599999999999,
+   "texto": "Para leérselo a la oreja.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1742.1399999999999,
+   "fin": 1743.24,
+   "texto": "Ay, me encantaría esto.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1743.34,
+   "fin": 1744.1799999999998,
+   "texto": "Sería muy gracioso.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1744.34,
+   "fin": 1745.9599999999998,
+   "texto": "Ella como acostada en la cama tapada.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1745.9599999999998,
+   "fin": 1746.8799999999999,
+   "texto": "En un diván de psicoanálisis.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1747.1599999999999,
+   "fin": 1747.52,
+   "texto": "Tapadita.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1747.78,
+   "fin": 1748.0,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1748.1799999999998,
+   "fin": 1748.8999999999999,
+   "texto": "Y yo se lo leo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1748.9599999999998,
+   "fin": 1749.1799999999998,
+   "texto": "Vale.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1749.6399999999999,
+   "fin": 1750.32,
+   "texto": "O sea, susurrando.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1750.4399999999998,
+   "fin": 1754.02,
+   "texto": "En plan, como con amor, pero con el mensaje.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1754.1999999999998,
+   "fin": 1755.6,
+   "texto": "El mensaje sutil.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1755.74,
+   "fin": 1755.8799999999999,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1756.1999999999998,
+   "fin": 1756.56,
+   "texto": "En fin.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1756.74,
+   "fin": 1759.28,
+   "texto": "Bueno, gracias a toda esa gente que la ha echado y la dejó en ridículo, ¿no?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1759.28,
+   "fin": 1760.52,
+   "texto": "Porque, claro, es lo que es.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1760.52,
+   "fin": 1761.86,
+   "texto": "Sí, bueno, un beso desde aquí, por supuesto.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1761.86,
+   "fin": 1764.1799999999998,
+   "texto": "Sí. A los mexicanos no hay uso.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1766.4399999999998,
+   "fin": 1773.1799999999998,
+   "texto": "Bueno, ahora os hemos hecho un poco esta historia un poco más extendida y nos hemos detenido en algunos momentos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1773.36,
+   "fin": 1775.8,
+   "texto": "pero es para que veáis los cambios en el significado de la palabra,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1776.34,
+   "fin": 1778.9599999999998,
+   "texto": "que para mí ha sido una de las grandes cosas que he aprendido con este libro.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1779.32,
+   "fin": 1786.6,
+   "texto": "No me había planteado de dónde había surgido la palabra xenofobia y me ha sorprendido mucho ver que el origen es justo lo contrario de lo que tenemos ahora.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1786.6,
+   "fin": 1816.56,
+   "texto": "Entonces teníamos la xenofobia como trastorno médico, la xenofobia como un prejuicio entre naciones que son rivales y que está presente todo esto del nacionalismo, la xenofobia racial que está ligado a todo esto que ha contado Inés de las revueltas de los boxes y otros pueblos colonizados que se rebelan contra el imperialismo y la xenofobia anti-inmigración que tendría mucho que ver con estos residentes de naciones occidentales que son intolerantes y que atacan esas minorías extranjeras que llegan a sus países, pues migrantes, refugiados, muchas personas que venían de las",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1816.56,
+   "fin": 1818.4199999999998,
+   "texto": "propias colonias de esas naciones",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1818.4199999999998,
+   "fin": 1820.52,
+   "texto": "y es que la supuesta ética de la tolerancia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1820.52,
+   "fin": 1822.26,
+   "texto": "que habían promulgado, pues como",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1822.26,
+   "fin": 1824.3,
+   "texto": "contó Guinness, se derrumba, porque consideran",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1824.3,
+   "fin": 1826.5,
+   "texto": "que los extranjeros son sospechosos y amenazan",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1826.5,
+   "fin": 1828.32,
+   "texto": "a su nación. Y toda esta historia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1828.32,
+   "fin": 1830.28,
+   "texto": "es verdad que desemboca en el",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1830.28,
+   "fin": 1832.26,
+   "texto": "holocausto y en esta cosa de después de",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1832.26,
+   "fin": 1833.6599999999999,
+   "texto": "Auschwitz, que es lo que se piensa,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1834.26,
+   "fin": 1835.96,
+   "texto": "porque hay todas las imágenes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1835.96,
+   "fin": 1838.28,
+   "texto": "devastadoras, las",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1838.28,
+   "fin": 1840.06,
+   "texto": "imágenes que todos conocemos de los cuerpos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1840.06,
+   "fin": 1842.28,
+   "texto": "esqueléticos y de la pesadilla que se vive ahí,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1842.82,
+   "fin": 1844.2,
+   "texto": "pues le da una nueva",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1844.2,
+   "fin": 1845.96,
+   "texto": "capa de maldad,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1845.96,
+   "fin": 1850.06,
+   "texto": "de perversión, de sadismo, de odio y de crueldad a la xenofobia.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1850.24,
+   "fin": 1852.54,
+   "texto": "Y entonces ahí se va fijando un poco más el concepto.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1852.92,
+   "fin": 1855.42,
+   "texto": "Entonces vemos así que esta palabra se ha utilizado mucho,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1855.56,
+   "fin": 1857.78,
+   "texto": "se ha olvidado, se ha recuperado, se reformula,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1858.3400000000001,
+   "fin": 1862.94,
+   "texto": "cambia mucho, que es parte del motivo por el que esta persona decide escribir este libro,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1863.08,
+   "fin": 1863.54,
+   "texto": "porque dice",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1863.54,
+   "fin": 1866.16,
+   "texto": "La xenofobia acechaba entre las gritas de la historia.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1866.6200000000001,
+   "fin": 1870.04,
+   "texto": "Invisible por un tiempo, reaparecía ocasionalmente con brusquedad",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1870.04,
+   "fin": 1873.38,
+   "texto": "para ocasionar destrozos y volver a desaparecer.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1873.8,
+   "fin": 1875.58,
+   "texto": "Pese a sus incontables víctimas,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1875.58,
+   "fin": 1878.22,
+   "texto": "la naturaleza de esta bestia seguía siendo esquiva.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1878.6,
+   "fin": 1880.86,
+   "texto": "Solo estaba claro que si el pasado servía de guía,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1881.04,
+   "fin": 1882.3799999999999,
+   "texto": "sin duda golpearía de nuevo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1883.58,
+   "fin": 1886.1999999999998,
+   "texto": "Y una vez visto un poco esta historia que ya digo que hemos resumido,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1886.3,
+   "fin": 1888.4399999999998,
+   "texto": "si os interesa, está muy bien porque va contando",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1888.4399999999998,
+   "fin": 1890.48,
+   "texto": "muchos ejemplos específicos históricos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1890.9199999999998,
+   "fin": 1892.04,
+   "texto": "Nos vamos a meter en materia,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1892.6399999999999,
+   "fin": 1896.26,
+   "texto": "porque en mi propio fascismo dentro de punzadas...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1896.26,
+   "fin": 1898.1999999999998,
+   "texto": "Sí, vivo en una dictadura.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1898.8799999999999,
+   "fin": 1901.06,
+   "texto": "Las categorías de los episodios se tienen que seguir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1901.06,
+   "fin": 1902.62,
+   "texto": "como si fuera la mili de la mente.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1902.62,
+   "fin": 1904.62,
+   "texto": "Sí, es verdad, tenemos categorías para todas las losas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1904.62,
+   "fin": 1905.6999999999998,
+   "texto": "y Inés haciendo el guión me decía,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1905.9599999999998,
+   "fin": 1907.56,
+   "texto": "¿has visto lo que he puesto en Nos metemos en materia?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1907.6799999999998,
+   "fin": 1908.8999999999999,
+   "texto": "Y yo, Inés, yo no sé qué sección es esa.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1909.9399999999998,
+   "fin": 1912.26,
+   "texto": "Para mí todo es un río que baja.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1912.4399999999998,
+   "fin": 1912.8999999999999,
+   "texto": "Sí, sí, total.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1913.04,
+   "fin": 1914.06,
+   "texto": "Inés tiene cajitas en su casa.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1914.06,
+   "fin": 1915.4199999999998,
+   "texto": "No menos mal que somos así distintas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1915.5,
+   "fin": 1916.4799999999998,
+   "texto": "No, mira, si no sería un...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1916.4799999999998,
+   "fin": 1919.2199999999998,
+   "texto": "Yo soy un pantano hecho por la mano del ser humano.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1919.54,
+   "fin": 1920.1799999999998,
+   "texto": "Y tú eres un río.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1920.58,
+   "fin": 1921.86,
+   "texto": "Es un pantano de Franco, ¿eh?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1921.8999999999999,
+   "fin": 1922.8,
+   "texto": "Ay, qué feo, Paula, eso.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1924.3999999999999,
+   "fin": 1925.34,
+   "texto": "Y yo soy un río.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1925.6,
+   "fin": 1925.9199999999998,
+   "texto": "Me gusta.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1926.02,
+   "fin": 1927.52,
+   "texto": "Claro, te ha tocado la mejor parte.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1927.6599999999999,
+   "fin": 1929.52,
+   "texto": "Hay un momento en la historia de Punzadas Sonoras",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1929.52,
+   "fin": 1931.58,
+   "texto": "en la que decías que tú eras un ratón de campo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1931.58,
+   "fin": 1932.6399999999999,
+   "texto": "y yo una rata de ciudad.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1932.9199999999998,
+   "fin": 1933.7199999999998,
+   "texto": "Por tanto...",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1933.72,
+   "fin": 1935.6200000000001,
+   "texto": "No estamos tampoco ahora para hablar de ratones, igual.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1935.72,
+   "fin": 1938.0,
+   "texto": "No, perdón. Es verdad. Cancelo, cancelo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1938.06,
+   "fin": 1939.2,
+   "texto": "Cancelo, botón de cancelar.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1939.32,
+   "fin": 1941.48,
+   "texto": "Sí. Bueno, metámonos en materia.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1942.5,
+   "fin": 1944.22,
+   "texto": "Porque vamos a repetir, que ya lo hemos dicho mil veces,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1944.38,
+   "fin": 1948.38,
+   "texto": "pero para que tengáis siempre presente que glosamos el capítulo 14 del libro,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1948.48,
+   "fin": 1949.9,
+   "texto": "que se llama ¿Por qué los odiamos?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1950.26,
+   "fin": 1953.54,
+   "texto": "Y se enmarca en la tercera parte, que se llama El regreso del extranjero.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1953.82,
+   "fin": 1956.96,
+   "texto": "Entonces vamos a contaros un poco en profundidad esta parte del texto que vamos a glosar.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1957.34,
+   "fin": 1960.98,
+   "texto": "A grandes rasgos, el capítulo se va organizando de la siguiente manera.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1961.08,
+   "fin": 1962.32,
+   "texto": "Por supuesto, lo he puesto con números, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1962.32,
+   "fin": 1964.5,
+   "texto": "uno, dos, tres, cuatro, pues lo iremos contando.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1964.7,
+   "fin": 1966.06,
+   "texto": "Es que me hago gracia a mí misma, ¿eh?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1966.06,
+   "fin": 1967.62,
+   "texto": "Soy como... Soy ridícula también.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1968.02,
+   "fin": 1969.1599999999999,
+   "texto": "No, está genial.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1969.5,
+   "fin": 1972.62,
+   "texto": "Es que, perdón, no tenemos tanto tiempo como para tanto chascarrillo,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1972.8,
+   "fin": 1975.06,
+   "texto": "pero yo hago un guión de punzadas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1975.48,
+   "fin": 1976.84,
+   "texto": "Inés me dice, no está ordenado.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1977.02,
+   "fin": 1978.36,
+   "texto": "Le pongo números, no cambio nada.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1978.48,
+   "fin": 1980.32,
+   "texto": "Le pongo números y me dice, perfecto, ya está.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1980.48,
+   "fin": 1982.04,
+   "texto": "Estoy lista para contarlo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1982.2,
+   "fin": 1982.6399999999999,
+   "texto": "¿Qué creéis?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1982.9399999999998,
+   "fin": 1984.6799999999998,
+   "texto": "Qué fácil es engañarte también con esto, ¿eh?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1984.6799999999998,
+   "fin": 1986.48,
+   "texto": "Porque tú pones unos guioncitos, unos numeritos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1986.62,
+   "fin": 1987.74,
+   "texto": "unos títulos de las secciones.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1987.8999999999999,
+   "fin": 1988.98,
+   "texto": "Inés ya, mucho mejor, claro.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1989.2,
+   "fin": 1991.4199999999998,
+   "texto": "Es que, ¿cómo vas a... Es contar un texto así, pum.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1991.42,
+   "fin": 1993.66,
+   "texto": "No, ya, te cae como una losa.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1993.92,
+   "fin": 1995.94,
+   "texto": "Sin embargo, le pones unos puntitos, unos guiones.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1996.04,
+   "fin": 1997.46,
+   "texto": "No, no, sí, está precioso.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1997.8400000000001,
+   "fin": 1998.3600000000001,
+   "texto": "Está muy bonito.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1999.66,
+   "fin": 2001.28,
+   "texto": "Entonces, este capítulo...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2001.28,
+   "fin": 2001.44,
+   "texto": "Punto uno.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2001.72,
+   "fin": 2002.16,
+   "texto": "Punto uno.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2002.5800000000002,
+   "fin": 2006.88,
+   "texto": "Este capítulo empieza con justamente lo que acabamos de hacer aquí a vosotras,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2006.96,
+   "fin": 2007.94,
+   "texto": "así que no lo vamos a volver a hacer,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2008.04,
+   "fin": 2011.78,
+   "texto": "que es resumir esta historia de la palabra que ha llevado a cabo en la primera parte.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2011.78,
+   "fin": 2013.78,
+   "texto": "El diagnóstico psiquiátrico, el nacionalismo,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2014.68,
+   "fin": 2017.04,
+   "texto": "las rebeliones contra los considerados salvajes,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2017.04,
+   "fin": 2026.3,
+   "texto": "este espejo poco halagador en el que los propios ciudadanos de las naciones que llevan a cabo este imperialismo se dan cuenta de que los salvajes son ellos,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2026.44,
+   "fin": 2032.54,
+   "texto": "por eso la idea del espejo poco halagador, el rechazo de las oleadas de inmigrantes, finalmente el terror del holocausto,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2032.96,
+   "fin": 2039.08,
+   "texto": "surgen todas estas críticas a la xenofobia por parte de mestizos, judíos, afroamericanos, rebeldes antes colonizados,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2039.08,
+   "fin": 2046.22,
+   "texto": "mujeres y miembros de minorías sexuales, que también son un otro, que de repente hay una unión en cuanto al diferente,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2046.32,
+   "fin": 2050.86,
+   "texto": "el diferente son muchos cuerpos, esto lo veremos más tarde, y esto es lo que hace primero.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2051.04,
+   "fin": 2055.74,
+   "texto": "Así que si leéis solo el capítulo 14 veréis que os pone un poco al día con esta historia.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2056.2,
+   "fin": 2056.74,
+   "texto": "Punto dos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2057.64,
+   "fin": 2062.66,
+   "texto": "Después lo que hace Macari es explicar que para abordar todo esto lo que pasa es que el fenómeno se atomiza",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2062.66,
+   "fin": 2068.54,
+   "texto": "y se empieza a estudiar por distintas miradas profesionales y distintas disciplinas que no necesariamente dialogan entre sí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2069.08,
+   "fin": 2076.7,
+   "texto": "Los biólogos se centran en investigar las cuestiones como la herencia, la expresión genética de qué nos pasa cuando algo nos da miedo en el cerebro.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2076.86,
+   "fin": 2080.08,
+   "texto": "¿Qué partes se activan? ¿Qué partes no? ¿Qué respuestas fisiológicas tenemos?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2080.5,
+   "fin": 2086.7,
+   "texto": "Luego los científicos cognitivos, por su lado, empiezan a trabajar en esta ciencia de los estereotipos que hemos mencionado antes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2086.7,
+   "fin": 2095.3199999999997,
+   "texto": "y a estudiar estos sesgos cognitivos que nos sirven para definir al otro y que se nos activan cuando un extraño se acerca a nosotros.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2096.02,
+   "fin": 2100.88,
+   "texto": "Todo esto aquí también atiende a la construcción a través de relatos como el cine, la televisión, todas las ficciones.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2101.4,
+   "fin": 2106.36,
+   "texto": "Y se plantea esta idea de que la ficción tiene una función moral porque nos puede ayudar a conocer a la otra persona.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2106.36,
+   "fin": 2113.1800000000003,
+   "texto": "Igual que puede tener una función más perversa en transmitirnos este tipo de relatos, también puede hacer lo contrario.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2113.88,
+   "fin": 2120.7200000000003,
+   "texto": "Y luego también están los psicólogos sociales que estudian distintos grupos para ver cómo son las reacciones entre esas personas,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2120.72,
+   "fin": 2126.74,
+   "texto": "cómo surge la antipatía, qué papel tiene la presencia de un líder que puede dar seguridad",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2126.74,
+   "fin": 2132.18,
+   "texto": "o una identidad, una moral absoluta. Esto lo vamos a contar un poco mejor más adelante.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2132.64,
+   "fin": 2136.8999999999996,
+   "texto": "Pero cada disciplina hace su movida y luego están los filósofos que ahí pululan por ahí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2136.8999999999996,
+   "fin": 2140.4199999999996,
+   "texto": "Sí, en ese momento está empezando a surgir el pensamiento sobre el otro,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2140.8199999999997,
+   "fin": 2144.62,
+   "texto": "lo que se ha llamado filosofía de la diferencia, que ahí es donde Paula y yo leímos a Bartes",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2144.62,
+   "fin": 2148.04,
+   "texto": "por primera vez en la asignatura delirante de filosofía de la diferencia.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2148.04,
+   "fin": 2150.94,
+   "texto": "y se habla en un capítulo de Sartre",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2150.94,
+   "fin": 2153.62,
+   "texto": "que escribió textos sobre el antisemitismo importantísimos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2153.94,
+   "fin": 2156.38,
+   "texto": "Simone de Beauvoir, Franz Fanon, Foucault,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2156.5,
+   "fin": 2158.7599999999998,
+   "texto": "mi niño que estaba fatal de la cabeza y también se cuenta aquí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2159.74,
+   "fin": 2160.82,
+   "texto": "Butler se menciona.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2160.82,
+   "fin": 2162.08,
+   "texto": "Todos unos tristes.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2162.2799999999997,
+   "fin": 2165.2,
+   "texto": "Sí, Eduard Said, esta persona importantísima",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2165.2,
+   "fin": 2166.42,
+   "texto": "que escribe Orientalismo,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2166.56,
+   "fin": 2168.46,
+   "texto": "que es un libro clave en el pensamiento poscolonial.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2168.9,
+   "fin": 2171.48,
+   "texto": "Entonces, básicamente, se empieza a desvelar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2171.48,
+   "fin": 2173.2,
+   "texto": "cómo opera todo aquello que está oculto,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2173.2599999999998,
+   "fin": 2174.3,
+   "texto": "que se presenta como natural,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2174.44,
+   "fin": 2176.04,
+   "texto": "pero que, sin embargo, son formas de poder",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2176.04,
+   "fin": 2180.34,
+   "texto": "y cómo hemos construido todas las creencias que tenemos desde Occidente sobre Oriente.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2180.52,
+   "fin": 2183.72,
+   "texto": "Esto es lo que hace un poco en esta parte del libro, que es muy específico.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2183.84,
+   "fin": 2188.18,
+   "texto": "Veréis que de repente te cuentan a Sartre y su relación con la xenofobia en profundidad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2188.18,
+   "fin": 2189.38,
+   "texto": "y diferentes autores.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2189.86,
+   "fin": 2192.06,
+   "texto": "Es verdad que yo aquí, voy a decirlo, he echado de menos,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2192.38,
+   "fin": 2194.16,
+   "texto": "es un poco canónica la selección que hace.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2195.16,
+   "fin": 2199.1,
+   "texto": "No solo porque nosotras hayamos estudiado filosofía y quizá esos nombres ya te resuenan,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2199.1,
+   "fin": 2200.9,
+   "texto": "pero creo que no es...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2200.9,
+   "fin": 2205.32,
+   "texto": "Que me metas solo a Simón de Buba como mujer que ha pensado acerca de estas cosas en el siglo XX,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2205.32,
+   "fin": 2207.02,
+   "texto": "pues no me parece justo, pero bueno.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2207.26,
+   "fin": 2209.2000000000003,
+   "texto": "Hay que acompañar la lectura con un poquito de...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2209.2000000000003,
+   "fin": 2212.1400000000003,
+   "texto": "Siempre hay que decirlo esto, los hombres siempre nos fallan.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2212.94,
+   "fin": 2214.02,
+   "texto": "Sí, en general.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2214.2400000000002,
+   "fin": 2216.78,
+   "texto": "Va genial todo y luego dices...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2216.78,
+   "fin": 2219.48,
+   "texto": "Pero bueno, se ha tropezado, se tropezó el hombre.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2219.54,
+   "fin": 2221.38,
+   "texto": "Siempre con lo mismo, se tropeza, pero bueno.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2221.82,
+   "fin": 2224.4,
+   "texto": "Entonces, después de haber hecho esto en la segunda parte,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2224.78,
+   "fin": 2227.7200000000003,
+   "texto": "Macari identifica como problema que pese a la importancia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2227.7200000000003,
+   "fin": 2230.76,
+   "texto": "de todas estas aportaciones para responder a la pregunta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2230.76,
+   "fin": 2232.86,
+   "texto": "por qué, el por qué de la xenofobia,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2232.86,
+   "fin": 2239.34,
+   "texto": "no existe una teoría unificada que nos ayude no solo a nombrar la xenofobia y a decodificarla,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2239.5,
+   "fin": 2243.1800000000003,
+   "texto": "sino también a desactivarla, que esta es una parte que siempre tiene en cuenta.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2243.6,
+   "fin": 2247.06,
+   "texto": "Y cuando se intenta unificar todo el corpus de conocimiento, en muchos casos,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2247.36,
+   "fin": 2249.86,
+   "texto": "los biólogos se encuentran con problemas y también los filósofos,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2250.7400000000002,
+   "fin": 2255.1,
+   "texto": "por simplificaciones, por callejones sin salida, vacíos, muchas dudas que quedan.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2255.5,
+   "fin": 2260.1,
+   "texto": "Luego las visiones chocan entre sí, quizá el psicólogo cognitivo no coincide con el psicoanalista.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2260.1,
+   "fin": 2270.3199999999997,
+   "texto": "Entonces, viene a mostrar un poco que se han hecho muchos trabajos desde diferentes miradas, pero que no hay una especie de unificación, un sitio al que ir, que esté un poco todo eso dialogando entre sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2270.54,
+   "fin": 2280.2799999999997,
+   "texto": "Claro, de hecho, la propuesta de Macari es preguntarse si existe este término específico que pueda abarcar lo común que tienen todos estos fenómenos y lo que hace es proponer la palabra xenofobia.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2280.66,
+   "fin": 2286.06,
+   "texto": "Porque es importante, dice, reconfigurar el término para organizar y promover tentativas de síntesis.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2286.46,
+   "fin": 2290.06,
+   "texto": "Múltiples sistemas de raíces, el mismo árbol, utiliza esta metáfora.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2290.1,
+   "fin": 2293.66,
+   "texto": "y lo que quiere hacer es que estas distintas propuestas y distintas voces",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2293.66,
+   "fin": 2296.08,
+   "texto": "empiecen a dialogar, a encontrar puntos en común",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2296.08,
+   "fin": 2299.22,
+   "texto": "y aprovechar que la palabra xenofobia tiene un pasado muy rico,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2299.3199999999997,
+   "fin": 2302.3199999999997,
+   "texto": "que es el que hemos intentado explicaros de manera muy resumida,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2302.8199999999997,
+   "fin": 2306.4,
+   "texto": "dice que abarca mucho más que la animadversión hacia los inmigrantes,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2306.5,
+   "fin": 2309.7599999999998,
+   "texto": "que es quizá la idea más superficial que podemos tener todas en la cabeza",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2309.7599999999998,
+   "fin": 2310.64,
+   "texto": "acerca de la xenofobia.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2311.2599999999998,
+   "fin": 2312.72,
+   "texto": "Y para un poco poner en marcha...",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2312.72,
+   "fin": 2315.96,
+   "texto": "Y ahora hay 4.1, 4.1 A, B, C.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2316.62,
+   "fin": 2317.66,
+   "texto": "Es que sí que lo hay, ¿eh?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2317.72,
+   "fin": 2318.58,
+   "texto": "Sí, lo hay, lo hay.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2318.62,
+   "fin": 2319.3199999999997,
+   "texto": "Ya pido perdón.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2320.1,
+   "fin": 2322.62,
+   "texto": "para ello, para llevar a cabo esta propuesta,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2322.7999999999997,
+   "fin": 2323.86,
+   "texto": "hace una cosa que me gusta mucho,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2323.98,
+   "fin": 2326.2999999999997,
+   "texto": "que es explicar lo que la xenofobia no es.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2326.52,
+   "fin": 2327.92,
+   "texto": "En el sentido de que no quiere decir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2327.92,
+   "fin": 2330.46,
+   "texto": "que estas cosas específicas que voy a explicar no puedan ser,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2330.74,
+   "fin": 2332.04,
+   "texto": "sino que a veces se dan explicaciones",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2332.04,
+   "fin": 2334.62,
+   "texto": "que pretenden abarcarlo todo y ser totalizantes.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2334.7599999999998,
+   "fin": 2336.3199999999997,
+   "texto": "La xenofobia tiene que ver con esto.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2336.48,
+   "fin": 2337.52,
+   "texto": "Y él lo que viene a decir es, bueno,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2337.56,
+   "fin": 2338.7,
+   "texto": "tiene que ver con muchas cosas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2338.7,
+   "fin": 2340.6,
+   "texto": "y caer simplemente en una explicación",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2340.6,
+   "fin": 2342.04,
+   "texto": "a veces se deja mucho fuera.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2342.4,
+   "fin": 2345.06,
+   "texto": "Por ejemplo, dice que no es un defecto genético",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2345.06,
+   "fin": 2346.88,
+   "texto": "o una patología neurológica",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2346.88,
+   "fin": 2349.4,
+   "texto": "en el sentido de que no es una enfermedad,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2349.4,
+   "fin": 2351.04,
+   "texto": "que es lo que a veces se ha propuesto.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2351.42,
+   "fin": 2353.32,
+   "texto": "De hecho, me gusta mucho una reflexión que tiene",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2353.32,
+   "fin": 2356.86,
+   "texto": "que es por qué llamaríamos enfermos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2356.86,
+   "fin": 2359.06,
+   "texto": "a personas que nos parece que piensan de manera aberrante.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2359.3,
+   "fin": 2362.32,
+   "texto": "Dice, porque eso deja en muy mal lugar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2362.32,
+   "fin": 2364.38,
+   "texto": "a las personas realmente que sufren enfermedades mentales.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2364.54,
+   "fin": 2366.3,
+   "texto": "En el sentido de, rápidamente,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2366.5,
+   "fin": 2368.04,
+   "texto": "decir que la otra persona es un enfermo mental",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2368.04,
+   "fin": 2370.6600000000003,
+   "texto": "y vamos a respetar a las personas que tienen enfermedades mentales",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2370.6600000000003,
+   "fin": 2374.48,
+   "texto": "que no tienen por qué ser igual de malos que un xenófobo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2374.76,
+   "fin": 2376.04,
+   "texto": "Lo has desimplificado, pero bueno.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2376.04,
+   "fin": 2378.3,
+   "texto": "Y también te exime un poco de responsabilidad.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2378.3,
+   "fin": 2380.0,
+   "texto": "si está enfermo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2380.7400000000002,
+   "fin": 2381.96,
+   "texto": "Sí, también se te separa del otro.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2382.52,
+   "fin": 2384.7200000000003,
+   "texto": "Tampoco es el resultado directo de las dificultades",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2384.7200000000003,
+   "fin": 2386.6400000000003,
+   "texto": "económicas solamente, dice Macari,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2386.82,
+   "fin": 2388.1400000000003,
+   "texto": "muchas veces importa más",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2388.1400000000003,
+   "fin": 2390.5800000000004,
+   "texto": "la identidad de esos trabajos que supuestamente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2390.5800000000004,
+   "fin": 2392.54,
+   "texto": "vienen a quitarte el trabajo y a",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2392.54,
+   "fin": 2393.6200000000003,
+   "texto": "chupar tus paguitas,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2394.1200000000003,
+   "fin": 2396.78,
+   "texto": "porque muchas veces importa más la identidad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2396.78,
+   "fin": 2398.6600000000003,
+   "texto": "que realmente las consecuencias que eso",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2398.6600000000003,
+   "fin": 2400.46,
+   "texto": "tiene económicamente con datos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2400.46,
+   "fin": 2402.6600000000003,
+   "texto": "que se pueden observar.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2402.84,
+   "fin": 2404.5600000000004,
+   "texto": "Y tampoco es un deseo simplemente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2404.5600000000004,
+   "fin": 2406.5600000000004,
+   "texto": "de preservación cultural, de pensar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2406.56,
+   "fin": 2410.92,
+   "texto": "que es patriotismo, tradicionalismo, esta cosa de quiero proteger lo mío ante todo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2410.92,
+   "fin": 2412.54,
+   "texto": "porque la llegada del otro lo va a destruir.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2412.88,
+   "fin": 2416.12,
+   "texto": "Es algo que se mezcla entre todas estas cosas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2416.34,
+   "fin": 2420.2799999999997,
+   "texto": "Sí, y entonces Macari lo que hace es distinguir entre tres tipos de xenofobia.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2420.5,
+   "fin": 2423.02,
+   "texto": "Y aquí es donde viene la tabla de Inés, estupenda y maravillosa.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2423.6,
+   "fin": 2426.24,
+   "texto": "El primero de ellos es la angustia hacia el otro.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2426.24,
+   "fin": 2429.38,
+   "texto": "Lo denomina así, que es un estado, digamos, ontológico,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2429.74,
+   "fin": 2434.74,
+   "texto": "que tiene que ver con el misterio que sentimos con encontrarnos con otra persona.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2435.3199999999997,
+   "fin": 2438.8199999999997,
+   "texto": "Sentimos miedo, pensamos muy rápido a través de estos estereotipos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2438.8199999999997,
+   "fin": 2442.4399999999996,
+   "texto": "que están en nuestras cabezas y que tenemos integrados, queramos o no,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2442.74,
+   "fin": 2444.4599999999996,
+   "texto": "y que muchas veces pueden ser equivocados.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2445.02,
+   "fin": 2447.72,
+   "texto": "Esto, dice Macari, porque él siempre explica el tipo de xenofobia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2447.72,
+   "fin": 2450.1,
+   "texto": "y luego intenta decir cómo lo gestionamos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2450.6,
+   "fin": 2454.54,
+   "texto": "Y dice, esto se puede gestionar reaprendiendo, reconociendo al otro,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2454.7799999999997,
+   "fin": 2457.9799999999996,
+   "texto": "cuestionando los propios sesgos que tenemos y rechazando los estereotipos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2458.08,
+   "fin": 2461.54,
+   "texto": "Sí. Luego vamos a citar a una filósofa contemporánea que nos encanta,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2461.54,
+   "fin": 2464.9,
+   "texto": "que se llama Miranda Freaker, que ha pensado mucho acerca de los estereotipos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2465.22,
+   "fin": 2467.4,
+   "texto": "Pues que creo que esto lo muestra ella con un ejemplo muy bueno,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2467.7599999999998,
+   "fin": 2469.82,
+   "texto": "que en su libro, que creo que se llama Injusticia Testimonial,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2469.98,
+   "fin": 2473.94,
+   "texto": "te invita a que pienses si en medio de la calle,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2474.14,
+   "fin": 2476.16,
+   "texto": "imagínate en una estación de metro, tienes un problema",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2476.16,
+   "fin": 2479.96,
+   "texto": "o necesitas de repente algo que te diga a la hora a quién vas a ir a preguntarle.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2480.2799999999997,
+   "fin": 2484.4,
+   "texto": "Como que te hagas esta propia idea de a quién escoges por ese pensamiento rápido",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2484.4,
+   "fin": 2487.64,
+   "texto": "y esos sesgos que muchas veces no tienes pero que están integrados.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2487.64,
+   "fin": 2491.06,
+   "texto": "Y hay una invitación ahí a ver cuáles son tus propias respuestas rápidas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2491.06,
+   "fin": 2493.38,
+   "texto": "y en este sentido sí que se pueden cuestionar.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2493.52,
+   "fin": 2496.58,
+   "texto": "Es decir, estoy cayendo en este estereotipo o en este sesgo yo mismo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2496.58,
+   "fin": 2500.86,
+   "texto": "y puedes hacer una labor individual de reajustar ese sesgo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2500.86,
+   "fin": 2502.56,
+   "texto": "en el que te das cuenta que estás instalado.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2502.96,
+   "fin": 2503.94,
+   "texto": "Es un poco esta idea.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2504.7799999999997,
+   "fin": 2507.7599999999998,
+   "texto": "Pero la angustia hacia el otro pasa a otro nivel,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2508.08,
+   "fin": 2511.16,
+   "texto": "que el segundo tipo es la xenofobia declarada.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2511.52,
+   "fin": 2513.2999999999997,
+   "texto": "Que esto no se trata de un error cognitivo,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2513.66,
+   "fin": 2515.24,
+   "texto": "de algo de lo que no te das cuenta,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2515.4,
+   "fin": 2517.62,
+   "texto": "sino de un odio declarado hacia el extranjero.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2517.62,
+   "fin": 2521.64,
+   "texto": "El otro es entendido como alguien malo frente a tu propia bondad.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2522.0,
+   "fin": 2525.6,
+   "texto": "Los xenófobos se sienten víctimas, son sádicos, suelen tener un gran líder,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2525.7799999999997,
+   "fin": 2529.02,
+   "texto": "tienen miedo a la humillación, quieren controlar y devaluar al otro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2529.02,
+   "fin": 2532.4,
+   "texto": "y se definen todo el rato por la oposición a lo que no son, la exclusión.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2532.7,
+   "fin": 2536.12,
+   "texto": "Esto es un poco lo que se explica más en profundidad en este capítulo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2536.64,
+   "fin": 2540.56,
+   "texto": "Y estos grupos surgen como síntomas de fracasos sociales muchas veces",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2540.56,
+   "fin": 2545.48,
+   "texto": "y sirven a la gente para agarrarse a algo, podríamos decir, sentir pertenencia, identidad.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2545.48,
+   "fin": 2551.5,
+   "texto": "y dice Macari, están eufóricos por verse tan aceptados, están decididos a no ser expulsados nunca,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2551.86,
+   "fin": 2553.7400000000002,
+   "texto": "a no ser nunca los extranjeros.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2554.18,
+   "fin": 2559.1,
+   "texto": "Esta xenofobia nos dice Macari que es mucho más difícil de gestionar que la angustia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2559.1,
+   "fin": 2565.54,
+   "texto": "porque aquí hay una negación a humanizar al otro que es convertido en malo, en peligroso, en violento",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2565.54,
+   "fin": 2570.22,
+   "texto": "y por eso cree Macari que son importantes aquí, más que deshacer esos sesgos individuales",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2570.22,
+   "fin": 2574.22,
+   "texto": "o hacer tú mismo ese trabajo, lo que llaman cuestiones identitarias,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2574.22,
+   "fin": 2578.52,
+   "texto": "como por ejemplo promover el igualitarismo radical como ética",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2578.52,
+   "fin": 2584.2599999999998,
+   "texto": "y también como una propia amenaza, no este igualitarismo radical, para la xenofobia.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2584.68,
+   "fin": 2588.3599999999997,
+   "texto": "Y atraer, dice, a los que se cansen de ser sumisos y del mundo dividido.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2588.4599999999996,
+   "fin": 2591.54,
+   "texto": "Es decir, que piensa que hay algo ahí como el poder casi rescatarles",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2591.54,
+   "fin": 2594.8199999999997,
+   "texto": "cuando se cansen de esa sumisión y de esa moral absoluta.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2595.14,
+   "fin": 2599.04,
+   "texto": "Es verdad que no es un libro político en el sentido de que proponga una política,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2599.14,
+   "fin": 2603.48,
+   "texto": "porque yo también preguntaba, ¿qué quiere decir poner en mancha el igualitarismo radical como marco moral?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2603.48,
+   "fin": 2604.88,
+   "texto": "esto no lo explica",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2604.88,
+   "fin": 2605.22,
+   "texto": "claro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2605.22,
+   "fin": 2606.42,
+   "texto": "necesitamos ahora",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2606.42,
+   "fin": 2607.94,
+   "texto": "su voluntad es hacer otra cosa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2607.94,
+   "fin": 2608.46,
+   "texto": "pero desde luego",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2608.46,
+   "fin": 2609.32,
+   "texto": "esta sería una pregunta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2609.32,
+   "fin": 2610.04,
+   "texto": "un hilo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2610.04,
+   "fin": 2610.68,
+   "texto": "del que tirar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2610.68,
+   "fin": 2612.2,
+   "texto": "sí que es lo que quiere también",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2612.2,
+   "fin": 2613.14,
+   "texto": "luego por",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2613.14,
+   "fin": 2615.36,
+   "texto": "en la tercera posición",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2615.36,
+   "fin": 2616.2400000000002,
+   "texto": "de",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2616.2400000000002,
+   "fin": 2617.5,
+   "texto": "de este un poco",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2617.5,
+   "fin": 2618.66,
+   "texto": "esquema",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2618.66,
+   "fin": 2620.02,
+   "texto": "de las xenofobias distintas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2620.02,
+   "fin": 2620.94,
+   "texto": "habla de la xenofobia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2620.94,
+   "fin": 2621.64,
+   "texto": "encubierta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2621.64,
+   "fin": 2622.2400000000002,
+   "texto": "que realmente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2622.2400000000002,
+   "fin": 2623.32,
+   "texto": "no sé si es casi",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2623.32,
+   "fin": 2624.12,
+   "texto": "la que más miedo da",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2624.12,
+   "fin": 2625.7400000000002,
+   "texto": "porque dice que es una forma",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2625.7400000000002,
+   "fin": 2627.22,
+   "texto": "que opera en las sombras",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2627.22,
+   "fin": 2628.04,
+   "texto": "él lo definía así",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2628.04,
+   "fin": 2629.52,
+   "texto": "que no se ve tan fácilmente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2629.52,
+   "fin": 2630.8,
+   "texto": "y que una persona",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2630.8,
+   "fin": 2631.4,
+   "texto": "yo misma",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2631.4,
+   "fin": 2632.2,
+   "texto": "puedo adoptar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2632.2,
+   "fin": 2633.36,
+   "texto": "incluso sin darme cuenta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2633.36,
+   "fin": 2642.94,
+   "texto": "La xenofobia queda disuelta en nuestra realidad, en normas, en instituciones, en ciertos discursos, incluso en leyes, en costumbres, en burocracias o en estructuras.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2643.06,
+   "fin": 2647.76,
+   "texto": "O sea, es algo que está ahí y forma parte de la manera en la que estructuramos nuestras sociedades.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2648.34,
+   "fin": 2653.56,
+   "texto": "Dice Macari de todas estas cosas que son discretas pero que al mismo tiempo imponen un poder.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2654.1200000000003,
+   "fin": 2661.82,
+   "texto": "Y señala dentro de esta xenofobia encubierta un problema fundamental que es que ningún individuo, o al menos eso es lo que parece, tiene que asumir responsabilidades.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2661.82,
+   "fin": 2664.0800000000004,
+   "texto": "porque es un poco esta cosa de decir, bueno, es que las cosas son así,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2664.4,
+   "fin": 2665.92,
+   "texto": "no yo qué voy a hacer para cambiarlo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2666.34,
+   "fin": 2669.8,
+   "texto": "Que no es como al principio que veíamos, bueno, puedes revisar tus propios sesgos ya,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2669.92,
+   "fin": 2671.6200000000003,
+   "texto": "pero yo reviso mis sesgos y Macari explica,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2671.9,
+   "fin": 2674.82,
+   "texto": "si hay instituciones que te dirigen hacia eso o que son injustas,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2674.92,
+   "fin": 2677.46,
+   "texto": "pues parece que hay ahí un abismo entre lo que tú puedes cambiar.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2677.6400000000003,
+   "fin": 2680.84,
+   "texto": "Y entonces caemos en esta cosa de, como nadie tiene responsabilidades,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2680.96,
+   "fin": 2682.4,
+   "texto": "pues nadie tiene que hacer nada.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2682.6400000000003,
+   "fin": 2686.98,
+   "texto": "Y dice, las maquinaciones de la xenofobia encubierta conforman un susurro constante",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2686.98,
+   "fin": 2691.7200000000003,
+   "texto": "y pueden salir a la luz más adelante debido a una crisis o un escándalo notorio.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2691.82,
+   "fin": 2695.48,
+   "texto": "solo cuando se examinan los restos del naufragio y los daños causados,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2695.9,
+   "fin": 2698.76,
+   "texto": "estas formas estructurales de discriminación quedan claras.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2699.1800000000003,
+   "fin": 2701.5,
+   "texto": "Es como que están soterradas hasta que de repente aparecen.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2702.28,
+   "fin": 2705.6200000000003,
+   "texto": "Y entonces, así como conclusión, toda esta propuesta que hace en el capítulo 14",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2705.6200000000003,
+   "fin": 2708.9,
+   "texto": "tiene que ver con sintetizar todas estas cosas que estaban sueltas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2708.9,
+   "fin": 2711.94,
+   "texto": "y estas distintas disciplinas que han abordado este concepto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2711.94,
+   "fin": 2716.44,
+   "texto": "y aunar esfuerzos de todo esto que se ha preocupado por explicar la xenofobia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2716.44,
+   "fin": 2718.34,
+   "texto": "para llegar a algún sitio común.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2718.34,
+   "fin": 2721.6800000000003,
+   "texto": "Dice que no solo necesitamos datos y estructuras teóricas,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2721.82,
+   "fin": 2728.26,
+   "texto": "sino que él pide un concepto global que enmarque y organice nuestro pensamiento acerca de las semejanzas que se encuentran.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2728.94,
+   "fin": 2735.6400000000003,
+   "texto": "Claro. Y ahora en este momento vamos a tirar del hilo del capítulo 14 y ver qué ideas nos han llamado la atención.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2735.6400000000003,
+   "fin": 2739.1000000000004,
+   "texto": "Nos ha parecido que es interesante glosarlas y detenernos un momento.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2739.7000000000003,
+   "fin": 2743.52,
+   "texto": "Y una de ellas es que en el libro, una de las claves, como ya hemos dicho,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2743.7400000000002,
+   "fin": 2748.5,
+   "texto": "es que la palabra xenofobia tiene particularidades con respecto al resto de fobias.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2748.5,
+   "fin": 2750.9,
+   "texto": "en el prólogo del libro Macari dice",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2750.9,
+   "fin": 2752.8,
+   "texto": "que cuando hablamos de islamofobia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2752.8,
+   "fin": 2755.1,
+   "texto": "homofobia o antisemitismo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2755.1,
+   "fin": 2757.22,
+   "texto": "nombramos a un grupo maligno",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2757.22,
+   "fin": 2759.12,
+   "texto": "que está contenido en la propia palabra",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2759.12,
+   "fin": 2760.66,
+   "texto": "cuando hacemos esto, por ejemplo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2760.66,
+   "fin": 2762.66,
+   "texto": "decir los musulmanes son malos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2762.66,
+   "fin": 2764.78,
+   "texto": "quienes practican esta discriminación",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2764.78,
+   "fin": 2766.44,
+   "texto": "se mantienen indefinidos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2766.44,
+   "fin": 2768.26,
+   "texto": "el nombrado es el malo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2768.26,
+   "fin": 2771.32,
+   "texto": "el nombrado es el grupo que recibe la violencia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2771.32,
+   "fin": 2773.14,
+   "texto": "y quienes practican",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2773.14,
+   "fin": 2774.54,
+   "texto": "por tanto la discriminación",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2774.54,
+   "fin": 2776.02,
+   "texto": "por eso digo están indefinidos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2776.02,
+   "fin": 2777.4,
+   "texto": "no están presentes en la palabra",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2777.4,
+   "fin": 2780.12,
+   "texto": "hemos definido al grupo al que odiar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2780.12,
+   "fin": 2782.1600000000003,
+   "texto": "pero no hemos definido a los que odian",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2782.1600000000003,
+   "fin": 2783.1600000000003,
+   "texto": "y dice Macari",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2783.1600000000003,
+   "fin": 2785.6,
+   "texto": "la xenofobia corrige ese desequilibrio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2785.6,
+   "fin": 2788.52,
+   "texto": "y orienta nuestra atención hacia la fuente del problema",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2788.52,
+   "fin": 2791.82,
+   "texto": "con lo que abre una línea crítica de investigación",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2791.82,
+   "fin": 2793.7200000000003,
+   "texto": "y esto nos gusta mucho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2793.7200000000003,
+   "fin": 2796.04,
+   "texto": "porque es algo que plantea desde el principio del libro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2796.04,
+   "fin": 2797.76,
+   "texto": "a raíz de ideas de muchos pensadores",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2797.76,
+   "fin": 2798.92,
+   "texto": "que nuestro idioma",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2798.92,
+   "fin": 2799.64,
+   "texto": "nuestros idiomas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2799.64,
+   "fin": 2801.7200000000003,
+   "texto": "él habla en inglés pero bueno",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2801.7200000000003,
+   "fin": 2804.58,
+   "texto": "nos lleva a entender que la naturaleza del problema",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2804.58,
+   "fin": 2806.48,
+   "texto": "reside en las características",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2806.48,
+   "fin": 2809.1,
+   "texto": "que definen a este grupo,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2809.2400000000002,
+   "fin": 2811.2400000000002,
+   "texto": "homosexuales, musulmanes, judíos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2811.62,
+   "fin": 2813.94,
+   "texto": "Pero cabe plantearse, por ejemplo, en Estados Unidos,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2814.06,
+   "fin": 2816.92,
+   "texto": "que se ha hablado mucho del peligro negro o el peligro amarillo,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2817.06,
+   "fin": 2818.14,
+   "texto": "refiriéndose a los chinos,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2818.58,
+   "fin": 2821.9,
+   "texto": "sino más bien el problema de Estados Unidos quizás sea el peligro blanco,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2822.1,
+   "fin": 2824.04,
+   "texto": "como que le da la vuelta al foco,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2824.52,
+   "fin": 2828.1,
+   "texto": "no tanto al grupo al que tú diriges la violencia,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2828.22,
+   "fin": 2829.78,
+   "texto": "sino al que ejerce la violencia.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2829.78,
+   "fin": 2832.18,
+   "texto": "La xenofobia se centra en el xenófobo,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2832.22,
+   "fin": 2834.86,
+   "texto": "no en el grupo que sufre esto.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2834.86,
+   "fin": 2837.2200000000003,
+   "texto": "y en un momento también, siguiendo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2837.2200000000003,
+   "fin": 2839.46,
+   "texto": "pensando de estas cosas, que creo que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2839.46,
+   "fin": 2841.32,
+   "texto": "en un momento en el que estamos, en el que vivimos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2841.32,
+   "fin": 2843.38,
+   "texto": "de respuestas simples y bandos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2843.38,
+   "fin": 2845.1400000000003,
+   "texto": "completamente enfrentados y opuestos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2845.1400000000003,
+   "fin": 2847.1200000000003,
+   "texto": "yo agradecí mucho el esfuerzo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2847.1200000000003,
+   "fin": 2849.26,
+   "texto": "que creo que es titánico de alguna manera de Macari",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2849.26,
+   "fin": 2851.56,
+   "texto": "desbozar la historia de la palabra xenofobia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2851.56,
+   "fin": 2852.7200000000003,
+   "texto": "incluso recorriendo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2852.7200000000003,
+   "fin": 2855.32,
+   "texto": "todos esos vacíos que decía Paula",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2855.32,
+   "fin": 2857.6800000000003,
+   "texto": "en la antigua Grecia no considera",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2857.6800000000003,
+   "fin": 2859.32,
+   "texto": "que se pueda encontrar el origen de la palabra",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2859.32,
+   "fin": 2861.5,
+   "texto": "pero estaba la xenofobia presente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2861.5,
+   "fin": 2863.08,
+   "texto": "claro, el miedo al otro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2863.08,
+   "fin": 2868.02,
+   "texto": "Una de las cosas que dice justamente que los griegos, Aristóteles, mi niño, anda que no era xenófobo, madre mía.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2869.12,
+   "fin": 2874.06,
+   "texto": "Entonces, reconociendo que propone una síntesis que él mismo dice todo el rato que deja muchas cosas fuera,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2874.44,
+   "fin": 2878.58,
+   "texto": "nos propone un viaje por el concepto que pone nombre a este odio a los extranjeros,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2879.02,
+   "fin": 2882.7799999999997,
+   "texto": "pero el libro no se queda simplemente en esta recolección de significados de una palabra,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2882.86,
+   "fin": 2888.7799999999997,
+   "texto": "sino que lo pone, creo, en constante diálogo con el presente, el pasado, pero también el futuro.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2889.2000000000003,
+   "fin": 2891.0600000000004,
+   "texto": "sobre todo en el último capítulo, como os decía antes,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2891.1200000000003,
+   "fin": 2893.36,
+   "texto": "que propone un diagnóstico de nuestra situación actual",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2893.36,
+   "fin": 2896.7200000000003,
+   "texto": "y habla de Trump, de Putin, de los refugiados, de la crisis climática.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2897.3,
+   "fin": 2900.0600000000004,
+   "texto": "Y en un momento en que hay una lucha por conquistar las palabras",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2900.0600000000004,
+   "fin": 2901.44,
+   "texto": "y apropiarse de ellas,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2901.9,
+   "fin": 2905.7200000000003,
+   "texto": "nosotras fuimos a una conferencia en nuestra universidad, en la Autónoma,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2906.2000000000003,
+   "fin": 2910.76,
+   "texto": "de Clara Serra, persona perfecta y filósofa fundamental por excelencia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2910.76,
+   "fin": 2914.1400000000003,
+   "texto": "para temas de consentimiento y de muchas cosas feministas en general.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2914.6800000000003,
+   "fin": 2916.94,
+   "texto": "Y me acuerdo que fue la primera persona que me hizo pensar en esto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2916.94,
+   "fin": 2922.36,
+   "texto": "porque hablo de cómo las palabras se habían convertido en campos de batalla o armas arrojadizas,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2922.42,
+   "fin": 2925.7400000000002,
+   "texto": "en el sentido de que, por ejemplo, había una lucha tremenda en ese momento por la palabra libertad,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2926.14,
+   "fin": 2930.38,
+   "texto": "que ahora, años después, podemos diagnosticar que en efecto se las han quedado.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2931.34,
+   "fin": 2932.34,
+   "texto": "Perdimos esa batalla.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2932.44,
+   "fin": 2933.0,
+   "texto": "Se ha perdido.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2933.36,
+   "fin": 2937.2000000000003,
+   "texto": "Entonces, hablaba de lo importante que es, quizá a veces nos da como cosa,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2937.7000000000003,
+   "fin": 2941.9,
+   "texto": "de repente al usar algunas palabras que sentimos que hay otros que ya se las están quedando,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2942.2200000000003,
+   "fin": 2945.82,
+   "texto": "pues seguir usándolas y dándoles otras posibilidades.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2945.82,
+   "fin": 2948.28,
+   "texto": "y entonces creo que es bonito defender una palabra",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2948.28,
+   "fin": 2950.86,
+   "texto": "no solo para arrojarla contra el otro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2950.86,
+   "fin": 2952.2200000000003,
+   "texto": "sino como propone Macari",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2952.2200000000003,
+   "fin": 2954.52,
+   "texto": "para utilizarla como lugar desde el que pensar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2954.52,
+   "fin": 2955.56,
+   "texto": "y promover cosas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2955.56,
+   "fin": 2957.9,
+   "texto": "veíamos de hecho que en el libro utiliza palabras",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2957.9,
+   "fin": 2959.88,
+   "texto": "como enmarcar o organizar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2959.88,
+   "fin": 2962.2000000000003,
+   "texto": "cuando habla de la potencia del concepto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2962.2000000000003,
+   "fin": 2963.7400000000002,
+   "texto": "y me preguntaba si son posibles",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2963.7400000000002,
+   "fin": 2965.8,
+   "texto": "otros usos del lenguaje, de las palabras",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2965.8,
+   "fin": 2967.76,
+   "texto": "porque creo que es bonito",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2967.76,
+   "fin": 2969.7200000000003,
+   "texto": "que en un mundo en que nos cuesta mucho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2969.7200000000003,
+   "fin": 2971.42,
+   "texto": "responder a la pregunta ¿qué hacer?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2971.8,
+   "fin": 2974.28,
+   "texto": "que en muchísimos ensayos siempre nos pasa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2974.28,
+   "fin": 2976.0400000000004,
+   "texto": "que las últimas páginas...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2976.0400000000004,
+   "fin": 2977.0,
+   "texto": "De manera atropellada.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2977.1200000000003,
+   "fin": 2977.9,
+   "texto": "De manera atropellada la gente...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2977.9,
+   "fin": 2979.9,
+   "texto": "Se propone qué hacer y siempre es la comunidad.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2980.38,
+   "fin": 2981.7200000000003,
+   "texto": "Y yo digo, ¿pero cómo?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2982.1400000000003,
+   "fin": 2983.0,
+   "texto": "Y nadie dice nada.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2983.2000000000003,
+   "fin": 2986.1800000000003,
+   "texto": "Porque es como que hay muchos diagnósticos muy dramáticos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2986.1800000000003,
+   "fin": 2989.7200000000003,
+   "texto": "y creo que hay una cosa como de darle un punto esperanzador,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2989.94,
+   "fin": 2992.3,
+   "texto": "pero creo que muchas veces se queda muy cojo en ese sentido.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2992.5400000000004,
+   "fin": 2994.5400000000004,
+   "texto": "Sí, porque hay que articularlo bien.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2995.26,
+   "fin": 2996.2400000000002,
+   "texto": "También es lo más difícil.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2996.32,
+   "fin": 2997.6800000000003,
+   "texto": "Sí, no, no, 100% es lo más difícil.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2997.96,
+   "fin": 3000.6600000000003,
+   "texto": "Pero es verdad que hay mucho análisis",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3000.6600000000003,
+   "fin": 3003.48,
+   "texto": "y a veces no tanta propuesta, digamos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3003.48,
+   "fin": 3006.32,
+   "texto": "estructurada y concreta, que también es verdad que es muy difícil",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3006.32,
+   "fin": 3008.32,
+   "texto": "y no lo puede hacer una persona solo, obviamente.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3008.32,
+   "fin": 3011.32,
+   "texto": "Claro. Entonces, en esta dificultad que tenemos por responder a la pregunta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3011.32,
+   "fin": 3013.66,
+   "texto": "qué hacer cuando nos enfrentamos a los problemas que sean,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3014.04,
+   "fin": 3017.52,
+   "texto": "creo que Macari recurre en gran medida a las palabras como respuesta,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3017.62,
+   "fin": 3019.7,
+   "texto": "que por supuesto no es suficiente, pero que ahí está.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3019.94,
+   "fin": 3023.82,
+   "texto": "Nos propone indagar cómo los conceptos operan en la construcción de la realidad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3023.82,
+   "fin": 3027.64,
+   "texto": "y ver cómo las palabras, como diría Foucault, mi niño, hacen cosas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3028.32,
+   "fin": 3029.9,
+   "texto": "Y citando a Macari, dice,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3029.9,
+   "fin": 3034.42,
+   "texto": "xenofobia es una de esas palabras y su auge conlleva la esperanza de que podamos detener",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3034.42,
+   "fin": 3039.3,
+   "texto": "las riadas de odio antes de que vuelvan a precipitarse. Sí, también nos ha llamado la",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3039.3,
+   "fin": 3044.7200000000003,
+   "texto": "atención que en el momento en el que Makari explica en el capítulo lo que la xenofobia no es,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3045.28,
+   "fin": 3049.1800000000003,
+   "texto": "señala que no es el resultado directo de dificultades económicas porque dice, está más",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3049.1800000000003,
+   "fin": 3053.86,
+   "texto": "que demostrado, y cito, en las regiones asoladas por la xenofobia no se ha producido ninguna",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3053.86,
+   "fin": 3059.02,
+   "texto": "disminución de los salarios ni ha aumentado el desempleo. Pero es verdad que hoy en día tenemos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3059.02,
+   "fin": 3063.72,
+   "texto": "muy presente en el discurso político esta batalla del dato contra el relato y de cómo el relato",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3063.72,
+   "fin": 3069.04,
+   "texto": "muchas veces es lo que se impone y es un relato muy utilizado este por formaciones xenófobas o",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3069.04,
+   "fin": 3074.46,
+   "texto": "de extrema derecha, pues los otros vienen a quitarme, a robarme lo que es mío, el salario,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3074.56,
+   "fin": 3078.6,
+   "texto": "el trabajo, las ayudas estatales, lo que sea. Entonces nos preguntábamos hasta qué punto importa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3078.6,
+   "fin": 3084.6,
+   "texto": "que los datos corroben una cosa si el relato que se nos cuenta dice otra, que viene mejor o que es",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3084.6,
+   "fin": 3089.54,
+   "texto": "más efectiva. Y también este uso de las palabras y esta idea del relato, que ya os hemos dicho que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3089.54,
+   "fin": 3095.7799999999997,
+   "texto": "era importante en el libro, se construyen o lo construimos nosotros tanto a nivel individual",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3095.7799999999997,
+   "fin": 3101.2599999999998,
+   "texto": "como colectivo. Y cuando Macari habla de xenofobia declarada, habla de un deseo de concentrar la",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3101.2599999999998,
+   "fin": 3105.7599999999998,
+   "texto": "mirada sobre el otro y además pone otro con mayúscula. Y de cómo estos grupos xenófobos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3105.7599999999998,
+   "fin": 3111.7799999999997,
+   "texto": "muchas veces necesitan a su malvado, o sea, necesitan para constituirse y operar y vivir",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3111.78,
+   "fin": 3116.26,
+   "texto": "el grupo o los individuos en los que están volcando todo este odio.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3116.88,
+   "fin": 3120.6600000000003,
+   "texto": "La identidad de ese grupo se construye en base a odiar lo diferente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3120.6600000000003,
+   "fin": 3124.3,
+   "texto": "y a elegir qué es diferente y de qué manera es diferente a mí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3124.6000000000004,
+   "fin": 3127.5600000000004,
+   "texto": "Y las cualidades negativas siempre son atribuidas al grupo odiado,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3127.6800000000003,
+   "fin": 3129.88,
+   "texto": "mientras que eso implica que los xenófobos quedan protegidos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3129.88,
+   "fin": 3132.2000000000003,
+   "texto": "en una especie de pureza por contraposición.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3133.0,
+   "fin": 3137.0400000000004,
+   "texto": "Y, bueno, evidentemente ese odio que se vuelca dice más de sí mismos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3137.0400000000004,
+   "fin": 3138.0600000000004,
+   "texto": "que de quién es odiado.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3138.06,
+   "fin": 3140.52,
+   "texto": "esto creo que hemos hecho esta reflexión",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3140.52,
+   "fin": 3142.38,
+   "texto": "ya muchas veces en Puntas Sonoras",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3142.38,
+   "fin": 3144.06,
+   "texto": "y en otros sitios pero es muy interesante",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3144.06,
+   "fin": 3146.16,
+   "texto": "como se construye la idea de lo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3146.16,
+   "fin": 3148.2999999999997,
+   "texto": "monstruoso, yo soy",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3148.2999999999997,
+   "fin": 3150.2799999999997,
+   "texto": "humano y todo lo que yo considero que no",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3150.2799999999997,
+   "fin": 3152.02,
+   "texto": "es humano le pongo la etiqueta de monstruoso",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3152.02,
+   "fin": 3154.34,
+   "texto": "y así además de poner esa etiqueta pues me pongo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3154.34,
+   "fin": 3156.42,
+   "texto": "a mí la etiqueta de lo contrario que siempre va a ser",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3156.42,
+   "fin": 3158.14,
+   "texto": "bueno porque no queremos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3158.14,
+   "fin": 3159.98,
+   "texto": "bajo ningún concepto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3159.98,
+   "fin": 3162.18,
+   "texto": "ni siquiera rozar eso que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3162.18,
+   "fin": 3163.42,
+   "texto": "etiquetamos a otras personas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3163.42,
+   "fin": 3166.16,
+   "texto": "para esto está muy bien ver Mindhunter",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3166.16,
+   "fin": 3167.7999999999997,
+   "texto": "la serie de",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3167.8,
+   "fin": 3170.1400000000003,
+   "texto": "Sphinxer, ¿no? The Mindhunter, sí",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3170.1400000000003,
+   "fin": 3172.38,
+   "texto": "que no ha hecho tercera",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3172.38,
+   "fin": 3173.46,
+   "texto": "temporada porque es tonto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3173.46,
+   "fin": 3176.2000000000003,
+   "texto": "pero lo esperamos como agua de mayo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3176.2000000000003,
+   "fin": 3177.86,
+   "texto": "porque es este grupo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3177.86,
+   "fin": 3180.32,
+   "texto": "del FBI que va a hacer entrevistas con",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3180.32,
+   "fin": 3182.42,
+   "texto": "asesinos en serie e intentar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3182.42,
+   "fin": 3183.94,
+   "texto": "un poco catalogar y analizar lo que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3183.94,
+   "fin": 3186.32,
+   "texto": "ellos dicen y qué relatos proponen",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3186.32,
+   "fin": 3188.38,
+   "texto": "y siempre está el miedo de rozar al",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3188.38,
+   "fin": 3190.26,
+   "texto": "monstruo y de descubrir que el monstruo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3190.26,
+   "fin": 3191.88,
+   "texto": "se parece a ti más de lo que pensabas, ¿no?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3191.88,
+   "fin": 3194.28,
+   "texto": "O sea que esto también está presente, esta idea, dentro del libro",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3194.28,
+   "fin": 3196.2400000000002,
+   "texto": "Claro, y luego hay algo ya",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3196.24,
+   "fin": 3200.72,
+   "texto": "para terminar que dice Macari en este sentido, que es que la llegada del extraño nos plantea",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3200.72,
+   "fin": 3205.3399999999997,
+   "texto": "preguntas acerca de quién es y de lo que quiere y también, como decía Paula, nos confronta a lo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3205.3399999999997,
+   "fin": 3210.3599999999997,
+   "texto": "que nosotros somos. Nos plantea que quizá nuestras creencias y nuestro modo de vida no son los únicos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3210.3599999999997,
+   "fin": 3215.2799999999997,
+   "texto": "posibles. Dice, nos recuerdan que fuera de las islas donde hemos construido nuestro sentido,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3215.72,
+   "fin": 3221.68,
+   "texto": "existe una inimaginable variedad de otros. Fue una frase que me gustó mucho porque nos señala que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3221.68,
+   "fin": 3226.3599999999997,
+   "texto": "nuestras grandes verdades, nuestras creencias, nuestras ilusiones no son ni universales ni",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3226.3599999999997,
+   "fin": 3231.9199999999996,
+   "texto": "tampoco únicas. Y creo que tiene sentido reflexionar por qué esto nos pone nerviosos,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3231.9199999999996,
+   "fin": 3236.7599999999998,
+   "texto": "en vez de considerarlo una cosa al revés, como positiva. Nos podríamos preguntar si tiene que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3236.7599999999998,
+   "fin": 3241.7,
+   "texto": "ver el miedo que esto nos genera con el extranjero, con la persona diferente o con nosotros mismos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3241.8799999999997,
+   "fin": 3245.8599999999997,
+   "texto": "¿Por qué sentimos ansiedad frente a la posibilidad de que haya un otro diferente?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3245.86,
+   "fin": 3248.9,
+   "texto": "y ya una vez terminada esta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3248.9,
+   "fin": 3251.1200000000003,
+   "texto": "glosita, queríamos como siempre",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3251.1200000000003,
+   "fin": 3252.78,
+   "texto": "terminar el episodio hablando",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3252.78,
+   "fin": 3255.1800000000003,
+   "texto": "de lo que hemos llamado más allá del texto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3255.1800000000003,
+   "fin": 3256.98,
+   "texto": "que es básicamente pensar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3256.98,
+   "fin": 3259.06,
+   "texto": "qué derroteros se podrían seguir para seguir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3259.06,
+   "fin": 3261.38,
+   "texto": "pensando acerca de este tema, más allá de este libro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3261.38,
+   "fin": 3263.4,
+   "texto": "y sí que quería retomar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3263.4,
+   "fin": 3264.6200000000003,
+   "texto": "una idea que he mencionado al principio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3264.6200000000003,
+   "fin": 3267.2400000000002,
+   "texto": "que es que este libro intenta meterse en gran medida",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3267.2400000000002,
+   "fin": 3268.6200000000003,
+   "texto": "en la mente xenófoba",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3268.6200000000003,
+   "fin": 3270.7200000000003,
+   "texto": "y ver qué respuestas se han dado a",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3270.7200000000003,
+   "fin": 3273.1600000000003,
+   "texto": "por qué sentimos odio hacia los otros",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3273.1600000000003,
+   "fin": 3275.2000000000003,
+   "texto": "también se citan, esto me pareció muy interesante",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3275.2,
+   "fin": 3278.14,
+   "texto": "muchísimas encuestas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3278.14,
+   "fin": 3280.3999999999996,
+   "texto": "e investigaciones cuantitativas y cualitativas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3280.3999999999996,
+   "fin": 3282.24,
+   "texto": "que se han hecho mucho en Estados Unidos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3282.24,
+   "fin": 3284.3999999999996,
+   "texto": "y en otros sitios en los que tú le preguntas directamente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3284.3999999999996,
+   "fin": 3286.14,
+   "texto": "a la persona xenófoba por qué,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3286.3799999999997,
+   "fin": 3288.04,
+   "texto": "a quién, cómo, que creo que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3288.04,
+   "fin": 3289.5,
+   "texto": "es muy interesante lo que comenta.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3290.3399999999997,
+   "fin": 3291.68,
+   "texto": "Entonces creo que esto es fundamental,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3292.16,
+   "fin": 3294.18,
+   "texto": "sin olvidar, por supuesto, y queríamos señalarlo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3294.18,
+   "fin": 3296.22,
+   "texto": "también al final, que la xenofobia no es",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3296.22,
+   "fin": 3298.1,
+   "texto": "solo un debate teórico, es la violencia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3298.1,
+   "fin": 3299.7799999999997,
+   "texto": "y la injusticia que sufren y han",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3299.7799999999997,
+   "fin": 3302.2799999999997,
+   "texto": "sufrido muchísimas personas en sus propios",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3302.2799999999997,
+   "fin": 3304.56,
+   "texto": "cuerpos, y esto no lo olvidamos,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3304.56,
+   "fin": 3310.16,
+   "texto": "así que más allá del texto recomendamos leer también otra manera de pensar y de hablar acerca de la xenofobia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3310.16,
+   "fin": 3316.14,
+   "texto": "que es de aquellos y aquellas que han escrito acerca de lo que significa sufrir la xenofobia en su propio cuerpo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3316.56,
+   "fin": 3320.58,
+   "texto": "Aquí por supuesto hay muchísimas recomendaciones que se podrían hacer.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3320.9,
+   "fin": 3326.6,
+   "texto": "Yo quería recomendar un libro que leí el mes pasado que es Yo sé por qué canta el pájaro enjaulado de Maya Angelou",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3326.6,
+   "fin": 3332.46,
+   "texto": "que está en libros del asteroide que narra justamente la realidad de las comunidades negras en el sur de Estados Unidos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3332.46,
+   "fin": 3334.9,
+   "texto": "de manera en primera persona y testimonial.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3335.16,
+   "fin": 3336.7400000000002,
+   "texto": "De hecho, ella escribió un montón de libros",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3336.7400000000002,
+   "fin": 3338.8,
+   "texto": "que son, no sé si decir su autobiografía,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3338.94,
+   "fin": 3341.96,
+   "texto": "pero creo que solo están traducidos los primeros",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3341.96,
+   "fin": 3343.66,
+   "texto": "y me dio pena porque estaría genial.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3343.76,
+   "fin": 3347.56,
+   "texto": "Creo que son muchos tomos que están todavía solo en inglés.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3347.7,
+   "fin": 3348.32,
+   "texto": "Pues animamos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3348.4,
+   "fin": 3349.4,
+   "texto": "Y que ojalá se traduzcan.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3349.42,
+   "fin": 3350.94,
+   "texto": "A las editoriales, como siempre.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3351.46,
+   "fin": 3354.2200000000003,
+   "texto": "También quería rescatar una cosa que ya he mencionado antes, Inés,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3354.34,
+   "fin": 3356.1,
+   "texto": "que es esta pensadora Miranda Fricker",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3356.1,
+   "fin": 3359.5,
+   "texto": "que piensa acerca de la injusticia epistémica.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3359.58,
+   "fin": 3360.76,
+   "texto": "De hecho, tiene un libro que se llama así.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3360.76,
+   "fin": 3363.76,
+   "texto": "que se dedica a analizar un poco",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3363.76,
+   "fin": 3366.46,
+   "texto": "qué prejuicios tenemos contra ciertas personas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3366.46,
+   "fin": 3368.1200000000003,
+   "texto": "o ciertos colectivos, por qué los tenemos,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3368.2400000000002,
+   "fin": 3368.94,
+   "texto": "de dónde surgen.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3369.4,
+   "fin": 3371.5800000000004,
+   "texto": "Tiene mucho que ver con el concepto de estereotipo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3371.5800000000004,
+   "fin": 3373.5400000000004,
+   "texto": "y de todo este experimento mental que ha propuesto Inés",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3373.5400000000004,
+   "fin": 3375.1400000000003,
+   "texto": "de si te pasa algo por la calle,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3375.2400000000002,
+   "fin": 3376.36,
+   "texto": "a quién le pides ayuda y por qué.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3376.82,
+   "fin": 3379.7000000000003,
+   "texto": "O por qué damos más credibilidad a ciertas personas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3379.7000000000003,
+   "fin": 3380.76,
+   "texto": "y a otras no.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3381.1000000000004,
+   "fin": 3382.2000000000003,
+   "texto": "Y está muy bien, nos encanta.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3382.6000000000004,
+   "fin": 3383.7200000000003,
+   "texto": "Pura filosofía también.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3383.76,
+   "fin": 3384.7400000000002,
+   "texto": "Sí, analítica.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3386.0800000000004,
+   "fin": 3386.96,
+   "texto": "Y hemos llegado...",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3386.96,
+   "fin": 3388.0800000000004,
+   "texto": "No sé muy bien cómo hacer esto.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3388.34,
+   "fin": 3389.5600000000004,
+   "texto": "Sí, hemos llegado al final.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3389.56,
+   "fin": 3391.84,
+   "texto": "para las personas, los televidentes,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3391.88,
+   "fin": 3393.2999999999997,
+   "texto": "no se llama así, ¿no? Los televidentes.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3393.4,
+   "fin": 3395.62,
+   "texto": "Que estarán en casa. Bueno, ahí falta la cita.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3395.7999999999997,
+   "fin": 3397.56,
+   "texto": "Claro, vamos a leer la cita y vamos a",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3397.56,
+   "fin": 3399.2599999999998,
+   "texto": "terminar con los televidentes.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3399.32,
+   "fin": 3401.42,
+   "texto": "Pero nosotros aquí no vamos a terminar porque hemos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3401.42,
+   "fin": 3403.52,
+   "texto": "guardado diez minutillos para que, si queréis, comentemos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3403.52,
+   "fin": 3405.4,
+   "texto": "algo. Pero podéis aplaudir después de la cita.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3405.84,
+   "fin": 3407.64,
+   "texto": "Nos está obligando a aplaudir, increíble.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3407.68,
+   "fin": 3409.46,
+   "texto": "No aplaudáis. Solo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3409.46,
+   "fin": 3411.42,
+   "texto": "si os ha gustado podéis aplaudir después.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3411.42,
+   "fin": 3413.46,
+   "texto": "Paula ha traumatizado porque en algún directo nos ha pasado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3413.46,
+   "fin": 3415.08,
+   "texto": "que hemos salido y no nos han aplaudido.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3415.68,
+   "fin": 3417.1,
+   "texto": "Es que cuando una vez te acostumbras",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3417.1,
+   "fin": 3419.2799999999997,
+   "texto": "es raro. Vale. Yo necesito",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3419.28,
+   "fin": 3421.1600000000003,
+   "texto": "mi aplauso, ¿vale? Vale, entonces cita",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3421.1600000000003,
+   "fin": 3423.2000000000003,
+   "texto": "y aplauso para Paula. Solo para mí, de hecho.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3423.38,
+   "fin": 3424.48,
+   "texto": "No, ahora todavía no, todavía no.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3425.52,
+   "fin": 3427.0,
+   "texto": "Son tus tíos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3427.0800000000004,
+   "fin": 3429.36,
+   "texto": "Es verdad. Se ha iniciado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3429.36,
+   "fin": 3431.1400000000003,
+   "texto": "un aplauso a Bulense, lo cual",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3431.1400000000003,
+   "fin": 3433.34,
+   "texto": "es bienvenido. Entonces vamos a leer",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3433.34,
+   "fin": 3435.3,
+   "texto": "la cita, que es, por supuesto, de",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3435.3,
+   "fin": 3437.26,
+   "texto": "Macari. Y nos la vamos a leer",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3437.26,
+   "fin": 3439.36,
+   "texto": "a medias, para la democracia siempre presente.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3439.38,
+   "fin": 3440.5400000000004,
+   "texto": "Pero no os podéis levantar.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3440.88,
+   "fin": 3443.34,
+   "texto": "No podéis salir corriendo. No, quedaros aquí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3443.4,
+   "fin": 3445.2000000000003,
+   "texto": "Yo he estado todo el episodio pensando, ¿cómo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3445.2000000000003,
+   "fin": 3447.3,
+   "texto": "vamos a cerrar esto? Bueno, pues diciéndoles que se queden.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3447.4,
+   "fin": 3448.86,
+   "texto": "Ya está, ya está. Está hecho.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3448.86,
+   "fin": 3453.2200000000003,
+   "texto": "Vamos a leer la cita y un beso a los de casa que no están aquí y que ya no vamos a volver.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3453.56,
+   "fin": 3455.56,
+   "texto": "Nos escuchamos en la siguiente glosa o donde sea.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3456.52,
+   "fin": 3457.4,
+   "texto": "Entonces, dice la cita.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3458.1,
+   "fin": 3460.82,
+   "texto": "La xenofobia no es un término clásico ni anticuado.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3461.28,
+   "fin": 3462.9,
+   "texto": "Es una palabra que nos pertenece.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3463.34,
+   "fin": 3465.78,
+   "texto": "Disponemos de un nombre para lo que nos está sucediendo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3466.2400000000002,
+   "fin": 3470.48,
+   "texto": "Eso cuyo alcance ha ido creciendo, parpadeando en rojo, propagándose.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3470.9,
+   "fin": 3475.1400000000003,
+   "texto": "Las únicas preguntas son cómo de extremo se volverá, qué forma se adaptará,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3475.14,
+   "fin": 3480.44,
+   "texto": "quién será señalado como objetivo y quién se alzará y se plantará para oponerse a ella.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 3480.98,
+   "fin": 3486.8599999999997,
+   "texto": "Este odio no cesará de forma voluntaria. Esa es nuestra desgracia. Aquel poeta descendiente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3486.8599999999997,
+   "fin": 3491.24,
+   "texto": "de un pueblo esclavizado que hace mucho me interrogó por mi historia escribió,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3491.62,
+   "fin": 3496.8599999999997,
+   "texto": "en las pesadillas empieza la responsabilidad. Ahora sé que esta responsabilidad para con",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3496.8599999999997,
+   "fin": 3502.24,
+   "texto": "nosotros mismos y con los demás no solo consiste en despertar, sino también en recordarlo todo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3502.24,
+   "fin": 3503.24,
+   "texto": "cuando lo hagamos.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3505.14,
+   "fin": 3506.14,
+   "texto": "Gracias.",
+   "hablante": "DESCONOCIDO"
+  },
+  {
+   "inicio": 3535.14,
+   "fin": 3548.3799999999997,
+   "texto": "Estás escuchando Radio Primavera Sound",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 3548.3799999999997,
+   "fin": 3551.12,
+   "texto": "Proudly presented by Cucra",
+   "hablante": "SPEAKER_01"
+  }
+ ]
+}

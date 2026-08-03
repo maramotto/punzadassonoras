@@ -13,10 +13,11 @@ deben quedar acreditadas y las fuentes citadas con claridad.
 
 | | |
 |---|---|
-| Episodios catalogados | **102** de 117 |
-| Referencias extraídas | **583** |
-| Autores distintos | **412** |
-| Enriquecimiento bibliográfico | **258 de 583 filas (44%)** con editorial/año, vía Open Library + Dialnet + MCU |
+| Episodios catalogados | **117 de 117** ✅ |
+| Transcripciones | **117 de 117** ✅ (mlx-whisper large-v3 + pyannote 3.1, con hablante) |
+| Referencias extraídas | **671** |
+| Autores distintos | **469** |
+| Enriquecimiento bibliográfico | **286 de 671 filas (43%)** con editorial/año, vía Open Library + Dialnet + MCU. Sobre las 465 filas que sí tienen obra concreta: **62%** |
 | Fuente de las referencias | Solo texto (descripciones + newsletter). **Ninguna del audio todavía.** |
 | Entregable actual | `Punzadas_Sonoras_referencias.xlsx` (4 pestañas: Referencias, Episodios, Autores, Leyenda) |
 
@@ -31,6 +32,11 @@ Barthes es el eje del podcast: 55 menciones, presente en las cinco temporadas. E
 - **T2 desde 2x09 (16 eps)** — además, la newsletter `https://punzadas.substack.com/feed`,
   que da títulos exactos y editoriales que la descripción omite. Solo sirve los 20 posts más
   recientes, así que las cartas de T1 ya no son accesibles por esa vía.
+- **Los 15 fuera de la playlist (2026-08-03)** — 3x03, 3x17, 3x21, 4x03, 4x08, 4x16, 4x19,
+  5x13, 5x14, 5x18 y las Glosas 1x01, 1x04, 1x05, 1x08, 1x09. Tienen transcripción propia pero
+  nunca se subieron a YouTube, así que sus referencias salen de la descripción del feed RSS
+  (`data/desc_faltantes.md` → `data/refs_faltantes.json`). Su numeración es **reconstruida por
+  fecha**, igual que la de T1-T2.
 
 ## Mapa de archivos
 
@@ -55,6 +61,9 @@ punzadassonoras/                  repo: github.com/maramotto/punzadassonoras
     │   ├── substack.xml          feed de la newsletter
     │   ├── refs_part1-4.json     extracción por lotes de T3-T5 (fuente de refs_all)
     │   ├── refs_t1t2.json        extracción de T1-T2 (fuente de refs_all)
+    │   ├── refs_faltantes.json   extracción de los 15 fuera de la playlist (fuente de refs_all)
+    │   ├── meta_faltantes.json   metadatos de esos 15 sacados del feed (título, audio, duración)
+    │   ├── desc_faltantes.md     sus descripciones en limpio, para releerlas sin tocar el XML
     │   ├── tag_mapping.json      taxonomía controlada: mapea cada tag libre a uno de 37 tags temáticos
     │   ├── cache_dialnet.json    cache del enriquecimiento vía Dialnet (artículos y tesis)
     │   └── cache_mcu.json        cache del enriquecimiento vía la base ISBN del Ministerio de Cultura
@@ -65,8 +74,8 @@ punzadassonoras/                  repo: github.com/maramotto/punzadassonoras
 ```
 
 Los scripts, por orden de uso: `02_batch.sh` (descarga desde YouTube, reanudable) ·
-`03_index.py` (construye episodios.json) · `06_unificar.py` (funde las dos fuentes en
-refs_all.json) · `08_retag.py` (sustituye los tags libres de cada episodio por la taxonomía
+`03_index.py` (construye episodios.json) · `06_unificar.py` (funde las **tres** fuentes en
+refs_all.json; también renumera las Glosas duplicadas y corrige la fecha del 3x05) · `08_retag.py` (sustituye los tags libres de cada episodio por la taxonomía
 controlada de `data/tag_mapping.json`, conservando los originales en `tags_originales`) ·
 `04_enriquecer.py` (Open Library → cache, reanudable, acepta límite) · `09_enriquecer_dialnet.py`
 (Dialnet → cache, para artículos y tesis que Open Library no cubre) · `10_enriquecer_mcu.py`
@@ -107,8 +116,20 @@ controlada — hay que relanzar `08_retag.py` después.
 ## LA TAREA PENDIENTE: extracción desde el audio
 
 Es lo único que queda de la fase de datos. **Lee `podcast-data/PILOTO_esquema_blando.md` antes de
-tocar nada**: contiene el esquema acordado con ejemplos reales y tres preguntas de criterio
-que la usuaria puede haber contestado ya.
+tocar nada**: contiene el esquema acordado con ejemplos reales.
+
+### Criterio ya decidido por la usuaria (2026-08-03)
+
+Las tres dudas del piloto están contestadas. No hay que volver a preguntarlas:
+
+1. **Una fila por mención**, no por obra y episodio. Si una obra aparece dos veces en el mismo
+   episodio con dos funciones distintas, son dos filas.
+2. **`cita` y `contexto` en campos separados**: `cita` es literal de la transcripción y no se
+   toca; `contexto` es interpretación nuestra y va marcado como tal, para poder ocultarlo o
+   filtrarlo en la web.
+3. **Las obras anidadas sí entran**, con `función = mencionada dentro de otra fuente` y un
+   campo que apunta a la fuente que las cita (p. ej. *Persuasión* y *Jane Eyre* dentro del
+   artículo de Pahl). Se pueden filtrar después.
 
 ### Por qué merece la pena
 
@@ -153,9 +174,8 @@ Ve por lotes y guarda el progreso entre lotes; son 117 episodios.
 
 ## Trabajo posterior, por orden
 
-1. **Completar el catálogo** — faltan 15 episodios que están en el RSS pero no en la playlist
-   de YouTube (3x03, 3x17, 3x21, 4x03, 4x08, 4x16, 4x19, 5x13, 5x14, 5x18 y algunas Glosas).
-   Se extraen igual que T1-T2, desde `podcast-data/data/feed.xml`.
+1. ~~**Completar el catálogo**~~ — **hecho el 2026-08-03.** Los 15 que faltaban ya están, vía
+   `data/refs_faltantes.json`. 102 → 117 episodios, 583 → 671 referencias, 412 → 469 autores.
 2. **Mejorar el enriquecimiento** — ya en marcha. Open Library dejaba 412 de 583 filas sin datos
    (cubre mal el ensayo español de editorial pequeña, los artículos académicos y las tesis). Se
    probaron tres fuentes alternativas sobre 10 casos reales antes de lanzar la pasada completa, y
@@ -198,20 +218,24 @@ Ve por lotes y guarda el progreso entre lotes; son 117 episodios.
    temporada, tipo y tag. Los campos blandos permiten además un grafo de obras en diálogo, que
    es lo que la haría distinta de una lista.
 
-## Transcripción (corre en el Mac de la usuaria, no aquí)
+## Transcripción — TERMINADA (2026-08-03)
 
-`podcast-data/transcribir/` contiene `transcribir.py`, `README.md` y `manifiesto_audio.json` (117 episodios
-con su URL de audio del feed). Transcribe con mlx-whisper large-v3 en Apple Silicon y separa
-voces con pyannote 3.1. Es reanudable. Probado end-to-end salvo el paso de Whisper.
+**117 de 117 episodios transcritos.** Corrió en el Mac de la usuaria con mlx-whisper large-v3
+(Apple Silicon) + pyannote 3.1. `podcast-data/transcribir/` contiene `transcribir.py`,
+`README.md`, `manifiesto_audio.json` y el log `progreso.log`.
 
-Cuando termine, los `.json` de `podcast-data/transcribir/transcripciones/` sustituyen a
+Los `.json` de `podcast-data/transcribir/transcripciones/` **ya sustituyen** a
 `podcast-data/transcripts/*.es.json3` como fuente: tienen puntuación, nombres propios correctos y
-hablante.
+hablante. Formato: `{slug, codigo, titulo, fecha, video_id, url_audio, segmentos:[{inicio, fin,
+texto, hablante}]}`. Los `.txt` hermanos son un volcado legible del mismo contenido.
 
-**Sobre los hablantes:** salen como `SPEAKER_00` / `SPEAKER_01`, y la asignación **puede
-cambiar de un episodio a otro**. Hay que emparejarlos episodio a episodio. En los directos con
-invitada (Elena López Riera 4x05, Marta Jiménez Serrano 4x10, Pau Luque, Blanca Lacasa) el
-script asume dos voces y saldrá mal: hay que relanzarlos con `N_HABLANTES = 3`.
+Los cuatro directos con invitada (Blanca Lacasa 3x17, Elena López Riera 4x05, Pau Luque 4x08,
+Marta Jiménez Serrano 4x10) se relanzaron con `N_HABLANTES = 3` y están verificados con tres
+voces.
+
+**Sobre los hablantes:** salen como `SPEAKER_00` / `SPEAKER_01` / `SPEAKER_02`, y la asignación
+**cambia de un episodio a otro**. Hay que emparejar quién es quién episodio a episodio, a mano,
+cuando toque explotar las transcripciones. No está hecho.
 
 ## Cosas que ya se han aprendido a la mala
 
@@ -220,13 +244,20 @@ script asume dos voces y saldrá mal: hay que relanzarlos con `N_HABLANTES = 3`.
   texto, nunca al audio.
 - **Numeración de T1 y T2: es una reconstrucción, no oficial.** El feed no trae número de
   temporada ni de episodio. Se ordenó por fecha y se puso el corte en el parón de verano de
-  2022 (T1: feb–ago 2022, 12 eps; T2: sep 2022–jul 2023, 24 eps). **Pendiente de confirmar con
-  las autoras.**
+  2022 (T1: feb–ago 2022, 12 eps; T2: sep 2022–jul 2023, 24 eps). **Decisión (2026-07-31): se
+  queda así, no se va a contrastar con las autoras.**
 - **Enlaces de Spotify**: solo se tiene el del programa. Los enlaces por episodio requieren la
   API de Spotify con credenciales. `punzadas.com/punzadas-sonoras` tiene algunos sueltos de
   episodios en vivo.
-- **Numeración duplicada**: las Glosas «Sobre la salud sexual» y «Rodoreda, un bosque»
-  aparecen ambas como 1x05 en los títulos originales del podcast.
+- **Numeración duplicada de las Glosas**: «Rodoreda, un bosque» y «Sobre la salud sexual»
+  aparecen ambas como 1x05 en los títulos originales del podcast. **Decisión (2026-08-03):**
+  `06_unificar.py` las renumera por orden cronológico a **1x06** y **1x07** (constante
+  `GLOSAS_RENUM`), y deja constancia del título original en `notas_episodio`. Con eso la serie
+  queda consecutiva de 1x01 a 1x09. La numeración de las Glosas la confirman las propias
+  descripciones: Nefando dice «primer episodio» y La cronología del agua dice «cuarto episodio»,
+  y ambas cuadran con el orden por fecha.
+- **Fecha del 3x05**: YouTube dice 2023-11-08 y el feed 2023-11-09. Se usa la del feed, que es
+  la que llevan las transcripciones (constante `FECHA_FIX` en `06_unificar.py`).
 - **Huecos de contenido**: 3x06, 3x07 y el especial «Fuego» no tienen bibliografía en la
   descripción. 5x02 no tiene subtítulos en YouTube. Todos se resuelven con la transcripción.
 - **Verificación automática ya montada**: la columna «Título citado literalmente» del xlsx
@@ -237,19 +268,39 @@ script asume dos voces y saldrá mal: hay que relanzarlos con `N_HABLANTES = 3`.
 
 ## Qué publicar y qué no
 
-`podcast-data/` pesa 123 MB, de los cuales 121 MB son `transcripts/` (87 MB de subtítulos
-automáticos de YouTube) y `raw/` (34 MB de metadatos de yt-dlp). No revientan ningún límite de
-GitHub —el archivo mayor son 1,8 MB— pero son **material de terceros**: transcripciones
-íntegras del podcast, no un índice derivado. Publicar el catálogo de referencias es una cosa;
-republicar las transcripciones completas es otra distinta, y conviene consultarlo con las
-autoras antes.
+El criterio no es el tamaño, es **qué es caro o imposible de regenerar**. `podcast-data/` pesa
+1,8 GB, pero casi todo es reproducible:
 
-Recomendación por defecto: versionar `podcast-data/data/`, `scripts/`, `transcribir/`, el xlsx
-y el piloto; dejar `transcripts/` y `raw/` fuera con `.gitignore` (son regenerables con
-`02_batch.sh`). Si la usuaria decide publicarlo todo, que sea una decisión suya y explícita.
+| Carpeta | Peso | ¿Regenerable? | ¿Al repo? |
+|---|---|---|---|
+| `data/` | 2,3 MB | Las caches, **no sin volver a scrapear** | **Sí** |
+| `scripts/` | 76 KB | No | **Sí** |
+| `transcribir/` (código y logs) | ~80 KB | No | **Sí** |
+| `Punzadas_Sonoras_referencias.xlsx` | 192 KB | Sí, con `05_hoja.py` | **Sí**, es el entregable |
+| `transcribir/transcripciones/` | 30 MB | **No en la práctica** | **Sí** (decisión de Mara, 2026-08-03) |
+| `transcripts/` (subtítulos YouTube) | 87 MB | Sí, `02_batch.sh` | No |
+| `raw/` (yt-dlp `.info.json`) | 34 MB | Sí, `02_batch.sh` | No |
+| `transcribir/audio/` | 150 MB | Sí, desde `manifiesto_audio.json` | No, nunca |
 
-Falta además añadir al `.gitignore`: `.DS_Store`, `.idea/`, `podcast-data/transcribir/audio/`
-y `podcast-data/transcribir/transcripciones/`.
+Tres cosas que conviene tener claras:
+
+1. **Las caches de enriquecimiento (`cache_*.json`) hay que versionarlas.** Son 85 KB y son lo
+   único que evita repetir el scrapeo de Dialnet y del MCU, que no tienen API, van por sesión
+   y devuelven 503 en cuanto se les aprieta. Perderlas cuesta horas, no minutos.
+2. **`transcribir/transcripciones/` es el activo irrepetible del proyecto.** Son 117 JSON con
+   texto puntuado, marcas de tiempo y hablante: 111 horas de audio pasadas por la GPU del Mac.
+   Ningún script del repo las reconstruye. **Decisión de Mara (2026-08-03): van al repo.**
+   Git normal, no LFS (el archivo mayor son 304 KB, y en texto plano GitHub las deja buscar y
+   diferenciar). Versionarlas es a la vez la copia de seguridad.
+3. Al ser transcripción íntegra de material de terceros, la carpeta lleva su propio
+   `README.md` con la atribución a Paula Ducay e Inés García y a Radio Primavera Sound, el
+   aviso de que son automáticas y contienen errores, y la advertencia de que las etiquetas de
+   hablante no están emparejadas con personas. **Si se toca esa carpeta, se mantiene el
+   README.** Si las autoras piden retirarla, se retira.
+
+Ya están en `.gitignore`: `.DS_Store`, `.idea/`, `transcripts/`, `raw/`, `transcribir/audio/`,
+`transcribir/.venv/` y `transcribir_nohup.log`. Con excepción explícita para `progreso.log` y
+`transcribir_invitados.log`, que la plantilla de Python se llevaba por delante con `*.log`.
 
 ## Enlaces
 

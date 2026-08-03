@@ -1,0 +1,5080 @@
+{
+ "slug": "2023-02-11_2x13",
+ "codigo": "2x13",
+ "titulo": "Especial Annie Ernaux: pasión amorosa",
+ "fecha": "2023-02-11",
+ "video_id": "",
+ "url_audio": "https://traffic.megaphone.fm/PMSL8008825794.mp3?updated=1751617341",
+ "segmentos": [
+  {
+   "inicio": 0.38,
+   "fin": 10.96,
+   "texto": "Hola. Hola, buenas. Buenas tardes. Buenas y buenos. Noches, días. Siempre así. Buen invierno. No, no. A no ser que estés en verano.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 11.040000000000001,
+   "fin": 15.14,
+   "texto": "Qué coñazo, ya no puedo más. Con este frío yo estoy harta. Por favor, se acabe ya.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 16.5,
+   "fin": 25.1,
+   "texto": "Bueno, venimos aquí de nuevo. Sí, a hablar de la Ani, amor. A hablar de la Ani loca. Es el subtítulo de este podcast. Sí. La Ani locura.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 25.1,
+   "fin": 31.12,
+   "texto": "Sí, traemos algunos libros muy interesantes, también algunos de los libros más leídos de Anier, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 31.560000000000002,
+   "fin": 31.900000000000002,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 32.46,
+   "fin": 35.32,
+   "texto": "¿Pura pasión? ¿Una obsesión colectiva, podríamos decir?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 35.760000000000005,
+   "fin": 39.400000000000006,
+   "texto": "Una obsesión de Twitter amor y de Twitter filosofía y de Twitter literatura.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 39.800000000000004,
+   "fin": 44.540000000000006,
+   "texto": "Sí. Así que vamos a hablar un poco de una forma de escritura distinta, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 45.2,
+   "fin": 49.42,
+   "texto": "Por recordar un poco lo que hemos hablado en sesiones o punzadas anteriores,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 49.42,
+   "fin": 53.52,
+   "texto": "habíamos visto que antes de El lugar, que es el libro sobre su padre,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 54.04,
+   "fin": 58.22,
+   "texto": "escribe La mujer helada, Los armarios vacíos y un libro cuyo título está en francés",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 58.22,
+   "fin": 60.660000000000004,
+   "texto": "porque no está traducido y yo, por supuesto, no me sé.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 61.300000000000004,
+   "fin": 61.900000000000006,
+   "texto": "No te lo sabes.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 62.06,
+   "fin": 63.92,
+   "texto": "Aunque estuviera aquí escrito no lo diría.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 63.96,
+   "fin": 64.16,
+   "texto": "No.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 64.26,
+   "fin": 65.02,
+   "texto": "Porque me da vergüenza.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 66.46000000000001,
+   "fin": 69.56,
+   "texto": "Pero ya hemos visto cómo son novelas autobiográficas,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 69.66,
+   "fin": 74.06,
+   "texto": "sin muchas reflexiones acerca de la escritura y también diferentes a lo que va a ser después.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 74.06,
+   "fin": 79.18,
+   "texto": "Porque decíamos que El lugar tarda mucho tiempo en escribirlo porque está encontrando su voz o su lenguaje.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 79.42,
+   "fin": 86.2,
+   "texto": "Después, va a haber una labor como estética de construcción autoficcional y va a ir creciendo cada vez más el discurso metaliterario.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 86.2,
+   "fin": 92.5,
+   "texto": "Si habéis leído Pura pasión o el acontecimiento, veréis como Annie va incorporando incluso paréntesis para hablar acerca de la escritura.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 93.24000000000001,
+   "fin": 99.6,
+   "texto": "Hoy nos vamos a alejar de uno de sus grandes temas, que es la humillación o la vergüenza a través de los orígenes o la familia,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 100.08,
+   "fin": 109.36,
+   "texto": "que sobre todo hemos dedicado dos sesiones a este tema, para abordar la idea de humillación en otra realidad de su vida, que es la de las pasiones y el sexo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 109.42,
+   "fin": 117.04,
+   "texto": "Canónicamente se entiende que los libros que se concentran bajo el prisma de la pasión amorosa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 117.04,
+   "fin": 121.48,
+   "texto": "son pura pasión, perderse, la ocupación y el uso de la foto.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 122.26,
+   "fin": 125.86,
+   "texto": "Nosotras no vamos a comentar el uso de la foto porque nos guardamos este tema.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 125.86,
+   "fin": 130.32,
+   "texto": "Porque A, no lo hemos leído y B, estamos esperando para leerlo para hacer otro taller.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 130.46,
+   "fin": 136.36,
+   "texto": "Sí, queremos hablar de Anne y de la fotografía dedicándole tiempo y lecturas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 136.48000000000002,
+   "fin": 139.32,
+   "texto": "Podríamos ser como los señores y hacer como que nos lo hemos leído.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 139.42,
+   "fin": 169.39999999999998,
+   "texto": "Sí. Lo vamos a hacer. No. Rotundamente no. Y también vamos a comentar La mujer helada y memoria de chica, que es interesante pensarlos como, digamos, el primer libro acerca de estos temas, donde trata todo el tema del sexo, del matrimonio y todas las ideas que ella fue fraguando desde su infancia, adolescencia, juventud y hasta su matrimonio, acerca de estos temas, que se escribe en 1981, y memoria de chica, que es relativamente muy reciente, porque es de 2000.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 169.42,
+   "fin": 181.48,
+   "texto": "También hay que contar que descubrimos a través de una entrevista que Annie cuenta que la temática tratada en Memoria de Chica ya la escribió en otro libro antes, hace muchos años, pero nunca se publicó.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 182.1,
+   "fin": 185.82,
+   "texto": "Entonces no ha sido hasta 2016 que no ha publicado Memoria de Chica.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 185.85999999999999,
+   "fin": 193.23999999999998,
+   "texto": "Que también hay que decir que dice que es el último en escritura, el primero en la vida y que es el faro de mi vida, la estrella que me guía, algo así.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 193.35999999999999,
+   "fin": 194.89999999999998,
+   "texto": "O sea que es un libro muy importante para ella.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 195.26,
+   "fin": 195.38,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 195.38,
+   "fin": 197.32,
+   "texto": "vamos a centrarnos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 197.32,
+   "fin": 199.4,
+   "texto": "como esta es nuestra última punta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 199.4,
+   "fin": 201.98,
+   "texto": "es una hora especial sobre Annie Ernaux",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 201.98,
+   "fin": 203.06,
+   "texto": "ya no habrá más nunca",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 203.06,
+   "fin": 205.92,
+   "texto": "vamos a seguir un poco con la idea",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 205.92,
+   "fin": 206.94,
+   "texto": "esta de la cronología",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 206.94,
+   "fin": 209.94,
+   "texto": "no es que podamos decir que estamos centradas en una etapa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 209.94,
+   "fin": 211.72,
+   "texto": "muy concreta de su vida pero un poco sí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 211.72,
+   "fin": 213.38,
+   "texto": "porque ya partimos por ejemplo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 213.38,
+   "fin": 214.76,
+   "texto": "de 1982",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 214.76,
+   "fin": 217.92,
+   "texto": "de su separación, han muerto sus padres",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 217.92,
+   "fin": 220.07999999999998,
+   "texto": "y ya nos centramos un poco en la Annie de los 90",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 220.07999999999998,
+   "fin": 221.74,
+   "texto": "digamos de los 2000",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 221.74,
+   "fin": 223.9,
+   "texto": "y de todas las aventuras amorosas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 223.9,
+   "fin": 225.46,
+   "texto": "como con el ruso",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 225.46,
+   "fin": 226.32,
+   "texto": "que empieza con el",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 226.32,
+   "fin": 226.94,
+   "texto": "ese",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 226.94,
+   "fin": 227.96,
+   "texto": "ese punto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 227.96,
+   "fin": 228.42000000000002,
+   "texto": "se llama",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 228.42000000000002,
+   "fin": 229.22,
+   "texto": "no sabemos como se llama",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 229.22,
+   "fin": 230.92000000000002,
+   "texto": "en el 88",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 230.92000000000002,
+   "fin": 232.14000000000001,
+   "texto": "rompieron el 89",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 232.14000000000001,
+   "fin": 233.52,
+   "texto": "tiradnos nombres rusos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 233.52,
+   "fin": 234.46,
+   "texto": "que empiecen por ese",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 234.46,
+   "fin": 235.4,
+   "texto": "ser gay",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 235.4,
+   "fin": 235.82,
+   "texto": "es el único",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 235.82,
+   "fin": 236.70000000000002,
+   "texto": "que se nos ocurre así",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 236.70000000000002,
+   "fin": 237.54000000000002,
+   "texto": "a bote por hondo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 237.54000000000002,
+   "fin": 238.6,
+   "texto": "buscadlo en facebook",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 238.6,
+   "fin": 239.72,
+   "texto": "yo que sé",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 239.72,
+   "fin": 240.12,
+   "texto": "seguro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 240.12,
+   "fin": 241.6,
+   "texto": "yo creo que está muerto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 241.6,
+   "fin": 242.78,
+   "texto": "porque era muy alcohólico",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 242.78,
+   "fin": 244.44,
+   "texto": "y conducía 300 por hora",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 244.44,
+   "fin": 245.3,
+   "texto": "por la autopista",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 245.3,
+   "fin": 246.58,
+   "texto": "borracho perdido",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 246.58,
+   "fin": 247.5,
+   "texto": "claro no hay que hacer eso",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 247.5,
+   "fin": 248.5,
+   "texto": "probabilidad de morir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 248.5,
+   "fin": 249.04000000000002,
+   "texto": "alta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 249.04000000000002,
+   "fin": 249.46,
+   "texto": "alta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 249.46,
+   "fin": 249.96,
+   "texto": "sí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 249.96,
+   "fin": 250.68,
+   "texto": "entonces eso",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 250.68,
+   "fin": 251.48000000000002,
+   "texto": "nada más que penséis",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 251.48000000000002,
+   "fin": 252.44,
+   "texto": "pues que nos centramos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 252.44,
+   "fin": 253.26,
+   "texto": "en estos años",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 253.26,
+   "fin": 259.14,
+   "texto": "ya de una Ani, digamos, pues ya tiene 50, 60 o 40 y tantos años,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 259.32,
+   "fin": 262.53999999999996,
+   "texto": "menos en memoria de chica, que vamos a hacer esa excepción de volver un poco a la Ani joven.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 264.59999999999997,
+   "fin": 266.94,
+   "texto": "Y ahí vamos, nos vamos a centrar en eso hoy.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 267.21999999999997,
+   "fin": 268.96,
+   "texto": "Esperemos que estéis contentas y contentos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 269.0,
+   "fin": 269.64,
+   "texto": "Más os vale.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 269.76,
+   "fin": 271.02,
+   "texto": "Con esta punzadita sonorita.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 271.08,
+   "fin": 273.44,
+   "texto": "Si no viene Ani a pegaros con un machete.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 274.68,
+   "fin": 275.71999999999997,
+   "texto": "Pues nada, adelante.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 275.72,
+   "fin": 292.56,
+   "texto": "Bueno, antes de entrar a saco con los libros de hoy, que son unos cuantos, vamos a hablar un poco del pudor.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 292.56,
+   "fin": 303.06,
+   "texto": "Porque es una pregunta que surge a raíz de leer estos libros, donde Annie expone bastantes detalles de su vida íntima, sexual, amorosa.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 303.18,
+   "fin": 305.66,
+   "texto": "Algo un poco extraños, pero ella los cuenta.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 305.72,
+   "fin": 314.72,
+   "texto": "Sí, todo entra, ¿no? Entonces es fácil, ¿no? Y muchísima gente se pregunta qué consecuencias tiene exponer tu vida íntima de esta manera a través de la escritura, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 315.64000000000004,
+   "fin": 325.24,
+   "texto": "Ella aborda, por supuesto, esta pregunta en muchas entrevistas en las que le hacen esta pregunta y dice, y hace una distinción entre la persona de la vida y la persona de la escritura, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 325.24,
+   "fin": 336.24,
+   "texto": "Dice, en la vida sufre mucho de este pudor cuando hablan de su cuerpo, cuando aparece en televisión, de hecho en una entrevista decía que detesta que la miren.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 336.98,
+   "fin": 347.54,
+   "texto": "Sin embargo en la escritura no es necesariamente la persona de la vida. Y esto es muy interesante porque lo encontramos en muchos de sus libros, como esta distancia entre la persona que escribe y la persona que es.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 347.54,
+   "fin": 352.42,
+   "texto": "y en La ocupación, que es uno de los libros de los que vamos a hablar hoy, dice",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 352.42,
+   "fin": 357.36,
+   "texto": "He querido escribir como si tuviera que estar ausente cuando se publicara el texto,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 357.92,
+   "fin": 361.0,
+   "texto": "escribir como si tuviera que morir y ya no hubiera jueces,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 361.42,
+   "fin": 366.6,
+   "texto": "aunque sea una ilusión, quizá, creer que el advenimiento de la verdad dependa solo de la muerte.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 367.26,
+   "fin": 369.56,
+   "texto": "Y esto también lo hablábamos un poco en la sesión de los padres,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 369.56,
+   "fin": 376.86,
+   "texto": "que parece que muchas veces para escribir acerca de algo o de alguien es necesaria la muerte como tal o una ilusión de muerte.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 376.86,
+   "fin": 393.66,
+   "texto": "Ella en algún sitio dice en los libros, quizá se publica el libro y me atropellan, quizá muero de verdad. Y como que esa ilusión de que ella quizá puede que no esté parece importante a la hora de separar entre la que escribe y la que vive.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 393.66,
+   "fin": 396.6,
+   "texto": "además también tiene una versión",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 396.6,
+   "fin": 398.82000000000005,
+   "texto": "una visión como política",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 398.82000000000005,
+   "fin": 401.1,
+   "texto": "de esta forma de escritura y del impudor",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 401.1,
+   "fin": 402.74,
+   "texto": "como forma de romper",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 402.74,
+   "fin": 404.3,
+   "texto": "con la autocensura que las mujeres",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 404.3,
+   "fin": 406.86,
+   "texto": "han sufrido siempre a la hora",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 406.86,
+   "fin": 408.28000000000003,
+   "texto": "de abordar temas sexuales",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 408.28000000000003,
+   "fin": 410.68,
+   "texto": "escribe criticando",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 410.68,
+   "fin": 412.88,
+   "texto": "como esta literatura",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 412.88,
+   "fin": 414.12,
+   "texto": "de mujeres",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 414.12,
+   "fin": 416.90000000000003,
+   "texto": "en la que solo entra la queja amorosa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 416.90000000000003,
+   "fin": 418.66,
+   "texto": "pero que no pueden parece",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 418.66,
+   "fin": 420.98,
+   "texto": "ahondar en su intimidad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 420.98,
+   "fin": 422.98,
+   "texto": "y también es una forma política",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 422.98,
+   "fin": 425.12,
+   "texto": "de oponerse a todo esto. En una entrevista",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 425.12,
+   "fin": 427.26,
+   "texto": "dice, lo que tenemos derecho a vivir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 427.26,
+   "fin": 428.92,
+   "texto": "tenemos derecho a escribirlo, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 429.06,
+   "fin": 431.14000000000004,
+   "texto": "Me encanta esta cita. Sí, es preciosa.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 431.48,
+   "fin": 432.58000000000004,
+   "texto": "Y fue muy importante, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 432.76,
+   "fin": 435.04,
+   "texto": "La publicación de Pura Pasión, que es el primero",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 435.04,
+   "fin": 436.92,
+   "texto": "digamos, de estos libros más centrados",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 436.92,
+   "fin": 438.20000000000005,
+   "texto": "en la pasión amorosa como tal,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 438.72,
+   "fin": 440.78000000000003,
+   "texto": "fue muy importante y hubo mucho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 440.78000000000003,
+   "fin": 442.84000000000003,
+   "texto": "reconocimiento de muchas mujeres en ella.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 444.32,
+   "fin": 445.04,
+   "texto": "Vamos a empezar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 445.04,
+   "fin": 446.96000000000004,
+   "texto": "con Memoria de Chica, metiéndonos ya",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 446.96000000000004,
+   "fin": 448.92,
+   "texto": "en los libros, que como ha dicho Inés, se publica",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 448.92,
+   "fin": 451.0,
+   "texto": "en 2016, o sea que es bastante tardío",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 451.0,
+   "fin": 452.20000000000005,
+   "texto": "en la obra de Annie Ernaux.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 452.2,
+   "fin": 456.56,
+   "texto": "y tiene un lema que, bueno, resume muy bien como el espíritu del libro.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 457.06,
+   "fin": 459.74,
+   "texto": "Un lema que es de Rosamund Lehmann, o Lehmann, no sé,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 460.08,
+   "fin": 462.42,
+   "texto": "de un libro que se llama Vana Respuesta, que dice",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 462.42,
+   "fin": 466.26,
+   "texto": "Una cosa más, no me avergüenzo de nada de lo que he hecho.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 466.76,
+   "fin": 469.5,
+   "texto": "No hay que avergonzarse por amar y por decirlo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 469.9,
+   "fin": 472.9,
+   "texto": "Y esto tiene mucho sentido, lo de no avergonzarse por amar y por decirlo,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 472.9,
+   "fin": 477.4,
+   "texto": "porque en este libro Annie cuenta parte de su primera experiencia sexual con un hombre",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 477.4,
+   "fin": 481.06,
+   "texto": "cuando tiene 18 años, que se va a un campamento de verano, de monitora.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 481.06,
+   "fin": 483.18,
+   "texto": "se le da fatal por cierto ser monitora de los niños",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 483.18,
+   "fin": 484.36,
+   "texto": "a ni los niños mal",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 484.36,
+   "fin": 487.14,
+   "texto": "claramente se da cuenta de que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 487.14,
+   "fin": 488.18,
+   "texto": "su vocación no va por ahí",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 488.18,
+   "fin": 490.96,
+   "texto": "pero es interesante porque es la primera vez que sale",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 490.96,
+   "fin": 493.26,
+   "texto": "de Ibetot que era donde pasó su infancia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 493.26,
+   "fin": 495.12,
+   "texto": "que es un pueblo del que hemos hablado en las sesiones",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 495.12,
+   "fin": 495.76,
+   "texto": "anteriores",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 495.76,
+   "fin": 499.26,
+   "texto": "y entonces se va allí y",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 499.26,
+   "fin": 501.2,
+   "texto": "de repente ve que el resto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 501.2,
+   "fin": 503.02,
+   "texto": "de monitores pues como que tienen ya",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 503.02,
+   "fin": 505.02,
+   "texto": "una experiencia de vida como mucho más amplia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 505.02,
+   "fin": 507.24,
+   "texto": "que ella y ella le entra como una sed",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 507.24,
+   "fin": 509.18,
+   "texto": "de vivir un poco y de vivir",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 509.18,
+   "fin": 511.06,
+   "texto": "experiencias y es un libro",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 511.06,
+   "fin": 513.2,
+   "texto": "bastante duro porque le pasan cosas terribles",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 513.2,
+   "fin": 514.92,
+   "texto": "pero a la vez un libro bastante luminoso",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 514.92,
+   "fin": 517.1800000000001,
+   "texto": "en el sentido de que vemos una Annie joven",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 517.1800000000001,
+   "fin": 519.42,
+   "texto": "que tiene ganas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 519.42,
+   "fin": 521.14,
+   "texto": "como de empezar a explorar el mundo más allá",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 521.14,
+   "fin": 523.08,
+   "texto": "de las fronteras de sus orígenes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 523.08,
+   "fin": 525.22,
+   "texto": "como decía, el foco",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 525.22,
+   "fin": 527.24,
+   "texto": "de la historia es su primera relación sexual con un",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 527.24,
+   "fin": 528.5,
+   "texto": "hombre con el que se obsesiona",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 528.5,
+   "fin": 531.12,
+   "texto": "y por cierto, cuya inicial",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 531.12,
+   "fin": 533.26,
+   "texto": "en el libro es H",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 533.26,
+   "fin": 534.96,
+   "texto": "que inevitablemente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 534.96,
+   "fin": 537.1800000000001,
+   "texto": "a todas nos lleva a tres metros sobre el cielo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 537.1800000000001,
+   "fin": 538.42,
+   "texto": "a un señor en una moto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 538.42,
+   "fin": 546.62,
+   "texto": "Está el señor en una moto diciendo, fea. Esto lo entenderá cierta parte de la audiencia y quizá cierta parte no, quizá os pilló lejos, pero bueno.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 547.9399999999999,
+   "fin": 556.38,
+   "texto": "Pero bueno, es un libro que habla de muchas más cosas. Habla de la bulimia, por ejemplo, que es un tema que se toca de manera un poco tangencial en algunos libros y aquí como que ahonda un poco más en ello.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 557.12,
+   "fin": 564.92,
+   "texto": "Habla de su viaje a Londres, que estuvo de au pair, que se dedicó a robar y a leer novelas en francés en vez de aprender inglés, que era lo que había ido ahí a hacer.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 564.92,
+   "fin": 567.64,
+   "texto": "pero bueno, habla de los meses en los que se le cortó la regla",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 567.64,
+   "fin": 570.24,
+   "texto": "no ya cuando se queda embarazada",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 570.24,
+   "fin": 571.9799999999999,
+   "texto": "sino antes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 571.9799999999999,
+   "fin": 573.54,
+   "texto": "en plan cuando tiene 18, 19 años",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 573.54,
+   "fin": 576.8399999999999,
+   "texto": "es ya tan mala y tiene tantos problemas emocionales",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 576.8399999999999,
+   "fin": 578.18,
+   "texto": "yo creo que se le corta la regla",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 578.18,
+   "fin": 579.24,
+   "texto": "que es algo que a veces pasa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 579.24,
+   "fin": 581.4399999999999,
+   "texto": "yo los dos meses que estuve trabajando",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 581.4399999999999,
+   "fin": 583.66,
+   "texto": "para el capitalismo, el pasado año",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 583.66,
+   "fin": 585.42,
+   "texto": "se me cortó la regla",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 585.42,
+   "fin": 587.7199999999999,
+   "texto": "tuve un ciclo menstrual de 60 días",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 587.7199999999999,
+   "fin": 589.74,
+   "texto": "y era porque mi cuerpo decía",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 589.74,
+   "fin": 591.28,
+   "texto": "pero que haces en una oficina zorra",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 591.28,
+   "fin": 592.9599999999999,
+   "texto": "tu cuerpo en plan, no voy a menstruar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 592.9599999999999,
+   "fin": 594.1999999999999,
+   "texto": "hasta que no abandones",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 594.2,
+   "fin": 595.6600000000001,
+   "texto": "El sistema capitalista.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 595.9200000000001,
+   "fin": 596.5400000000001,
+   "texto": "Es que fue eso.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 598.1800000000001,
+   "fin": 600.5400000000001,
+   "texto": "Y también cuenta su paso por la escuela de magisterio.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 600.82,
+   "fin": 603.38,
+   "texto": "Que, bueno, lo decimos así para que se entienda un poco mejor.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 603.76,
+   "fin": 606.84,
+   "texto": "Annie como que se metió en la carrera de magisterio infantil,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 606.9200000000001,
+   "fin": 608.26,
+   "texto": "que no era una carrera, pero era una escuela,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 608.4200000000001,
+   "fin": 610.7,
+   "texto": "y rápidamente dijo, bueno, rápidamente, le costó, ¿no?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 610.7,
+   "fin": 612.1400000000001,
+   "texto": "Y esto lo cuenta a memoria de chica, pero dijo,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 612.46,
+   "fin": 614.5600000000001,
+   "texto": "claramente lo de enseñar a niños no es para mí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 614.76,
+   "fin": 616.6800000000001,
+   "texto": "Recojo cable y voy a ir a la universidad,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 616.76,
+   "fin": 617.76,
+   "texto": "que es lo que finalmente hizo, ¿no?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 619.38,
+   "fin": 621.5400000000001,
+   "texto": "Es muy curioso el tema del deseo en este libro,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 621.5400000000001,
+   "fin": 623.36,
+   "texto": "por eso lo hemos traído a esta sesión sobre el amor",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 623.36,
+   "fin": 626.46,
+   "texto": "y sobre la Annie un poco loca, porque cuando se obsesiona con H,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 627.02,
+   "fin": 633.12,
+   "texto": "es como que la Annie del 58, la Annie de 18 años, está completamente a merced de ese hombre, ¿no?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 633.14,
+   "fin": 635.96,
+   "texto": "No piensa en su propio deseo, en los encuentros sexuales que tienen.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 636.16,
+   "fin": 639.36,
+   "texto": "Es como que está como obnubilada por él y solo...",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 639.36,
+   "fin": 643.6800000000001,
+   "texto": "De hecho hay una cita que dice, ella, la chica de la Annie de 18 años,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 644.12,
+   "fin": 646.58,
+   "texto": "no se pregunta si le gusta, si lo encuentra guapo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 646.72,
+   "fin": 650.02,
+   "texto": "O sea, que ni siquiera se interpela sobre su propio deseo, ¿no?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 650.02,
+   "fin": 652.98,
+   "texto": "aquí, perdón, pero es una conexión muy evidente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 652.98,
+   "fin": 655.06,
+   "texto": "lo digo ya, porque no podemos abundar muchísimo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 655.06,
+   "fin": 656.9,
+   "texto": "en los libros, pero en la mujer helada",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 656.9,
+   "fin": 658.98,
+   "texto": "hay como una gran reflexión",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 658.98,
+   "fin": 661.06,
+   "texto": "sobre esta Annie, la Annie adolescente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 661.06,
+   "fin": 662.92,
+   "texto": "y joven, y cómo concibe",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 662.92,
+   "fin": 664.5799999999999,
+   "texto": "ella las relaciones sexuales",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 664.5799999999999,
+   "fin": 666.22,
+   "texto": "y las relaciones de pareja",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 666.22,
+   "fin": 668.92,
+   "texto": "y que tiene mucho que ver con esta, que es la del lecho de hierba",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 668.92,
+   "fin": 670.92,
+   "texto": "¿te acuerdas? que ella se imaginaba a sí misma",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 670.92,
+   "fin": 671.66,
+   "texto": "siempre",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 671.66,
+   "fin": 674.84,
+   "texto": "tumbada boca arriba, quieta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 674.84,
+   "fin": 676.74,
+   "texto": "en un lecho de hierbas y una persona",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 676.74,
+   "fin": 677.64,
+   "texto": "haciéndole cosas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 677.64,
+   "fin": 680.16,
+   "texto": "ella absolutamente pasiva",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 680.16,
+   "fin": 681.6,
+   "texto": "por debajo, subordinada",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 681.6,
+   "fin": 683.74,
+   "texto": "y cuando llega su primera experiencia sexual",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 683.74,
+   "fin": 685.64,
+   "texto": "por supuesto es lo que pasa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 685.64,
+   "fin": 688.0,
+   "texto": "sí, de hecho es interesante porque ella",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 688.0,
+   "fin": 689.8199999999999,
+   "texto": "antes de ir al campamento este como monitora",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 689.8199999999999,
+   "fin": 691.9399999999999,
+   "texto": "tiene como la idea de que va a vivir su primera historia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 691.9399999999999,
+   "fin": 694.18,
+   "texto": "de amor, que en cierto sentido",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 694.18,
+   "fin": 695.92,
+   "texto": "es verdad, lo que pasa que es una historia bastante",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 695.92,
+   "fin": 697.86,
+   "texto": "fatídica, que tiene consecuencias",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 697.86,
+   "fin": 700.0,
+   "texto": "en su vida durante muchos meses, después esto se ve",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 700.0,
+   "fin": 701.98,
+   "texto": "en el libro, pero va",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 701.98,
+   "fin": 703.66,
+   "texto": "como diciendo a ver si encuentra a mi príncipe azul",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 703.66,
+   "fin": 705.86,
+   "texto": "y lo que se encuentra es un cabrón, por supuesto siempre",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 705.86,
+   "fin": 708.9,
+   "texto": "y es bastante interesante",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 708.9,
+   "fin": 711.14,
+   "texto": "y luego también es el libro donde cuenta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 711.14,
+   "fin": 712.74,
+   "texto": "y se explaya un poco",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 712.74,
+   "fin": 714.98,
+   "texto": "el efecto que tuvo para ella",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 714.98,
+   "fin": 716.8000000000001,
+   "texto": "leer el segundo sexo de Simone de Beauvoir",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 716.8000000000001,
+   "fin": 718.6800000000001,
+   "texto": "en la segunda sesión",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 718.6800000000001,
+   "fin": 720.84,
+   "texto": "y en el segundo podcast sobre Annie hablábamos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 720.84,
+   "fin": 722.54,
+   "texto": "del impacto que tuvo leer a Bourdieu",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 722.54,
+   "fin": 725.28,
+   "texto": "y este es como su otro gran pilar filosófico",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 725.28,
+   "fin": 727.28,
+   "texto": "e ideológico, es leer a Simone de Beauvoir",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 727.28,
+   "fin": 729.14,
+   "texto": "entonces si os interesa el libro",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 729.14,
+   "fin": 730.12,
+   "texto": "adelante",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 730.12,
+   "fin": 733.22,
+   "texto": "y ahora vamos a tratar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 733.22,
+   "fin": 735.12,
+   "texto": "la mujer helada, como hemos dicho antes",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 735.12,
+   "fin": 739.28,
+   "texto": "hemos vuelto un poco a la joven humillada, que eran las figuras que traíamos de la tesis de",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 739.28,
+   "fin": 744.78,
+   "texto": "Francisca Romeral, que es la de memoria de chica, y en la mujer helada vemos justo ese trayecto de",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 744.78,
+   "fin": 749.28,
+   "texto": "la joven humillada allá a la transfuga social, porque acaba el libro habitando otra clase,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 749.48,
+   "fin": 754.22,
+   "texto": "se ha casado y a través de su matrimonio ha ascendido socialmente. Lo interesante, porque yo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 754.22,
+   "fin": 758.34,
+   "texto": "siempre pensaba que la mujer helada era el libro sobre el matrimonio, tenemos como esta concepción,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 758.8,
+   "fin": 764.1,
+   "texto": "es que el matrimonio son las últimas paginitas del libro, que son fascinantes, pero al principio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 764.1,
+   "fin": 769.46,
+   "texto": "hace un recorrido por su infancia, adolescencia, juventud, a través sobre todo de...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 769.46,
+   "fin": 773.48,
+   "texto": "Se ve muy claro el cambio y el paso, porque lo hace a través de las instituciones educativas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 773.48,
+   "fin": 777.58,
+   "texto": "y también de los lugares, de su casa en la infancia, al colegio, luego tal.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 778.14,
+   "fin": 784.0600000000001,
+   "texto": "Y es súper interesante, ahonda mucho en el tema de la clase, pero sobre todo también del género,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 784.26,
+   "fin": 790.08,
+   "texto": "de cuál ha sido su concepción acerca de las diferencias de género, del matrimonio, de la sexualidad.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 790.34,
+   "fin": 791.82,
+   "texto": "Se centra mucho en estas cuestiones.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 791.82,
+   "fin": 793.88,
+   "texto": "es muy interesante de la infancia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 793.88,
+   "fin": 796.0400000000001,
+   "texto": "me gusta muchísimo esta parte del libro también",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 796.0400000000001,
+   "fin": 797.84,
+   "texto": "pero bueno, empieza como",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 797.84,
+   "fin": 799.6800000000001,
+   "texto": "hablando de sus mujeres",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 799.6800000000001,
+   "fin": 801.88,
+   "texto": "de los que han sido siempre los modelos de mujeres",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 801.88,
+   "fin": 804.44,
+   "texto": "también es un libro de gran amor hacia su madre",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 804.44,
+   "fin": 806.32,
+   "texto": "el primer eco del mundo me llegó",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 806.32,
+   "fin": 808.62,
+   "texto": "por mi madre, es una frase de la mujer helada",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 808.62,
+   "fin": 810.32,
+   "texto": "siempre estuvo orgullosa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 810.32,
+   "fin": 812.0,
+   "texto": "de ser niña y no niño por su madre",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 812.0,
+   "fin": 813.72,
+   "texto": "es un libro la verdad muy bonito",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 813.72,
+   "fin": 815.86,
+   "texto": "con este respecto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 815.86,
+   "fin": 818.1400000000001,
+   "texto": "y en la infancia cuenta como",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 818.1400000000001,
+   "fin": 820.2,
+   "texto": "a ella sus padres le educaron sin diferencia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 820.2,
+   "fin": 824.72,
+   "texto": "de género, ¿no? O sea, ella nunca, sus padres nunca pensaron que podría llegar a menos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 824.72,
+   "fin": 828.26,
+   "texto": "por ser una mujer y no un hombre, nunca la ha considerado un débil frente a los hombres,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 828.36,
+   "fin": 833.7800000000001,
+   "texto": "¿no? Ni nada de esto. Y dice, pero busco mi recorrido de niña y de mujer y sé que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 833.7800000000001,
+   "fin": 838.84,
+   "texto": "al menos una sombra no ha planeado sobre mi infancia. La idea de que las niñas son seres",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 838.84,
+   "fin": 843.74,
+   "texto": "dulces y débiles, inferiores a los niños, que hay diferencias en los roles. Ella nunca",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 843.74,
+   "fin": 847.26,
+   "texto": "vivió esto en su casa, además, bueno, porque esto ya hemos hablado, pero su madre era una",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 847.26,
+   "fin": 849.2,
+   "texto": "familia claramente matriarcal, en la que su madre",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 849.2,
+   "fin": 851.24,
+   "texto": "tenía siempre el peso, tomaba",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 851.24,
+   "fin": 852.86,
+   "texto": "las decisiones, tenía ambición",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 852.86,
+   "fin": 854.8199999999999,
+   "texto": "los roles de género",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 854.8199999999999,
+   "fin": 857.34,
+   "texto": "como entenderíamos tradicionalmente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 857.34,
+   "fin": 859.3,
+   "texto": "estaban dados la vuelta en el caso de sus padres",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 859.3,
+   "fin": 861.34,
+   "texto": "y todo esto, por eso para ella",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 861.34,
+   "fin": 862.58,
+   "texto": "cuando llega al colegio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 862.58,
+   "fin": 865.12,
+   "texto": "privado, empieza a ver a las maestras",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 865.12,
+   "fin": 867.08,
+   "texto": "a las madres de sus compañeras, que son madres",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 867.08,
+   "fin": 868.62,
+   "texto": "absolutamente opuestas a su madre",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 868.62,
+   "fin": 871.2,
+   "texto": "y cuando van sus compañeras",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 871.2,
+   "fin": 873.38,
+   "texto": "de clase a casa y le dicen, tu madre es una yegua",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 873.38,
+   "fin": 874.74,
+   "texto": "que es una cosa que le dice una",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 874.74,
+   "fin": 877.22,
+   "texto": "ella se da cuenta de repente de que todo lo que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 877.22,
+   "fin": 879.3000000000001,
+   "texto": "aprendido está mal y que hay unas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 879.3000000000001,
+   "fin": 880.96,
+   "texto": "normas y un modelo y unas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 880.96,
+   "fin": 883.32,
+   "texto": "digamos unas maneras",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 883.32,
+   "fin": 885.34,
+   "texto": "de entender el género que ella no",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 885.34,
+   "fin": 887.32,
+   "texto": "comprende de repente y se mete",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 887.32,
+   "fin": 889.4,
+   "texto": "un hostiazo bastante grande",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 889.4,
+   "fin": 891.2,
+   "texto": "que luego confirma",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 891.2,
+   "fin": 892.24,
+   "texto": "leyendo a Simón de Beauvoir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 892.24,
+   "fin": 894.0600000000001,
+   "texto": "hay una ascensión",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 894.0600000000001,
+   "fin": 897.44,
+   "texto": "y luego también hay muchísimo de la adolescencia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 897.44,
+   "fin": 899.34,
+   "texto": "de como el régimen de miedo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 899.34,
+   "fin": 901.6800000000001,
+   "texto": "de vergüenza, la inteligencia como pecado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 901.6800000000001,
+   "fin": 905.46,
+   "texto": "no sé, la represión sexual",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 905.46,
+   "fin": 907.7800000000001,
+   "texto": "también habla de cómo sus compañeras y ella",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 907.7800000000001,
+   "fin": 910.24,
+   "texto": "desde que tienen 10 años solo hablan de hacer el amor",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 910.24,
+   "fin": 912.26,
+   "texto": "sin ningún tipo de conocimiento",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 912.26,
+   "fin": 914.14,
+   "texto": "de nada, nunca han visto un cuerpo de un hombre",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 914.14,
+   "fin": 916.14,
+   "texto": "es una cosa de la que no pueden",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 916.14,
+   "fin": 918.0400000000001,
+   "texto": "hablar en ningún otro sitio que no sea entre ellas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 918.0400000000001,
+   "fin": 920.14,
+   "texto": "porque es como no se habla de nada",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 920.14,
+   "fin": 922.0400000000001,
+   "texto": "entonces tienen un",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 922.0400000000001,
+   "fin": 924.12,
+   "texto": "profundo desconocimiento pero es un tema",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 924.12,
+   "fin": 925.34,
+   "texto": "importantísimo en su vida",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 925.34,
+   "fin": 928.64,
+   "texto": "básicamente esto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 928.64,
+   "fin": 930.0,
+   "texto": "de hecho hablábamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 930.0,
+   "fin": 931.24,
+   "texto": "en las sesiones de cómo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 931.24,
+   "fin": 933.38,
+   "texto": "en qué medida ha cambiado esto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 933.38,
+   "fin": 935.8,
+   "texto": "en plan si tenemos mucho conocimiento o no",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 935.8,
+   "fin": 938.66,
+   "texto": "hablábamos de que quizás si hay más conocimiento visual",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 938.66,
+   "fin": 939.96,
+   "texto": "en el sentido desde que los niños",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 939.96,
+   "fin": 940.92,
+   "texto": "desde que tienen un móvil",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 940.92,
+   "fin": 942.9399999999999,
+   "texto": "es decir, desde que están en el vientre de su madre",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 942.9399999999999,
+   "fin": 946.62,
+   "texto": "ya pueden acceder a imágenes sexuales",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 946.62,
+   "fin": 947.74,
+   "texto": "pero claro, también decíamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 947.74,
+   "fin": 949.78,
+   "texto": "aunque el hecho de que esto sea así",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 949.78,
+   "fin": 952.28,
+   "texto": "y de que encima sean imágenes pornográficas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 952.28,
+   "fin": 954.22,
+   "texto": "es como uno de nuestros grandes problemas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 954.22,
+   "fin": 955.68,
+   "texto": "como sociedad, seguramente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 955.68,
+   "fin": 958.04,
+   "texto": "entonces ha cambiado, pero quizá no tanto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 958.04,
+   "fin": 959.32,
+   "texto": "quizá...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 959.32,
+   "fin": 961.38,
+   "texto": "no porque la educación sexual, por lo menos en España",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 961.38,
+   "fin": 962.68,
+   "texto": "briga por su ausencia",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 962.68,
+   "fin": 964.18,
+   "texto": "absolutamente absurda",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 964.18,
+   "fin": 967.2199999999999,
+   "texto": "y nada, os recomendamos muchísimo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 967.2199999999999,
+   "fin": 969.4,
+   "texto": "La Mujer Helada, no me voy a entretener mucho más",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 969.4,
+   "fin": 971.8,
+   "texto": "como decía, la parte del matrimonio es muy chula",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 971.8,
+   "fin": 973.4599999999999,
+   "texto": "también habla de cómo se casó un poco",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 973.4599999999999,
+   "fin": 975.56,
+   "texto": "sin querer, sin saber cómo de repente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 975.56,
+   "fin": 976.9599999999999,
+   "texto": "pasa de ser una persona que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 976.9599999999999,
+   "fin": 979.42,
+   "texto": "rechaza totalmente el matrimonio y a las mujeres",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 979.42,
+   "fin": 979.8199999999999,
+   "texto": "como",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 979.8199999999999,
+   "fin": 983.2399999999999,
+   "texto": "que abandonan la universidad y se ponen a parir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 983.2399999999999,
+   "fin": 985.06,
+   "texto": "y las ve con el carrito y de repente a los tres días",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 985.06,
+   "fin": 986.4799999999999,
+   "texto": "es ella, o sea, es que es como que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 986.4799999999999,
+   "fin": 988.9599999999999,
+   "texto": "de repente es fuerte",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 988.9599999999999,
+   "fin": 991.7199999999999,
+   "texto": "también habla del embarazo, del parto y todas estas cosas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 991.7199999999999,
+   "fin": 992.14,
+   "texto": "pero bueno",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 992.14,
+   "fin": 994.8199999999999,
+   "texto": "habla también de su apellido",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 994.8199999999999,
+   "fin": 996.9,
+   "texto": "que mucha gente se pregunta por qué rechaza",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 996.9,
+   "fin": 998.48,
+   "texto": "su apellido de nacimiento",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 998.48,
+   "fin": 1000.98,
+   "texto": "y se queda con el de su marido incluso cuando se separan",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1000.98,
+   "fin": 1003.14,
+   "texto": "y habla de cómo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1003.14,
+   "fin": 1004.88,
+   "texto": "fue un poco raro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1004.88,
+   "fin": 1007.1,
+   "texto": "abandonar la palabra, la primera palabra",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1007.1,
+   "fin": 1009.0,
+   "texto": "que había empezado a escribir, la palabra que siempre",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1009.0,
+   "fin": 1010.52,
+   "texto": "cuando sacaba buenas notas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1010.52,
+   "fin": 1013.04,
+   "texto": "sonaba, la palabra con la que sus padres",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1013.04,
+   "fin": 1014.58,
+   "texto": "la reconocían",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1014.58,
+   "fin": 1016.84,
+   "texto": "pero como que rápidamente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1016.84,
+   "fin": 1018.5,
+   "texto": "lo sintió el otro como pesado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1018.5,
+   "fin": 1020.58,
+   "texto": "y como suyo de alguna manera",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1020.58,
+   "fin": 1023.88,
+   "texto": "y el matrimonio, claro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1023.88,
+   "fin": 1024.94,
+   "texto": "fatídico",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1024.94,
+   "fin": 1028.2,
+   "texto": "si habéis visto el documental",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1028.2,
+   "fin": 1029.76,
+   "texto": "de los años super 8",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1029.76,
+   "fin": 1032.14,
+   "texto": "coincide justo esta etapa vital",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1032.14,
+   "fin": 1033.8400000000001,
+   "texto": "con el documental",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1033.8400000000001,
+   "fin": 1036.14,
+   "texto": "y os recomendamos mucho que lo leáis",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1036.14,
+   "fin": 1038.58,
+   "texto": "hemos traído una cita como para que veáis",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1038.58,
+   "fin": 1040.0,
+   "texto": "porque era una mujer helada",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1040.0,
+   "fin": 1041.1200000000001,
+   "texto": "y dice",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1041.1200000000001,
+   "fin": 1043.78,
+   "texto": "desde el principio del matrimonio me da la impresión",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1043.78,
+   "fin": 1046.16,
+   "texto": "de correr tras una igualdad que se me escapa",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1046.16,
+   "fin": 1046.96,
+   "texto": "todo el tiempo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1046.96,
+   "fin": 1049.9,
+   "texto": "esto es un buen resumen, era un potro domado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1049.9,
+   "fin": 1051.8200000000002,
+   "texto": "una mujer que lloraba entre cazuelas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1052.02,
+   "fin": 1053.1200000000001,
+   "texto": "Todos citas de la Ani, ¿eh?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1054.0400000000002,
+   "fin": 1054.68,
+   "texto": "Sí, sí.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1054.8400000000001,
+   "fin": 1059.72,
+   "texto": "Así que nada, vamos a entender entonces a Mujer Helada como momento de ruptura ya final",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1059.72,
+   "fin": 1062.8400000000001,
+   "texto": "y a partir de ahora vamos a hablar de la transfuga social, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1062.8600000000001,
+   "fin": 1067.76,
+   "texto": "La persona que ha ascendido socialmente, que ya no es esa joven humillada, o por lo menos no del todo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1068.22,
+   "fin": 1069.2,
+   "texto": "Ya no es joven, desde luego.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1069.3200000000002,
+   "fin": 1072.9,
+   "texto": "Desde luego, ¿no? Ya ha pasado a otro lugar, ¿no? En muchos sentidos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1073.76,
+   "fin": 1078.8400000000001,
+   "texto": "Para hablar de estas cuestiones nos vamos a centrar en pura pasión y perderse de manera unificada",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1078.84,
+   "fin": 1082.24,
+   "texto": "porque como muchas ya sabréis, Perderse son los diarios en bruto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1082.24,
+   "fin": 1086.8999999999999,
+   "texto": "donde cuenta esta relación con la persona soviética cuya identidad no conocemos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1087.04,
+   "fin": 1088.34,
+   "texto": "Ni falta que hace tampoco.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1088.5,
+   "fin": 1091.76,
+   "texto": "Y pura pasión es como un resumen en unas muy poquitas páginas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1091.76,
+   "fin": 1096.84,
+   "texto": "súper interesante y con muchísimas reflexiones acerca de la propia escritura.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1098.06,
+   "fin": 1102.08,
+   "texto": "Si no queréis leer las 300 páginas de Perderse, que están muy bien,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1102.3799999999999,
+   "fin": 1103.72,
+   "texto": "pero al mismo tiempo dices, ¡ay!",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1104.4399999999998,
+   "fin": 1106.74,
+   "texto": "Claro, si no habéis leído ningún libro de Anier, ¿no?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1106.74,
+   "fin": 1109.76,
+   "texto": "empezar por perderse no tiene mucho sentido",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1109.76,
+   "fin": 1112.08,
+   "texto": "no, hicimos un club de lectura",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1112.08,
+   "fin": 1113.78,
+   "texto": "hemos de decir, y gustó mucho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1113.78,
+   "fin": 1115.96,
+   "texto": "y estuvo muy bien, pero cuando te lo estás leyendo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1115.96,
+   "fin": 1117.96,
+   "texto": "llegas a la página 200 y dices",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1117.96,
+   "fin": 1119.9,
+   "texto": "ay Dios mío, esto ya se ha contado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1119.9,
+   "fin": 1121.32,
+   "texto": "ya hemos pillado la movida",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1121.32,
+   "fin": 1123.26,
+   "texto": "pero bueno, muy recomendados los dos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1123.26,
+   "fin": 1125.98,
+   "texto": "como decíamos también",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1125.98,
+   "fin": 1127.76,
+   "texto": "se inaugura una nueva etapa en lo que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1127.76,
+   "fin": 1130.24,
+   "texto": "podríamos llamar el itinerario autoficcional",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1130.24,
+   "fin": 1131.3,
+   "texto": "de Annie Ernaux",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1131.3,
+   "fin": 1133.82,
+   "texto": "y aparece lo que Francisca Romeral llama",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1133.82,
+   "fin": 1136.26,
+   "texto": "erotismo chic, como un tipo de escritura",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1136.26,
+   "fin": 1140.44,
+   "texto": "que se distingue de los relatos anteriores de corte más etnofamiliar.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1141.16,
+   "fin": 1147.42,
+   "texto": "Esto se convierte en un reto hacia ella misma, porque tenía que dominar ese sentimiento del que hablábamos en la introducción,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1147.66,
+   "fin": 1152.54,
+   "texto": "de que una mujer no puede escribir sobre estas cosas, y más sobre relaciones, como veremos más adelante,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1152.86,
+   "fin": 1157.3,
+   "texto": "que no encajan en los marcos de lo moralmente o socialmente correcto o aceptado.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1158.42,
+   "fin": 1164.96,
+   "texto": "Y aquí es muy interesante tratar el tema del lector, porque hubo una especie de ruptura",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1164.96,
+   "fin": 1184.78,
+   "texto": "En cuanto a los lectores de Anier, no. El lector que había reconstruido su propia historia familiar o de sus orígenes con el lugar, por ejemplo, con un libro sobre su padre que objetiva unos hechos de un pasado familiar, de un periodo concreto de la historia de Francia, de repente lee Pura Pasión y dice, ¿qué cojones ha pasado aquí?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1184.78,
+   "fin": 1193.8799999999999,
+   "texto": "Claro, porque sin embargo en pura pasión es una confesión de algo íntimo, de algo incluso socialmente vergonzoso.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1194.3999999999999,
+   "fin": 1201.0,
+   "texto": "Ese salto que da a poder hablar en público de intimidades de la vida privada, que es verdad que esto ya lo había hecho en otro plano,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1201.46,
+   "fin": 1207.34,
+   "texto": "pero en este caso además con una proximidad en el tiempo bastante grande, implicando a personas que no son sus padres,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1207.82,
+   "fin": 1210.3,
+   "texto": "que son sus amantes y que están vivas en ese momento.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1210.3,
+   "fin": 1213.6399999999999,
+   "texto": "y aquí hubo una especie de ruptura",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1213.6399999999999,
+   "fin": 1215.2,
+   "texto": "hablábamos, ¿verdad? que es como cuando",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1215.2,
+   "fin": 1217.68,
+   "texto": "Rosalía sacó Motomami",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1217.68,
+   "fin": 1219.6399999999999,
+   "texto": "que hubo muchísima gente que de repente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1219.6399999999999,
+   "fin": 1221.52,
+   "texto": "dijo, no, yo quería la otra Rosalía",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1221.52,
+   "fin": 1223.58,
+   "texto": "como si no fueran la misma, en el caso de",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1223.58,
+   "fin": 1225.44,
+   "texto": "Ani lo mismo, decimos la Ani amor y la Ani tal",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1225.44,
+   "fin": 1227.04,
+   "texto": "pero es la misma, lo que pasa que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1227.04,
+   "fin": 1228.44,
+   "texto": "toca dimensiones",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1228.44,
+   "fin": 1231.52,
+   "texto": "muy diferentes, y hablábamos también",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1231.52,
+   "fin": 1233.8,
+   "texto": "en el taller de cómo sería súper interesante intentar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1233.8,
+   "fin": 1235.36,
+   "texto": "de hecho podríamos hacerlo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1235.36,
+   "fin": 1237.12,
+   "texto": "pero cuando pase un tiempo, yo ya estoy un poco",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1237.12,
+   "fin": 1239.28,
+   "texto": "mucha Ani, papá, muy",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1239.28,
+   "fin": 1241.16,
+   "texto": "concentrada. Encontrar sus",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1241.16,
+   "fin": 1243.3799999999999,
+   "texto": "elementos básicos que hemos ido",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1243.3799999999999,
+   "fin": 1245.18,
+   "texto": "tocando a lo largo de todas estas sesiones",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1245.18,
+   "fin": 1247.02,
+   "texto": "en las dos Anis, digamos, porque",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1247.02,
+   "fin": 1248.6399999999999,
+   "texto": "muchos están muy presentes.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1249.68,
+   "fin": 1251.1,
+   "texto": "Y la vergüenza siempre está,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1251.32,
+   "fin": 1253.26,
+   "texto": "la humillación siempre está. Sí, lo que pasa es que son diferentes",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1253.26,
+   "fin": 1255.52,
+   "texto": "las vergüenzas, que todas vienen un poco de lo mismo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1256.68,
+   "fin": 1257.12,
+   "texto": "Sí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1257.68,
+   "fin": 1259.6,
+   "texto": "Y es curioso esto que ha mencionado Inés,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1259.72,
+   "fin": 1261.0,
+   "texto": "de que Ani en estas obras",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1261.0,
+   "fin": 1263.3999999999999,
+   "texto": "escribe acerca",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1263.3999999999999,
+   "fin": 1265.26,
+   "texto": "de relaciones que ella misma ha vivido",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1265.26,
+   "fin": 1267.26,
+   "texto": "y de las que ha participado, que no son",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1267.26,
+   "fin": 1273.76,
+   "texto": "las que normalmente aceptamos moralmente en la sociedad como por ejemplo cuando tiene la aventura",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1273.76,
+   "fin": 1279.86,
+   "texto": "con el soviético es eso es una aventura él está casado y ella es la otra mujer no lo mismo pasa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1279.86,
+   "fin": 1284.3799999999999,
+   "texto": "en la ocupación habla de los celos ya os lo contaremos más adelante pero los celos que tiene",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1284.3799999999999,
+   "fin": 1291.28,
+   "texto": "de la nueva mujer de su ex amante y un poco todavía amante y es muy joven claro y también",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1291.28,
+   "fin": 1296.48,
+   "texto": "habla de relaciones con una diferencia de edad bastante considerable ella casi siempre es la",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1296.48,
+   "fin": 1298.34,
+   "texto": "mayor y a su",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1298.34,
+   "fin": 1300.42,
+   "texto": "a uno de sus amantes del que luego",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1300.42,
+   "fin": 1302.1,
+   "texto": "hablaremos le saca casi 30 años",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1302.1,
+   "fin": 1304.6,
+   "texto": "tiene amantes que son más jóvenes que sus hijos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1304.6,
+   "fin": 1306.46,
+   "texto": "que bueno pues",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1306.46,
+   "fin": 1308.44,
+   "texto": "de nuevo socialmente pues este",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1308.44,
+   "fin": 1310.44,
+   "texto": "tipo de relaciones no es lo canónico digamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1310.44,
+   "fin": 1312.54,
+   "texto": "pero nos gusta la verdad que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1312.54,
+   "fin": 1314.32,
+   "texto": "haga esto porque creemos que los escritores",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1314.32,
+   "fin": 1316.22,
+   "texto": "aquí es donde a veces más brillan",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1316.22,
+   "fin": 1318.28,
+   "texto": "cuando escriben acerca de cosas que quizás",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1318.28,
+   "fin": 1320.28,
+   "texto": "nos incomoden un poco, es un poco lo que buscamos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1320.28,
+   "fin": 1322.44,
+   "texto": "siempre en punzadas, no solo en los",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1322.44,
+   "fin": 1324.04,
+   "texto": "libros sino en todo lo que consumimos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1324.04,
+   "fin": 1326.1200000000001,
+   "texto": "a nivel artístico que nos incomode",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1326.12,
+   "fin": 1327.62,
+   "texto": "es un valor positivo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1327.62,
+   "fin": 1328.1,
+   "texto": "sí",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1328.1,
+   "fin": 1329.6399999999999,
+   "texto": "y recomendábamos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1329.6399999999999,
+   "fin": 1330.7399999999998,
+   "texto": "en los talleres también",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1330.7399999999998,
+   "fin": 1331.9399999999998,
+   "texto": "leer a Paul Lucke",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1331.9399999999998,
+   "fin": 1332.8,
+   "texto": "que habla mucho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1332.8,
+   "fin": 1333.4799999999998,
+   "texto": "de la intersección",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1333.4799999999998,
+   "fin": 1334.52,
+   "texto": "entre la ética y la moral",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1334.52,
+   "fin": 1335.7399999999998,
+   "texto": "y la literatura",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1335.7399999999998,
+   "fin": 1336.86,
+   "texto": "y la ficción",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1336.86,
+   "fin": 1337.6,
+   "texto": "y tiene",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1337.6,
+   "fin": 1338.8799999999999,
+   "texto": "un libro que se llama",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1338.8799999999999,
+   "fin": 1339.8799999999999,
+   "texto": "Hipocondria moral",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1339.8799999999999,
+   "fin": 1341.08,
+   "texto": "que es pequeñito",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1341.08,
+   "fin": 1341.6399999999999,
+   "texto": "de anagrama",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1341.6399999999999,
+   "fin": 1342.02,
+   "texto": "de estos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1342.02,
+   "fin": 1342.58,
+   "texto": "Rosita",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1342.58,
+   "fin": 1343.9199999999998,
+   "texto": "como el de Lucía Ligmaer",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1343.9199999999998,
+   "fin": 1344.8,
+   "texto": "el mismo Rosita",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1344.8,
+   "fin": 1346.54,
+   "texto": "y también tiene",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1346.54,
+   "fin": 1347.4199999999998,
+   "texto": "Las cosas como son",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1347.4199999999998,
+   "fin": 1348.2199999999998,
+   "texto": "y otras fantasías",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1348.2199999999998,
+   "fin": 1349.4599999999998,
+   "texto": "de anagrama argumentos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1349.4599999999998,
+   "fin": 1350.1999999999998,
+   "texto": "que este lo hemos leído",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1350.1999999999998,
+   "fin": 1350.9599999999998,
+   "texto": "y lo hemos metido",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1350.9599999999998,
+   "fin": 1352.4399999999998,
+   "texto": "en alguna punzada",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1352.4399999999998,
+   "fin": 1352.9399999999998,
+   "texto": "en una carta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1352.9399999999998,
+   "fin": 1353.4799999999998,
+   "texto": "sí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1353.4799999999998,
+   "fin": 1354.2399999999998,
+   "texto": "en ambos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1354.2399999999998,
+   "fin": 1354.9799999999998,
+   "texto": "la de imaginación",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1354.9799999999998,
+   "fin": 1355.9799999999998,
+   "texto": "y nos encanta",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1355.98,
+   "fin": 1357.92,
+   "texto": "la verdad es un tema que queremos seguir explorando",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1357.92,
+   "fin": 1359.94,
+   "texto": "y que con Ani puede explorarse muy bien",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1359.94,
+   "fin": 1362.18,
+   "texto": "la verdad. Hay una cita en la ocupación",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1362.18,
+   "fin": 1363.92,
+   "texto": "donde dice, la dignidad",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1363.92,
+   "fin": 1365.94,
+   "texto": "o la indignidad de mi conducta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1365.94,
+   "fin": 1367.94,
+   "texto": "de mis deseos es algo que no me",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1367.94,
+   "fin": 1369.64,
+   "texto": "planteé en aquella ocasión",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1369.64,
+   "fin": 1372.3,
+   "texto": "como tampoco lo hago ahora al escribir",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1372.3,
+   "fin": 1373.78,
+   "texto": "a veces pienso que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1373.78,
+   "fin": 1375.8600000000001,
+   "texto": "creer en esa ausencia es la manera",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1375.8600000000001,
+   "fin": 1377.48,
+   "texto": "más segura de alcanzar la verdad",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1377.48,
+   "fin": 1379.74,
+   "texto": "un poco lo que comentábamos, que ya no se plantea",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1379.74,
+   "fin": 1381.54,
+   "texto": "a la hora de escribir si lo que está escribiendo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1381.54,
+   "fin": 1383.56,
+   "texto": "va a ser aceptado moralmente o no",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1383.56,
+   "fin": 1385.14,
+   "texto": "o a la gente le va a parecer bien o no",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1385.14,
+   "fin": 1391.3400000000001,
+   "texto": "Porque eso sería ponerse muros y autocensurarse incluso antes de escribir.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1391.46,
+   "fin": 1393.2800000000002,
+   "texto": "Y no tiene ningún sentido.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1393.38,
+   "fin": 1394.7,
+   "texto": "Y poner filtros a lo que escribes.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1395.5400000000002,
+   "fin": 1399.7,
+   "texto": "De hecho, a mí creo que no lo hace solo en estos libros del tema de la pasión.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1399.88,
+   "fin": 1405.22,
+   "texto": "Lo que contabas cuando su madre está enferma y confiesa que está siendo sádica con ella.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1405.92,
+   "fin": 1409.66,
+   "texto": "Son cosas como cuando en Pura Pasión dice que decía",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1409.66,
+   "fin": 1413.4,
+   "texto": "si me llama el ruso le doy una moneda al mendigo de la puerta del súper.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1413.4,
+   "fin": 1415.0400000000002,
+   "texto": "son cosas bastante fuertes",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1415.0400000000002,
+   "fin": 1417.14,
+   "texto": "y que moralmente y en otros planos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1417.14,
+   "fin": 1419.3600000000001,
+   "texto": "te chocan mucho y ella te lo deja ahí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1419.3600000000001,
+   "fin": 1421.26,
+   "texto": "no te dice, o sea, como ni ella",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1421.26,
+   "fin": 1423.0800000000002,
+   "texto": "lo juzga ni lo oculta, sino que te deja",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1423.0800000000002,
+   "fin": 1424.72,
+   "texto": "que seas tú la persona que lo juzgue",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1424.72,
+   "fin": 1426.6000000000001,
+   "texto": "que esto es una cosa que se deja poco",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1426.6000000000001,
+   "fin": 1428.64,
+   "texto": "esto lo hablamos mucho, ¿verdad?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1428.7,
+   "fin": 1431.3600000000001,
+   "texto": "como que a los lectores, espectadores o lo que sea",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1431.3600000000001,
+   "fin": 1433.5,
+   "texto": "se nos deja como poca libertad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1433.5,
+   "fin": 1435.42,
+   "texto": "para juzgar y para sacar nuestras propias",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1435.42,
+   "fin": 1437.0600000000002,
+   "texto": "conclusiones. Poco margen, sí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1437.0600000000002,
+   "fin": 1438.66,
+   "texto": "y Annie lo hace muy bien esto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1438.66,
+   "fin": 1441.46,
+   "texto": "tenemos una cita también",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1441.46,
+   "fin": 1443.0600000000002,
+   "texto": "de la tesis de Francisca que por cierto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1443.06,
+   "fin": 1445.32,
+   "texto": "dar las gracias desde aquí a la persona que nos ha mandado",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1445.32,
+   "fin": 1447.54,
+   "texto": "el contacto de Francisca Romeral porque lo llevábamos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1447.54,
+   "fin": 1449.3799999999999,
+   "texto": "buscando mucho tiempo y ahora tenemos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1449.3799999999999,
+   "fin": 1449.96,
+   "texto": "su whatsapp",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1449.96,
+   "fin": 1453.06,
+   "texto": "un día se viene un audio como de psicópatas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1453.06,
+   "fin": 1455.6,
+   "texto": "diciendo gracias te queremos y Francisca bloquea",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1455.6,
+   "fin": 1456.36,
+   "texto": "bloquea",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1456.36,
+   "fin": 1459.04,
+   "texto": "un podcast solo para ella",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1459.04,
+   "fin": 1461.1,
+   "texto": "que habla un poco",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1461.1,
+   "fin": 1463.28,
+   "texto": "de la recepción de estos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1463.28,
+   "fin": 1464.86,
+   "texto": "libros que tratan sobre la pasión",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1464.86,
+   "fin": 1467.28,
+   "texto": "en los lectores en Francia en el momento en el que se",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1467.28,
+   "fin": 1468.32,
+   "texto": "publicaron y dice",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1468.32,
+   "fin": 1471.2,
+   "texto": "el salto brusco de homenajes familiares",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1471.2,
+   "fin": 1472.72,
+   "texto": "y recuerdos adolescentes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1472.72,
+   "fin": 1479.08,
+   "texto": "a confesiones de intimidades pasionales y eróticas de una mujer adulta desconcertó o defraudó por",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1479.08,
+   "fin": 1484.26,
+   "texto": "distintas razones a muchos de ellos, a muchos de los lectores. La frecuentación por parte de la",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1484.26,
+   "fin": 1490.64,
+   "texto": "narradora de un mundo definido por marcas de lujo y pasatiempos de vida ociosa decepcionó. Algunos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1490.64,
+   "fin": 1495.94,
+   "texto": "lectores verían el exhibicionismo de la pasión como una traición al moralismo social esgrimido",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1495.94,
+   "fin": 1501.8,
+   "texto": "en libros anteriores. Entonces eso es un poco como la movida que sucede cuando Annie publica,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1501.8,
+   "fin": 1503.76,
+   "texto": "De hecho, cuando publica Pura Pasión la llaman de todo.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1503.98,
+   "fin": 1506.58,
+   "texto": "La insultan, la llaman zorra y puta en la prensa.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1506.6599999999999,
+   "fin": 1509.0,
+   "texto": "Sí, hay recepción muy buena y otra muy mala.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1509.26,
+   "fin": 1513.08,
+   "texto": "Si queréis ahondar en esto, en la tesis se recogen unas hojitas,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1513.18,
+   "fin": 1515.48,
+   "texto": "unas páginas sobre cada recepción de cada libro.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1516.02,
+   "fin": 1518.12,
+   "texto": "Y sobre el de Pura Pasión es súper interesante.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1518.12,
+   "fin": 1521.56,
+   "texto": "Porque trae incluso reseñas que hicieron críticos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1521.56,
+   "fin": 1524.76,
+   "texto": "y artículos que se publicaron en revistas.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1525.04,
+   "fin": 1526.46,
+   "texto": "Y es muy interesante, la verdad.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1527.3799999999999,
+   "fin": 1529.2,
+   "texto": "Y entonces, para que os quedéis con la idea básica",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1529.2,
+   "fin": 1531.3400000000001,
+   "texto": "de que en estos libros que estamos comentando",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1531.3400000000001,
+   "fin": 1532.98,
+   "texto": "en este episodio de Pura Pasión,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1533.1000000000001,
+   "fin": 1535.18,
+   "texto": "Perderse y tal, es donde vemos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1535.18,
+   "fin": 1537.04,
+   "texto": "confirmada la figura de la transfuga",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1537.04,
+   "fin": 1537.54,
+   "texto": "social.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1538.94,
+   "fin": 1541.24,
+   "texto": "Por ejemplo, en Pura Pasión vemos a una narradora",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1541.24,
+   "fin": 1543.14,
+   "texto": "que ostenta sin pudor posturas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1543.14,
+   "fin": 1545.14,
+   "texto": "de poder y de vanidad. Es como",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1545.14,
+   "fin": 1547.28,
+   "texto": "una especie de revancha de la joven humillada",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1547.28,
+   "fin": 1549.16,
+   "texto": "que ha atravesado todas las",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1549.16,
+   "fin": 1551.5,
+   "texto": "obras que hablaban de su familia y de sus orígenes.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1551.96,
+   "fin": 1553.28,
+   "texto": "Esta es una Annie de 50",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1553.28,
+   "fin": 1555.7,
+   "texto": "años que está viviendo como una especie de segunda adolescencia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1555.7,
+   "fin": 1556.8400000000001,
+   "texto": "pero rica.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1556.84,
+   "fin": 1558.76,
+   "texto": "Claro, pero rica y sin tener que ir al instituto.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1558.84,
+   "fin": 1561.6799999999998,
+   "texto": "Tal cual. O sea, la adolescencia buena, supongo, ¿no?",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1562.02,
+   "fin": 1563.52,
+   "texto": "La adolescencia de...",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1563.52,
+   "fin": 1563.98,
+   "texto": "El amor.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1564.1799999999998,
+   "fin": 1567.3999999999999,
+   "texto": "Del amor, de tener amantes, de comprarse bolsos de Gucci.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1568.1799999999998,
+   "fin": 1571.4199999999998,
+   "texto": "Su primer Louis V se lo compra con 50.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1572.9399999999998,
+   "fin": 1575.4199999999998,
+   "texto": "Y entonces también encontramos un fetichismo de la indumentaria,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1576.12,
+   "fin": 1577.6799999999998,
+   "texto": "porque Annie, obviamente de joven,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1577.8,
+   "fin": 1580.08,
+   "texto": "viniendo de este medio humilde que tanto hemos comentado,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1580.3799999999999,
+   "fin": 1584.6599999999999,
+   "texto": "pues había sufrido humillaciones a causa de la ropa que llevaba.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1584.66,
+   "fin": 1589.3600000000001,
+   "texto": "y ahora es como que se venga, comprándose cosas carísimas y pensando que cuando se las compra,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1589.44,
+   "fin": 1592.5600000000002,
+   "texto": "que se las compra porque va a ver al amante soviético, al amante que sea.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1593.0400000000002,
+   "fin": 1598.1000000000001,
+   "texto": "Tenemos también el tema del envejecimiento del cuerpo que veíamos con los libros sobre la madre",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1598.1000000000001,
+   "fin": 1604.38,
+   "texto": "y de esa pérdida de la capacidad de provocar el deseo masculino que para ella es muy importante.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1605.44,
+   "fin": 1610.9,
+   "texto": "También un montón de lugares nuevos a donde se traslada este yo, este nuevo yo de la adolescente madura,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1610.9,
+   "fin": 1613.1200000000001,
+   "texto": "a los coches por ejemplo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1613.1200000000001,
+   "fin": 1615.7800000000002,
+   "texto": "los coches de marca que utiliza el soviético",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1615.7800000000002,
+   "fin": 1617.48,
+   "texto": "a lugares elitistas",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1617.48,
+   "fin": 1619.66,
+   "texto": "como por ejemplo el elisio",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1619.66,
+   "fin": 1621.46,
+   "texto": "las cenas en el elisio con Charles",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1621.46,
+   "fin": 1622.24,
+   "texto": "y Diana",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1622.24,
+   "fin": 1624.88,
+   "texto": "y ella diciendo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1624.88,
+   "fin": 1627.2800000000002,
+   "texto": "no quiero ir, quiero esperar al ruso en casa",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1627.2800000000002,
+   "fin": 1627.8400000000001,
+   "texto": "y yo a Ani",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1627.8400000000001,
+   "fin": 1629.88,
+   "texto": "Ani por favor",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1629.88,
+   "fin": 1632.48,
+   "texto": "para quienes no sepáis",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1632.48,
+   "fin": 1634.9,
+   "texto": "nada de pura pasión de perderse",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1634.9,
+   "fin": 1637.5,
+   "texto": "es básicamente cuenta esta relación que ella tiene",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1637.5,
+   "fin": 1639.16,
+   "texto": "durante algo más de un año",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1639.16,
+   "fin": 1641.44,
+   "texto": "del 88 al 89",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1641.44,
+   "fin": 1644.3000000000002,
+   "texto": "con este soviético que no sabemos quién es",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1644.3000000000002,
+   "fin": 1645.72,
+   "texto": "y además cambia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1645.72,
+   "fin": 1647.76,
+   "texto": "las iniciales de los amantes",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1647.76,
+   "fin": 1649.22,
+   "texto": "en pura pasión es A",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1649.22,
+   "fin": 1650.76,
+   "texto": "y en perderse es S",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1650.76,
+   "fin": 1652.8600000000001,
+   "texto": "ese es el bueno",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1652.8600000000001,
+   "fin": 1655.1000000000001,
+   "texto": "leímos que como que no le dejaron",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1655.1000000000001,
+   "fin": 1657.98,
+   "texto": "o no quiso o lo que sea poner S en pura pasión",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1657.98,
+   "fin": 1659.22,
+   "texto": "que es el primero que publica",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1659.22,
+   "fin": 1660.8000000000002,
+   "texto": "y entonces lo llamó pura pasión",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1660.8000000000002,
+   "fin": 1663.5400000000002,
+   "texto": "que es pasión simple en francés",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1663.5400000000002,
+   "fin": 1664.64,
+   "texto": "sample",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1664.64,
+   "fin": 1667.66,
+   "texto": "pero que quería poner la S en el título",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1667.66,
+   "fin": 1669.6200000000001,
+   "texto": "alguna pista",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1669.6200000000001,
+   "fin": 1670.38,
+   "texto": "había que tenerla",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1670.38,
+   "fin": 1673.8600000000001,
+   "texto": "y ahora hablamos de la ocupación",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1673.8600000000001,
+   "fin": 1675.5800000000002,
+   "texto": "que, ah por cierto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1675.5800000000002,
+   "fin": 1676.6200000000001,
+   "texto": "me voy a decir que luego se me olvida",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1676.6200000000001,
+   "fin": 1679.02,
+   "texto": "que hay un libro de Simone de Beauvoir que se llama",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1679.02,
+   "fin": 1681.3600000000001,
+   "texto": "La mujer rota que es muy parecido a la ocupación",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1681.3600000000001,
+   "fin": 1683.66,
+   "texto": "que trata también la temática de los celos a través de un matrimonio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1684.6000000000001,
+   "fin": 1686.52,
+   "texto": "que lo mencionamos en dolor",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1686.52,
+   "fin": 1689.0,
+   "texto": "es verdad, en una punzada sonora",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1689.0,
+   "fin": 1691.52,
+   "texto": "muy buen podcast el del dolor, un buen episodio",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1691.52,
+   "fin": 1693.98,
+   "texto": "el del dolor, a la gente le gustó mucho",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1693.98,
+   "fin": 1694.4,
+   "texto": "sí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1694.4,
+   "fin": 1697.0,
+   "texto": "y no sé, leí en algún lugar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1697.0,
+   "fin": 1698.64,
+   "texto": "como que podía ser una especie de homenaje",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1698.64,
+   "fin": 1700.88,
+   "texto": "aparte de que la mujer helada, la mujer rota",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1700.88,
+   "fin": 1702.28,
+   "texto": "que quizá también había algo de",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1702.28,
+   "fin": 1704.74,
+   "texto": "homenaje en los títulos, pero bueno",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1704.74,
+   "fin": 1707.14,
+   "texto": "es un libro sobre la temática de los celos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1707.14,
+   "fin": 1708.86,
+   "texto": "porque Annie tiene una relación de 6 años",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1708.86,
+   "fin": 1710.28,
+   "texto": "con un hombre, aquí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1710.28,
+   "fin": 1712.58,
+   "texto": "nuestras pesquisas las vamos a lanzar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1712.58,
+   "fin": 1714.04,
+   "texto": "hemos estado con calculadoras",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1714.04,
+   "fin": 1717.0,
+   "texto": "y buscando años de publicaciones de tesis doctorales",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1717.0,
+   "fin": 1718.28,
+   "texto": "porque como no sabemos restar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1718.28,
+   "fin": 1719.94,
+   "texto": "como no sabemos restar con la cabeza",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1719.94,
+   "fin": 1722.64,
+   "texto": "al parecer, parece",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1722.64,
+   "fin": 1724.9,
+   "texto": "que esta relación fue con",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1724.9,
+   "fin": 1726.84,
+   "texto": "Philippe Villene, que es un señor francés",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1726.84,
+   "fin": 1729.32,
+   "texto": "que hizo una tesis doctoral sobre",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1729.32,
+   "fin": 1731.06,
+   "texto": "Anier No, Sexo y Muerte",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1731.06,
+   "fin": 1732.22,
+   "texto": "en su obra",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1732.22,
+   "fin": 1735.4199999999998,
+   "texto": "y la defendió",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1735.4199999999998,
+   "fin": 1737.34,
+   "texto": "en 2001 y según",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1737.34,
+   "fin": 1739.6999999999998,
+   "texto": "nuestras pesquisas empezó con él como en el 96",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1739.6999999999998,
+   "fin": 1741.22,
+   "texto": "algo así, rompieron en el 2000",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1741.22,
+   "fin": 1743.22,
+   "texto": "O sea, Felipe estaba haciendo trabajo de campo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1743.22,
+   "fin": 1745.3999999999999,
+   "texto": "Sí, estaba escribiendo una tesis sobre sexo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1745.3999999999999,
+   "fin": 1747.3999999999999,
+   "texto": "en Anier No y decidió tirarse a Anier No",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1747.3999999999999,
+   "fin": 1748.62,
+   "texto": "Sí, es como bueno",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1748.62,
+   "fin": 1751.3,
+   "texto": "Bueno, más bien Anier No decidió tirarse a Felipe",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1751.3,
+   "fin": 1752.6799999999998,
+   "texto": "Es verdad, sí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1752.6799999999998,
+   "fin": 1755.48,
+   "texto": "Tiene el poder. Entonces rompe con él",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1755.48,
+   "fin": 1757.48,
+   "texto": "unos meses antes de que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1757.48,
+   "fin": 1759.1,
+   "texto": "él le diga",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1759.1,
+   "fin": 1760.9,
+   "texto": "que ha empezado a vivir con otra mujer.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1761.42,
+   "fin": 1762.96,
+   "texto": "Entonces se siguen llamando, se siguen viendo,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1763.06,
+   "fin": 1765.56,
+   "texto": "no sabemos muy bien si tienen encuentros de amantes o no,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1765.6200000000001,
+   "fin": 1766.98,
+   "texto": "o son amigos. En el libro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1766.98,
+   "fin": 1769.58,
+   "texto": "yo entendí que un poco amantes sí que eran,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1769.68,
+   "fin": 1771.3600000000001,
+   "texto": "pero bueno, porque se regala como un tanga",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1771.3600000000001,
+   "fin": 1772.52,
+   "texto": "por su cumpleaños o algo así.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1772.9,
+   "fin": 1774.8600000000001,
+   "texto": "Tú a mí el otro día me regalaste una braga, Inés.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1774.8600000000001,
+   "fin": 1776.28,
+   "texto": "Es verdad. Y no somos amantes.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1776.6,
+   "fin": 1777.8,
+   "texto": "Ya, es verdad. Me regalaste una braga.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1777.8,
+   "fin": 1780.82,
+   "texto": "Yo tus necesidades yo las cumplo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1781.8,
+   "fin": 1782.5,
+   "texto": "Y entonces Annie",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1782.5,
+   "fin": 1784.52,
+   "texto": "se obsesiona mucho con la otra mujer",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1784.52,
+   "fin": 1786.44,
+   "texto": "con la que vive Philip",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1786.44,
+   "fin": 1787.48,
+   "texto": "pensamos que es Philip",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1787.48,
+   "fin": 1790.86,
+   "texto": "entonces se obsesiona con saber su nombre, su dirección",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1790.86,
+   "fin": 1792.98,
+   "texto": "su trabajo, está todo el rato como intentando",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1792.98,
+   "fin": 1795.2,
+   "texto": "que Philip le dé pistas a través de las que tirar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1795.2,
+   "fin": 1796.8799999999999,
+   "texto": "busca las páginas amarillas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1796.8799999999999,
+   "fin": 1798.96,
+   "texto": "va a su casa, cree verla en todas partes",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1798.96,
+   "fin": 1801.2,
+   "texto": "incluso se plantea contratar a un investigador",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1801.2,
+   "fin": 1803.1399999999999,
+   "texto": "privado, bueno hace cosas como bastante",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1803.1399999999999,
+   "fin": 1803.46,
+   "texto": "locas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1803.46,
+   "fin": 1807.0,
+   "texto": "pero es un libro muy chulo y con párrafos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1807.0,
+   "fin": 1809.34,
+   "texto": "muy iluminadores acerca de la escritura",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1809.34,
+   "fin": 1811.1399999999999,
+   "texto": "porque el que hemos leído antes de la dignidad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1811.1399999999999,
+   "fin": 1813.08,
+   "texto": "y la indignidad me encanta, tiene algunos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1813.08,
+   "fin": 1814.6599999999999,
+   "texto": "sobre el exhibicionismo también",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1814.6599999999999,
+   "fin": 1817.3799999999999,
+   "texto": "como sobre la acusación de exhibicionismo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1817.3799999999999,
+   "fin": 1819.32,
+   "texto": "muy interesante este librito, muy corto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1819.32,
+   "fin": 1821.08,
+   "texto": "además, he de decir que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1821.08,
+   "fin": 1823.1399999999999,
+   "texto": "si no has leído ninguno yo no recomendaría",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1823.1399999999999,
+   "fin": 1825.1,
+   "texto": "este libro, pero aún así hay que",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1825.1,
+   "fin": 1827.28,
+   "texto": "reconocer que está muy bien. Pero si os lanzáis",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1827.28,
+   "fin": 1829.12,
+   "texto": "a leer toda la obra de Anierno como hemos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1829.12,
+   "fin": 1831.34,
+   "texto": "hecho nosotras, estamos aquí para acompañaros",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1831.34,
+   "fin": 1832.8799999999999,
+   "texto": "en ese viaje. Sí.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1834.0,
+   "fin": 1835.1599999999999,
+   "texto": "Y entonces queríamos terminar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1835.1599999999999,
+   "fin": 1836.26,
+   "texto": "simplemente contando",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1836.26,
+   "fin": 1839.02,
+   "texto": "un poquito de una anécdota, yo creo que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1839.02,
+   "fin": 1841.1999999999998,
+   "texto": "podemos dejar el link a la anécdota",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1841.2,
+   "fin": 1843.0800000000002,
+   "texto": "entera, que es un... bueno, Anier",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1843.0800000000002,
+   "fin": 1845.18,
+   "texto": "nos escribió un articulito sobre su primer",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1845.18,
+   "fin": 1846.3400000000001,
+   "texto": "encuentro con Philippe Villene",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1846.3400000000001,
+   "fin": 1848.94,
+   "texto": "que es muy cortito y que",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1848.94,
+   "fin": 1850.6000000000001,
+   "texto": "lo hemos encontrado traducido al inglés",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1850.6000000000001,
+   "fin": 1852.9,
+   "texto": "entonces os lo dejamos en la carta de Substack",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1852.9,
+   "fin": 1854.74,
+   "texto": "sabéis que para los que no sepáis esto",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1854.74,
+   "fin": 1856.72,
+   "texto": "es también una newsletter y ahí dejamos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1856.72,
+   "fin": 1858.8,
+   "texto": "también muchas cosas y ya vosotros",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1858.8,
+   "fin": 1860.92,
+   "texto": "yo no voy a contar todo lo que... toda la",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1860.92,
+   "fin": 1862.68,
+   "texto": "movida. Lo ponéis en Google Traductor",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1862.68,
+   "fin": 1865.06,
+   "texto": "y disfrutáis de",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1865.06,
+   "fin": 1866.82,
+   "texto": "lo que hay ahí. Disfrutáis o no, pero sí",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1866.82,
+   "fin": 1868.8400000000001,
+   "texto": "es muy cortita, pero lo podemos dejar ahí. Entonces",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1868.8400000000001,
+   "fin": 1870.82,
+   "texto": "yo voy a contar simplemente que ellos tienen una cita",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1870.82,
+   "fin": 1872.6399999999999,
+   "texto": "una cita clásica, van al teatro luego a cenar",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1872.6399999999999,
+   "fin": 1874.3999999999999,
+   "texto": "a tomar algo y luego van a casa de Annie",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1874.3999999999999,
+   "fin": 1875.58,
+   "texto": "ella le llevan su coche",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1875.58,
+   "fin": 1878.84,
+   "texto": "y entonces ella cuenta que estaban sentados en el sofá",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1878.84,
+   "fin": 1880.84,
+   "texto": "de su salón y que ella se da cuenta",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1880.84,
+   "fin": 1882.52,
+   "texto": "de que si ella no se lanza",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1882.52,
+   "fin": 1884.06,
+   "texto": "básicamente no hace como el primer",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1884.06,
+   "fin": 1886.74,
+   "texto": "contacto, no va a suceder nada",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1886.74,
+   "fin": 1888.86,
+   "texto": "y entonces ella decide levantarse, le acaricia",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1888.86,
+   "fin": 1890.6,
+   "texto": "el pelo a él y luego ya",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1890.6,
+   "fin": 1892.7,
+   "texto": "a partir de ahí como que todo rueda y se acuestan",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1892.7,
+   "fin": 1894.58,
+   "texto": "y tienen como su primer encuentro sexual",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1894.58,
+   "fin": 1897.08,
+   "texto": "y vamos a terminar este episodio",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1897.08,
+   "fin": 1899.1599999999999,
+   "texto": "y este último episodio nos despedimos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1899.16,
+   "fin": 1901.18,
+   "texto": "de Anir",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1901.18,
+   "fin": 1902.8600000000001,
+   "texto": "en este formato podcast",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1902.8600000000001,
+   "fin": 1904.4,
+   "texto": "y de vosotros y vosotras hasta la próxima",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1904.4,
+   "fin": 1906.46,
+   "texto": "vuelta a la normalidad",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1906.46,
+   "fin": 1909.2,
+   "texto": "con una cita",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1909.2,
+   "fin": 1911.5400000000002,
+   "texto": "en la que ella reflexiona la mañana siguiente",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1911.5400000000002,
+   "fin": 1913.2,
+   "texto": "sobre ese momento",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1913.2,
+   "fin": 1915.3200000000002,
+   "texto": "en el que ella se levanta y le acaricia el pelo",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1915.3200000000002,
+   "fin": 1916.44,
+   "texto": "espera",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1916.44,
+   "fin": 1919.28,
+   "texto": "vamos a leer y luego hay que hablar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1919.28,
+   "fin": 1919.9,
+   "texto": "un poco más",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1919.9,
+   "fin": 1922.3200000000002,
+   "texto": "solo voy a lanzarles unas preguntas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1922.3200000000002,
+   "fin": 1925.3600000000001,
+   "texto": "pero primero cita o después",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1925.3600000000001,
+   "fin": 1926.6200000000001,
+   "texto": "es que la cita Inés",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1926.6200000000001,
+   "fin": 1927.44,
+   "texto": "es que es muy buena",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1927.44,
+   "fin": 1931.92,
+   "texto": "Venga, lanza las preguntas y luego leo la cita",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1931.92,
+   "fin": 1933.5800000000002,
+   "texto": "Sí, como que es muy interesante",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1933.5800000000002,
+   "fin": 1935.0800000000002,
+   "texto": "esta mirada como transversal",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1935.0800000000002,
+   "fin": 1937.24,
+   "texto": "ahora ya que es la cuarta sesión y que la gente",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1937.24,
+   "fin": 1939.64,
+   "texto": "espero que haya encontrado como cosas por ahí",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1939.64,
+   "fin": 1941.76,
+   "texto": "y que surgen así como",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1941.76,
+   "fin": 1943.7,
+   "texto": "grandes preguntas que obviamente no tienen",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1943.7,
+   "fin": 1945.8400000000001,
+   "texto": "respuesta, ¿verdad? En los talleres hablábamos un poco",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1945.8400000000001,
+   "fin": 1947.3,
+   "texto": "de ha conseguido Annie",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1947.3,
+   "fin": 1948.44,
+   "texto": "vengar a su raza, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1948.76,
+   "fin": 1951.44,
+   "texto": "¿Cómo sentís el leer",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1951.44,
+   "fin": 1953.64,
+   "texto": "a esta nueva Annie? Nueva, yo que sé",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1953.64,
+   "fin": 1955.42,
+   "texto": "es la misma, pero ya me entendéis",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1955.42,
+   "fin": 1958.3600000000001,
+   "texto": "como portavoz de los dominados",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1958.3600000000001,
+   "fin": 1960.0600000000002,
+   "texto": "en estos libros, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1960.1000000000001,
+   "fin": 1961.96,
+   "texto": "Podemos leerla como portavoz de los dominados.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1962.1200000000001,
+   "fin": 1963.0800000000002,
+   "texto": "Hoy hay una fractura.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1963.5800000000002,
+   "fin": 1965.48,
+   "texto": "Está hablando desde el mundo de los dominantes, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1965.48,
+   "fin": 1966.8000000000002,
+   "texto": "El fetichismo, el lujo.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1967.3600000000001,
+   "fin": 1969.5800000000002,
+   "texto": "Cómo conciliar con estas versiones, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1969.78,
+   "fin": 1971.96,
+   "texto": "Que, bueno, hay contradicción como en todo en la vida.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1972.76,
+   "fin": 1974.02,
+   "texto": "Pero bueno, es interesante como hacerte",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1974.02,
+   "fin": 1975.0800000000002,
+   "texto": "estas grandes preguntas, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1975.2,
+   "fin": 1975.8600000000001,
+   "texto": "Por eso estamos.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1976.96,
+   "fin": 1978.5,
+   "texto": "Hoy le hemos dicho a una chica",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1978.5,
+   "fin": 1980.4,
+   "texto": "con la que estábamos hablando de futuros proyectos",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1980.4,
+   "fin": 1982.26,
+   "texto": "y le hemos dicho, si somos filósofas.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1982.3400000000001,
+   "fin": 1982.78,
+   "texto": "Es verdad.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1983.28,
+   "fin": 1985.0600000000002,
+   "texto": "Porque ya que es una etiqueta que nos puso",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1985.06,
+   "fin": 1987.32,
+   "texto": "hay más bretos en la SER, pues yo qué sé, yo me la apropio.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1987.6599999999999,
+   "fin": 1989.86,
+   "texto": "Supongo que ya no hay que tener vergüenza.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 1990.04,
+   "fin": 1991.96,
+   "texto": "Y volviendo un poco también a la primera sesión,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1992.08,
+   "fin": 1994.84,
+   "texto": "que hablábamos del yo fragmentario,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1994.96,
+   "fin": 1998.32,
+   "texto": "de que es imposible hacer un autorretrato completamente cerrado,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 1998.44,
+   "fin": 2002.9199999999998,
+   "texto": "creo que al contraponer estas dos escrituras o estas dos vergüenzas,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2003.34,
+   "fin": 2004.6399999999999,
+   "texto": "es como que se confirma, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2004.8999999999999,
+   "fin": 2006.74,
+   "texto": "Es un autorretrato super...",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2006.74,
+   "fin": 2008.22,
+   "texto": "Tiene muchísimas grietas, ¿no?",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2008.34,
+   "fin": 2010.3,
+   "texto": "Como que es muy difícil completarlo",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2010.3,
+   "fin": 2013.46,
+   "texto": "y creo que cuanto más libros he leído,",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2013.46,
+   "fin": 2015.3,
+   "texto": "más grande si me hacía el retrato",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2015.3,
+   "fin": 2017.04,
+   "texto": "no más pequeño y concentrado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2017.04,
+   "fin": 2019.26,
+   "texto": "y nada, que la queremos mucho Annie",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2019.26,
+   "fin": 2021.46,
+   "texto": "por si me escucha",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2022.08,
+   "fin": 2023.28,
+   "texto": "llete a irme Annie",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2023.28,
+   "fin": 2025.78,
+   "texto": "lo llevas claro",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2025.78,
+   "fin": 2026.56,
+   "texto": "para que te entienda",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2026.56,
+   "fin": 2027.38,
+   "texto": "I love you",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2027.38,
+   "fin": 2031.32,
+   "texto": "a ver si viene la paña",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2031.32,
+   "fin": 2033.58,
+   "texto": "y que salen nuevos libritos de Annie",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2033.58,
+   "fin": 2034.8600000000001,
+   "texto": "que ya lo comentaremos",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2034.8600000000001,
+   "fin": 2036.9,
+   "texto": "pero Cabaret Walter publica",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2036.9,
+   "fin": 2039.52,
+   "texto": "el 8 de marzo el hombre joven",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2039.52,
+   "fin": 2040.78,
+   "texto": "que será seguramente sobre Philip",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2040.78,
+   "fin": 2042.06,
+   "texto": "o sobre otro hombre joven",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2042.06,
+   "fin": 2044.3,
+   "texto": "y también uno sobre la escritura",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2044.3,
+   "fin": 2046.0,
+   "texto": "como cuchillo, puede ser, o como",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2046.0,
+   "fin": 2048.18,
+   "texto": "ese más adelante",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2048.18,
+   "fin": 2049.62,
+   "texto": "pero bueno, estaremos atentas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2049.62,
+   "fin": 2051.32,
+   "texto": "que seguiremos hablando de la Ani",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2051.32,
+   "fin": 2053.7799999999997,
+   "texto": "que todo el mundo que quiera hablar de la Ani con nosotras",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2053.7799999999997,
+   "fin": 2056.14,
+   "texto": "pues que nos hable, solo para hablar",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2056.14,
+   "fin": 2057.92,
+   "texto": "de la Ani, no para hablar de nada más",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2057.92,
+   "fin": 2060.2999999999997,
+   "texto": "o para ofrecerse como novio a Inés",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2060.2999999999997,
+   "fin": 2062.04,
+   "texto": "que recordamos que está en busca",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2062.04,
+   "fin": 2063.06,
+   "texto": "activa de pareja",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2063.06,
+   "fin": 2065.9,
+   "texto": "que yo creo que en realidad no",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2065.9,
+   "fin": 2067.56,
+   "texto": "que yo no quiero, yo soy como la Ani",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2067.56,
+   "fin": 2068.98,
+   "texto": "mira, vamos a contar una cosa que no hemos contado",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2068.98,
+   "fin": 2072.06,
+   "texto": "La Ani se quedó tan libre después de su separación",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2072.06,
+   "fin": 2072.88,
+   "texto": "Y de su divorcio",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2072.88,
+   "fin": 2075.88,
+   "texto": "Que rompió esta relación de 6 años con una persona a la que quería",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2075.88,
+   "fin": 2076.88,
+   "texto": "Y estaba bien",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2076.88,
+   "fin": 2078.7,
+   "texto": "Solo por no perder su libertad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2078.7,
+   "fin": 2079.58,
+   "texto": "Y yo entiendo esto",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2079.58,
+   "fin": 2083.14,
+   "texto": "Perder la libertad es una cosa que tampoco quiere decir sus relaciones afatídicas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2083.14,
+   "fin": 2085.82,
+   "texto": "Pero hemos encontrado relaciones en las que no tengamos que perder nuestra libertad",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2085.82,
+   "fin": 2087.44,
+   "texto": "Yo estoy un poco hasta el coño en mi libertad de decir",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2087.44,
+   "fin": 2089.72,
+   "texto": "Pues nada, que venga alguien a atar a Paula",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2089.72,
+   "fin": 2092.1,
+   "texto": "Con una cuerda",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2092.1,
+   "fin": 2093.0,
+   "texto": "Nada, oye",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2093.0,
+   "fin": 2095.38,
+   "texto": "Así que nada, vamos a leer la cita",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2095.38,
+   "fin": 2096.78,
+   "texto": "Que es fascinante",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2096.78,
+   "fin": 2098.48,
+   "texto": "Es una de las citas más bonitas",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2098.48,
+   "fin": 2101.84,
+   "texto": "O sea, de verdad, chicas, hay que tatuarse esta cita en algún sitio.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2101.96,
+   "fin": 2103.84,
+   "texto": "Es un poco larga, pero en la espalda cabe.",
+   "hablante": "SPEAKER_00"
+  },
+  {
+   "inicio": 2105.5,
+   "fin": 2106.6,
+   "texto": "Vale, vamos a ello.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2108.4,
+   "fin": 2112.32,
+   "texto": "Recuerdo el contexto, está hablando del gesto que inicia como este encuentro con Philip.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2112.54,
+   "fin": 2119.78,
+   "texto": "Dice, se me ocurrió pensar que el gesto tenía la misma naturaleza que el acto de escribir la primera frase de un libro,",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2120.3,
+   "fin": 2124.86,
+   "texto": "que estaba basado en el mismo deseo de intervenir en el mundo, de abrir una historia.",
+   "hablante": "SPEAKER_01"
+  },
+  {
+   "inicio": 2124.86,
+   "fin": 2134.6200000000003,
+   "texto": "Me parecía que para una mujer, la libertad de escribir sin vergüenza estaba conectada con la libertad de ser la primera en tocar el cuerpo del hombre al que desea.",
+   "hablante": "SPEAKER_01"
+  }
+ ]
+}
