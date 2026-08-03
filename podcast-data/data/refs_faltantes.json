@@ -1,0 +1,255 @@
+[
+ {
+  "fecha": "2023-10-19",
+  "codigo": "3x03",
+  "serie": "Punzadas Sonoras",
+  "temporada": 3,
+  "orden": 3,
+  "tags": ["isla", "fragmento", "literatura", "escritura", "Barthes", "espacio"],
+  "notas_episodio": "Codigo reconstruido: no esta en la playlist de YouTube. Posicion por fecha dentro de T3.",
+  "refs": [
+   {"autor": "Roland Barthes", "obra": "Roland Barthes por Roland Barthes", "tipo": "libro"},
+   {"autor": "Olga Tokarczuk", "obra": "", "tipo": "autor mencionado"},
+   {"autor": "Verónica Gerber Bicecci", "obra": "", "tipo": "autor mencionado"},
+   {"autor": "Ana María Matute", "obra": "", "tipo": "autor mencionado"},
+   {"autor": "Roberto Calasso", "obra": "", "tipo": "autor mencionado", "notas": "islas mitológicas"},
+   {"autor": "Nuccio Ordine", "obra": "", "tipo": "autor mencionado", "notas": "islas mitológicas"},
+   {"autor": "Alberto Manguel y Gianni Guadalupi", "obra": "Guía de lugares imaginarios", "tipo": "libro"},
+   {"autor": "Judith Schalansky", "obra": "Atlas de islas remotas", "tipo": "libro"}
+  ]
+ },
+ {
+  "fecha": "2024-04-25",
+  "codigo": "3x17",
+  "serie": "Punzadas Sonoras",
+  "temporada": 3,
+  "orden": 17,
+  "tags": ["habitar", "casa", "Barthes", "espacio", "familia", "maternidad", "episodio con invitada"],
+  "notas_episodio": "En vivo desde La Real Casa de Postas (La Noche de los Libros, Madrid). Codigo reconstruido por fecha.",
+  "refs": [
+   {"autor": "Blanca Lacasa", "obra": "", "tipo": "invitada"},
+   {"autor": "Blanca Lacasa", "obra": "Las hijas horribles", "tipo": "libro"},
+   {"autor": "Roland Barthes", "obra": "", "tipo": "autor mencionado", "notas": "noción de «habitar»"},
+   {"autor": "María Zambrano", "obra": "", "tipo": "autor mencionado"},
+   {"autor": "Ricardo Pinilla", "obra": "", "tipo": "autor mencionado"},
+   {"autor": "Edgar Allan Poe", "obra": "La caída de la casa Usher", "tipo": "cuento"}
+  ]
+ },
+ {
+  "fecha": "2024-06-20",
+  "codigo": "3x21",
+  "serie": "Punzadas Sonoras",
+  "temporada": 3,
+  "orden": 21,
+  "tags": ["muerte del autor", "autoría", "lector", "lectura", "Barthes", "cine", "Feria del Libro de Madrid"],
+  "notas_episodio": "En vivo desde la Feria del Libro de Madrid 2024. Codigo reconstruido por fecha.",
+  "refs": [
+   {"autor": "Roland Barthes", "obra": "La muerte del Autor", "tipo": "artículo"},
+   {"autor": "Elena López Riera", "obra": "", "tipo": "colaboradora"},
+   {"autor": "Irene Escolar", "obra": "", "tipo": "colaboradora"},
+   {"autor": "Juanpe Sánchez López", "obra": "", "tipo": "colaboradora"},
+   {"autor": "Jacques Rancière", "obra": "", "tipo": "autor mencionado", "notas": "sobre el papel del espectador"},
+   {"autor": "Juan F. Rivero", "obra": "", "tipo": "autor mencionado"},
+   {"autor": "Miranda Fricker", "obra": "Injusticia epistémica", "tipo": "libro"}
+  ]
+ },
+ {
+  "fecha": "2024-10-10",
+  "codigo": "4x03",
+  "serie": "Punzadas Sonoras",
+  "temporada": 4,
+  "orden": 3,
+  "tags": ["azul", "color", "percepción", "mirada", "epistemología", "fenomenología"],
+  "notas_episodio": "Codigo reconstruido por fecha dentro de T4.",
+  "refs": [
+   {"autor": "Frank Jackson", "obra": "El cuarto de Mary", "tipo": "experimento mental"},
+   {"autor": "Maggie Nelson", "obra": "Bluets", "tipo": "libro"},
+   {"autor": "Michel Pastoureau", "obra": "", "tipo": "autor mencionado", "notas": "historiador del color; obra no precisada en la descripción"},
+   {"autor": "Riccardo Falcinelli", "obra": "", "tipo": "autor mencionado", "notas": "diseñador gráfico; obra no precisada en la descripción"},
+   {"autor": "Gustave Flaubert", "obra": "Madame Bovary", "tipo": "libro"},
+   {"autor": "", "obra": "La bella y la bestia", "tipo": "cuento", "notas": "citado sin autor en la descripción"},
+   {"autor": "Lydia Davis", "obra": "", "tipo": "autor mencionado"},
+   {"autor": "Rebecca Solnit", "obra": "", "tipo": "autor mencionado"}
+  ]
+ },
+ {
+  "fecha": "2024-12-12",
+  "codigo": "4x08",
+  "serie": "Punzadas Sonoras",
+  "temporada": 4,
+  "orden": 8,
+  "tags": ["ética", "literatura", "filosofía", "ficción", "función de la ficción", "episodio con invitada", "FIL Guadalajara"],
+  "notas_episodio": "Primer episodio en vivo desde la FIL de Guadalajara (Mexico). Codigo reconstruido por fecha.",
+  "refs": [
+   {"autor": "Pau Luque", "obra": "", "tipo": "invitada"},
+   {"autor": "Pau Luque", "obra": "Las cosas como son y otras fantasías", "tipo": "libro"},
+   {"autor": "Pau Luque", "obra": "Ñu", "tipo": "libro"},
+   {"autor": "Roland Barthes", "obra": "", "tipo": "autor mencionado", "notas": "como figura inclasificable entre crítica, escritura y semiología"},
+   {"autor": "Bernard Williams", "obra": "", "tipo": "autor mencionado"},
+   {"autor": "Martha Nussbaum", "obra": "", "tipo": "autor mencionado"},
+   {"autor": "Iris Murdoch", "obra": "", "tipo": "autor mencionado"}
+  ]
+ },
+ {
+  "fecha": "2025-04-03",
+  "codigo": "4x16",
+  "serie": "Punzadas Sonoras",
+  "temporada": 4,
+  "orden": 16,
+  "tags": ["subtexto", "lenguaje", "silencio", "cine", "literatura", "series", "secreto", "Barthes"],
+  "notas_episodio": "Codigo reconstruido por fecha dentro de T4.",
+  "refs": [
+   {"autor": "Roland Barthes", "obra": "Fragmentos de un discurso amoroso", "tipo": "libro", "notas": "figura «Mortificación»"},
+   {"autor": "Ernest Hemingway", "obra": "", "tipo": "autor mencionado", "notas": "teoría del iceberg"},
+   {"autor": "Paul Thomas Anderson", "obra": "El hilo invisible", "tipo": "película"},
+   {"autor": "", "obra": "Mad Men", "tipo": "serie"},
+   {"autor": "Olga Tokarczuk", "obra": "Tierra de empusas", "tipo": "libro"},
+   {"autor": "Sean Baker", "obra": "Anora", "tipo": "película"},
+   {"autor": "Susan Sontag", "obra": "Contra la interpretación", "tipo": "ensayo"},
+   {"autor": "Laurent Pernot", "obra": "The Subtle Subtext", "tipo": "artículo"},
+   {"autor": "Farhana Farooqi, Mukul SK, Vineeta Kaur Saluja, Chiging Yamang y Amit Srivastav", "obra": "Reading between the Lines: Subtext in English Literature", "tipo": "artículo"},
+   {"autor": "Alfonso María Rodríguez de Austria", "obra": "El uso del subtexto como propaganda machista en el personaje de Lois Lane en Man of Steel (Zack Snyder, 2013)", "tipo": "artículo"},
+   {"autor": "Rosa María Sánchez", "obra": "Homosexualidad latente en el cine del siglo XX", "tipo": "artículo", "notas": "en la descripción aparece como «Homosexualdiad», errata del original"}
+  ]
+ },
+ {
+  "fecha": "2025-05-15",
+  "codigo": "4x19",
+  "serie": "Punzadas Sonoras",
+  "temporada": 4,
+  "orden": 19,
+  "tags": ["democracia", "política", "literatura", "ética", "ficción", "lectura", "imaginación", "Barthes"],
+  "notas_episodio": "Codigo reconstruido por fecha dentro de T4.",
+  "refs": [
+   {"autor": "Roland Barthes", "obra": "¿Qué es la escritura?", "tipo": "artículo"},
+   {"autor": "Jacques Derrida", "obra": "", "tipo": "autor mencionado"},
+   {"autor": "Joaquín Márquez", "obra": "Entre la ley y la libertad: el vínculo entre literatura y democracia en Jacques Derrida", "tipo": "artículo", "notas": "en la descripción aparece como «Joaquí Márquez»"},
+   {"autor": "Belén Gopegui", "obra": "El árbol de los plátanos", "tipo": "libro"},
+   {"autor": "Agnès Delage y Philippe Roussin", "obra": "Escribir la democracia en contextos transicionales", "tipo": "conversación/artículo", "notas": "entrevista a Mercedes Cebrián, Belén Gopegui, Pablo Martín Sánchez e Isaac Rosa"},
+   {"autor": "Martha Nussbaum", "obra": "La imaginación literaria en la vida pública", "tipo": "artículo"},
+   {"autor": "Harriet Beecher Stowe", "obra": "La cabaña del tío Tom", "tipo": "libro"},
+   {"autor": "Annette Gordon-Reed", "obra": "'Uncle Tom's Cabin' and the art of persuasion", "tipo": "artículo"},
+   {"autor": "Iris Murdoch", "obra": "La ética y la imaginación", "tipo": "artículo"},
+   {"autor": "Iris Murdoch", "obra": "La salvación por las palabras", "tipo": "artículo"},
+   {"autor": "Óscar L. González-Castán", "obra": "Iris Murdoch: literatura, psicología moral y platonismo", "tipo": "artículo"},
+   {"autor": "Alfonso López Hernández", "obra": "Contingencia y realismo en el pensamiento de Iris Murdoch", "tipo": "tesis doctoral"},
+   {"autor": "Miren Billelabeitia", "obra": "Lo que una ama", "tipo": "libro"},
+   {"autor": "Lola López Mondéjar", "obra": "Sin relato", "tipo": "libro"},
+   {"autor": "Mercedes Cebrián", "obra": "", "tipo": "autor mencionado"},
+   {"autor": "Pablo Martín Sánchez", "obra": "", "tipo": "autor mencionado"},
+   {"autor": "Isaac Rosa", "obra": "", "tipo": "autor mencionado"}
+  ]
+ },
+ {
+  "fecha": "2025-10-16",
+  "codigo": "Glosas 1x01",
+  "serie": "Las Glosas",
+  "temporada": 1,
+  "orden": 1,
+  "tags": ["glosa", "literatura", "violencia", "internet", "abusos sexuales"],
+  "notas_episodio": "La descripción lo identifica como «el primer episodio de Las Glosas». Colaboración con la UOC.",
+  "refs": [
+   {"autor": "Mónica Ojeda", "obra": "Nefando", "tipo": "libro", "notas": "glosan el capítulo «Iván Herrera, 25 años. Máster en Creación Literaria. Habitación 2»"},
+   {"autor": "Olivia Magaña Andaluz", "obra": "", "tipo": "colaboradora", "notas": "propuso el texto; Escuela de Doctorado de la UOC"}
+  ]
+ },
+ {
+  "fecha": "2026-01-08",
+  "codigo": "Glosas 1x04",
+  "serie": "Las Glosas",
+  "temporada": 1,
+  "orden": 4,
+  "tags": ["glosa", "cine", "literatura", "autoficción"],
+  "notas_episodio": "La descripción lo identifica como «el cuarto episodio de Las Glosas». Colaboración con Sideral.",
+  "refs": [
+   {"autor": "Kristen Stewart", "obra": "La cronología del agua", "tipo": "película"},
+   {"autor": "Lidia Yuknavitch", "obra": "La cronología del agua", "tipo": "libro", "notas": "novela original de la que parte la película"}
+  ]
+ },
+ {
+  "fecha": "2026-02-19",
+  "codigo": "Glosas 1x05",
+  "serie": "Las Glosas",
+  "temporada": 1,
+  "orden": 5,
+  "tags": ["glosa", "cine", "cuento"],
+  "notas_episodio": "Primer episodio en vivo de Las Glosas. Colaboración con Avalon y La Sala Comedia by Domino's. Codigo asignado por posicion cronologica.",
+  "refs": [
+   {"autor": "María Herrera", "obra": "El cuento de una noche de verano", "tipo": "cortometraje"}
+  ]
+ },
+ {
+  "fecha": "2026-03-26",
+  "codigo": "5x13",
+  "serie": "Punzadas Sonoras",
+  "temporada": 5,
+  "orden": 13,
+  "tags": ["culpa", "supervivencia", "literatura", "ética", "violencia", "muerte"],
+  "notas_episodio": "Codigo reconstruido por fecha dentro de T5.",
+  "refs": [
+   {"autor": "Emily Ruskovich", "obra": "Idaho", "tipo": "libro", "notas": "eje del episodio; de ella salen los tres tipos de culpa"},
+   {"autor": "Fiódor Dostoievski", "obra": "Crimen y castigo", "tipo": "libro"},
+   {"autor": "Emmanuel Carrère", "obra": "El adversario", "tipo": "libro"},
+   {"autor": "Mariana Salomão", "obra": "Si no fuera por las sílabas del sábado", "tipo": "libro", "notas": "en la descripción aparece sin tilde, «Mariana Salomao»"},
+   {"autor": "Walt Odets", "obra": "Survivor Guilt and Related Family Matters", "tipo": "artículo", "notas": "en el libro «In the Shadow of the Epidemic: Being HIV-negative», 1995", "anio_mencionado": "1995"},
+   {"autor": "Hannah Murray, Yasmin Bethania y Evelina Medin", "obra": "Survivor guilt: a cognitive approach", "tipo": "artículo", "notas": "Universidad de Oxford"}
+  ]
+ },
+ {
+  "fecha": "2026-04-09",
+  "codigo": "5x14",
+  "serie": "Punzadas Sonoras",
+  "temporada": 5,
+  "orden": 14,
+  "tags": ["patrimonio", "memoria histórica", "museología crítica", "franquismo", "política", "espacio público"],
+  "notas_episodio": "Codigo reconstruido por fecha dentro de T5.",
+  "refs": [
+   {"autor": "Laurajane Smith", "obra": "El espejo patrimonial", "tipo": "libro"},
+   {"autor": "Manu Martín", "obra": "Contra el patrimonio", "tipo": "ensayo"},
+   {"autor": "Daniel Rico", "obra": "¿Quién teme a Francisco Franco?", "tipo": "libro"}
+  ]
+ },
+ {
+  "fecha": "2026-05-14",
+  "codigo": "Glosas 1x08",
+  "serie": "Las Glosas",
+  "temporada": 1,
+  "orden": 8,
+  "tags": ["glosa", "xenofobia", "miedo", "política", "extrema derecha"],
+  "notas_episodio": "Colaboración con la editorial Sexto Piso. Codigo asignado por posicion cronologica.",
+  "refs": [
+   {"autor": "George Makari", "obra": "Del miedo y los extranjeros. Una historia de la xenofobia", "tipo": "libro", "notas": "glosan el capítulo catorce", "editorial_mencionada": "Sexto Piso"}
+  ]
+ },
+ {
+  "fecha": "2026-06-11",
+  "codigo": "5x18",
+  "serie": "Punzadas Sonoras",
+  "temporada": 5,
+  "orden": 18,
+  "tags": ["música", "voz", "sonido", "escucha", "Barthes", "filosofía"],
+  "notas_episodio": "En vivo desde el Festival Fronteras (Valencia). Codigo reconstruido por fecha.",
+  "refs": [
+   {"autor": "Roland Barthes", "obra": "El grano de la voz", "tipo": "ensayo", "notas": "propuesta central del episodio"},
+   {"autor": "Fernando Pérez Villalón", "obra": "Barthes y la música: esquema teórico en tres figuras", "tipo": "artículo"},
+   {"autor": "Gazella", "obra": "", "tipo": "grupo musical", "notas": "grupo valenciano; ejemplo de pérdida del contenido semántico"},
+   {"autor": "Simon Reynolds", "obra": "Historia electrónica", "tipo": "artículo", "notas": "en el libro «Después del rock»"},
+   {"autor": "Adriana Cavarero", "obra": "Italo Calvino y el oído del rey", "tipo": "artículo"},
+   {"autor": "Adriana Cavarero", "obra": "For More than One Voice: Toward a Philosophy of Vocal Expression", "tipo": "libro", "notas": "leen la introducción; en la descripción aparece «Expresión»"},
+   {"autor": "Italo Calvino", "obra": "El rey oreja", "tipo": "cuento", "notas": "titulo tal como lo da la descripción; corresponde a «Un rey a la escucha»"}
+  ]
+ },
+ {
+  "fecha": "2026-06-25",
+  "codigo": "Glosas 1x09",
+  "serie": "Las Glosas",
+  "temporada": 1,
+  "orden": 9,
+  "tags": ["glosa", "pluma", "queer", "masculinidad", "homosexualidad", "identidad"],
+  "notas_episodio": "Colaboración con la UOC. Codigo asignado por posicion cronologica.",
+  "refs": [
+   {"autor": "Jairo Sánchez-García y Begonya Enguix Grau", "obra": "Emplumes: la producción social de la pluma", "tipo": "artículo"},
+   {"autor": "Jairo Sánchez-García", "obra": "", "tipo": "colaboradora", "notas": "coautor; propuso el texto desde la Escuela de Doctorado de la UOC"}
+  ]
+ }
+]
