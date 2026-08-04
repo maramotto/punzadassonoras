@@ -27,12 +27,10 @@
   "sin_resultados": true
  },
  "annie ernaux||el hombre joven": {
+  "sin_resultados": true,
+  "descartado": "ni titulo ni autor",
   "mcu_titulo": "La atracción sexual del hombre joven",
-  "mcu_autor": "Abajo de Pablos, Juan Julio de (1946-)",
-  "editorial": "Fancy Ediciones",
-  "anio": "2007",
-  "coincidencia_titulo": false,
-  "coincidencia_autor": false
+  "mcu_autor": "Abajo de Pablos, Juan Julio de (1946-)"
  },
  "sara navarro rioboo||quemando chasca": {
   "mcu_titulo": "Quemando chasca",
@@ -106,12 +104,10 @@
   "sin_resultados": true
  },
  "audrey magee||la colonia": {
+  "sin_resultados": true,
+  "descartado": "ni titulo ni autor",
   "mcu_titulo": "Historias de nuestro barrio y retrato de la colonia Virgen de las Gracias",
-  "mcu_autor": "Aguado Rubira, Pedro Francisco (1948- )",
-  "editorial": "Aguado Rubira, Pedro Francisco",
-  "anio": "2008",
-  "coincidencia_titulo": false,
-  "coincidencia_autor": false
+  "mcu_autor": "Aguado Rubira, Pedro Francisco (1948- )"
  },
  "roland barthes||nunca se logra hablar de lo que se ama": {
   "sin_resultados": true
@@ -193,12 +189,10 @@
   "coincidencia_autor": true
  },
  "margarita garcia robayo||el afuera": {
+  "sin_resultados": true,
+  "descartado": "ni titulo ni autor",
   "mcu_titulo": "El tiempo afuera",
-  "mcu_autor": "Abreu Felippe, José (1947-)",
-  "editorial": "Editorial Verbum, S.L.",
-  "anio": "2001",
-  "coincidencia_titulo": false,
-  "coincidencia_autor": false
+  "mcu_autor": "Abreu Felippe, José (1947-)"
  },
  "annie ernaux||diario del afuera": {
   "mcu_titulo": "Diario del afuera",
@@ -217,12 +211,10 @@
   "coincidencia_autor": true
  },
  "noemi sabugal||laberinto mar": {
+  "sin_resultados": true,
+  "descartado": "ni titulo ni autor",
   "mcu_titulo": "La Buhayrah : laberinto frente al mar",
-  "mcu_autor": "Galmés Conde, Vicente (1959-)",
-  "editorial": "Sar Alejandria Ediciones",
-  "anio": "2020",
-  "coincidencia_titulo": false,
-  "coincidencia_autor": false
+  "mcu_autor": "Galmés Conde, Vicente (1959-)"
  },
  "maria belmonte||los senderos del mar un viaje a pie": {
   "mcu_titulo": "Los senderos del mar : un viaje a pie",
@@ -250,12 +242,10 @@
   "sin_resultados": true
  },
  "han suyin||amor de invierno": {
+  "sin_resultados": true,
+  "descartado": "ni titulo ni autor",
   "mcu_titulo": "Un amor de invierno",
-  "mcu_autor": "Armstrong, Evelyn S.",
-  "editorial": "Harlequin Ibérica",
-  "anio": "1991",
-  "coincidencia_titulo": false,
-  "coincidencia_autor": false
+  "mcu_autor": "Armstrong, Evelyn S."
  },
  "michel foucault||la transgresion es un gesto que concierne al limite": {
   "sin_resultados": true
@@ -286,28 +276,22 @@
   "coincidencia_autor": true
  },
  "elaine showalter||el mal de las mujeres": {
+  "sin_resultados": true,
+  "descartado": "ni titulo ni autor",
   "mcu_titulo": "Mal mor",
-  "mcu_autor": "Araúxo, Emilio",
-  "editorial": "Axóuxere Editora",
-  "anio": "2017",
-  "coincidencia_titulo": false,
-  "coincidencia_autor": false
+  "mcu_autor": "Araúxo, Emilio"
  },
  "juan evaristo boix||el derecho a las cosas bellas vindicacion de la vida holgada": {
+  "sin_resultados": true,
+  "descartado": "ni titulo ni autor",
   "mcu_titulo": "Breve estudio sobre la prostitución",
-  "mcu_autor": "Boix, Frederic",
-  "editorial": "Nova Terra, S.A.",
-  "anio": "1969",
-  "coincidencia_titulo": false,
-  "coincidencia_autor": true
+  "mcu_autor": "Boix, Frederic"
  },
  "miranda july||a cuatro patas": {
+  "sin_resultados": true,
+  "descartado": "ni titulo ni autor",
   "mcu_titulo": "Cuatro historias de cuatro patas",
-  "mcu_autor": "Behety, Ingrid",
-  "editorial": "Babidi-Bú",
-  "anio": "2025",
-  "coincidencia_titulo": false,
-  "coincidencia_autor": false
+  "mcu_autor": "Behety, Ingrid"
  },
  "jessica anthony||golpe magistral": {
   "mcu_titulo": "Golpe magistral",
@@ -331,7 +315,7 @@
   "editorial": "Plaza y Valdes, S.L.",
   "anio": "2018",
   "coincidencia_titulo": true,
-  "coincidencia_autor": false
+  "coincidencia_autor": true
  },
  "pankaj mishra||el mundo despues de gaza": {
   "sin_resultados": true
@@ -356,7 +340,7 @@
   "editorial": "Gobierno de La Rioja",
   "anio": "2006",
   "coincidencia_titulo": true,
-  "coincidencia_autor": false
+  "coincidencia_autor": true
  },
  "estela sanchis||hasta aqui todo va bien": {
   "sin_resultados": true
@@ -365,12 +349,10 @@
   "sin_resultados": true
  },
  "melinda cooper||los valores de la familia": {
+  "sin_resultados": true,
+  "descartado": "ni titulo ni autor",
   "mcu_titulo": "El cambio de valores en la sociedad andaluza, 1996-2006",
-  "mcu_autor": "Bericat Alastuey, Eduardo",
-  "editorial": "Instituto de Estadística y Cartografía de Andalucía",
-  "anio": "2012",
-  "coincidencia_titulo": false,
-  "coincidencia_autor": false
+  "mcu_autor": "Bericat Alastuey, Eduardo"
  },
  "sophie lewis||abolir la familia": {
   "mcu_titulo": "Abolir la familia : un manifiesto por los cuidados y la liberación",
@@ -417,12 +399,10 @@
   "sin_resultados": true
  },
  "italo calvino||la memoria del mundo": {
+  "sin_resultados": true,
+  "descartado": "ni titulo ni autor",
   "mcu_titulo": "Las canciones populares tunecinas : Una memoria personal y cultural",
-  "mcu_autor": "Abdelkefi, Mohamed",
-  "editorial": "Abenójar Sanjuán, Óscar",
-  "anio": "2025",
-  "coincidencia_titulo": false,
-  "coincidencia_autor": false
+  "mcu_autor": "Abdelkefi, Mohamed"
  },
  "joan carles melich||una etica de la compasion": {
   "sin_resultados": true
@@ -454,7 +434,7 @@
   "editorial": "Alba Editorial",
   "anio": "2026",
   "coincidencia_titulo": true,
-  "coincidencia_autor": false
+  "coincidencia_autor": true
  },
  "maria angeles perez lopez||libro mediterraneo de los muertos": {
   "sin_resultados": true
@@ -479,7 +459,7 @@
   "editorial": "Comisura",
   "anio": "2026",
   "coincidencia_titulo": true,
-  "coincidencia_autor": false
+  "coincidencia_autor": true
  },
  "alice procter||el cuadro completo la historia colonial del arte en nuestros museos": {
   "mcu_titulo": "El cuadro completo",
@@ -511,21 +491,20 @@
  "valerie fritsch||limones": {
   "mcu_titulo": "Limones y toda la pandi",
   "mcu_autor": "Badenes Bou, María Elena",
-  "editorial": "Badenes Bou, María Elena",
+  "editorial": null,
   "anio": "2022",
   "coincidencia_titulo": true,
-  "coincidencia_autor": false
+  "coincidencia_autor": false,
+  "editorial_descartada": "Badenes Bou, María Elena"
  },
  "adriana cavarero||cuentame mi historia filosofia de la narracion": {
   "sin_resultados": true
  },
  "svetlana boym||el futuro de la nostalgia": {
+  "sin_resultados": true,
+  "descartado": "ni titulo ni autor",
   "mcu_titulo": "Nostalgia de futuro : transhumanismo y desafíos a la naturaleza humana",
-  "mcu_autor": "Esteban Duque, Roberto (1963-)",
-  "editorial": "Ediciones Encuentro, S.A.",
-  "anio": "2022",
-  "coincidencia_titulo": false,
-  "coincidencia_autor": false
+  "mcu_autor": "Esteban Duque, Roberto (1963-)"
  },
  "marina beloki||el traje del astronauta": {
   "sin_resultados": true
@@ -534,20 +513,16 @@
   "sin_resultados": true
  },
  "juli mesa||soo": {
+  "sin_resultados": true,
+  "descartado": "ni titulo ni autor",
   "mcu_titulo": "Taekwon-do",
-  "mcu_autor": "Chong, Soo-Park",
-  "editorial": "De Vecchi Ediciones, S.A.",
-  "anio": "1996",
-  "coincidencia_titulo": false,
-  "coincidencia_autor": false
+  "mcu_autor": "Chong, Soo-Park"
  },
  "susan griffin||mujer y naturaleza": {
+  "sin_resultados": true,
+  "descartado": "ni titulo ni autor",
   "mcu_titulo": "Alquimia femenina : mujer & naturaleza",
-  "mcu_autor": "Álvarez Álvarez, Covadonga",
-  "editorial": "Álvarez Álvarez, Covadonga",
-  "anio": "2024",
-  "coincidencia_titulo": false,
-  "coincidencia_autor": false
+  "mcu_autor": "Álvarez Álvarez, Covadonga"
  },
  "eduardo prieto||los laberintos del aire vientos miasmas y arquitectura en el renacimiento": {
   "mcu_titulo": "Los laberintos del aire",

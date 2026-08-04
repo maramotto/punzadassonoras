@@ -17,7 +17,7 @@ deben quedar acreditadas y las fuentes citadas con claridad.
 | Transcripciones | **117 de 117** ✅ (mlx-whisper large-v3 + pyannote 3.1, con hablante) |
 | Referencias extraídas | **671** |
 | Autores distintos | **469** |
-| Enriquecimiento bibliográfico | **286 de 671 filas (43%)** con editorial/año, vía Open Library + Dialnet + MCU. Sobre las 465 filas que sí tienen obra concreta: **62%** |
+| Enriquecimiento bibliográfico | **272 de 671 filas (41%)** con editorial/año, vía Open Library + Dialnet + MCU. Sobre las 465 filas que sí tienen obra concreta: **58%** |
 | Fuente de las referencias | Solo texto (descripciones + newsletter). **Ninguna del audio todavía.** |
 | Entregable actual | `Punzadas_Sonoras_referencias.xlsx` (4 pestañas: Referencias, Episodios, Autores, Leyenda) |
 
@@ -197,9 +197,8 @@ Ve por lotes y guarda el progreso entre lotes; son 117 episodios.
      lo que sube el riesgo de coincidir con un libro de otro autor con el mismo título exacto
      (pasó con «La baba del caracol», que además de la edición de Chantal Maillard de 2014 tiene
      una homónima de 1985/2019 de otro autor completamente distinto) — el script desempata
-     prefiriendo el candidato cuyo autor también coincide, pero **las filas marcadas
-     «MCU — inferido» en la hoja siguen mereciendo una revisión manual**, es el punto más frágil
-     de esta pasada.
+     prefiriendo el candidato cuyo autor también coincide. **Auditado y corregido el
+     2026-08-03** (ver más abajo): de 26 filas «MCU — inferido» quedan 8.
    - **Wikidata**: descartada, no se llegó a lanzar. 0 aciertos sobre los 10 casos, y ni siquiera
      en el mejor caso posible (los originales de Barthes y Bourdieu, que sí están en Wikidata)
      tiene editorial ni traductor de la edición *española* — solo autor, idioma y año de la obra
@@ -213,6 +212,42 @@ Ve por lotes y guarda el progreso entre lotes; son 117 episodios.
      MCU ni Wikidata traen). Sigue pendiente — requeriría otra fuente específica de traducciones.
    - Google Books devuelve 429 por cuota. `todostuslibros.com` no responde a peticiones
      automáticas: los enlaces de compra son búsquedas construidas, no fichas verificadas.
+
+   **Auditoría del 2026-08-03.** Al mirar de cerca las 26 filas «MCU — inferido» no eran 26
+   juicios editoriales, eran tres bugs. Se corrigieron en `10_enriquecer_mcu.py`, con las
+   funciones `evaluar()`, `autor_coincide()` y `editorial_es_persona()`:
+
+   - **Se aceptaba cualquier resultado, coincidiera o no.** *El hombre joven* de Ernaux
+     emparejaba con «La atracción sexual del hombre joven» de Juan Julio de Abajo, y salía
+     publicado como dato bueno. Ahora, si no coincide ni el título ni el autor, se descarta.
+     **13 filas eliminadas.**
+   - **El MCU mete el nombre del autor en el campo editorial** cuando el libro es autoeditado
+     o de depósito («Aguado Rubira, Pedro Francisco»). Se detecta por forma, excluyendo las
+     formas corporativas para no confundirlo con «Plaza y Valdés, S.L.». **1 fila limpiada.**
+   - **La comparación de autores era ingenua**: cogía la última palabra de nuestro campo y la
+     buscaba en el del MCU. Fallaba con varios autores («Laura C. Vela y Carlota Visier» →
+     buscaba «visier»), con editores («…(eds.)» → buscaba «eds»), con el orden invertido del
+     MCU y con las obras anónimas, donde ausencia de autor se leía como discrepancia. Ahora
+     compara apellidos por persona, tolera el orden invertido y **exige dos coincidencias
+     cuando ambos lados dan nombre y apellido**, porque compartir solo el apellido no basta:
+     «Juan Evaristo Boix» y «Boix, Frederic» son personas distintas. **4 filas ascendidas a
+     verificado.**
+
+   `python3 scripts/10_enriquecer_mcu.py --reevaluar` vuelve a aplicar estas reglas sobre el
+   cache ya descargado, sin tocar la red. Úsalo si cambias los criterios.
+
+   **Bug del año en Dialnet, mismo día.** El año salía de un `\d{4}` sobre la cadena de
+   localización, y el ISSN empieza por cuatro dígitos que parecen un año: «ISSN 1886-340X,
+   Nº. 40, 2023» guardaba **1886**. Afectaba a **11 de 42 fichas, incluidas seis marcadas
+   como verificadas** — «La imaginación literaria en la vida pública» de Nussbaum figuraba
+   como 2097. Corregido con `anio_de_localizacion()`, que quita los ISSN antes de buscar.
+
+   **Quedan 8 filas «MCU — inferido» para revisar a mano.** De ellas, dos son correctas y se
+   confirman solas porque el episodio menciona la editorial y coincide con la del MCU (Chukri
+   y Taia, ambos Cabaret Voltaire); cinco son claramente otro libro con el mismo título —la
+   mejor es *La muerte del autor* de Barthes emparejada con la novela homónima de Gilbert
+   Adair, que se llama así justamente por el ensayo—; y una es dudosa (*Enuma Elish*, donde
+   Amundarain podría ser el traductor de la edición de Rubric).
 3. **La web** — va en `web/` (vacía), que está vacía a propósito. Decisión ya tomada: sitio estático
    que lee un JSON, desplegable en GitHub Pages o Netlify, con filtros por autor, obra,
    temporada, tipo y tag. Los campos blandos permiten además un grafo de obras en diálogo, que

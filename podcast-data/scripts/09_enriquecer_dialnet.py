@@ -37,6 +37,7 @@ def _limpiar(html_fragmento):
 
 def consulta_dialnet(autor, obra, reintentos=4):
     """Devuelve dict con autor/localizacion/anio del primer resultado, o None."""
+    # (ver anio_de_localizacion mas abajo para el parseo del anio)
     q = f'{autor} {obra}'.strip()
     url = 'https://dialnet.unirioja.es/buscar/documentos?' + urlencode({'querysDismax.DOCUMENTAL_TODO': q})
     html = None
@@ -69,16 +70,36 @@ def consulta_dialnet(autor, obra, reintentos=4):
         })
     mejores.sort(key=lambda x: 0 if x['exacto'] else 1)
     d0 = mejores[0]
-    anio_m = re.search(r'\b(1[89]\d{2}|20\d{2})\b', d0['localizacion'] or '')
     autor_ok = any(norm(autor).split(' ')[-1] in norm(d0['autor'] or '') for _ in [0]) if autor else False
     return {
         'dialnet_titulo': d0['titulo'],
         'dialnet_autor': d0['autor'],
         'localizacion': d0['localizacion'],
-        'anio': anio_m.group(1) if anio_m else None,
+        'anio': anio_de_localizacion(d0['localizacion']),
         'coincidencia_titulo': d0['exacto'],
         'coincidencia_autor': autor_ok,
     }
+
+
+def anio_de_localizacion(loc):
+    """Saca el anio de publicacion de la cadena de localizacion de Dialnet.
+
+    El ISSN empieza por cuatro digitos que parecen un anio, y la version
+    electronica del ISSN suele empezar por 19xx o 20xx. Un \\d{4} a secas
+    cogia el ISSN en 11 de 42 fichas:
+
+        "Eidos: Revista de Filosofia, ISSN 1692-8857, ISSN-e 2011-7477,
+         N. 33, 2020, pags. 242-262"      -> guardaba 2011, es 2020
+        "Minerva, ISSN 1886-340X, N. 40, 2023, pags. 60-65"
+                                          -> guardaba 1886, es 2023
+
+    Se quitan primero los ISSN y se coge el ultimo anio plausible que
+    quede, que es el de la revista o el del ejemplar."""
+    if not loc:
+        return None
+    limpio = re.sub(r'ISSN(?:-e)?\s*[\dX-]+', ' ', loc, flags=re.I)
+    candidatos = re.findall(r'\b(1[89]\d{2}|20[0-2]\d)\b', limpio)
+    return candidatos[-1] if candidatos else None
 
 
 def confianza(info):
