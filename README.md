@@ -1,10 +1,10 @@
 # punzadassonoras
 
-Proyecto de fans (no oficial) para catalogar todas las obras, autoras y autores que se
+**Proyecto de fan (no oficial)** para catalogar todas las obras, autoras y autores que se
 citan en **Punzadas Sonoras**, el podcast de **Paula Ducay** e **Inés García** producido
 por **Radio Primavera Sound**. El objetivo final es una web pública navegable por autor,
 obra, tema y temporada — un mapa de todo lo que se ha citado, leído, visto y discutido a
-lo largo de la serie.
+lo largo del podcast.
 
 > Este es un proyecto de aficionadas, sin relación oficial con Punzadas Sonoras, Paula
 > Ducay, Inés García ni Radio Primavera Sound. Todo el contenido citado (títulos, citas,
