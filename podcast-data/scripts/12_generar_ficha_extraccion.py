@@ -27,6 +27,8 @@ def fila(campo, valor):
 def render_mencion(m, video_id):
     titulo = m["obra"] if m["obra"] else f"({m['autor']}, sin obra concreta)"
     lineas = [f"### {m['id']} — {m['autor']} — *{titulo}*\n"]
+    if m.get("parte"):
+        lineas.append(f"*{m['parte']}*\n")
     if m.get("subtipo"):
         lineas.append(f"*{m['subtipo']}*\n")
     lineas.append("| campo | valor |\n|---|---|\n")
@@ -46,8 +48,10 @@ def render_mencion(m, video_id):
         lineas.append(fila("minuto", enlace))
     if m.get("en_dialogo_con"):
         lineas.append(fila("en diálogo con", ", ".join(m["en_dialogo_con"])))
+    if m.get("autores_citados"):
+        lineas.append(fila("autores citados", ", ".join(m["autores_citados"])))
     if m.get("datos_nuevos"):
-        dn = "; ".join(f"{k}: {v}" for k, v in m["datos_nuevos"].items())
+        dn = "; ".join(f"{d['campo']}: {d['valor']}" for d in m["datos_nuevos"])
         lineas.append(fila("datos nuevos", dn))
     lineas.append("\n")
     if m.get("contexto"):

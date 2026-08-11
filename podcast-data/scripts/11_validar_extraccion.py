@@ -136,11 +136,40 @@ def main():
         if via and m.get("grado") != "dentro de otra fuente":
             errores.append(f"[{mid}] tiene 'via' pero grado no es 'dentro de otra fuente'")
 
+        # 8. dentro de otra fuente exige obra concreta
+        if m.get("grado") == "dentro de otra fuente" and not m.get("obra"):
+            errores.append(f"[{mid}] grado 'dentro de otra fuente' sin 'obra' concreta")
+
         # 7. rango
         inicio_s = m.get("inicio_s")
         if inicio_s is not None:
             if not (0 <= inicio_s <= duracion_s):
                 errores.append(f"[{mid}] inicio_s {inicio_s} fuera de rango [0, {duracion_s}]")
+
+        # 1 (datos_nuevos). cada dato nuevo lleva su propia cita validada igual que la principal
+        for dn in m.get("datos_nuevos") or []:
+            dn_cita = dn.get("cita")
+            dn_inicio = dn.get("inicio_s")
+            campo = dn.get("campo", "???")
+            if not dn_cita or dn_inicio is None:
+                errores.append(f"[{mid}] datos_nuevos.{campo} sin 'cita' o 'inicio_s'")
+                continue
+            if not (0 <= dn_inicio <= duracion_s):
+                errores.append(f"[{mid}] datos_nuevos.{campo} inicio_s {dn_inicio} fuera de rango [0, {duracion_s}]")
+            dn_cita_norm = normalizar(dn_cita)
+            dn_posiciones = [mm.start() for mm in re.finditer(re.escape(dn_cita_norm), corpus)]
+            if not dn_posiciones:
+                errores.append(f"[{mid}] datos_nuevos.{campo} CITA NO LITERAL: {dn_cita!r}")
+                continue
+            dn_ventana_ok = any(
+                dn_inicio - WINDOW_BEFORE <= segs[segmento_en_offset(offsets, pos)]["inicio"] <= dn_inicio + WINDOW_AFTER
+                for pos in dn_posiciones
+            )
+            if not dn_ventana_ok:
+                errores.append(
+                    f"[{mid}] datos_nuevos.{campo} incoherencia temporal: la cita no aparece en la ventana "
+                    f"[{dn_inicio - WINDOW_BEFORE}, {dn_inicio + WINDOW_AFTER}]s"
+                )
 
         if es_descripcion or not m.get("cita"):
             continue
