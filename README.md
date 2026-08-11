@@ -1,4 +1,4 @@
-# punzadassonoras
+# UniversoPunzadas
 
 **Proyecto de fan (no oficial)** para catalogar todas las obras, autoras y autores que se
 citan en **Punzadas Sonoras**, el podcast de **Paula Ducay** e **Inés García** producido
