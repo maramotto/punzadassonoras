@@ -17,7 +17,7 @@ lo largo del podcast.
 
 | | |
 |---|---|
-| Episodios en el catálogo | **118** (117 originales + el cierre de temporada 5x22) |
+| Episodios en el catálogo | **118** |
 | Transcripciones propias | **118 de 118**, con hablante identificado (mlx-whisper large-v3 + pyannote 3.1) |
 | Episodios con extracción de referencias desde el audio | **103 de 118** (temporadas 1 a 5 completas; quedan Las Glosas, los especiales y el 5x22) |
 | Menciones extraídas (solo temporadas 1-5, desde audio) | **5.524** |
