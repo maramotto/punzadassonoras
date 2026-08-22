@@ -3,9 +3,10 @@
 **Proyecto aficionado (no oficial)**, creado por [maramotto](https://github.com/maramotto)
 (Mara Crespo), para catalogar todas las obras, autoras y autores que se citan en
 **Punzadas Sonoras**, el podcast de **Paula Ducay** e **Inés García** producido por
-**Radio Primavera Sound**. El objetivo final es una web pública navegable por autor,
-obra, tema y temporada — un mapa de todo lo que se ha citado, leído, visto y discutido a
-lo largo del podcast.
+**Radio Primavera Sound**. Un mapa navegable por autor, obra, tema y temporada de todo lo
+que se ha citado, leído, visto y discutido a lo largo del podcast.
+
+**Web pública: <https://universopunzadas.com>**
 
 > Este es un proyecto aficionado, sin relación oficial con Punzadas Sonoras, Paula Ducay,
 > Inés García ni Radio Primavera Sound. Todo el contenido citado (títulos, citas,
@@ -22,7 +23,7 @@ lo largo del podcast.
 | Transcripciones propias | **118 de 118**, con hablante identificado (mlx-whisper large-v3 + pyannote 3.1) |
 | Menciones extraídas desde el audio | **5.874** |
 | Autoras y autores distintos citados | **1.160** |
-| Web pública | esqueleto en `web/` (Astro + React), en construcción |
+| Web pública | **en producción** en [universopunzadas.com](https://universopunzadas.com) (Astro + React) |
 
 El dato central del proyecto: las descripciones escritas de los episodios solo dan una
 fracción de lo que realmente se cita. Comparando ambas fuentes, la transcripción aporta
@@ -53,7 +54,14 @@ El criterio completo de extracción, con ejemplos y su historial de versiones, e
 
 ```
 punzadassonoras/
-├── web/                      sitio Astro + React (esqueleto ya montado)
+├── Dockerfile                build multi-etapa: datos (Python) -> Astro -> nginx
+├── docker-compose.yml        despliegue del contenedor
+├── nginx.conf                config de nginx dentro del contenedor
+├── web/                      sitio Astro + React
+│   ├── src/
+│   │   ├── components/        gráficos (Observable Plot, sigma.js), buscador, tablas
+│   │   ├── pages/              portada, /buscar, /explorar, fichas de autor/obra/tema/...
+│   │   └── lib/                store de filtros, tipos, funciones compartidas
 │   └── public/data/          JSON que consume el sitio, generados por 14_build_web_data.py
 └── podcast-data/
     ├── data/                 índices, feeds y caches de enriquecimiento
@@ -87,8 +95,8 @@ python3 podcast-data/scripts/17_nuevo_episodio.py regenerar --codigo-nuevo 6x01
 ```
 
 El paso 4 encadena la reconciliación de identificadores, el informe de QA, la
-regeneración de los datos de la web y `npm run build` en `web/`. No despliega: eso sigue
-sin decidirse.
+regeneración de los datos de la web y `npm run build` en `web/`. No despliega: ese paso es
+manual, ver la sección siguiente.
 
 Los bloques de transcripción y extracción, con sus prompts exactos, están documentados
 en detalle en [`podcast-data/PROMPTS_claude_code.md`](podcast-data/PROMPTS_claude_code.md);
@@ -96,13 +104,46 @@ no se duplican aquí para no desincronizarse.
 
 ---
 
+## Despliegue
+
+El sitio corre en un contenedor Docker, detrás de un nginx que hace de proxy inverso y
+termina el HTTPS (Let's Encrypt / Certbot), en un servidor propio.
+
+`Dockerfile` en la raíz hace un build de tres etapas, con la raíz del repo como contexto
+(necesita `podcast-data/` y `web/` a la vez):
+
+1. **datos** (`python:3.12-alpine`) — corre `14_build_web_data.py` y genera
+   `web/public/data/*.json` desde `podcast-data/`.
+2. **build** (`node:22-alpine`) — `npm ci && npm run build`, produce `web/dist/`.
+3. **nginx** (`nginx:1.27-alpine`) — sirve `web/dist/` con `nginx.conf` (gzip, cache
+   larga e inmutable para los assets con hash de Astro, cache corta para `/data/`, que
+   cambia en cada despliegue).
+
+Para actualizar el sitio en producción, en el servidor:
+
+```bash
+cd /ruta/al/repo
+git pull
+docker compose build
+docker compose up -d
+```
+
+El contenedor se publica en un puerto local; un `nginx` a nivel de sistema (no el de
+dentro del contenedor) hace de proxy inverso desde `universopunzadas.com` hacia ese
+puerto y gestiona el certificado TLS. Esa parte —el vhost del host y las credenciales del
+servidor— es específica de la máquina y no vive en este repositorio.
+
+---
+
 ## Próximos pasos
 
-1. Buscador con Orama (tolerancia a erratas, cuatro pestañas: autoras, obras, menciones,
-   episodios).
-2. Los siete gráficos: matriz temas × episodios de portada, pulso fecha × minuto, grafo
-   de obras en diálogo, matriz de autoría, área por tipo.
-3. Publicación: dominio, cabeceras de caché, sitemap y comprobación de accesibilidad.
+- [x] Buscador con Orama (tolerancia a erratas, cuatro pestañas: autoras, obras,
+      menciones, episodios).
+- [x] Gráficos de `/explorar`: matriz de temas, ranking de autorías, matriz de autoría,
+      grafo de obras en diálogo, área por tipo — todos contra la misma barra de filtros.
+- [x] Publicación: dominio propio, HTTPS, sitemap y robots.txt, contenedor en producción.
+- [ ] Revisión formal de accesibilidad (navegación por teclado, contraste, lectores de
+      pantalla).
 
 ---
 
