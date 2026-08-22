@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import * as Plot from "@observablehq/plot";
-import { actualizarFiltro } from "../lib/store";
+import { useStore } from "@nanostores/react";
+import { actualizarFiltro, filtrarIndices, filtro$ } from "../lib/store";
 import { cargarIndex } from "../lib/datos";
 import { slugificar } from "../lib/slugs";
 import type { Index } from "../lib/tipos";
@@ -15,6 +16,7 @@ interface FilaAutor {
 }
 
 export default function RankingAutores() {
+  const filtro = useStore(filtro$);
   const [index, setIndex] = useState<Index | null>(null);
   const [comoTabla, setComoTabla] = useState(false);
   const contenedorRef = useRef<HTMLDivElement>(null);
@@ -23,11 +25,13 @@ export default function RankingAutores() {
     cargarIndex().then(setIndex);
   }, []);
 
-  const { top, totalAutorias } = useMemo(() => {
-    if (!index) return { top: [] as FilaAutor[], totalAutorias: 0 };
+  const { top, totalAutorias, total } = useMemo(() => {
+    if (!index) return { top: [] as FilaAutor[], totalAutorias: 0, total: 0 };
 
+    const idxsFiltrados = filtrarIndices(index, filtro);
     const porAutor = new Map<string, { menciones: number; obras: Set<string>; episodios: Set<number> }>();
-    for (const fila of index.refs) {
+    for (const i of idxsFiltrados) {
+      const fila = index.refs[i];
       const autor = index.aut[fila[1]];
       if (!autor || autor === "sin determinar") continue;
       const obra = index.obr[fila[2]];
@@ -45,8 +49,8 @@ export default function RankingAutores() {
       .map(([autor, a]) => ({ autor, menciones: a.menciones, obras: a.obras.size, episodios: a.episodios.size }))
       .sort((a, b) => b.menciones - a.menciones);
 
-    return { top: todas.slice(0, TOP_N), totalAutorias: todas.length };
-  }, [index]);
+    return { top: todas.slice(0, TOP_N), totalAutorias: todas.length, total: idxsFiltrados.length };
+  }, [index, filtro]);
 
   useEffect(() => {
     if (!index || !contenedorRef.current || comoTabla || top.length === 0) return;
@@ -55,7 +59,7 @@ export default function RankingAutores() {
 
     const figura = Plot.plot({
       width: Math.max(600, contenedor.clientWidth || 600),
-      height: TOP_N * 24 + 20,
+      height: top.length * 24 + 20,
       marginLeft: 190,
       marginBottom: 30,
       style: { background: "transparent", color: "var(--color-texto)" },
@@ -96,8 +100,8 @@ export default function RankingAutores() {
         <div>
           <h3>Ranking de autorías</h3>
           <p className="nota-grafico">
-            Las {TOP_N} autorías más citadas, de {totalAutorias.toLocaleString("es")} en total. Clic en una barra:
-            filtra por esa autoría.
+            Las {TOP_N} autorías más citadas, de {totalAutorias.toLocaleString("es")} con los filtros activos ({total.toLocaleString("es")}{" "}
+            mención(es)). Clic en una barra: filtra por esa autoría.
           </p>
         </div>
         <button type="button" className="faceta" onClick={() => setComoTabla((v) => !v)}>
@@ -106,7 +110,11 @@ export default function RankingAutores() {
       </div>
 
       {!comoTabla ? (
-        <div ref={contenedorRef} className="contenedor-grafico-scroll" />
+        top.length === 0 ? (
+          <p className="nota-grafico">Sin autorías que coincidan con los filtros activos.</p>
+        ) : (
+          <div ref={contenedorRef} className="contenedor-grafico-scroll" />
+        )
       ) : (
         <div className="contenedor-tabla-scroll">
           <table className="tabla-gemela">

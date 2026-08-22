@@ -43,15 +43,19 @@ function intensidad(n: number): number {
 ---
 
 <div class="contenedor-grafico-scroll">
-  <table style="border-collapse: collapse; font-size: 0.7rem;">
+  <table style="border-collapse: collapse; font-size: 0.7rem; table-layout: fixed;">
     <thead>
       <tr>
-        <th style="position: sticky; left: 0; background: var(--color-fondo); text-align: left; padding: 0.2rem 0.6rem; min-width: 12rem;">
+        <th style="position: sticky; left: 0; background: var(--color-fondo); text-align: left; padding: 0.2rem 0.6rem; width: 12rem;">
           Tema
         </th>
         {index.eps.map((ep) => (
-          <th style="padding: 0; width: 0.6rem;" title={`${ep[2]} — ${ep[3]}`}>
-            <a href={`/episodio/${ep[0]}`} aria-label={ep[2]} style="display: block; writing-mode: vertical-rl; height: 5rem;">
+          <th style="padding: 0; width: 0.6rem; overflow: hidden;" title={`${ep[2]} — ${ep[3]}`}>
+            <a
+              href={`/episodio/${ep[0]}`}
+              aria-label={ep[2]}
+              style="display: block; writing-mode: vertical-rl; height: 5rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;"
+            >
               {ep[1] || etiquetaTemporada(ep[5], ep[1])}
             </a>
           </th>
