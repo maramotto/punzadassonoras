@@ -4,6 +4,7 @@ import { useStore } from "@nanostores/react";
 import { actualizarFiltro, filtrarIndices, filtro$ } from "../lib/store";
 import { cargarIndex } from "../lib/datos";
 import { slugificar } from "../lib/slugs";
+import { comoTablaPorDefecto } from "../lib/movil";
 import type { Index } from "../lib/tipos";
 
 const TOP_N = 20;
@@ -23,6 +24,13 @@ export default function RankingAutores() {
 
   useEffect(() => {
     cargarIndex().then(setIndex);
+  }, []);
+
+  // se calcula en cliente, tras montar: si se metiera en el useState inicial
+  // (window.matchMedia) el servidor renderizaria "false" (SSR no ve window) y
+  // el cliente "true" en movil, un mismatch que React rompe con el error 418
+  useEffect(() => {
+    if (comoTablaPorDefecto()) setComoTabla(true);
   }, []);
 
   const { top, totalAutorias, total } = useMemo(() => {

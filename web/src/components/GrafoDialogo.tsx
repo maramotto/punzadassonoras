@@ -5,6 +5,7 @@ import Sigma from "sigma";
 import { actualizarFiltro } from "../lib/store";
 import { cargarIndex, colorPorEntidadResuelto, resolverColorFinal } from "../lib/datos";
 import { slugObra } from "../lib/slugs";
+import { comoTablaPorDefecto } from "../lib/movil";
 import type { Dialogo, NodoDialogo } from "../lib/tipos";
 
 const TAMANIO_MINIMO_COMPONENTE = 4;
@@ -34,7 +35,7 @@ export default function GrafoDialogo() {
   const sigmaRef = useRef<Sigma | undefined>(undefined);
   const grafoRef = useRef<Graph | undefined>(undefined);
   const [dialogo, setDialogo] = useState<Dialogo | null>(null);
-  const [comoTabla, setComoTabla] = useState(false);
+  const [comoTabla, setComoTabla] = useState(comoTablaPorDefecto);
   const [seleccionado, setSeleccionado] = useState<string | null>(null);
   const [mapaAutorPorObra, setMapaAutorPorObra] = useState<Map<string, string> | null>(null);
   // el reducer de sigma lee la seleccion actual de una ref, no del estado: asi
