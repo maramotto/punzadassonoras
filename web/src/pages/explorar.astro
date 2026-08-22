@@ -3,13 +3,10 @@ import Base from "../layouts/Base.astro";
 import BarraFiltros from "../components/BarraFiltros.tsx";
 import GrafoDialogo from "../components/GrafoDialogo.tsx";
 import MatrizAutorEpisodio from "../components/MatrizAutorEpisodio.tsx";
-import MatrizTemasEpisodios from "../components/MatrizTemasEpisodios.astro";
+import MatrizTemasGrafico from "../components/MatrizTemasGrafico.tsx";
 import RankingAutores from "../components/RankingAutores.tsx";
 import AreaPorTipo from "../components/AreaPorTipo.tsx";
 import TablaCondicional from "../components/TablaCondicional.tsx";
-import { indexBuild } from "../lib/datosBuild";
-
-const index = indexBuild();
 ---
 
 <Base
@@ -18,18 +15,7 @@ const index = indexBuild();
 >
   <BarraFiltros client:load />
   <div class="envoltura" style="padding-block: 1.5rem;">
-    <div class="tarjeta-grafico">
-      <div class="cabecera-grafico">
-        <div>
-          <h3>Matriz de temas</h3>
-          <p class="nota-grafico">
-            {index.temas.length} temas × {index.eps.length} episodios, en orden cronológico. Filas ordenadas por
-            primera aparición: así se ve el podcast abrir temas nuevos con el tiempo.
-          </p>
-        </div>
-      </div>
-      <MatrizTemasEpisodios index={index} />
-    </div>
+    <MatrizTemasGrafico client:visible />
 
     <RankingAutores client:visible />
     <MatrizAutorEpisodio client:visible />

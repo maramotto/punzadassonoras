@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import * as Plot from "@observablehq/plot";
-import { actualizarFiltro } from "../lib/store";
+import { useStore } from "@nanostores/react";
+import { actualizarFiltro, filtrarIndices, filtro$ } from "../lib/store";
 import { cargarIndex, resolverColorFinal } from "../lib/datos";
 import type { Index } from "../lib/tipos";
 
@@ -16,6 +17,7 @@ interface Celda {
 }
 
 export default function MatrizAutorEpisodio() {
+  const filtro = useStore(filtro$);
   const [index, setIndex] = useState<Index | null>(null);
   const [comoTabla, setComoTabla] = useState(false);
   const contenedorRef = useRef<HTMLDivElement>(null);
@@ -24,12 +26,14 @@ export default function MatrizAutorEpisodio() {
     cargarIndex().then(setIndex);
   }, []);
 
-  const { celdas, autoresOrdenados } = useMemo(() => {
-    if (!index) return { celdas: [] as Celda[], autoresOrdenados: [] as string[] };
+  const { celdas, autoresOrdenados, total } = useMemo(() => {
+    if (!index) return { celdas: [] as Celda[], autoresOrdenados: [] as string[], total: 0 };
+
+    const idxsFiltrados = filtrarIndices(index, filtro);
 
     const totalPorAutor = new Map<string, number>();
-    for (const fila of index.refs) {
-      const autor = index.aut[fila[1]];
+    for (const i of idxsFiltrados) {
+      const autor = index.aut[index.refs[i][1]];
       if (!autor || autor === "sin determinar") continue;
       totalPorAutor.set(autor, (totalPorAutor.get(autor) ?? 0) + 1);
     }
@@ -40,7 +44,8 @@ export default function MatrizAutorEpisodio() {
     const topSet = new Set(top);
 
     const conteo = new Map<string, number>(); // `${autor}|${epIdx}` -> n
-    for (const fila of index.refs) {
+    for (const i of idxsFiltrados) {
+      const fila = index.refs[i];
       const autor = index.aut[fila[1]];
       if (!topSet.has(autor)) continue;
       const clave = `${autor}|${fila[0]}`;
@@ -54,8 +59,8 @@ export default function MatrizAutorEpisodio() {
       const ep = index.eps[epIdx];
       salida.push({ autor, epIdx, fecha: new Date(ep[3]), episodioTitulo: ep[2], episodioId: ep[0], menciones: n });
     }
-    return { celdas: salida, autoresOrdenados: top };
-  }, [index]);
+    return { celdas: salida, autoresOrdenados: top, total: idxsFiltrados.length };
+  }, [index, filtro]);
 
   useEffect(() => {
     if (!index || !contenedorRef.current || comoTabla || celdas.length === 0) return;
@@ -115,7 +120,8 @@ export default function MatrizAutorEpisodio() {
           <h3>Matriz de autoría</h3>
           <p className="nota-grafico">
             Las {TOP_N} autorías más citadas × {index?.eps.length ?? 0} episodios. Intensidad en escala raíz.
-            Clic en una celda: filtra por esa autoría en ese episodio.
+            Clic en una celda: filtra por esa autoría en ese episodio. {total.toLocaleString("es")} mención(es) con
+            los filtros activos.
           </p>
         </div>
         <button type="button" className="faceta" onClick={() => setComoTabla((v) => !v)}>
@@ -124,7 +130,11 @@ export default function MatrizAutorEpisodio() {
       </div>
 
       {!comoTabla ? (
-        <div ref={contenedorRef} className="contenedor-grafico-scroll" />
+        celdas.length === 0 ? (
+          <p className="nota-grafico">Sin menciones que coincidan con los filtros activos.</p>
+        ) : (
+          <div ref={contenedorRef} className="contenedor-grafico-scroll" />
+        )
       ) : (
         <div className="contenedor-tabla-scroll">
           <table className="tabla-gemela">

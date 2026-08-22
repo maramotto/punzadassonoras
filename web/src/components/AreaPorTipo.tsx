@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import * as Plot from "@observablehq/plot";
-import { etiquetaTemporada } from "../lib/store";
+import { useStore } from "@nanostores/react";
+import { etiquetaTemporada, filtrarIndices, filtro$ } from "../lib/store";
 import { cargarIndex } from "../lib/datos";
 import { slugObra } from "../lib/slugs";
 import type { Index } from "../lib/tipos";
@@ -29,6 +30,7 @@ interface ObraDelSegmento {
 }
 
 export default function AreaPorTipo() {
+  const filtro = useStore(filtro$);
   const [index, setIndex] = useState<Index | null>(null);
   const [comoTabla, setComoTabla] = useState(false);
   const [seleccion, setSeleccion] = useState<{ temporada: string; tipo: string } | null>(null);
@@ -38,12 +40,15 @@ export default function AreaPorTipo() {
     cargarIndex().then(setIndex);
   }, []);
 
-  const { segmentos, tiposOrdenados, obrasPorSegmento } = useMemo(() => {
-    if (!index) return { segmentos: [] as Segmento[], tiposOrdenados: [] as string[], obrasPorSegmento: new Map<string, ObraDelSegmento[]>() };
+  const { segmentos, tiposOrdenados, obrasPorSegmento, total } = useMemo(() => {
+    if (!index)
+      return { segmentos: [] as Segmento[], tiposOrdenados: [] as string[], obrasPorSegmento: new Map<string, ObraDelSegmento[]>(), total: 0 };
+
+    const idxsFiltrados = filtrarIndices(index, filtro);
 
     const totalPorTipo = new Map<string, number>();
-    for (const fila of index.refs) {
-      const tipo = index.tip[fila[4]];
+    for (const i of idxsFiltrados) {
+      const tipo = index.tip[index.refs[i][4]];
       if (!tipo) continue;
       totalPorTipo.set(tipo, (totalPorTipo.get(tipo) ?? 0) + 1);
     }
@@ -54,7 +59,8 @@ export default function AreaPorTipo() {
     const conteoSegmento = new Map<string, number>(); // `${temporada}|${tipoAgrupado}` -> n
     const obrasPorSegmento = new Map<string, Map<string, ObraDelSegmento>>(); // `${temporada}|${tipoAgrupado}` -> autor||obra -> detalle
 
-    for (const fila of index.refs) {
+    for (const i of idxsFiltrados) {
+      const fila = index.refs[i];
       const ep = index.eps[fila[0]];
       const temporada = etiquetaTemporada(ep[5], ep[1]);
       const tipoReal = index.tip[fila[4]];
@@ -85,13 +91,15 @@ export default function AreaPorTipo() {
       obrasPorSegmentoOrdenadas.set(clave, [...mapaObras.values()].sort((a, b) => b.n - a.n));
     }
 
-    return { segmentos, tiposOrdenados, obrasPorSegmento: obrasPorSegmentoOrdenadas };
-  }, [index]);
+    return { segmentos, tiposOrdenados, obrasPorSegmento: obrasPorSegmentoOrdenadas, total: idxsFiltrados.length };
+  }, [index, filtro]);
 
   useEffect(() => {
-    if (!index || !contenedorRef.current || comoTabla || segmentos.length === 0) return;
+    if (!index || !contenedorRef.current || comoTabla) return;
     const contenedor = contenedorRef.current;
     contenedor.replaceChildren();
+
+    if (segmentos.length === 0) return;
 
     const figura = Plot.plot({
       width: contenedor.clientWidth || 900,
@@ -140,7 +148,7 @@ export default function AreaPorTipo() {
           <h3>Área por tipo</h3>
           <p className="nota-grafico">
             Menciones por tipo de obra, una barra por temporada. Clic en un tramo de color: lista de obras de ese
-            tipo en esa temporada.
+            tipo en esa temporada. {total.toLocaleString("es")} mención(es) con los filtros activos.
           </p>
         </div>
         <button type="button" className="faceta" onClick={() => setComoTabla((v) => !v)}>
@@ -149,7 +157,11 @@ export default function AreaPorTipo() {
       </div>
 
       {!comoTabla ? (
-        <div ref={contenedorRef} className="contenedor-grafico-scroll" />
+        segmentos.length === 0 ? (
+          <p className="nota-grafico">Sin menciones que coincidan con los filtros activos.</p>
+        ) : (
+          <div ref={contenedorRef} className="contenedor-grafico-scroll" />
+        )
       ) : (
         <div className="contenedor-tabla-scroll">
           <table className="tabla-gemela">
