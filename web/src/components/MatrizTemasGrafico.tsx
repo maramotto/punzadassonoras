@@ -55,7 +55,7 @@ export default function MatrizTemasGrafico() {
     <div className="tarjeta-grafico">
       <div className="cabecera-grafico">
         <div>
-          <h3>Matriz de temas</h3>
+          <h2>Matriz de temas</h2>
           <p className="nota-grafico">
             {index?.temas.length ?? 0} temas × {index?.eps.length ?? 0} episodios, en orden cronológico. Filas
             ordenadas por primera aparición. {total.toLocaleString("es")} mención(es) con los filtros activos.

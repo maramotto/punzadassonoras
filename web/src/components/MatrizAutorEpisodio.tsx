@@ -117,7 +117,7 @@ export default function MatrizAutorEpisodio() {
     <div className="tarjeta-grafico">
       <div className="cabecera-grafico">
         <div>
-          <h3>Matriz de autoría</h3>
+          <h2>Matriz de autoría</h2>
           <p className="nota-grafico">
             Las {TOP_N} autorías más citadas × {index?.eps.length ?? 0} episodios. Intensidad en escala raíz.
             Clic en una celda: filtra por esa autoría en ese episodio. {total.toLocaleString("es")} mención(es) con

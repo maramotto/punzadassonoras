@@ -217,11 +217,12 @@ export default function GrafoDialogo() {
     <div className="tarjeta-grafico">
       <div className="cabecera-grafico">
         <div>
-          <h3>Grafo de obras en diálogo</h3>
+          <h2>Grafo de obras en diálogo</h2>
           <p className="nota-grafico">
             {nodosGrandes.length} obras en componentes de {TAMANIO_MINIMO_COMPONENTE} o más nodos. Quedan fuera{" "}
             {Math.round(parejasSueltas)} parejas sueltas de dos o tres obras. Clic en un nodo: resalta con quién
-            dialoga. Doble clic: abre la ficha de la obra.
+            dialoga. Doble clic: abre la ficha de la obra. El propio grafo solo se puede usar con ratón; "Ver como
+            tabla" da la misma información completa por teclado o con lector de pantalla.
           </p>
         </div>
         <div style={{ display: "flex", gap: "0.4rem" }}>
@@ -247,6 +248,7 @@ export default function GrafoDialogo() {
         <>
           <div
             ref={contenedorRef}
+            aria-hidden="true"
             style={{ height: "clamp(280px, 65vw, 480px)", background: "var(--color-superficie-alta)", borderRadius: "var(--radio)" }}
           />
           {nodoSeleccion && (

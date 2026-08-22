@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { useStore } from "@nanostores/react";
 import {
   actualizarFiltro,
@@ -94,11 +94,37 @@ export default function BarraFiltros() {
   const [facetaAbierta, setFacetaAbierta] = useState<string | null>(null);
   const [consultaAutor, setConsultaAutor] = useState("");
   const [consultaEpisodio, setConsultaEpisodio] = useState("");
+  // para devolver el foco al boton que abrio el panel, al cerrarlo con Escape
+  // o haciendo clic fuera -- si no, un teclado se queda sin saber donde esta
+  const botonesRef = useRef<Record<string, HTMLButtonElement | null>>({});
+  const panelRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     conectarUrl();
     cargarIndex().then(setIndex);
   }, []);
+
+  function cerrarFaceta() {
+    if (facetaAbierta) botonesRef.current[facetaAbierta]?.focus();
+    setFacetaAbierta(null);
+  }
+
+  useEffect(() => {
+    if (!facetaAbierta) return;
+    function alTeclado(e: KeyboardEvent) {
+      if (e.key === "Escape") cerrarFaceta();
+    }
+    function alClicFuera(e: MouseEvent) {
+      if (panelRef.current && !panelRef.current.contains(e.target as Node)) setFacetaAbierta(null);
+    }
+    document.addEventListener("keydown", alTeclado);
+    document.addEventListener("mousedown", alClicFuera);
+    return () => {
+      document.removeEventListener("keydown", alTeclado);
+      document.removeEventListener("mousedown", alClicFuera);
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [facetaAbierta]);
 
   const total = index?.refs.length ?? 0;
   const activos = index ? filtrarIndices(index, filtro).length : total;
@@ -131,12 +157,14 @@ export default function BarraFiltros() {
   function elegirAutor(autor: string | null) {
     actualizarFiltro({ autor });
     setConsultaAutor("");
+    if (facetaAbierta === "autor") botonesRef.current.autor?.focus();
     setFacetaAbierta(null);
   }
 
   function elegirEpisodio(episodio: string | null) {
     actualizarFiltro({ episodio });
     setConsultaEpisodio("");
+    if (facetaAbierta === "episodio") botonesRef.current.episodio?.focus();
     setFacetaAbierta(null);
   }
 
@@ -194,6 +222,7 @@ export default function BarraFiltros() {
               return (
                 <div key={entrada.campo} style={{ position: "relative" }}>
                   <button
+                    ref={(el) => { botonesRef.current[entrada.campo] = el; }}
                     type="button"
                     className="faceta"
                     aria-expanded={facetaAbierta === entrada.campo}
@@ -204,7 +233,9 @@ export default function BarraFiltros() {
                   </button>
                   {facetaAbierta === entrada.campo && index && (
                     <div
-                      role="menu"
+                      ref={panelRef}
+                      role="group"
+                      aria-label={entrada.etiqueta}
                       style={{
                         position: "absolute",
                         top: "calc(100% + 0.3rem)",
@@ -280,6 +311,7 @@ export default function BarraFiltros() {
             return (
               <div key={campo} style={{ position: "relative" }}>
                 <button
+                  ref={(el) => { botonesRef.current[campo] = el; }}
                   type="button"
                   className="faceta"
                   aria-expanded={facetaAbierta === campo}
@@ -290,7 +322,9 @@ export default function BarraFiltros() {
                 </button>
                 {facetaAbierta === campo && index && (
                   <div
-                    role="menu"
+                    ref={panelRef}
+                    role="group"
+                    aria-label={etiqueta}
                     style={{
                       position: "absolute",
                       top: "calc(100% + 0.3rem)",
