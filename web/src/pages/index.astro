@@ -1,6 +1,6 @@
 ---
 import Base from "../layouts/Base.astro";
-import MatrizTemasEpisodios from "../components/MatrizTemasEpisodios.astro";
+import MatrizTemasGrafico from "../components/MatrizTemasGrafico.tsx";
 import { indexBuild } from "../lib/datosBuild";
 
 const index = indexBuild();
@@ -18,7 +18,7 @@ const index = indexBuild();
     </p>
 
     <div style="margin-top: 1rem;">
-      <MatrizTemasEpisodios index={index} />
+      <MatrizTemasGrafico client:visible />
     </div>
 
     <p style="margin-top: 1.5rem;">

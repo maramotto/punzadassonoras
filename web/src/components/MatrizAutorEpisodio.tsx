@@ -3,6 +3,7 @@ import * as Plot from "@observablehq/plot";
 import { useStore } from "@nanostores/react";
 import { actualizarFiltro, filtrarIndices, filtro$ } from "../lib/store";
 import { cargarIndex, resolverColorFinal } from "../lib/datos";
+import { comoTablaPorDefecto } from "../lib/movil";
 import type { Index } from "../lib/tipos";
 
 const TOP_N = 24;
@@ -24,6 +25,13 @@ export default function MatrizAutorEpisodio() {
 
   useEffect(() => {
     cargarIndex().then(setIndex);
+  }, []);
+
+  // se calcula en cliente, tras montar: si se metiera en el useState inicial
+  // (window.matchMedia) el servidor renderizaria "false" (SSR no ve window) y
+  // el cliente "true" en movil, un mismatch que React rompe con el error 418
+  useEffect(() => {
+    if (comoTablaPorDefecto()) setComoTabla(true);
   }, []);
 
   const { celdas, autoresOrdenados, total } = useMemo(() => {
