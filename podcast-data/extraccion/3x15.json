@@ -9,7 +9,7 @@
   "menciones": [
     {
       "id": "3x15-001",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "La montaña mágica",
       "parte": "",
       "tipo": "libro",
@@ -32,7 +32,7 @@
     },
     {
       "id": "3x15-002",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "De ratones y hombres",
       "parte": "",
       "tipo": "libro",
@@ -55,7 +55,7 @@
     },
     {
       "id": "3x15-003",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Las uvas de la ira",
       "parte": "",
       "tipo": "libro",
@@ -80,7 +80,7 @@
     },
     {
       "id": "3x15-004",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Las hijas horribles",
       "parte": "",
       "tipo": "libro",
@@ -126,7 +126,7 @@
     },
     {
       "id": "3x15-006",
-      "autor": "Rachel Kask",
+      "autor": "Rachel Cusk",
       "obra": "Un trabajo para toda la vida",
       "parte": "",
       "tipo": "libro",
@@ -172,7 +172,7 @@
     },
     {
       "id": "3x15-008",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "El verano que mi madre tuvo los ojos verdes",
       "parte": "",
       "tipo": "libro",
@@ -612,8 +612,8 @@
     },
     {
       "id": "3x15-026",
-      "autor": "desconocido",
-      "obra": "Demasiadas Mujeres",
+      "autor": "sin determinar",
+      "obra": "Demasiadas mujeres",
       "parte": "",
       "tipo": "podcast",
       "subtipo": "",
@@ -908,7 +908,7 @@
     },
     {
       "id": "3x15-038",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Carol",
       "parte": "",
       "tipo": "película",
@@ -982,7 +982,7 @@
     },
     {
       "id": "3x15-041",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Lunáticas",
       "parte": "",
       "tipo": "podcast",
@@ -1014,7 +1014,7 @@
     },
     {
       "id": "3x15-042",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Lunáticas",
       "parte": "",
       "tipo": "podcast",
@@ -1037,7 +1037,7 @@
     },
     {
       "id": "3x15-043",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Lunáticas",
       "parte": "",
       "tipo": "podcast",
@@ -1060,7 +1060,7 @@
     },
     {
       "id": "3x15-044",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Lunáticas",
       "parte": "",
       "tipo": "podcast",
@@ -1205,7 +1205,7 @@
     },
     {
       "id": "3x15-050",
-      "autor": "Rachel Kask",
+      "autor": "Rachel Cusk",
       "obra": "Un trabajo para toda la vida",
       "parte": "",
       "tipo": "libro",
@@ -1347,7 +1347,7 @@
     },
     {
       "id": "3x15-056",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Maternidad y creación",
       "parte": "",
       "tipo": "libro",
@@ -1377,7 +1377,7 @@
     },
     {
       "id": "3x15-057",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Maternidad y creación",
       "parte": "",
       "tipo": "libro",
@@ -1547,5 +1547,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2024-03-28_las-madres-que-no"
 }

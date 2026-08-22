@@ -843,7 +843,7 @@
     {
       "id": "2x02-038",
       "autor": "Itsaso Arana",
-      "obra": "La Virgen de Agosto",
+      "obra": "La virgen de agosto",
       "parte": "",
       "tipo": "película",
       "subtipo": "",
@@ -1012,5 +1012,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2022-10-22_dolor"
 }

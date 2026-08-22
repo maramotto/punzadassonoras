@@ -515,7 +515,7 @@
     },
     {
       "id": "1x02-022",
-      "autor": "Sigrid Núñez",
+      "autor": "Sigrid Nunez",
       "obra": "El amigo",
       "parte": "",
       "tipo": "libro",
@@ -727,5 +727,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2022-03-13_ausencia"
 }

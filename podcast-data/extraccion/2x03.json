@@ -868,7 +868,7 @@
     {
       "id": "2x03-036",
       "autor": "sin determinar",
-      "obra": "La Casa del Dragón",
+      "obra": "La casa del dragón",
       "parte": "",
       "tipo": "serie",
       "subtipo": "",
@@ -1007,5 +1007,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2022-10-29_dolor-ii"
 }

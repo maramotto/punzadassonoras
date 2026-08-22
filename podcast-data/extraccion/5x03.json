@@ -653,7 +653,7 @@
     },
     {
       "id": "5x03-028",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Susana y los viejos",
       "parte": "",
       "tipo": "obra de arte",
@@ -760,7 +760,7 @@
     },
     {
       "id": "5x03-032",
-      "autor": "anónimo",
+      "autor": "Anónimo",
       "obra": "",
       "parte": "",
       "tipo": "otro",
@@ -1082,5 +1082,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2025-10-23_la-voyeur-un-baile-de-miradas"
 }

@@ -481,7 +481,7 @@
     },
     {
       "id": "3x18-021",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Chernobyl",
       "parte": "",
       "tipo": "serie",
@@ -676,7 +676,7 @@
     },
     {
       "id": "3x18-029",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "otro",
@@ -860,7 +860,7 @@
     },
     {
       "id": "3x18-037",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -906,7 +906,7 @@
     },
     {
       "id": "3x18-039",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "otro",
@@ -1021,7 +1021,7 @@
     },
     {
       "id": "3x18-044",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Radioambulante",
       "parte": "",
       "tipo": "podcast",
@@ -1092,7 +1092,7 @@
     },
     {
       "id": "3x18-047",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -1145,7 +1145,7 @@
     },
     {
       "id": "3x18-049",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Eso no se habla",
       "parte": "Perdidas, cara A: Consuelo",
       "tipo": "podcast",
@@ -1170,7 +1170,7 @@
     },
     {
       "id": "3x18-050",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Eso no se habla",
       "parte": "Perdidas, cara B: Dolores",
       "tipo": "podcast",
@@ -1241,7 +1241,7 @@
     },
     {
       "id": "3x18-053",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "El patronato",
       "parte": "",
       "tipo": "otro",
@@ -1683,5 +1683,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2024-05-09_mirar-atras-un-gesto-compartido"
 }

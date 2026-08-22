@@ -110,7 +110,7 @@
     },
     {
       "id": "4x24-005",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Memorias de un ecologista en rehabilitación",
       "parte": "",
       "tipo": "libro",
@@ -388,7 +388,7 @@
     },
     {
       "id": "4x24-017",
-      "autor": "Jorge Diony López",
+      "autor": "Jorge Dioni López",
       "obra": "El malestar de las ciudades",
       "parte": "",
       "tipo": "libro",
@@ -491,7 +491,7 @@
     },
     {
       "id": "4x24-021",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -516,7 +516,7 @@
     },
     {
       "id": "4x24-022",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -911,5 +911,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2025-07-24_una-despedida-eclectica-verano-invasion-huida"
 }

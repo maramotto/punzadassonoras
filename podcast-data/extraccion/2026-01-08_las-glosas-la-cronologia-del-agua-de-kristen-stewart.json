@@ -1,0 +1,264 @@
+{
+  "id": "2026-01-08_las-glosas-la-cronologia-del-agua-de-kristen-stewart",
+  "codigo": "Glosas 1x04",
+  "titulo": "Las Glosas: «La cronología del agua», de Kristen Stewart",
+  "fecha": "2026-01-08",
+  "video_id": "",
+  "duracion_s": 2335,
+  "transcripcion": "2026-01-08_sincodigo.json",
+  "criterio": "v2",
+  "menciones": [
+    {
+      "id": "Glosas 1x04-001",
+      "autor": "Kristen Stewart",
+      "obra": "La cronología del agua",
+      "parte": "",
+      "tipo": "película",
+      "subtipo": "",
+      "funcion": "eje del episodio",
+      "alcance": "obra completa",
+      "soporte": "visto",
+      "tono": "entusiasta",
+      "grado": "primera mano",
+      "via": null,
+      "autores_citados": [
+        "Kathy Acker"
+      ],
+      "fuente": "ambas",
+      "inicio_s": 82,
+      "hablante": "SPEAKER_00",
+      "cita": "entonces hoy vamos a glosar",
+      "contexto": "Presentan la película como objeto de la glosa: primer largometraje que dirige Kristen Stewart, estrenado en España el 9 de enero, glosado gracias a la colaboración de la distribuidora Sideral. Señalan también que en una escena Lidia lee en un contexto literario un texto de Kathy Acker (deformado como «Casey Acker») sobre un padre que se endiosa ante su hija.",
+      "en_dialogo_con": [],
+      "datos_nuevos": [
+        {
+          "campo": "distribuidora_mencionada",
+          "valor": "Sideral",
+          "cita": "queríamos agradecer a Sideral",
+          "inicio_s": 130
+        }
+      ],
+      "confianza": "alta"
+    },
+    {
+      "id": "Glosas 1x04-002",
+      "autor": "Imogen Poots",
+      "obra": "",
+      "parte": "",
+      "tipo": "persona",
+      "subtipo": "actriz",
+      "funcion": "mención de pasada",
+      "alcance": "solo el autor",
+      "soporte": "visto",
+      "tono": "entusiasta",
+      "grado": "primera mano",
+      "via": null,
+      "autores_citados": [],
+      "fuente": "audio",
+      "inicio_s": 173,
+      "hablante": "SPEAKER_01",
+      "cita": "por Imojimputs",
+      "contexto": "Presentan a la actriz protagonista, en el papel de Lidia, y destacan su interpretación.",
+      "en_dialogo_con": [],
+      "datos_nuevos": [],
+      "confianza": "media"
+    },
+    {
+      "id": "Glosas 1x04-003",
+      "autor": "Lidia Yuknavitch",
+      "obra": "La cronología del agua",
+      "parte": "",
+      "tipo": "libro",
+      "subtipo": "memorias",
+      "funcion": "apoyo teórico",
+      "alcance": "obra completa",
+      "soporte": "leído",
+      "tono": "entusiasta",
+      "grado": "primera mano",
+      "via": null,
+      "autores_citados": [],
+      "fuente": "ambas",
+      "inicio_s": 191,
+      "hablante": "SPEAKER_01",
+      "cita": "queríamos empezar diciendo que es una adaptación al cine de un libro con el mismo nombre de Lidia Yuknavich",
+      "contexto": "Explican que la película es adaptación del libro homónimo de Yuknavitch, un libro de memorias sobre el trauma por abuso sexual infantil por parte de su padre; cuentan que Paula lo leyó hace años, para una punzada anterior, y que le gustó mucho.",
+      "en_dialogo_con": [],
+      "datos_nuevos": [
+        {
+          "campo": "editorial_mencionada",
+          "valor": "Ciceli",
+          "cita": "en España está editado por",
+          "inicio_s": 199
+        }
+      ],
+      "confianza": "alta"
+    },
+    {
+      "id": "Glosas 1x04-004",
+      "autor": "Lidia Yuknavitch",
+      "obra": "La cronología del agua",
+      "parte": "",
+      "tipo": "artículo",
+      "subtipo": "entrevista",
+      "funcion": "apoyo teórico",
+      "alcance": "un pasaje o cita",
+      "soporte": "leído",
+      "tono": "entusiasta",
+      "grado": "dentro de otra fuente",
+      "via": "Glosas 1x04-003",
+      "autores_citados": [],
+      "fuente": "audio",
+      "inicio_s": 272,
+      "hablante": "SPEAKER_00",
+      "cita": "Y nos ha llamado la atención que en una entrevista a la autora, a Lidia Yuknavich, en The Lit Pub,",
+      "contexto": "Citan una entrevista a Yuknavitch en el medio The Lit Pub en la que la autora explica que escribió el libro desde el cuerpo, para sacar lo que llevaba dentro y con la intuición de que había más gente como ella.",
+      "en_dialogo_con": [],
+      "datos_nuevos": [],
+      "confianza": "alta"
+    },
+    {
+      "id": "Glosas 1x04-005",
+      "autor": "Manu Yáñez",
+      "obra": "",
+      "parte": "",
+      "tipo": "artículo",
+      "subtipo": "crítica de cine",
+      "funcion": "apoyo teórico",
+      "alcance": "un pasaje o cita",
+      "soporte": "leído",
+      "tono": "entusiasta",
+      "grado": "primera mano",
+      "via": null,
+      "autores_citados": [],
+      "fuente": "audio",
+      "inicio_s": 496,
+      "hablante": "SPEAKER_00",
+      "cita": "crítica a la película en fotogramas de manu yañez y allí él define la cronología del agua como una",
+      "contexto": "Citan la crítica de Manu Yáñez en Fotogramas, que define la película como una adaptación fragmentaria y sensorial; les parecen buenos adjetivos para señalarla.",
+      "en_dialogo_con": [],
+      "datos_nuevos": [
+        {
+          "campo": "medio_mencionado",
+          "valor": "Fotogramas",
+          "cita": "crítica a la película en fotogramas de manu yañez",
+          "inicio_s": 496
+        }
+      ],
+      "confianza": "alta"
+    },
+    {
+      "id": "Glosas 1x04-006",
+      "autor": "Manon Uphoff",
+      "obra": "Caer es como volar",
+      "parte": "",
+      "tipo": "libro",
+      "subtipo": "novela",
+      "funcion": "recomendación",
+      "alcance": "obra completa",
+      "soporte": "sin determinar",
+      "tono": "entusiasta",
+      "grado": "primera mano",
+      "via": null,
+      "autores_citados": [],
+      "fuente": "audio",
+      "inicio_s": 2037,
+      "hablante": "SPEAKER_00",
+      "cita": "que este es un libro que recomendamos hasta la salida siempre que surgen temas de abuso sexual infantil, que es Caer es como volar, de Manon Uphoff, que está en",
+      "contexto": "Recomiendan esta novela como lectura recurrente cuando surgen temas de abuso sexual infantil: narra un abuso por parte de un padre y trata la relación ambigua que una niña abusada desarrolla con su maltratador, y conecta la figura del padre con el minotauro y el laberinto.",
+      "en_dialogo_con": [
+        "La cronología del agua"
+      ],
+      "datos_nuevos": [
+        {
+          "campo": "editorial_mencionada",
+          "valor": "Gato Pardo",
+          "cita": "de Manon Uphoff, que está en Gato Pardo",
+          "inicio_s": 2041
+        }
+      ],
+      "confianza": "alta"
+    },
+    {
+      "id": "Glosas 1x04-007",
+      "autor": "Jane Smiley",
+      "obra": "Heredarás la tierra",
+      "parte": "",
+      "tipo": "libro",
+      "subtipo": "novela",
+      "funcion": "recomendación",
+      "alcance": "obra completa",
+      "soporte": "leído",
+      "tono": "entusiasta",
+      "grado": "primera mano",
+      "via": null,
+      "autores_citados": [],
+      "fuente": "audio",
+      "inicio_s": 2087,
+      "hablante": "SPEAKER_01",
+      "cita": "nos ha hecho aquí ni nada, heredarás la tierra",
+      "contexto": "Recomiendan esta novela, que es una reescritura de «Rey Lear» de Shakespeare, por las dinámicas familiares que recuerdan a las de «La cronología del agua» y por la presencia del agua (subterránea) en su trama; dicen haberla leído varias veces y que la aman.",
+      "en_dialogo_con": [
+        "La cronología del agua"
+      ],
+      "datos_nuevos": [
+        {
+          "campo": "editorial_mencionada",
+          "valor": "sexto piso",
+          "cita": "de Jane Smiley, que está editada en sexto piso",
+          "inicio_s": 2091
+        }
+      ],
+      "confianza": "alta"
+    },
+    {
+      "id": "Glosas 1x04-008",
+      "autor": "William Shakespeare",
+      "obra": "Rey Lear",
+      "parte": "",
+      "tipo": "obra de teatro",
+      "subtipo": "",
+      "funcion": "mención de pasada",
+      "alcance": "obra completa",
+      "soporte": "sin determinar",
+      "tono": "entusiasta",
+      "grado": "dentro de otra fuente",
+      "via": "Glosas 1x04-007",
+      "autores_citados": [],
+      "fuente": "audio",
+      "inicio_s": 2093,
+      "hablante": "SPEAKER_01",
+      "cita": "que también es una reescritura de Ray Liar, de Shakespeare",
+      "contexto": "Señalan que «Heredarás la tierra» es una reescritura de «Rey Lear»; comentan que han trabajado antes con esta obra en algún taller.",
+      "en_dialogo_con": [
+        "Heredarás la tierra"
+      ],
+      "datos_nuevos": [],
+      "confianza": "media"
+    },
+    {
+      "id": "Glosas 1x04-009",
+      "autor": "Vladimir Nabokov",
+      "obra": "Lolita",
+      "parte": "",
+      "tipo": "libro",
+      "subtipo": "novela",
+      "funcion": "contrapunto",
+      "alcance": "obra completa",
+      "soporte": "leído",
+      "tono": "entusiasta",
+      "grado": "primera mano",
+      "via": null,
+      "autores_citados": [],
+      "fuente": "audio",
+      "inicio_s": 2135,
+      "hablante": "SPEAKER_00",
+      "cita": "que es Lolita, de Nabokov.",
+      "contexto": "Traen esta novela como referencia distinta: mientras la película no explicita cómo se justifica el padre a sí mismo, dicen que «Lolita» es el mejor relato jamás hecho sobre cómo un abusador de niñas justifica su propia existencia, y se la recomiendan a Inés.",
+      "en_dialogo_con": [
+        "La cronología del agua"
+      ],
+      "datos_nuevos": [],
+      "confianza": "alta"
+    }
+  ]
+}

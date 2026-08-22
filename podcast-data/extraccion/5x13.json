@@ -467,7 +467,7 @@
     },
     {
       "id": "5x13-020",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Chica Que Le [revista/cuenta de Instagram]",
       "parte": "",
       "tipo": "otro",
@@ -490,7 +490,7 @@
     },
     {
       "id": "5x13-021",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Chica Que Le [revista/cuenta de Instagram]",
       "parte": "",
       "tipo": "otro",
@@ -559,7 +559,7 @@
     },
     {
       "id": "5x13-024",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Mindhunter",
       "parte": "",
       "tipo": "serie",
@@ -582,7 +582,7 @@
     },
     {
       "id": "5x13-025",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Donald Trump y Groenlandia [anécdota]",
       "parte": "",
       "tipo": "otro",
@@ -713,7 +713,7 @@
     },
     {
       "id": "5x13-030",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "otro",
@@ -876,7 +876,7 @@
     },
     {
       "id": "5x13-037",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Chica Que Le [revista/cuenta de Instagram]",
       "parte": "",
       "tipo": "otro",
@@ -899,7 +899,7 @@
     },
     {
       "id": "5x13-038",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Chica Que Le [revista/cuenta de Instagram]",
       "parte": "",
       "tipo": "otro",
@@ -1023,7 +1023,7 @@
     },
     {
       "id": "5x13-043",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -1462,5 +1462,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2026-03-26_la-culpa-asesinar-imaginar-sobrevivir"
 }

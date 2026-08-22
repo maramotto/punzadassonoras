@@ -101,7 +101,7 @@
     },
     {
       "id": "3x13-005",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Jardín de Invierno",
       "parte": "",
       "tipo": "podcast",
@@ -218,7 +218,7 @@
     },
     {
       "id": "3x13-010",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "persona",
@@ -244,7 +244,7 @@
     {
       "id": "3x13-011",
       "autor": "Remedios Zafra",
-      "obra": "Ojos y Capital",
+      "obra": "Ojos y capital",
       "parte": "",
       "tipo": "libro",
       "subtipo": "",
@@ -339,7 +339,7 @@
     },
     {
       "id": "3x13-015",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "persona",
@@ -362,7 +362,7 @@
     },
     {
       "id": "3x13-016",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "persona",
@@ -409,7 +409,7 @@
     {
       "id": "3x13-018",
       "autor": "Remedios Zafra",
-      "obra": "Ojos y Capital",
+      "obra": "Ojos y capital",
       "parte": "",
       "tipo": "libro",
       "subtipo": "",
@@ -432,7 +432,7 @@
     {
       "id": "3x13-019",
       "autor": "Remedios Zafra",
-      "obra": "Ojos y Capital",
+      "obra": "Ojos y capital",
       "parte": "",
       "tipo": "libro",
       "subtipo": "",
@@ -551,7 +551,7 @@
     {
       "id": "3x13-024",
       "autor": "Remedios Zafra",
-      "obra": "Ojos y Capital",
+      "obra": "Ojos y capital",
       "parte": "",
       "tipo": "libro",
       "subtipo": "",
@@ -573,7 +573,7 @@
     },
     {
       "id": "3x13-025",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "persona",
@@ -596,7 +596,7 @@
     },
     {
       "id": "3x13-026",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "persona",
@@ -642,7 +642,7 @@
     },
     {
       "id": "3x13-028",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "persona",
@@ -713,7 +713,7 @@
     },
     {
       "id": "3x13-031",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "persona",
@@ -952,7 +952,7 @@
     },
     {
       "id": "3x13-041",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "persona",
@@ -1053,7 +1053,7 @@
     },
     {
       "id": "3x13-045",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": "3x13-046",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "otro",
@@ -1106,7 +1106,7 @@
     },
     {
       "id": "3x13-047",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "otro",
@@ -1130,7 +1130,7 @@
     {
       "id": "3x13-048",
       "autor": "Remedios Zafra",
-      "obra": "Ojos y Capital",
+      "obra": "Ojos y capital",
       "parte": "",
       "tipo": "libro",
       "subtipo": "",
@@ -1152,7 +1152,7 @@
     },
     {
       "id": "3x13-049",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "otro",
@@ -1176,7 +1176,7 @@
     {
       "id": "3x13-050",
       "autor": "Remedios Zafra",
-      "obra": "Ojos y Capital",
+      "obra": "Ojos y capital",
       "parte": "",
       "tipo": "libro",
       "subtipo": "",
@@ -1198,7 +1198,7 @@
     },
     {
       "id": "3x13-051",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "persona",
@@ -1247,7 +1247,7 @@
     {
       "id": "3x13-053",
       "autor": "Remedios Zafra",
-      "obra": "Ojos y Capital",
+      "obra": "Ojos y capital",
       "parte": "",
       "tipo": "libro",
       "subtipo": "",
@@ -1295,7 +1295,7 @@
     {
       "id": "3x13-055",
       "autor": "Remedios Zafra",
-      "obra": "Ojos y Capital",
+      "obra": "Ojos y capital",
       "parte": "",
       "tipo": "libro",
       "subtipo": "",
@@ -1318,7 +1318,7 @@
     {
       "id": "3x13-056",
       "autor": "Remedios Zafra",
-      "obra": "Ojos y Capital",
+      "obra": "Ojos y capital",
       "parte": "",
       "tipo": "libro",
       "subtipo": "",
@@ -1341,7 +1341,7 @@
     {
       "id": "3x13-057",
       "autor": "Remedios Zafra",
-      "obra": "Ojos y Capital",
+      "obra": "Ojos y capital",
       "parte": "",
       "tipo": "libro",
       "subtipo": "",
@@ -1386,5 +1386,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2024-02-29_mirados-y-mirantes-simulacros-de-intimidad"
 }

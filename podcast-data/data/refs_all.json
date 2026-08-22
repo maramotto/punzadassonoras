@@ -36,7 +36,8 @@
     "notas": "figuras «Habladuría», «Mutismo» y «Resonancia»"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2022-02-19_punzadas-sonoras-presentacion"
  },
  {
   "clave": "1x02",
@@ -97,7 +98,8 @@
     "tipo": "colaboradora"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2022-03-13_ausencia"
  },
  {
   "clave": "1x03",
@@ -169,7 +171,8 @@
     "tipo": "colaboradora"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2022-03-19_exuberancia"
  },
  {
   "clave": "1x04",
@@ -247,7 +250,8 @@
     "notas": "el «debate de la cocina»"
    }
   ],
-  "notas_episodio": "La bibliografía completa estaba en la carta «Desrealidad» de punzadas.substack.com, anterior a la ventana de 20 posts del feed actual."
+  "notas_episodio": "La bibliografía completa estaba en la carta «Desrealidad» de punzadas.substack.com, anterior a la ventana de 20 posts del feed actual.",
+  "id": "2022-04-09_desrealidad"
  },
  {
   "clave": "1x05",
@@ -305,7 +309,8 @@
     "tipo": "correspondencia"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2022-04-30_carta"
  },
  {
   "clave": "1x06",
@@ -371,7 +376,8 @@
     "tipo": "invitada"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2022-05-14_salida"
  },
  {
   "clave": "1x07",
@@ -439,7 +445,8 @@
     "tipo": "colaboradora"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2022-05-29_jardin-de-invierno"
  },
  {
   "clave": "1x08",
@@ -503,7 +510,8 @@
     "tipo": "correspondencia"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2022-06-18_carta-ii"
  },
  {
   "clave": "1x09",
@@ -562,7 +570,8 @@
     "notas": "los místicos españoles y la literatura japonesa de la sombra, sin títulos concretos en la descripción"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2022-06-25_noche"
  },
  {
   "clave": "1x10",
@@ -625,7 +634,8 @@
     "tipo": "autor mencionado"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2022-08-13_traduccion"
  },
  {
   "clave": "1x11",
@@ -679,7 +689,8 @@
     "notas": "citada como «Before Sunset»"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2022-08-21_declaracion"
  },
  {
   "clave": "1x12",
@@ -727,7 +738,8 @@
     "notas": "la diosa de la noche en la mitología antigua"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2022-08-28_noche-ii"
  },
  {
   "clave": "2x01",
@@ -776,7 +788,8 @@
     "tipo": "serie"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2022-09-24_recuerdo"
  },
  {
   "clave": "2x02",
@@ -840,7 +853,8 @@
     "tipo": "autor mencionado"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2022-10-22_dolor"
  },
  {
   "clave": "2x03",
@@ -897,7 +911,8 @@
     "tipo": "serie"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2022-10-29_dolor-ii"
  },
  {
   "clave": "2x04",
@@ -955,7 +970,8 @@
     "tipo": "autor mencionado"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2022-11-16_amistad"
  },
  {
   "clave": "2x05",
@@ -1034,7 +1050,8 @@
     "tipo": "autor mencionado"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2022-12-10_el-placer-del-texto"
  },
  {
   "clave": "2x06",
@@ -1084,7 +1101,8 @@
     "notas": "a partir del mito de Orfeo y Eurídice"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2022-12-19_mitologias"
  },
  {
   "clave": "2x07",
@@ -1150,7 +1168,8 @@
     "notas": "su matrimonio"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2022-12-31_fiesta"
  },
  {
   "clave": "2x08",
@@ -1190,7 +1209,8 @@
     "notas": "introducción a su obra: infancia en Yvetot, orígenes humildes, proyecto literario"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2023-01-18_especial-annie-ernaux-origenes"
  },
  {
   "clave": "2x09",
@@ -1262,7 +1282,8 @@
     "tipo": "colaboradora"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2023-01-21_exilio"
  },
  {
   "clave": "2x10",
@@ -1319,7 +1340,8 @@
     "tipo": "autor mencionado"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2023-01-25_especial-annie-ernaux-clase-social"
  },
  {
   "clave": "2x11",
@@ -1380,7 +1402,8 @@
     "tipo": "libro"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2023-02-02_especial-annie-ernaux-familia-y-aborto"
  },
  {
   "clave": "2x12",
@@ -1459,7 +1482,8 @@
     "notas": "productora ejecutiva del corto"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2023-02-04_encuentro"
  },
  {
   "clave": "2x13",
@@ -1526,7 +1550,8 @@
     "notas": "en inglés, comentado al final del episodio"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2023-02-11_especial-annie-ernaux-pasion-amorosa"
  },
  {
   "clave": "2x14",
@@ -1596,7 +1621,8 @@
     "notas": "texto citado sin título en la newsletter"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2023-02-19_escucha"
  },
  {
   "clave": "2x15",
@@ -1654,7 +1680,8 @@
     "notas": "1824"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2023-02-26_ruinas"
  },
  {
   "clave": "2x16",
@@ -1704,7 +1731,8 @@
     "tipo": "autor mencionado"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2023-03-18_especial-katherine-mansfield"
  },
  {
   "clave": "2x17",
@@ -1770,7 +1798,8 @@
     "tipo": "mito"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2023-04-01_especial-primavera"
  },
  {
   "clave": "2x18",
@@ -1821,7 +1850,8 @@
     "tipo": "película"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2023-04-05_especial-janet-frame"
  },
  {
   "clave": "2x19",
@@ -1888,7 +1918,8 @@
     "tipo": "colaboradora"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2023-04-16_ligar"
  },
  {
   "clave": "2x20",
@@ -1955,7 +1986,8 @@
     "tipo": "autor mencionado"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2023-04-26_sobre-la-lectura"
  },
  {
   "clave": "2x21",
@@ -2001,7 +2033,8 @@
     "tipo": "autor mencionado"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2023-06-03_abismarse"
  },
  {
   "clave": "2x22",
@@ -2093,7 +2126,8 @@
     "notas": "los juegos del lenguaje"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2023-06-17_juego"
  },
  {
   "clave": "2x23",
@@ -2169,7 +2203,8 @@
     "tipo": "película"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2023-07-01_hacer-dano"
  },
  {
   "clave": "2x24",
@@ -2247,7 +2282,8 @@
     "notas": "«El escritor en vacaciones»"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2023-07-14_verano"
  },
  {
   "clave": "sjB6jWugTi8",
@@ -2297,7 +2333,8 @@
     "tipo": "autor mencionado"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2023-09-14_anulacion-amar-el-amor"
  },
  {
   "clave": "LGX54Ywzt1s",
@@ -2347,7 +2384,8 @@
     "notas": "coordinación de intimidad en rodajes"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2023-09-28_sexo-grietas-y-silencios"
  },
  {
   "clave": "3x03",
@@ -2425,7 +2463,8 @@
     "tipo": "libro"
    }
   ],
-  "notas_episodio": "Codigo reconstruido: no esta en la playlist de YouTube. Posicion por fecha dentro de T3."
+  "notas_episodio": "Codigo reconstruido: no esta en la playlist de YouTube. Posicion por fecha dentro de T3.",
+  "id": "2023-10-19_islas-anomalias-fragmentarias"
  },
  {
   "clave": "h1mQzNoiClo",
@@ -2483,7 +2522,8 @@
     "tipo": "libro"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2023-10-26_rapto-itinerarios-de-una-caida"
  },
  {
   "clave": "9pPUDlv8CjQ",
@@ -2539,7 +2579,8 @@
     "tipo": "autor mencionado"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2023-11-09_imagen-pornografia-de-la-muerte"
  },
  {
   "clave": "BX__c-sJ-lw",
@@ -2568,7 +2609,8 @@
    "posibilidad"
   ],
   "refs": [],
-  "notas_episodio": "Sin bibliografía en la descripción de YouTube; las referencias deben salir de la transcripción."
+  "notas_episodio": "Sin bibliografía en la descripción de YouTube; las referencias deben salir de la transcripción.",
+  "id": "2023-11-23_contingencia-aquello-que-no-fue"
  },
  {
   "clave": "iMfTa2lIxos",
@@ -2599,7 +2641,8 @@
    "percepción"
   ],
   "refs": [],
-  "notas_episodio": "Sin bibliografía en la descripción de YouTube; las referencias deben salir de la transcripción."
+  "notas_episodio": "Sin bibliografía en la descripción de YouTube; las referencias deben salir de la transcripción.",
+  "id": "2023-12-07_luz-aprender-a-mirar"
  },
  {
   "clave": "ea1RYoOGb0Q",
@@ -2673,7 +2716,8 @@
     "notas": "la mujer desnuda del Pórtico, Santiago de Compostela"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2023-12-21_deseo-carencia-y-necesidad"
  },
  {
   "clave": "_X7YjXuNdV8",
@@ -2739,7 +2783,8 @@
     "tipo": "documental"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2024-01-11_narrarnos-sentido-y-memoria"
  },
  {
   "clave": "MkrD_OiHa8c",
@@ -2801,7 +2846,8 @@
     "tipo": "libro"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2024-01-18_el-nombre-custodia-del-existir"
  },
  {
   "clave": "dYPt6Q7SG2I",
@@ -2881,7 +2927,8 @@
     "tipo": "autor mencionado"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2024-02-01_angustia-el-dolor-de-un-final"
  },
  {
   "clave": "jo_BvB5r2jw",
@@ -2953,7 +3000,8 @@
     "tipo": "autor mencionado"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2024-02-15_la-fatiga-una-arquitectura-afectiva"
  },
  {
   "clave": "dc94h0kyHcw",
@@ -3009,7 +3057,8 @@
     "tipo": "libro"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2024-02-29_mirados-y-mirantes-simulacros-de-intimidad"
  },
  {
   "clave": "bIx6oy-eMow",
@@ -3087,7 +3136,8 @@
     "tipo": "autor mencionado"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2024-03-14_herencia-habitar-la-posteridad"
  },
  {
   "clave": "txjxqS1IsFs",
@@ -3156,7 +3206,8 @@
     "notas": "la figura de Medea, sin atribución explícita"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2024-03-28_las-madres-que-no"
  },
  {
   "clave": "n_dA6EK_aCc",
@@ -3223,7 +3274,8 @@
     "notas": "el arrepentimiento"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2024-04-11_mirar-atras-un-gesto-intimo"
  },
  {
   "clave": "3x17",
@@ -3291,7 +3343,8 @@
     "tipo": "cuento"
    }
   ],
-  "notas_episodio": "En vivo desde La Real Casa de Postas (La Noche de los Libros, Madrid). Codigo reconstruido por fecha."
+  "notas_episodio": "En vivo desde La Real Casa de Postas (La Noche de los Libros, Madrid). Codigo reconstruido por fecha.",
+  "id": "2024-04-25_el-ritmo-del-habitar-con-blanca-lacasa"
  },
  {
   "clave": "oyqKClovPkA",
@@ -3343,7 +3396,8 @@
     "tipo": "tema histórico"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2024-05-09_mirar-atras-un-gesto-compartido"
  },
  {
   "clave": "LT3LfDzSGkY",
@@ -3409,7 +3463,8 @@
     "tipo": "festival"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2024-05-23_tabu-limite-y-transgresion"
  },
  {
   "clave": "_q5d2V5Lryo",
@@ -3474,7 +3529,8 @@
     "tipo": "autor mencionado"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2024-06-06_orientaciones-coordenadas-vitales"
  },
  {
   "clave": "3x21",
@@ -3548,7 +3604,8 @@
     "tipo": "libro"
    }
   ],
-  "notas_episodio": "En vivo desde la Feria del Libro de Madrid 2024. Codigo reconstruido por fecha."
+  "notas_episodio": "En vivo desde la Feria del Libro de Madrid 2024. Codigo reconstruido por fecha.",
+  "id": "2024-06-20_matar-al-autor-el-destino-del-texto"
  },
  {
   "clave": "UGtTCzTJrPE",
@@ -3607,7 +3664,8 @@
     "tipo": "libro"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2024-07-04_inercia-desenredar-la-trama"
  },
  {
   "clave": "5a6P0wlWvlI",
@@ -3666,7 +3724,8 @@
     "notas": "figura «Dependencia»"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2024-09-12_dependencia-habitar-el-segundo-lugar"
  },
  {
   "clave": "NX8LJAmuzdo",
@@ -3724,7 +3783,8 @@
     "tipo": "libro"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2024-09-26_nunca-se-logra-hablar-de-lo-que-se-ama"
  },
  {
   "clave": "4x03",
@@ -3801,7 +3861,8 @@
     "tipo": "autor mencionado"
    }
   ],
-  "notas_episodio": "Codigo reconstruido por fecha dentro de T4."
+  "notas_episodio": "Codigo reconstruido por fecha dentro de T4.",
+  "id": "2024-10-10_azul-en-el-extremo-de-lo-visible"
  },
  {
   "clave": "-mGCMPtvT18",
@@ -3866,7 +3927,8 @@
     "tipo": "autor mencionado"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2024-10-24_empunar-el-arma-sufrir-la-herida"
  },
  {
   "clave": "XQLtYdOVF5w",
@@ -3935,7 +3997,8 @@
     "tipo": "serie"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2024-11-07_heredar-el-miedo-con-elena-lopez-riera"
  },
  {
   "clave": "0Gnor04fV9c",
@@ -3989,7 +4052,8 @@
     "tipo": "libro"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2024-11-21_soledad-soledumbre-solitud"
  },
  {
   "clave": "0168slt23N0",
@@ -4065,7 +4129,8 @@
     "notas": "textos perdidos"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2024-12-05_perdida-una-naturaleza-voraz"
  },
  {
   "clave": "4x08",
@@ -4139,7 +4204,8 @@
     "tipo": "autor mencionado"
    }
   ],
-  "notas_episodio": "Primer episodio en vivo desde la FIL de Guadalajara (Mexico). Codigo reconstruido por fecha."
+  "notas_episodio": "Primer episodio en vivo desde la FIL de Guadalajara (Mexico). Codigo reconstruido por fecha.",
+  "id": "2024-12-12_etica-y-literatura-cruce-de-caminos-con-pau-luque"
  },
  {
   "clave": "_luAsMfsUqw",
@@ -4218,7 +4284,8 @@
     "tipo": "artículo"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2024-12-19_la-filosofia-un-camino-de-ida-y-vuelta"
  },
  {
   "clave": "t-TU_V3ikLo",
@@ -4278,7 +4345,8 @@
     "tipo": "autor mencionado"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2025-01-09_el-amor-y-otras-veredas-con-marta-jimenez-serrano"
  },
  {
   "clave": "h2QufDipuTE",
@@ -4338,7 +4406,8 @@
     "tipo": "libro"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2025-01-23_comienzo-un-senuelo-temporal"
  },
  {
   "clave": "zC2tyDWz6wA",
@@ -4403,7 +4472,8 @@
     "tipo": "libro"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2025-02-06_el-afuera-cual-es-nuestro-lugar"
  },
  {
   "clave": "KGgKuI3jSko",
@@ -4491,7 +4561,8 @@
     "notas": "la figura de Penélope"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2025-02-20_estoy-enamorado-si-porque-espero"
  },
  {
   "clave": "97kgS4j0noA",
@@ -4569,7 +4640,8 @@
     "tipo": "artículo"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2025-03-06_vacio-una-desnudez-radical"
  },
  {
   "clave": "qJbP65I9ajo",
@@ -4648,7 +4720,8 @@
     "notas": "la voz como surco en el aire"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2025-03-20_a-vista-de-pajaro-reflexiones-aereas"
  },
  {
   "clave": "4x16",
@@ -4746,7 +4819,8 @@
     "notas": "en la descripción aparece como «Homosexualdiad», errata del original"
    }
   ],
-  "notas_episodio": "Codigo reconstruido por fecha dentro de T4."
+  "notas_episodio": "Codigo reconstruido por fecha dentro de T4.",
+  "id": "2025-04-03_lo-que-no-se-dice-cartografias-del-subtexto"
  },
  {
   "clave": "nDDJnWAO5wQ",
@@ -4829,7 +4903,8 @@
     "tipo": "autor mencionado"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2025-04-17_real-e-irreal-una-dicotomia-incierta"
  },
  {
   "clave": "Xju0pUZPw2o",
@@ -4892,7 +4967,8 @@
     "tipo": "artículo"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2025-04-30_amor-no-correspondido-por-que"
  },
  {
   "clave": "4x19",
@@ -5019,7 +5095,8 @@
     "tipo": "autor mencionado"
    }
   ],
-  "notas_episodio": "Codigo reconstruido por fecha dentro de T4."
+  "notas_episodio": "Codigo reconstruido por fecha dentro de T4.",
+  "id": "2025-05-15_ver-al-otro-narrativa-y-democracia"
  },
  {
   "clave": "amvcfXM1EIE",
@@ -5116,7 +5193,8 @@
     "notas": "el límite y las matemáticas"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2025-05-29_limite-lugar-de-enunciacion"
  },
  {
   "clave": "9mQCg43tOUQ",
@@ -5198,7 +5276,8 @@
     "tipo": "artículo"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2025-06-12_artesano-y-artista-desnaturalizar-la-distincion"
  },
  {
   "clave": "hGeVOenNSME",
@@ -5249,7 +5328,8 @@
     "notas": "planificación urbanística"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2025-06-26_contra-el-plan-propuestas-de-apertura"
  },
  {
   "clave": "dtl3Zz2_C6g",
@@ -5334,7 +5414,8 @@
     "tipo": "libro"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2025-07-10_el-delirio-amoroso"
  },
  {
   "clave": "St4_BbbTS9s",
@@ -5409,7 +5490,8 @@
     "tipo": "libro"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2025-07-24_una-despedida-eclectica-verano-invasion-huida"
  },
  {
   "clave": "Z6SN9atwDzA",
@@ -5480,7 +5562,8 @@
     "notas": "concepto de «culpa metafísica»"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2025-09-25_hacerse-cargo-mirarse-a-los-ojos"
  },
  {
   "clave": "7JYy7M4yKi4",
@@ -5535,7 +5618,8 @@
     "notas": "escritura discontinua y fragmentaria"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2025-10-09_en-defensa-de-lo-breve"
  },
  {
   "clave": "__0bHo70qnc",
@@ -5622,7 +5706,8 @@
     "tipo": "artículo"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2025-10-23_la-voyeur-un-baile-de-miradas"
  },
  {
   "clave": "nVhK174pbI4",
@@ -5697,7 +5782,8 @@
     "tipo": "artículo"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2025-11-06_la-familia-carcel-y-refugio"
  },
  {
   "clave": "7oYHE9VAHN4",
@@ -5778,7 +5864,8 @@
     "notas": "héroe trágico vs. caballero de la fe"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2025-11-20_sacrificio-ritual-ascesis-violencia"
  },
  {
   "clave": "y-lZ6RtA6Io",
@@ -5843,7 +5930,8 @@
     "notas": "la historia de Barbazul, mencionada sin atribución explícita"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2025-12-04_saberlo-todo-del-otro"
  },
  {
   "clave": "-j5hwq9wNG8",
@@ -5923,7 +6011,8 @@
     "editorial_mencionada": "Cabaret Voltaire"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2025-12-18_incidentes-barthes-y-la-homosexualidad"
  },
  {
   "clave": "VhXZFpNQDN0",
@@ -5986,7 +6075,8 @@
     "tipo": "libro"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2026-01-15_hacer-hablar-al-mundo-esquemas-y-categorias"
  },
  {
   "clave": "q0jNVn0zCbM",
@@ -6044,7 +6134,8 @@
     "tipo": "libro"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2026-01-29_compasion-me-duele-el-otro"
  },
  {
   "clave": "Or7_yGb_s7s",
@@ -6111,7 +6202,8 @@
     "notas": "libro en que se basa The Quiet Girl; verificar título"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2026-02-12_las-tonalidades-del-silencio"
  },
  {
   "clave": "H9lIqidlL6s",
@@ -6194,7 +6286,8 @@
     "tipo": "poema"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2026-02-26_pensar-el-silencio-un-gesto-filosofico"
  },
  {
   "clave": "oElVEjIUXvk",
@@ -6248,7 +6341,8 @@
     "tipo": "libro"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2026-03-12_quien-teme-morir-ya-esta-muerto-de-miedo"
  },
  {
   "clave": "5x13",
@@ -6320,7 +6414,8 @@
     "notas": "Universidad de Oxford"
    }
   ],
-  "notas_episodio": "Codigo reconstruido por fecha dentro de T5."
+  "notas_episodio": "Codigo reconstruido por fecha dentro de T5.",
+  "id": "2026-03-26_la-culpa-asesinar-imaginar-sobrevivir"
  },
  {
   "clave": "5x14",
@@ -6371,7 +6466,8 @@
     "tipo": "libro"
    }
   ],
-  "notas_episodio": "Codigo reconstruido por fecha dentro de T5."
+  "notas_episodio": "Codigo reconstruido por fecha dentro de T5.",
+  "id": "2026-04-09_patrimonio-formar-parte-darle-vida"
  },
  {
   "clave": "OAsgb1nKa2g",
@@ -6437,7 +6533,8 @@
     "tipo": "libro"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2026-04-23_decir-el-mar"
  },
  {
   "clave": "DLJkrd6rrg4",
@@ -6508,7 +6605,8 @@
     "tipo": "libro"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2026-05-07_que-sujeto-puede-permitirse-morir"
  },
  {
   "clave": "1qi0RrGOiT0",
@@ -6577,7 +6675,8 @@
     "tipo": "libro"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2026-05-21_pensar-el-museo"
  },
  {
   "clave": "5x18",
@@ -6653,7 +6752,8 @@
     "notas": "titulo tal como lo da la descripción; corresponde a «Un rey a la escucha»"
    }
   ],
-  "notas_episodio": "En vivo desde el Festival Fronteras (Valencia). Codigo reconstruido por fecha."
+  "notas_episodio": "En vivo desde el Festival Fronteras (Valencia). Codigo reconstruido por fecha.",
+  "id": "2026-06-11_el-grano-de-la-voz-musica-y-filosofia"
  },
  {
   "clave": "AR2CXddudq0",
@@ -6727,7 +6827,8 @@
     "tipo": "película"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2026-06-18_un-imaginario-rural-la-dimension-espacial-del-amor"
  },
  {
   "clave": "9zOs2kGDUtI",
@@ -6788,7 +6889,8 @@
     "tipo": "libro"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2026-07-02_el-valor-de-la-crueldad-etica-y-literatura"
  },
  {
   "clave": "KMPT0YIutUk",
@@ -6867,7 +6969,8 @@
     "tipo": "autor mencionado"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2026-07-16_dejar-de-amar-la-ruptura-amorosa"
  },
  {
   "clave": "Glosas 1x01",
@@ -6914,7 +7017,8 @@
     "notas": "propuso el texto; Escuela de Doctorado de la UOC"
    }
   ],
-  "notas_episodio": "La descripción lo identifica como «el primer episodio de Las Glosas». Colaboración con la UOC."
+  "notas_episodio": "La descripción lo identifica como «el primer episodio de Las Glosas». Colaboración con la UOC.",
+  "id": "2025-10-16_las-glosas-nefando-de-monica-ojeda"
  },
  {
   "clave": "Nf2J4mu54pQ",
@@ -6951,7 +7055,8 @@
     "tipo": "artículo"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2025-11-13_las-glosas-la-tragedia-de-los-comunes-garrett-hardin"
  },
  {
   "clave": "W1YV2qu3c1w",
@@ -6987,7 +7092,8 @@
     "tipo": "libro"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2025-12-11_las-glosas-el-futuro-de-la-nostalgia-svetlana-boym"
  },
  {
   "clave": "Glosas 1x04",
@@ -7032,7 +7138,8 @@
     "notas": "novela original de la que parte la película"
    }
   ],
-  "notas_episodio": "La descripción lo identifica como «el cuarto episodio de Las Glosas». Colaboración con Sideral."
+  "notas_episodio": "La descripción lo identifica como «el cuarto episodio de Las Glosas». Colaboración con Sideral.",
+  "id": "2026-01-08_las-glosas-la-cronologia-del-agua-de-kristen-stewart"
  },
  {
   "clave": "Glosas 1x05",
@@ -7069,7 +7176,8 @@
     "tipo": "cortometraje"
    }
   ],
-  "notas_episodio": "Primer episodio en vivo de Las Glosas. Colaboración con Avalon y La Sala Comedia by Domino's. Codigo asignado por posicion cronologica."
+  "notas_episodio": "Primer episodio en vivo de Las Glosas. Colaboración con Avalon y La Sala Comedia by Domino's. Codigo asignado por posicion cronologica.",
+  "id": "2026-02-19_las-glosas-el-cuento-de-una-noche-de-verano-de-maria-herrera"
  },
  {
   "clave": "W9A9VVPAyM0",
@@ -7107,7 +7215,8 @@
     "notas": "exposición del CCCB"
    }
   ],
-  "notas_episodio": "Renumerado a Glosas 1x06 por orden cronologico; el podcast lo titula «Glosas 1x05»."
+  "notas_episodio": "Renumerado a Glosas 1x06 por orden cronologico; el podcast lo titula «Glosas 1x05».",
+  "id": "2026-04-16_las-glosas-rodoreda-un-bosque-cccb"
  },
  {
   "clave": "SCDhnNrOWKg",
@@ -7155,7 +7264,8 @@
     "editorial_mencionada": "Continta me tienes"
    }
   ],
-  "notas_episodio": "Renumerado a Glosas 1x07 por orden cronologico; el podcast lo titula «Glosas 1x05»."
+  "notas_episodio": "Renumerado a Glosas 1x07 por orden cronologico; el podcast lo titula «Glosas 1x05».",
+  "id": "2026-04-30_las-glosas-sobre-la-salud-sexual"
  },
  {
   "clave": "Glosas 1x08",
@@ -7196,7 +7306,8 @@
     "editorial_mencionada": "Sexto Piso"
    }
   ],
-  "notas_episodio": "Colaboración con la editorial Sexto Piso. Codigo asignado por posicion cronologica."
+  "notas_episodio": "Colaboración con la editorial Sexto Piso. Codigo asignado por posicion cronologica.",
+  "id": "2026-05-14_las-glosas-del-miedo-y-los-extranjeros-george-makari"
  },
  {
   "clave": "Glosas 1x09",
@@ -7243,7 +7354,8 @@
     "notas": "coautor; propuso el texto desde la Escuela de Doctorado de la UOC"
    }
   ],
-  "notas_episodio": "Colaboración con la UOC. Codigo asignado por posicion cronologica."
+  "notas_episodio": "Colaboración con la UOC. Codigo asignado por posicion cronologica.",
+  "id": "2026-06-25_las-glosas-emplumes-la-produccion-social-de-la-pluma"
  },
  {
   "clave": "jbDEwPjlTd0",
@@ -7284,7 +7396,8 @@
     "notas": "la idea de «interlocutor»; obras concretas por confirmar en la transcripción"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2024-11-28_punziber-hay-alguien-ahi"
  },
  {
   "clave": "Q2_mu7AcC7s",
@@ -7371,7 +7484,8 @@
     "tipo": "libro"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2025-02-27_los-cuatro-elementos-agua"
  },
  {
   "clave": "nxoQyuP-wQw",
@@ -7448,7 +7562,8 @@
     "notas": "el aire como arché"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2025-03-13_los-cuatro-elementos-aire"
  },
  {
   "clave": "_4Ksi77thP4",
@@ -7514,7 +7629,8 @@
     "notas": "la tierra como arché"
    }
   ],
-  "notas_episodio": ""
+  "notas_episodio": "",
+  "id": "2025-04-10_los-cuatro-elementos-tierra"
  },
  {
   "clave": "QYuqsygSevU",
@@ -7544,6 +7660,79 @@
    "especial Anagrama"
   ],
   "refs": [],
-  "notas_episodio": "La descripción de YouTube no incluye bibliografía; las referencias deben salir de la transcripción."
+  "notas_episodio": "La descripción de YouTube no incluye bibliografía; las referencias deben salir de la transcripción.",
+  "id": "2025-04-24_los-cuatro-elementos-fuego"
+ },
+ {
+  "clave": "y5IJaBJBhFg",
+  "serie": "Punzadas Sonoras",
+  "temporada": 5,
+  "codigo": "5x22",
+  "titulo": "Admiración literaria: vivir con los textos",
+  "fecha": "2026-07-30",
+  "duracion_s": 4099,
+  "descripcion": "Paula e Inés cierran la temporada pensando acerca de la admiración literaria: ¿Con quiénes dialogamos cuando pensamos, escribimos, vivimos o leemos? ¿Qué han provocado en nosotras? ¿Qué lugar ocupan en lo que hacemos? Para profundizar en este tema traen el libro «De viva voz. Conferencias» de Carmen Martín Gaite y conceptos como la intertextualidad de Julia Kristeva. Después eligen algunos temas que van recorriendo a lo largo del episodio: en primer lugar, la relación entre Alain Robbe-Grillet y Barthes en el libro «Por qué me gusta Barthes». También hablan de los lectores o amantes de Proust: Annie Ernaux y Roland Barthes. Buscan semejanzas y diferencias y reflexionan sobre la forma en que se dan relaciones de identificación entre ellos, pese a que su escritura pueda ser completamente opuesta. Después hablan de las traducciones de Kafka a partir de «Diez versiones de Kafka» de Maïa Hruska, centrándose en la relación entre Kafka y Jorge Luis Borges. Finalmente comentan un texto de John Berger incluido al inicio de la «Trilogía: De sus fatigas» en la que se pregunta cuál es la relación del escritor con el lugar y la gente sobre los que escribe. ¿Quiénes son nuestros maestros? ¿En quiénes encontramos nuestro reflejo? ¿Cómo se da la imbricación entre voces que no tienen por qué decir lo mismo?",
+  "url_youtube": "https://www.youtube.com/watch?v=y5IJaBJBhFg",
+  "url_spotify": "https://open.spotify.com/show/444xAKuV4A4WUlSXqyl51P",
+  "url_audio": "https://traffic.megaphone.fm/PMSL2788958396.mp3",
+  "tiene_transcripcion": true,
+  "fuente_datos": "descripción de YouTube",
+  "orden": [
+   5,
+   22
+  ],
+  "tags": [
+   "Literatura y lectura"
+  ],
+  "tags_originales": [],
+  "refs": [
+   {
+    "autor": "Carmen Martín Gaite",
+    "obra": "De viva voz. Conferencias",
+    "tipo": "libro"
+   },
+   {
+    "autor": "Julia Kristeva",
+    "obra": "",
+    "tipo": "autor mencionado"
+   },
+   {
+    "autor": "Alain Robbe-Grillet",
+    "obra": "Por qué me gusta Barthes",
+    "tipo": "libro"
+   },
+   {
+    "autor": "Annie Ernaux",
+    "obra": "",
+    "tipo": "autor mencionado"
+   },
+   {
+    "autor": "Roland Barthes",
+    "obra": "",
+    "tipo": "autor mencionado"
+   },
+   {
+    "autor": "Maïa Hruska",
+    "obra": "Diez versiones de Kafka",
+    "tipo": "libro"
+   },
+   {
+    "autor": "Franz Kafka",
+    "obra": "",
+    "tipo": "autor mencionado"
+   },
+   {
+    "autor": "Jorge Luis Borges",
+    "obra": "",
+    "tipo": "autor mencionado"
+   },
+   {
+    "autor": "John Berger",
+    "obra": "Trilogía: De sus fatigas",
+    "tipo": "libro"
+   }
+  ],
+  "notas_episodio": "Fila añadida el 2026-08-19, tras completar la extracción de los 118 episodios: no existía en refs_all.json porque el episodio se dio de alta por el procedimiento A0 y su descripción quedó guardada en data/desc_nuevos.md sin fundirse nunca en este fichero. Descripción recuperada de ahí, tal cual. Tema asignado a mano (Literatura y lectura) por ser el único episodio del archivo sin tema, decisión de Mara.",
+  "id": "2026-07-30_admiracion-literaria-vivir-con-los-textos"
  }
 ]

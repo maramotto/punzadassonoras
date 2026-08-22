@@ -773,7 +773,7 @@
       "id": "4x23-033",
       "autor": "Roland Barthes",
       "obra": "Fragmentos de un discurso amoroso",
-      "parte": "¿Por qué?",
+      "parte": "Por qué",
       "tipo": "libro",
       "subtipo": "cita: un delirio, sin embargo, solo existe si despertamos de él; los delirios retrospectivos",
       "funcion": "eje del episodio",
@@ -1179,5 +1179,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2025-07-10_el-delirio-amoroso"
 }

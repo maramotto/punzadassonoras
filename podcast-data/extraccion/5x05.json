@@ -198,7 +198,7 @@
     },
     {
       "id": "5x05-009",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "La purga",
       "parte": "",
       "tipo": "película",
@@ -246,7 +246,7 @@
     },
     {
       "id": "5x05-011",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Hércules",
       "parte": "",
       "tipo": "película",
@@ -294,7 +294,7 @@
     },
     {
       "id": "5x05-013",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Génesis 22:3-13",
       "parte": "",
       "tipo": "otro",
@@ -317,7 +317,7 @@
     },
     {
       "id": "5x05-014",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Los juegos del hambre",
       "parte": "",
       "tipo": "libro",
@@ -482,7 +482,7 @@
     },
     {
       "id": "5x05-021",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Vinaya Pitaka",
       "parte": "",
       "tipo": "otro",
@@ -955,7 +955,7 @@
     },
     {
       "id": "5x05-041",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "More than 140 Kenya Facebook moderators diagnosed with severe PTSD",
       "parte": "",
       "tipo": "artículo",
@@ -980,7 +980,7 @@
     },
     {
       "id": "5x05-042",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "More than 140 Kenya Facebook moderators diagnosed with severe PTSD",
       "parte": "",
       "tipo": "artículo",
@@ -1104,7 +1104,7 @@
     },
     {
       "id": "5x05-047",
-      "autor": "Cristina Sánchez Andrade",
+      "autor": "Cristina Sánchez-Andrade",
       "obra": "Fábulas",
       "parte": "",
       "tipo": "libro",
@@ -1244,5 +1244,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2025-11-20_sacrificio-ritual-ascesis-violencia"
 }

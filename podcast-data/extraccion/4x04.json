@@ -9,7 +9,7 @@
   "menciones": [
     {
       "id": "4x04-001",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "libro",
@@ -78,7 +78,7 @@
     },
     {
       "id": "4x04-004",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "persona",
@@ -403,7 +403,7 @@
     },
     {
       "id": "4x04-018",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Chernobyl",
       "parte": "",
       "tipo": "serie",
@@ -1261,5 +1261,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2024-10-24_empunar-el-arma-sufrir-la-herida"
 }

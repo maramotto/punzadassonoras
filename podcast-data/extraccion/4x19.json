@@ -836,7 +836,7 @@
     },
     {
       "id": "4x19-036",
-      "autor": "Lola López Mondéjar",
+      "autor": "Lola López-Mondéjar",
       "obra": "Sin relato",
       "parte": "",
       "tipo": "libro",
@@ -980,7 +980,7 @@
     },
     {
       "id": "4x19-042",
-      "autor": "Lola López Mondéjar",
+      "autor": "Lola López-Mondéjar",
       "obra": "Sin relato",
       "parte": "",
       "tipo": "libro",
@@ -1265,5 +1265,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2025-05-15_ver-al-otro-narrativa-y-democracia"
 }

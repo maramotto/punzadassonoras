@@ -230,7 +230,7 @@
     },
     {
       "id": "5x10-010",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "reseña de El libro blanco en sustrato",
       "parte": "",
       "tipo": "artículo",
@@ -416,7 +416,7 @@
     },
     {
       "id": "5x10-018",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Tácita (mito)",
       "parte": "",
       "tipo": "otro",
@@ -439,7 +439,7 @@
     },
     {
       "id": "5x10-019",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Filomela (mito)",
       "parte": "",
       "tipo": "otro",
@@ -577,7 +577,7 @@
     },
     {
       "id": "5x10-025",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "La cronología del agua",
       "parte": "",
       "tipo": "libro",
@@ -600,7 +600,7 @@
     },
     {
       "id": "5x10-026",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Caer es como volar",
       "parte": "",
       "tipo": "libro",
@@ -653,7 +653,7 @@
     },
     {
       "id": "5x10-028",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "diosa Angerona (mito)",
       "parte": "",
       "tipo": "otro",
@@ -885,7 +885,7 @@
       "id": "5x10-038",
       "autor": "Roland Barthes",
       "obra": "Fragmentos de un discurso amoroso",
-      "parte": "Atopos",
+      "parte": "Átopos",
       "tipo": "libro",
       "subtipo": "",
       "funcion": "apoyo teórico",
@@ -908,7 +908,7 @@
       "id": "5x10-039",
       "autor": "Roland Barthes",
       "obra": "Fragmentos de un discurso amoroso",
-      "parte": "Atopos",
+      "parte": "Átopos",
       "tipo": "libro",
       "subtipo": "",
       "funcion": "apoyo teórico",
@@ -1161,7 +1161,7 @@
     },
     {
       "id": "5x10-050",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -1257,7 +1257,7 @@
     },
     {
       "id": "5x10-054",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Harry Potter y el prisionero de Azkaban",
       "parte": "",
       "tipo": "película",
@@ -1349,7 +1349,7 @@
     },
     {
       "id": "5x10-058",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Reliquia",
       "parte": "",
       "tipo": "libro",
@@ -1604,8 +1604,8 @@
     },
     {
       "id": "5x10-069",
-      "autor": "desconocido",
-      "obra": "4′33′′",
+      "autor": "sin determinar",
+      "obra": "4'33\"",
       "parte": "",
       "tipo": "música",
       "subtipo": "pieza musical",
@@ -1694,5 +1694,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2026-02-12_las-tonalidades-del-silencio"
 }

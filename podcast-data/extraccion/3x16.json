@@ -108,7 +108,7 @@
     },
     {
       "id": "3x16-005",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Génesis",
       "parte": "",
       "tipo": "otro",
@@ -156,7 +156,7 @@
     },
     {
       "id": "3x16-007",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "La montaña mágica",
       "parte": "",
       "tipo": "libro",
@@ -179,7 +179,7 @@
     },
     {
       "id": "3x16-008",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "La montaña mágica",
       "parte": "",
       "tipo": "libro",
@@ -255,7 +255,7 @@
     },
     {
       "id": "3x16-011",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Biblioteca mitológica",
       "parte": "",
       "tipo": "libro",
@@ -498,7 +498,7 @@
     },
     {
       "id": "3x16-021",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Pórtico de la Gloria",
       "parte": "",
       "tipo": "obra de arte",
@@ -523,7 +523,7 @@
     },
     {
       "id": "3x16-022",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Pórtico de la Gloria",
       "parte": "",
       "tipo": "obra de arte",
@@ -546,7 +546,7 @@
     },
     {
       "id": "3x16-023",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Pórtico de la Gloria",
       "parte": "",
       "tipo": "obra de arte",
@@ -755,7 +755,7 @@
     },
     {
       "id": "3x16-032",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Mujeres que follan",
       "parte": "",
       "tipo": "libro",
@@ -902,7 +902,7 @@
     },
     {
       "id": "3x16-038",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "La isla de las tentaciones",
       "parte": "",
       "tipo": "otro",
@@ -1198,7 +1198,7 @@
     },
     {
       "id": "3x16-055",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "otro",
@@ -1267,5 +1267,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2024-04-11_mirar-atras-un-gesto-intimo"
 }

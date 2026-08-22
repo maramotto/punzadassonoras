@@ -541,7 +541,7 @@
     },
     {
       "id": "3x19-023",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -564,7 +564,7 @@
     },
     {
       "id": "3x19-024",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -635,7 +635,7 @@
     },
     {
       "id": "3x19-027",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Succession",
       "parte": "",
       "tipo": "serie",
@@ -658,7 +658,7 @@
     },
     {
       "id": "3x19-028",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "The White Lotus",
       "parte": "",
       "tipo": "serie",
@@ -683,7 +683,7 @@
     },
     {
       "id": "3x19-029",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -729,7 +729,7 @@
     },
     {
       "id": "3x19-031",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -1060,7 +1060,7 @@
     },
     {
       "id": "3x19-045",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Jauría",
       "parte": "",
       "tipo": "obra de teatro",
@@ -1083,7 +1083,7 @@
     },
     {
       "id": "3x19-046",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Jauría",
       "parte": "",
       "tipo": "obra de teatro",
@@ -1462,7 +1462,7 @@
     },
     {
       "id": "3x19-062",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "La sociedad de la nieve",
       "parte": "",
       "tipo": "película",
@@ -1487,7 +1487,7 @@
     },
     {
       "id": "3x19-063",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "La sociedad de la nieve",
       "parte": "",
       "tipo": "película",
@@ -1701,7 +1701,7 @@
     },
     {
       "id": "3x19-072",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "La isla de las tentaciones",
       "parte": "",
       "tipo": "otro",
@@ -1887,7 +1887,7 @@
     },
     {
       "id": "3x19-080",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Festival Agroqueer",
       "parte": "",
       "tipo": "otro",
@@ -1912,7 +1912,7 @@
     },
     {
       "id": "3x19-081",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Queering the Boys",
       "parte": "",
       "tipo": "podcast",
@@ -1937,7 +1937,7 @@
     },
     {
       "id": "3x19-082",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Vera Queer",
       "parte": "",
       "tipo": "otro",
@@ -1962,7 +1962,7 @@
     },
     {
       "id": "3x19-083",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Cameros Queer",
       "parte": "",
       "tipo": "otro",
@@ -1994,7 +1994,7 @@
     },
     {
       "id": "3x19-084",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Cameros Queer",
       "parte": "",
       "tipo": "otro",
@@ -2086,5 +2086,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2024-05-23_tabu-limite-y-transgresion"
 }

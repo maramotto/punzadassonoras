@@ -323,7 +323,7 @@
     },
     {
       "id": "3x06-014",
-      "autor": "Jorge Diony López",
+      "autor": "Jorge Dioni López",
       "obra": "",
       "parte": "",
       "tipo": "persona",
@@ -922,7 +922,7 @@
     },
     {
       "id": "3x06-039",
-      "autor": "Anagrama",
+      "autor": "Sara Mesa",
       "obra": "Un amor",
       "parte": "cubierta",
       "tipo": "obra de arte",
@@ -1423,5 +1423,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2023-11-23_contingencia-aquello-que-no-fue"
 }

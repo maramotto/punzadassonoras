@@ -865,7 +865,7 @@
       "id": "4x13-036"
     },
     {
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -2166,7 +2166,7 @@
       "id": "4x13-091"
     },
     {
-      "autor": "Melissa Febos",
+      "autor": "C. J. Hauser",
       "obra": "La novia grulla",
       "parte": "",
       "tipo": "libro",
@@ -2282,5 +2282,6 @@
       "confianza": "alta",
       "id": "4x13-096"
     }
-  ]
+  ],
+  "id": "2025-02-20_estoy-enamorado-si-porque-espero"
 }

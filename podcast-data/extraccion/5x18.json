@@ -505,7 +505,7 @@
     },
     {
       "id": "5x18-022",
-      "autor": "Italo Calvino",
+      "autor": "Ítalo Calvino",
       "obra": "Un rey a la escucha",
       "parte": "",
       "tipo": "otro",
@@ -528,7 +528,7 @@
     },
     {
       "id": "5x18-023",
-      "autor": "Italo Calvino",
+      "autor": "Ítalo Calvino",
       "obra": "Bajo el sol jaguar",
       "parte": "",
       "tipo": "libro",
@@ -558,7 +558,7 @@
     },
     {
       "id": "5x18-024",
-      "autor": "Italo Calvino",
+      "autor": "Ítalo Calvino",
       "obra": "Un rey a la escucha",
       "parte": "",
       "tipo": "otro",
@@ -581,7 +581,7 @@
     },
     {
       "id": "5x18-025",
-      "autor": "Italo Calvino",
+      "autor": "Ítalo Calvino",
       "obra": "Un rey a la escucha",
       "parte": "",
       "tipo": "otro",
@@ -790,7 +790,7 @@
     },
     {
       "id": "5x18-034",
-      "autor": "Italo Calvino",
+      "autor": "Ítalo Calvino",
       "obra": "Un rey a la escucha",
       "parte": "",
       "tipo": "otro",
@@ -811,5 +811,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2026-06-11_el-grano-de-la-voz-musica-y-filosofia"
 }

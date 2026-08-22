@@ -55,7 +55,7 @@
     },
     {
       "id": "2x17-003",
-      "autor": "Leo Tolstoy",
+      "autor": "León Tolstói",
       "obra": "Anna Karenina",
       "parte": "",
       "tipo": "libro",
@@ -773,5 +773,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2023-04-01_especial-primavera"
 }

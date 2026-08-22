@@ -9,7 +9,7 @@
   "menciones": [
     {
       "id": "5x08-001",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "otro",
@@ -33,7 +33,7 @@
     {
       "id": "5x08-002",
       "autor": "Sor Juana Inés de la Cruz",
-      "obra": "Primero Sueño",
+      "obra": "Primero sueño",
       "parte": "",
       "tipo": "poema",
       "subtipo": "",
@@ -56,7 +56,7 @@
     {
       "id": "5x08-003",
       "autor": "Sor Juana Inés de la Cruz",
-      "obra": "Primero Sueño",
+      "obra": "Primero sueño",
       "parte": "",
       "tipo": "poema",
       "subtipo": "",
@@ -229,7 +229,7 @@
     },
     {
       "id": "5x08-010",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "persona",
@@ -738,7 +738,7 @@
     },
     {
       "id": "5x08-031",
-      "autor": "Italo Calvino",
+      "autor": "Ítalo Calvino",
       "obra": "La memoria del mundo",
       "parte": "",
       "tipo": "otro",
@@ -768,7 +768,7 @@
     },
     {
       "id": "5x08-032",
-      "autor": "Italo Calvino",
+      "autor": "Ítalo Calvino",
       "obra": "La memoria del mundo",
       "parte": "",
       "tipo": "otro",
@@ -793,7 +793,7 @@
     },
     {
       "id": "5x08-033",
-      "autor": "Italo Calvino",
+      "autor": "Ítalo Calvino",
       "obra": "La memoria del mundo",
       "parte": "",
       "tipo": "otro",
@@ -816,7 +816,7 @@
     },
     {
       "id": "5x08-034",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "British Museum en una castaña",
       "parte": "",
       "tipo": "otro",
@@ -864,7 +864,7 @@
     },
     {
       "id": "5x08-036",
-      "autor": "Italo Calvino",
+      "autor": "Ítalo Calvino",
       "obra": "Punto y aparte",
       "parte": "",
       "tipo": "libro",
@@ -894,7 +894,7 @@
     },
     {
       "id": "5x08-037",
-      "autor": "Italo Calvino",
+      "autor": "Ítalo Calvino",
       "obra": "Punto y aparte",
       "parte": "",
       "tipo": "libro",
@@ -917,7 +917,7 @@
     },
     {
       "id": "5x08-038",
-      "autor": "Italo Calvino",
+      "autor": "Ítalo Calvino",
       "obra": "Punto y aparte",
       "parte": "",
       "tipo": "libro",
@@ -940,7 +940,7 @@
     },
     {
       "id": "5x08-039",
-      "autor": "Italo Calvino",
+      "autor": "Ítalo Calvino",
       "obra": "Punto y aparte",
       "parte": "",
       "tipo": "libro",
@@ -963,7 +963,7 @@
     },
     {
       "id": "5x08-040",
-      "autor": "Italo Calvino",
+      "autor": "Ítalo Calvino",
       "obra": "Punto y aparte",
       "parte": "",
       "tipo": "libro",
@@ -986,7 +986,7 @@
     },
     {
       "id": "5x08-041",
-      "autor": "Italo Calvino",
+      "autor": "Ítalo Calvino",
       "obra": "Punto y aparte",
       "parte": "",
       "tipo": "libro",
@@ -1009,7 +1009,7 @@
     },
     {
       "id": "5x08-042",
-      "autor": "Italo Calvino",
+      "autor": "Ítalo Calvino",
       "obra": "Seis propuestas para el próximo milenio",
       "parte": "",
       "tipo": "libro",
@@ -1032,7 +1032,7 @@
     },
     {
       "id": "5x08-043",
-      "autor": "Italo Calvino",
+      "autor": "Ítalo Calvino",
       "obra": "Seis propuestas para el próximo milenio",
       "parte": "",
       "tipo": "libro",
@@ -1273,5 +1273,6 @@
       "datos_nuevos": [],
       "confianza": "media"
     }
-  ]
+  ],
+  "id": "2026-01-15_hacer-hablar-al-mundo-esquemas-y-categorias"
 }

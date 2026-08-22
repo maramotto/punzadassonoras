@@ -10,7 +10,7 @@
     {
       "id": "5x19-001",
       "autor": "Jonás Trueba",
-      "obra": "La Virgen de Agosto",
+      "obra": "La virgen de agosto",
       "parte": "",
       "tipo": "película",
       "subtipo": "",
@@ -337,7 +337,7 @@
     },
     {
       "id": "5x19-015",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Los puentes de Madison",
       "parte": "",
       "tipo": "película",
@@ -499,7 +499,7 @@
     {
       "id": "5x19-022",
       "autor": "Abel P. Pazos y María J. Miranda Suárez",
-      "obra": "Tecnologías de representación de las ruralidades queer en el cine: un conflicto hermenéutico",
+      "obra": "Tecnologías de representación de las ruralidades queer en el cine. Un conflicto hermenéutico",
       "parte": "",
       "tipo": "artículo",
       "subtipo": "",
@@ -522,7 +522,7 @@
     {
       "id": "5x19-023",
       "autor": "Abel P. Pazos y María J. Miranda Suárez",
-      "obra": "Tecnologías de representación de las ruralidades queer en el cine: un conflicto hermenéutico",
+      "obra": "Tecnologías de representación de las ruralidades queer en el cine. Un conflicto hermenéutico",
       "parte": "",
       "tipo": "artículo",
       "subtipo": "",
@@ -545,7 +545,7 @@
     {
       "id": "5x19-024",
       "autor": "Abel P. Pazos y María J. Miranda Suárez",
-      "obra": "Tecnologías de representación de las ruralidades queer en el cine: un conflicto hermenéutico",
+      "obra": "Tecnologías de representación de las ruralidades queer en el cine. Un conflicto hermenéutico",
       "parte": "urbanonormatividad y metronormatividad",
       "tipo": "artículo",
       "subtipo": "",
@@ -864,5 +864,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2026-06-18_un-imaginario-rural-la-dimension-espacial-del-amor"
 }

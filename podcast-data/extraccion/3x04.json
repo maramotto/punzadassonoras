@@ -155,7 +155,7 @@
     },
     {
       "id": "3x04-007",
-      "autor": "anónimo",
+      "autor": "Anónimo",
       "obra": "Génesis",
       "parte": "capítulos 1 a 3",
       "tipo": "libro",
@@ -701,7 +701,7 @@
     },
     {
       "id": "3x04-029",
-      "autor": "anónimo",
+      "autor": "Anónimo",
       "obra": "Orfeo y Eurídice",
       "parte": "",
       "tipo": "concepto",
@@ -1293,7 +1293,7 @@
     },
     {
       "id": "3x04-052",
-      "autor": "Italo Calvino",
+      "autor": "Ítalo Calvino",
       "obra": "Seis propuestas para el próximo milenio",
       "parte": "",
       "tipo": "libro",
@@ -1324,7 +1324,7 @@
     },
     {
       "id": "3x04-053",
-      "autor": "Italo Calvino",
+      "autor": "Ítalo Calvino",
       "obra": "El barón rampante",
       "parte": "",
       "tipo": "libro",
@@ -1350,7 +1350,7 @@
     },
     {
       "id": "3x04-054",
-      "autor": "anónimo",
+      "autor": "Anónimo",
       "obra": "Perseo y Medusa",
       "parte": "",
       "tipo": "concepto",
@@ -1376,7 +1376,7 @@
     },
     {
       "id": "3x04-055",
-      "autor": "Italo Calvino",
+      "autor": "Ítalo Calvino",
       "obra": "Seis propuestas para el próximo milenio",
       "parte": "",
       "tipo": "libro",
@@ -1452,7 +1452,7 @@
     },
     {
       "id": "3x04-058",
-      "autor": "Italo Calvino",
+      "autor": "Ítalo Calvino",
       "obra": "Seis propuestas para el próximo milenio",
       "parte": "Exactitud",
       "tipo": "libro",
@@ -1476,7 +1476,7 @@
     },
     {
       "id": "3x04-059",
-      "autor": "Italo Calvino",
+      "autor": "Ítalo Calvino",
       "obra": "Tiempo cero",
       "parte": "",
       "tipo": "libro",
@@ -1703,5 +1703,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2023-10-26_rapto-itinerarios-de-una-caida"
 }

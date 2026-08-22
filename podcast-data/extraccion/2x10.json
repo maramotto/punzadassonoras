@@ -501,7 +501,7 @@
     },
     {
       "id": "2x10-022",
-      "autor": "Annie Ernaux",
+      "autor": "Pierre Bourdieu",
       "obra": "La distinción",
       "parte": "",
       "tipo": "libro",
@@ -1123,5 +1123,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2023-01-25_especial-annie-ernaux-clase-social"
 }

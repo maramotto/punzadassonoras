@@ -595,7 +595,7 @@
     },
     {
       "id": "3x12-025",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Poor Things",
       "parte": "",
       "tipo": "película",
@@ -767,7 +767,7 @@
     },
     {
       "id": "3x12-032",
-      "autor": "Cristina Sánchez Andrade",
+      "autor": "Cristina Sánchez-Andrade",
       "obra": "Fámulas",
       "parte": "",
       "tipo": "libro",
@@ -813,7 +813,7 @@
     },
     {
       "id": "3x12-034",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "libro",
@@ -843,7 +843,7 @@
     },
     {
       "id": "3x12-035",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "La novia grulla",
       "parte": "",
       "tipo": "libro",
@@ -1219,7 +1219,7 @@
     },
     {
       "id": "3x12-051",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -1382,5 +1382,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2024-02-15_la-fatiga-una-arquitectura-afectiva"
 }

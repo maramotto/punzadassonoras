@@ -108,7 +108,7 @@
     },
     {
       "id": "5x20-005",
-      "autor": "Estela Sánchez",
+      "autor": "Estela Sanchis",
       "obra": "",
       "parte": "",
       "tipo": "persona",
@@ -785,7 +785,7 @@
     },
     {
       "id": "5x20-033",
-      "autor": "HBO",
+      "autor": "Gillian Flynn",
       "obra": "Sharp Objects",
       "parte": "",
       "tipo": "serie",
@@ -877,5 +877,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2026-07-02_el-valor-de-la-crueldad-etica-y-literatura"
 }

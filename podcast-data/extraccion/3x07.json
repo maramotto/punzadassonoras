@@ -844,7 +844,7 @@
     },
     {
       "id": "3x07-037",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Después de Safo",
       "parte": "",
       "tipo": "libro",
@@ -1245,5 +1245,6 @@
       "datos_nuevos": [],
       "confianza": "media"
     }
-  ]
+  ],
+  "id": "2023-12-07_luz-aprender-a-mirar"
 }

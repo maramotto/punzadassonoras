@@ -695,8 +695,8 @@
     },
     {
       "id": "4x11-030",
-      "autor": "Liev Tolstói",
-      "obra": "Anna Karénina",
+      "autor": "León Tolstói",
+      "obra": "Anna Karenina",
       "parte": "",
       "tipo": "libro",
       "subtipo": "",
@@ -934,7 +934,7 @@
     },
     {
       "id": "4x11-040",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Casting Lear",
       "parte": "",
       "tipo": "obra de teatro",
@@ -1531,5 +1531,6 @@
       ],
       "confianza": "media"
     }
-  ]
+  ],
+  "id": "2025-01-23_comienzo-un-senuelo-temporal"
 }

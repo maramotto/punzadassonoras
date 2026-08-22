@@ -682,7 +682,7 @@
     },
     {
       "id": "4x08-029",
-      "autor": "Martha Nussbaum",
+      "autor": "Pau Luque",
       "obra": "Las cosas como son y otras fantasías",
       "parte": "",
       "tipo": "libro",
@@ -755,7 +755,7 @@
     },
     {
       "id": "4x08-032",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -993,7 +993,7 @@
     },
     {
       "id": "4x08-042",
-      "autor": "Cristina Sánchez Andrade",
+      "autor": "Cristina Sánchez-Andrade",
       "obra": "",
       "parte": "",
       "tipo": "persona",
@@ -1039,7 +1039,7 @@
     },
     {
       "id": "4x08-044",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -1296,5 +1296,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2024-12-12_etica-y-literatura-cruce-de-caminos-con-pau-luque"
 }

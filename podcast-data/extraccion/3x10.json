@@ -78,7 +78,7 @@
     },
     {
       "id": "3x10-004",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Anakotoba. El lenguaje de las flores: pequeño diccionario japonés para las cosas sin nombre",
       "parte": "",
       "tipo": "libro",
@@ -108,7 +108,7 @@
     },
     {
       "id": "3x10-005",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Anakotoba. El lenguaje de las flores: pequeño diccionario japonés para las cosas sin nombre",
       "parte": "",
       "tipo": "libro",
@@ -131,7 +131,7 @@
     },
     {
       "id": "3x10-006",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Anakotoba. El lenguaje de las flores: pequeño diccionario japonés para las cosas sin nombre",
       "parte": "",
       "tipo": "libro",
@@ -154,7 +154,7 @@
     },
     {
       "id": "3x10-007",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Anakotoba. El lenguaje de las flores: pequeño diccionario japonés para las cosas sin nombre",
       "parte": "",
       "tipo": "libro",
@@ -935,5 +935,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2024-01-18_el-nombre-custodia-del-existir"
 }

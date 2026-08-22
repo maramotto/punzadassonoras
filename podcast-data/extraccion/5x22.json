@@ -55,7 +55,7 @@
     },
     {
       "id": "5x22-003",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Piel quemada",
       "parte": "",
       "tipo": "película",
@@ -78,7 +78,7 @@
     },
     {
       "id": "5x22-004",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Surcos",
       "parte": "",
       "tipo": "película",
@@ -101,7 +101,7 @@
     },
     {
       "id": "5x22-005",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Los santos inocentes",
       "parte": "",
       "tipo": "película",
@@ -172,7 +172,7 @@
     },
     {
       "id": "5x22-008",
-      "autor": "Italo Calvino",
+      "autor": "Ítalo Calvino",
       "obra": "",
       "parte": "",
       "tipo": "persona",
@@ -737,7 +737,7 @@
     },
     {
       "id": "5x22-031",
-      "autor": "Italo Calvino",
+      "autor": "Ítalo Calvino",
       "obra": "",
       "parte": "",
       "tipo": "persona",
@@ -1390,7 +1390,7 @@
     },
     {
       "id": "5x22-058",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Las mil y una noches",
       "parte": "",
       "tipo": "libro",
@@ -1560,7 +1560,7 @@
     },
     {
       "id": "5x22-065",
-      "autor": "Estela Sánchez",
+      "autor": "Estela Sanchis",
       "obra": "Hasta aquí todo va bien",
       "parte": "",
       "tipo": "libro",
@@ -1744,5 +1744,6 @@
       "datos_nuevos": [],
       "confianza": "media"
     }
-  ]
+  ],
+  "id": "2026-07-30_admiracion-literaria-vivir-con-los-textos"
 }

@@ -495,7 +495,7 @@
     {
       "id": "5x16-021",
       "autor": "Svetlana Alexiévich",
-      "obra": "Homo Sovieticus",
+      "obra": "Homo sovieticus",
       "parte": "",
       "tipo": "libro",
       "subtipo": "",
@@ -1280,7 +1280,7 @@
     },
     {
       "id": "5x16-054",
-      "autor": "Autor sin determinar",
+      "autor": "sin determinar",
       "obra": "Barro más dulce que la miel",
       "parte": "",
       "tipo": "libro",
@@ -1303,7 +1303,7 @@
     },
     {
       "id": "5x16-055",
-      "autor": "Autor sin determinar",
+      "autor": "sin determinar",
       "obra": "El amor ha sido mi única culpa",
       "parte": "",
       "tipo": "libro",
@@ -1564,5 +1564,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2026-05-07_que-sujeto-puede-permitirse-morir"
 }

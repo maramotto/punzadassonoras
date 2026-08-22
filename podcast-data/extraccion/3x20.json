@@ -9,7 +9,7 @@
   "menciones": [
     {
       "id": "3x20-001",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Conducción Temeraria",
       "parte": "",
       "tipo": "música",
@@ -578,7 +578,7 @@
     },
     {
       "id": "3x20-025",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "otro",
@@ -941,7 +941,7 @@
     },
     {
       "id": "3x20-040",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "podcast",
@@ -1534,5 +1534,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2024-06-06_orientaciones-coordenadas-vitales"
 }

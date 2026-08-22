@@ -195,7 +195,7 @@
     },
     {
       "id": "1x11-009",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Los hombres del GEO",
       "parte": "",
       "tipo": "serie",
@@ -287,7 +287,7 @@
     },
     {
       "id": "1x11-013",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "El buen sexo en tiempos difíciles",
       "parte": "",
       "tipo": "libro",
@@ -971,7 +971,7 @@
     {
       "id": "1x11-042",
       "autor": "Luca Guadagnino",
-      "obra": "Call Me By Your Name",
+      "obra": "Call Me by Your Name",
       "parte": "",
       "tipo": "película",
       "subtipo": "",
@@ -994,7 +994,7 @@
     {
       "id": "1x11-043",
       "autor": "Luca Guadagnino",
-      "obra": "Call Me By Your Name",
+      "obra": "Call Me by Your Name",
       "parte": "",
       "tipo": "película",
       "subtipo": "",
@@ -1017,7 +1017,7 @@
     {
       "id": "1x11-044",
       "autor": "Luca Guadagnino",
-      "obra": "Call Me By Your Name",
+      "obra": "Call Me by Your Name",
       "parte": "",
       "tipo": "película",
       "subtipo": "",
@@ -1469,7 +1469,7 @@
     },
     {
       "id": "1x11-063",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Cómo declararte: 9 pasos",
       "parte": "",
       "tipo": "artículo",
@@ -1492,7 +1492,7 @@
     },
     {
       "id": "1x11-064",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "101 formas de expresar amor",
       "parte": "",
       "tipo": "artículo",
@@ -1515,7 +1515,7 @@
     },
     {
       "id": "1x11-065",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "101 formas de expresar amor",
       "parte": "",
       "tipo": "artículo",
@@ -1538,7 +1538,7 @@
     },
     {
       "id": "1x11-066",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "101 formas de expresar amor",
       "parte": "",
       "tipo": "artículo",
@@ -1561,7 +1561,7 @@
     },
     {
       "id": "1x11-067",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "101 formas de expresar amor",
       "parte": "",
       "tipo": "artículo",
@@ -1674,5 +1674,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2022-08-21_declaracion"
 }

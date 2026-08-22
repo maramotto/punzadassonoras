@@ -426,7 +426,7 @@
     },
     {
       "id": "5x09-019",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "mito de Medea",
       "parte": "",
       "tipo": "otro",
@@ -594,7 +594,7 @@
     },
     {
       "id": "5x09-026",
-      "autor": "Ana Carrasco Conde",
+      "autor": "Ana Carrasco-Conde",
       "obra": "",
       "parte": "",
       "tipo": "persona",
@@ -1033,7 +1033,7 @@
     },
     {
       "id": "5x09-045",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Mindhunter",
       "parte": "",
       "tipo": "serie",
@@ -1364,7 +1364,7 @@
     },
     {
       "id": "5x09-059",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Pequeñas cosas como estas",
       "parte": "",
       "tipo": "película",
@@ -1472,7 +1472,7 @@
     },
     {
       "id": "5x09-063",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Pequeñas cosas como estas",
       "parte": "",
       "tipo": "película",
@@ -1495,7 +1495,7 @@
     },
     {
       "id": "5x09-064",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Pequeñas cosas como estas",
       "parte": "",
       "tipo": "película",
@@ -1518,7 +1518,7 @@
     },
     {
       "id": "5x09-065",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Pequeñas cosas como estas",
       "parte": "",
       "tipo": "película",
@@ -1543,7 +1543,7 @@
     },
     {
       "id": "5x09-066",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "lavanderías de la Magdalena",
       "parte": "",
       "tipo": "otro",
@@ -1662,5 +1662,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2026-01-29_compasion-me-duele-el-otro"
 }

@@ -230,7 +230,7 @@
     {
       "id": "2x11-010",
       "autor": "Pierre Bourdieu",
-      "obra": "Los Herederos",
+      "obra": "Los herederos",
       "parte": "",
       "tipo": "libro",
       "subtipo": "",
@@ -255,7 +255,7 @@
     {
       "id": "2x11-011",
       "autor": "Jean-Claude Passeron",
-      "obra": "Los Herederos",
+      "obra": "Los herederos",
       "parte": "",
       "tipo": "libro",
       "subtipo": "",
@@ -1546,5 +1546,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2023-02-02_especial-annie-ernaux-familia-y-aborto"
 }

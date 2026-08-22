@@ -262,3 +262,14 @@ podcast-data/transcribir/.venv/
 # Pesan 28 KB y no se pueden reconstruir.
 !podcast-data/transcribir/progreso.log
 !podcast-data/transcribir/transcribir_invitados.log
+
+# web/ — proyecto Astro. Regenerable con `npm install` + npm run build
+# (que a su vez corre podcast-data/scripts/14_build_web_data.py primero).
+web/node_modules/
+web/dist/
+web/.astro/
+
+# Datos generados por 14_build_web_data.py: regenerables en segundos desde
+# podcast-data/extraccion/*.json, igual que refs_desc.json o el .xlsx. No es
+# el activo irrepetible (eso es podcast-data/), asi que no va al repo.
+web/public/data/

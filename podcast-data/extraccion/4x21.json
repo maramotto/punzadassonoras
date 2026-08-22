@@ -583,7 +583,7 @@
     },
     {
       "id": "4x21-025",
-      "autor": "Katherine Angel",
+      "autor": "Eudald Espluga",
       "obra": "No seas tú mismo",
       "parte": "",
       "tipo": "libro",
@@ -675,7 +675,7 @@
     },
     {
       "id": "4x21-029",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -698,7 +698,7 @@
     },
     {
       "id": "4x21-030",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -813,7 +813,7 @@
     },
     {
       "id": "4x21-035",
-      "autor": "Viviana Collado",
+      "autor": "Bibiana Collado",
       "obra": "Yeguas exhaustas",
       "parte": "",
       "tipo": "libro",
@@ -1072,5 +1072,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2025-06-12_artesano-y-artista-desnaturalizar-la-distincion"
 }

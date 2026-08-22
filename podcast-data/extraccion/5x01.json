@@ -55,7 +55,7 @@
     },
     {
       "id": "5x01-003",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Hacer o no hacer. La responsabilidad por acciones y omisiones",
       "parte": "",
       "tipo": "libro",
@@ -239,7 +239,7 @@
     },
     {
       "id": "5x01-011",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "artículo",
@@ -602,7 +602,7 @@
     },
     {
       "id": "5x01-026",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "La zona de interés",
       "parte": "",
       "tipo": "película",
@@ -868,7 +868,7 @@
     },
     {
       "id": "5x01-037",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "otro",
@@ -1152,7 +1152,7 @@
     },
     {
       "id": "5x01-050",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "No es el fin del mundo",
       "parte": "",
       "tipo": "podcast",
@@ -1480,7 +1480,7 @@
     },
     {
       "id": "5x01-064",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -1834,5 +1834,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2025-09-25_hacerse-cargo-mirarse-a-los-ojos"
 }

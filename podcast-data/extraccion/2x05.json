@@ -488,7 +488,7 @@
     {
       "id": "2x05-020",
       "autor": "Paula Fox",
-      "obra": "Personajes Desesperados",
+      "obra": "Personajes desesperados",
       "parte": "",
       "tipo": "libro",
       "subtipo": "",
@@ -586,7 +586,7 @@
     {
       "id": "2x05-024",
       "autor": "Pau Luque y Natalia Carrillo",
-      "obra": "Hipocondría Moral",
+      "obra": "Hipocondría moral",
       "parte": "",
       "tipo": "libro",
       "subtipo": "ensayo",
@@ -1044,7 +1044,7 @@
     },
     {
       "id": "2x05-042",
-      "autor": "Pau Luque y Elisenda Julibert",
+      "autor": "Vladimir Nabokov",
       "obra": "Lolita",
       "parte": "",
       "tipo": "libro",
@@ -1318,7 +1318,7 @@
     },
     {
       "id": "2x05-053",
-      "autor": "Italo Calvino",
+      "autor": "Ítalo Calvino",
       "obra": "Las ciudades invisibles",
       "parte": "",
       "tipo": "libro",
@@ -1594,5 +1594,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2022-12-10_el-placer-del-texto"
 }

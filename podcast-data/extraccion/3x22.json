@@ -9,7 +9,7 @@
   "menciones": [
     {
       "id": "3x22-001",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -34,7 +34,7 @@
     },
     {
       "id": "3x22-002",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -202,7 +202,7 @@
     },
     {
       "id": "3x22-009",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Anatomía de una caída",
       "parte": "",
       "tipo": "película",
@@ -344,7 +344,7 @@
     },
     {
       "id": "3x22-015",
-      "autor": "CJ Hauser",
+      "autor": "C. J. Hauser",
       "obra": "La abeja de mil kilos",
       "parte": "",
       "tipo": "artículo",
@@ -649,7 +649,7 @@
     },
     {
       "id": "3x22-028",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Piratas del Caribe",
       "parte": "",
       "tipo": "película",
@@ -745,7 +745,7 @@
     },
     {
       "id": "3x22-032",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "La quimera",
       "parte": "",
       "tipo": "película",
@@ -768,7 +768,7 @@
     },
     {
       "id": "3x22-033",
-      "autor": "CJ Hauser",
+      "autor": "C. J. Hauser",
       "obra": "La novia grulla",
       "parte": "",
       "tipo": "libro",
@@ -804,7 +804,7 @@
     },
     {
       "id": "3x22-034",
-      "autor": "CJ Hauser",
+      "autor": "C. J. Hauser",
       "obra": "La novia grulla",
       "parte": "",
       "tipo": "libro",
@@ -827,7 +827,7 @@
     },
     {
       "id": "3x22-035",
-      "autor": "CJ Hauser",
+      "autor": "C. J. Hauser",
       "obra": "La abeja de mil kilos",
       "parte": "",
       "tipo": "artículo",
@@ -852,7 +852,7 @@
     },
     {
       "id": "3x22-036",
-      "autor": "CJ Hauser",
+      "autor": "C. J. Hauser",
       "obra": "La abeja de mil kilos",
       "parte": "",
       "tipo": "artículo",
@@ -875,7 +875,7 @@
     },
     {
       "id": "3x22-037",
-      "autor": "CJ Hauser",
+      "autor": "C. J. Hauser",
       "obra": "La novia grulla",
       "parte": "",
       "tipo": "libro",
@@ -898,7 +898,7 @@
     },
     {
       "id": "3x22-038",
-      "autor": "CJ Hauser",
+      "autor": "C. J. Hauser",
       "obra": "La novia grulla",
       "parte": "",
       "tipo": "libro",
@@ -923,7 +923,7 @@
     },
     {
       "id": "3x22-039",
-      "autor": "CJ Hauser",
+      "autor": "C. J. Hauser",
       "obra": "La novia grulla",
       "parte": "",
       "tipo": "libro",
@@ -946,7 +946,7 @@
     },
     {
       "id": "3x22-040",
-      "autor": "CJ Hauser",
+      "autor": "C. J. Hauser",
       "obra": "La novia grulla",
       "parte": "",
       "tipo": "libro",
@@ -969,7 +969,7 @@
     },
     {
       "id": "3x22-041",
-      "autor": "CJ Hauser",
+      "autor": "C. J. Hauser",
       "obra": "La novia grulla",
       "parte": "",
       "tipo": "libro",
@@ -992,7 +992,7 @@
     },
     {
       "id": "3x22-042",
-      "autor": "CJ Hauser",
+      "autor": "C. J. Hauser",
       "obra": "La novia grulla",
       "parte": "",
       "tipo": "libro",
@@ -1015,7 +1015,7 @@
     },
     {
       "id": "3x22-043",
-      "autor": "CJ Hauser",
+      "autor": "C. J. Hauser",
       "obra": "Desenredar la trama",
       "parte": "",
       "tipo": "artículo",
@@ -1040,7 +1040,7 @@
     },
     {
       "id": "3x22-044",
-      "autor": "CJ Hauser",
+      "autor": "C. J. Hauser",
       "obra": "Desenredar la trama",
       "parte": "",
       "tipo": "artículo",
@@ -1063,7 +1063,7 @@
     },
     {
       "id": "3x22-045",
-      "autor": "CJ Hauser",
+      "autor": "C. J. Hauser",
       "obra": "La novia grulla",
       "parte": "",
       "tipo": "libro",
@@ -1478,7 +1478,7 @@
     },
     {
       "id": "3x22-062",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -1503,7 +1503,7 @@
     },
     {
       "id": "3x22-063",
-      "autor": "CJ Hauser",
+      "autor": "C. J. Hauser",
       "obra": "La novia grulla",
       "parte": "",
       "tipo": "libro",
@@ -1526,5 +1526,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2024-07-04_inercia-desenredar-la-trama"
 }

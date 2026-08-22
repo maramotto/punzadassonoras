@@ -347,7 +347,7 @@
     },
     {
       "id": "5x12-015",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "otro",
@@ -646,7 +646,7 @@
     },
     {
       "id": "5x12-028",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "otro",
@@ -669,7 +669,7 @@
     },
     {
       "id": "5x12-029",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "otro",
@@ -926,7 +926,7 @@
     },
     {
       "id": "5x12-040",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Club de Serias",
       "parte": "",
       "tipo": "podcast",
@@ -1533,7 +1533,7 @@
     },
     {
       "id": "5x12-066",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Historia del miedo en Occidente",
       "parte": "",
       "tipo": "libro",
@@ -1648,5 +1648,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2026-03-12_quien-teme-morir-ya-esta-muerto-de-miedo"
 }

@@ -567,7 +567,7 @@
     },
     {
       "id": "3x17-025",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Especies de espacios",
       "parte": "",
       "tipo": "libro",
@@ -836,7 +836,7 @@
     },
     {
       "id": "3x17-036",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "The Fall of the House of Usher",
       "parte": "",
       "tipo": "serie",
@@ -1026,7 +1026,7 @@
     },
     {
       "id": "3x17-044",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "La arquitectura de las pequeñas cosas",
       "parte": "",
       "tipo": "libro",
@@ -1296,7 +1296,7 @@
     },
     {
       "id": "3x17-055",
-      "autor": "Cristina Sánchez Andrade",
+      "autor": "Cristina Sánchez-Andrade",
       "obra": "Fábulas",
       "parte": "",
       "tipo": "libro",
@@ -1690,5 +1690,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2024-04-25_el-ritmo-del-habitar-con-blanca-lacasa"
 }

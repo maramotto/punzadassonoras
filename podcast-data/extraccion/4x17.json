@@ -562,7 +562,7 @@
     },
     {
       "id": "4x17-024",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -1328,7 +1328,7 @@
     },
     {
       "id": "4x17-056",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "El cuento de la criada",
       "parte": "",
       "tipo": "serie",
@@ -1351,7 +1351,7 @@
     },
     {
       "id": "4x17-057",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "The Crown",
       "parte": "",
       "tipo": "serie",
@@ -1374,7 +1374,7 @@
     },
     {
       "id": "4x17-058",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "The Crown",
       "parte": "",
       "tipo": "serie",
@@ -1652,5 +1652,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2025-04-17_real-e-irreal-una-dicotomia-incierta"
 }

@@ -682,7 +682,7 @@
     },
     {
       "id": "1x06-030",
-      "autor": "Georgia O'Keeffe",
+      "autor": "Joan Didion",
       "obra": "The White Album",
       "parte": "",
       "tipo": "libro",
@@ -692,7 +692,7 @@
       "soporte": "citado de oídas",
       "tono": "neutro",
       "grado": "dentro de otra fuente",
-      "via": "1x06-028",
+      "via": "1x06-029",
       "autores_citados": [],
       "fuente": "audio",
       "inicio_s": 1295,
@@ -1110,5 +1110,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2022-05-14_salida"
 }

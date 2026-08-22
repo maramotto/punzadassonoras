@@ -592,7 +592,7 @@
     },
     {
       "id": "4x01-026",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "otro",
@@ -617,7 +617,7 @@
     },
     {
       "id": "4x01-027",
-      "autor": "The Crown",
+      "autor": "Peter Morgan",
       "obra": "The Crown",
       "parte": "",
       "tipo": "serie",
@@ -923,7 +923,7 @@
     },
     {
       "id": "4x01-040",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Reversos",
       "parte": "",
       "tipo": "obra de arte",
@@ -948,7 +948,7 @@
     },
     {
       "id": "4x01-041",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Arte y transformación social. La colección del siglo XIX",
       "parte": "",
       "tipo": "obra de arte",
@@ -1237,5 +1237,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2024-09-12_dependencia-habitar-el-segundo-lugar"
 }

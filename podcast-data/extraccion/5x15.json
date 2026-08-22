@@ -314,8 +314,8 @@
     },
     {
       "id": "5x15-014",
-      "autor": "Martín Buceta",
-      "obra": "Laberinto Mar",
+      "autor": "Noemí Sabugal",
+      "obra": "Laberinto mar",
       "parte": "",
       "tipo": "libro",
       "subtipo": "",
@@ -1348,5 +1348,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2026-04-23_decir-el-mar"
 }

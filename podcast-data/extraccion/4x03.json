@@ -543,7 +543,7 @@
     },
     {
       "id": "4x03-023",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Roma",
       "parte": "",
       "tipo": "serie",
@@ -735,7 +735,7 @@
     },
     {
       "id": "4x03-031",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Caperucita Roja",
       "parte": "",
       "tipo": "concepto",
@@ -759,7 +759,7 @@
     },
     {
       "id": "4x03-032",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Blancanieves",
       "parte": "",
       "tipo": "concepto",
@@ -1122,7 +1122,7 @@
     },
     {
       "id": "4x03-047",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "La bella y la bestia",
       "parte": "",
       "tipo": "película",
@@ -1146,7 +1146,7 @@
     },
     {
       "id": "4x03-048",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "La bella y la bestia",
       "parte": "",
       "tipo": "película",
@@ -1170,7 +1170,7 @@
     },
     {
       "id": "4x03-049",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "La bella y la bestia",
       "parte": "",
       "tipo": "película",
@@ -1218,7 +1218,7 @@
     },
     {
       "id": "4x03-051",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "La bella durmiente",
       "parte": "",
       "tipo": "película",
@@ -1242,7 +1242,7 @@
     },
     {
       "id": "4x03-052",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Blancanieves",
       "parte": "",
       "tipo": "película",
@@ -1266,7 +1266,7 @@
     },
     {
       "id": "4x03-053",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -1362,7 +1362,7 @@
     },
     {
       "id": "4x03-057",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -1386,7 +1386,7 @@
     },
     {
       "id": "4x03-058",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -1410,7 +1410,7 @@
     },
     {
       "id": "4x03-059",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -1843,5 +1843,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2024-10-10_azul-en-el-extremo-de-lo-visible"
 }

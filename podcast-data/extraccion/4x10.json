@@ -110,7 +110,7 @@
     },
     {
       "id": "4x10-005",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Tristán e Isolda",
       "parte": "",
       "tipo": "otro",
@@ -331,7 +331,7 @@
     },
     {
       "id": "4x10-014",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -1090,7 +1090,7 @@
     },
     {
       "id": "4x10-045",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "persona",
@@ -1209,5 +1209,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2025-01-09_el-amor-y-otras-veredas-con-marta-jimenez-serrano"
 }

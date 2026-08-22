@@ -302,7 +302,7 @@
     },
     {
       "id": "4x18-013",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "La novia grulla",
       "parte": "",
       "tipo": "otro",
@@ -348,7 +348,7 @@
     },
     {
       "id": "4x18-015",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Sexo en Nueva York",
       "parte": "",
       "tipo": "serie",
@@ -371,7 +371,7 @@
     },
     {
       "id": "4x18-016",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Sexo en Nueva York",
       "parte": "temporada 6, episodio 4",
       "tipo": "serie",
@@ -460,7 +460,7 @@
     },
     {
       "id": "4x18-019",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Entre los rotos",
       "parte": "",
       "tipo": "libro",
@@ -795,7 +795,7 @@
     },
     {
       "id": "4x18-033",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "efecto MUM (Minimizing Unpleasant Message)",
       "parte": "",
       "tipo": "concepto",
@@ -818,7 +818,7 @@
     },
     {
       "id": "4x18-034",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -1450,5 +1450,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2025-04-30_amor-no-correspondido-por-que"
 }

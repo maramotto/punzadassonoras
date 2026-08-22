@@ -79,7 +79,7 @@
     {
       "id": "5x17-004",
       "autor": "Manu Martín",
-      "obra": "Contra el Patrimonio",
+      "obra": "Contra el patrimonio",
       "parte": "",
       "tipo": "libro",
       "subtipo": "",
@@ -240,7 +240,7 @@
     {
       "id": "5x17-011",
       "autor": "Manu Martín",
-      "obra": "Contra el Patrimonio",
+      "obra": "Contra el patrimonio",
       "parte": "",
       "tipo": "libro",
       "subtipo": "",
@@ -548,7 +548,7 @@
     {
       "id": "5x17-024",
       "autor": "Manu Martín",
-      "obra": "Contra el Patrimonio",
+      "obra": "Contra el patrimonio",
       "parte": "",
       "tipo": "libro",
       "subtipo": "",
@@ -755,5 +755,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2026-05-21_pensar-el-museo"
 }

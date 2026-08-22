@@ -131,7 +131,7 @@
     },
     {
       "id": "4x15-006",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Georgia O'Keeffe Museum (web)",
       "parte": "",
       "tipo": "otro",
@@ -154,7 +154,7 @@
     },
     {
       "id": "4x15-007",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "catálogo de la exposición Georgia O'Keeffe (Museo Thyssen-Bornemisza)",
       "parte": "",
       "tipo": "otro",
@@ -375,7 +375,7 @@
     },
     {
       "id": "4x15-016",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "charla del Museo Georgia O'Keeffe sobre nubes y cielos",
       "parte": "",
       "tipo": "otro",
@@ -444,7 +444,7 @@
     },
     {
       "id": "4x15-019",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "persona",
@@ -766,7 +766,7 @@
     },
     {
       "id": "4x15-033",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Manifiesto de la aeropintura futurista",
       "parte": "",
       "tipo": "otro",
@@ -819,7 +819,7 @@
     },
     {
       "id": "4x15-035",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "primera fotografía aérea conservada (Boston, 1860)",
       "parte": "",
       "tipo": "obra de arte",
@@ -1288,7 +1288,7 @@
     },
     {
       "id": "4x15-054",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "otro",
@@ -1797,5 +1797,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2025-03-20_a-vista-de-pajaro-reflexiones-aereas"
 }

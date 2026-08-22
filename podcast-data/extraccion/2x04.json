@@ -629,7 +629,7 @@
     {
       "id": "2x04-027",
       "autor": "sin determinar",
-      "obra": "La Isla de las Tentaciones",
+      "obra": "La isla de las tentaciones",
       "parte": "",
       "tipo": "otro",
       "subtipo": "reality show",
@@ -718,5 +718,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2022-11-16_amistad"
 }

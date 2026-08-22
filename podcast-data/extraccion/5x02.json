@@ -9,7 +9,7 @@
   "menciones": [
     {
       "id": "5x02-001",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "otro",
@@ -1201,5 +1201,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2025-10-09_en-defensa-de-lo-breve"
 }

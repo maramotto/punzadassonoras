@@ -517,7 +517,7 @@
     },
     {
       "id": "1x10-023",
-      "autor": "José Saramago / Sara Mesa",
+      "autor": "Sara Mesa",
       "obra": "Un amor",
       "parte": "",
       "tipo": "libro",
@@ -1845,5 +1845,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2022-08-13_traduccion"
 }

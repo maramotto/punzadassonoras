@@ -700,7 +700,7 @@
     },
     {
       "id": "2x21-030",
-      "autor": "Goudal",
+      "autor": "Eudald Espluga",
       "obra": "No seas tú mismo",
       "parte": "",
       "tipo": "libro",
@@ -1236,5 +1236,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2023-06-03_abismarse"
 }

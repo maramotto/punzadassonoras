@@ -291,7 +291,7 @@
     },
     {
       "id": "4x16-013",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -408,7 +408,7 @@
     },
     {
       "id": "4x16-018",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -431,7 +431,7 @@
     },
     {
       "id": "4x16-019",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -549,7 +549,7 @@
     },
     {
       "id": "4x16-024",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "The Big Hit",
       "parte": "",
       "tipo": "película",
@@ -572,7 +572,7 @@
     },
     {
       "id": "4x16-025",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Spartacus",
       "parte": "",
       "tipo": "película",
@@ -737,7 +737,7 @@
     },
     {
       "id": "4x16-032",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "persona",
@@ -760,7 +760,7 @@
     },
     {
       "id": "4x16-033",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -1137,8 +1137,8 @@
     },
     {
       "id": "4x16-049",
-      "autor": "desconocido",
-      "obra": "Maternidad y Creación",
+      "autor": "sin determinar",
+      "obra": "Maternidad y creación",
       "parte": "",
       "tipo": "libro",
       "subtipo": "antología de textos de varias autoras",
@@ -1401,7 +1401,7 @@
     },
     {
       "id": "4x16-060",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Amiga, date cuenta",
       "parte": "",
       "tipo": "podcast",
@@ -1528,7 +1528,7 @@
     },
     {
       "id": "4x16-065",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Prima Facie",
       "parte": "",
       "tipo": "obra de teatro",
@@ -1551,7 +1551,7 @@
     },
     {
       "id": "4x16-066",
-      "autor": "Tenconi",
+      "autor": "Mariano Tenconi",
       "obra": "Las cautivas",
       "parte": "",
       "tipo": "obra de teatro",
@@ -1649,7 +1649,7 @@
     },
     {
       "id": "4x16-070",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -1814,5 +1814,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2025-04-03_lo-que-no-se-dice-cartografias-del-subtexto"
 }

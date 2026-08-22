@@ -916,7 +916,7 @@
     },
     {
       "id": "2x12-040",
-      "autor": "León Siminiani",
+      "autor": "Elías León Siminiani",
       "obra": "Arquitectura emocional 1959",
       "parte": "",
       "tipo": "otro",
@@ -942,7 +942,7 @@
     },
     {
       "id": "2x12-041",
-      "autor": "León Siminiani",
+      "autor": "Elías León Siminiani",
       "obra": "Arquitectura emocional 1959",
       "parte": "",
       "tipo": "otro",
@@ -968,7 +968,7 @@
     },
     {
       "id": "2x12-042",
-      "autor": "León Siminiani",
+      "autor": "Elías León Siminiani",
       "obra": "Arquitectura emocional 1959",
       "parte": "",
       "tipo": "otro",
@@ -1138,7 +1138,7 @@
     },
     {
       "id": "2x12-049",
-      "autor": "León Siminiani",
+      "autor": "Elías León Siminiani",
       "obra": "Las niñas de Alcàsser",
       "parte": "",
       "tipo": "otro",
@@ -1161,7 +1161,7 @@
     },
     {
       "id": "2x12-050",
-      "autor": "León Siminiani",
+      "autor": "Elías León Siminiani",
       "obra": "",
       "parte": "",
       "tipo": "persona",
@@ -1182,5 +1182,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2023-02-04_encuentro"
 }

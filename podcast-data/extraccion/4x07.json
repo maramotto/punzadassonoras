@@ -751,7 +751,7 @@
     },
     {
       "id": "4x07-033",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "persona",
@@ -2012,5 +2012,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2024-12-05_perdida-una-naturaleza-voraz"
 }

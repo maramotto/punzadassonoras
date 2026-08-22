@@ -403,7 +403,7 @@
     },
     {
       "id": "4x02-017",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Sexo en Nueva York",
       "parte": "",
       "tipo": "serie",
@@ -651,7 +651,7 @@
     },
     {
       "id": "4x02-027",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "No es el fin del mundo",
       "parte": "",
       "tipo": "podcast",
@@ -795,7 +795,7 @@
     },
     {
       "id": "4x02-033",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "música",
@@ -822,7 +822,7 @@
     },
     {
       "id": "4x02-034",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Sexo en Nueva York",
       "parte": "",
       "tipo": "serie",
@@ -870,7 +870,7 @@
     },
     {
       "id": "4x02-036",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -1083,5 +1083,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2024-09-26_nunca-se-logra-hablar-de-lo-que-se-ama"
 }

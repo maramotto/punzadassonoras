@@ -331,7 +331,7 @@
     },
     {
       "id": "5x04-015",
-      "autor": "anónimo",
+      "autor": "Anónimo",
       "obra": "",
       "parte": "",
       "tipo": "otro",
@@ -828,7 +828,7 @@
     },
     {
       "id": "5x04-036",
-      "autor": "Blanca Ortiz de Zárate",
+      "autor": "Blanca Lacasa",
       "obra": "Las hijas horribles",
       "parte": "",
       "tipo": "libro",
@@ -851,7 +851,7 @@
     },
     {
       "id": "5x04-037",
-      "autor": "Blanca Ortiz de Zárate",
+      "autor": "Blanca Lacasa",
       "obra": "Las hijas horribles",
       "parte": "",
       "tipo": "libro",
@@ -922,7 +922,7 @@
     },
     {
       "id": "5x04-040",
-      "autor": "anónimo",
+      "autor": "Anónimo",
       "obra": "Libertad",
       "parte": "",
       "tipo": "película",
@@ -1551,5 +1551,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2025-11-06_la-familia-carcel-y-refugio"
 }

@@ -9,7 +9,7 @@
   "menciones": [
     {
       "id": "3x21-001",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Se acabó el debate, los letristas de Vetusta Morla aclaran de qué tratan 12 de sus clásicos",
       "parte": "",
       "tipo": "artículo",
@@ -32,7 +32,7 @@
     },
     {
       "id": "3x21-002",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Se acabó el debate, los letristas de Vetusta Morla aclaran de qué tratan 12 de sus clásicos",
       "parte": "",
       "tipo": "artículo",
@@ -456,7 +456,7 @@
     },
     {
       "id": "3x21-020",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Creatura",
       "parte": "",
       "tipo": "película",
@@ -479,8 +479,8 @@
     },
     {
       "id": "3x21-021",
-      "autor": "desconocido",
-      "obra": "La Quimera",
+      "autor": "sin determinar",
+      "obra": "La quimera",
       "parte": "",
       "tipo": "película",
       "subtipo": "",
@@ -620,7 +620,7 @@
     },
     {
       "id": "3x21-027",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Autocitas",
       "parte": "",
       "tipo": "podcast",
@@ -1063,7 +1063,7 @@
     },
     {
       "id": "3x21-046",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Young Royals",
       "parte": "",
       "tipo": "serie",
@@ -1086,7 +1086,7 @@
     },
     {
       "id": "3x21-047",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "película",
@@ -1109,7 +1109,7 @@
     },
     {
       "id": "3x21-048",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "concepto",
@@ -1204,7 +1204,7 @@
     },
     {
       "id": "3x21-052",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Prima Facie",
       "parte": "",
       "tipo": "obra de teatro",
@@ -1227,8 +1227,8 @@
     },
     {
       "id": "3x21-053",
-      "autor": "desconocido",
-      "obra": "Amiga date cuenta",
+      "autor": "sin determinar",
+      "obra": "Amiga, date cuenta",
       "parte": "Oscar 2024",
       "tipo": "podcast",
       "subtipo": "",
@@ -1250,7 +1250,7 @@
     },
     {
       "id": "3x21-054",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Poor Things",
       "parte": "",
       "tipo": "película",
@@ -1273,7 +1273,7 @@
     },
     {
       "id": "3x21-055",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Saltburn",
       "parte": "",
       "tipo": "película",
@@ -1409,5 +1409,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2024-06-20_matar-al-autor-el-destino-del-texto"
 }

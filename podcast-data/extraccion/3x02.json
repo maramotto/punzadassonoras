@@ -210,7 +210,7 @@
     },
     {
       "id": "3x02-012",
-      "autor": "James Miley",
+      "autor": "Jane Smiley",
       "obra": "Heredarás la tierra",
       "parte": "",
       "tipo": "libro",
@@ -263,7 +263,7 @@
     },
     {
       "id": "3x02-014",
-      "autor": "Héctor García Barnes",
+      "autor": "Héctor García Barnés",
       "obra": "Los hombres que solo se relacionan con otros hombres",
       "parte": "",
       "tipo": "artículo",
@@ -742,5 +742,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2023-09-28_sexo-grietas-y-silencios"
 }

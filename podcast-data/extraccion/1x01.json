@@ -309,7 +309,7 @@
     {
       "id": "1x01-014",
       "autor": "Luca Guadagnino",
-      "obra": "Call Me By Your Name",
+      "obra": "Call Me by Your Name",
       "parte": "",
       "tipo": "película",
       "subtipo": "",
@@ -544,7 +544,7 @@
     },
     {
       "id": "1x01-024",
-      "autor": "Italo Calvino",
+      "autor": "Ítalo Calvino",
       "obra": "El castillo de los destinos cruzados",
       "parte": "",
       "tipo": "libro",
@@ -728,5 +728,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2022-02-19_punzadas-sonoras-presentacion"
 }

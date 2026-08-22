@@ -271,7 +271,7 @@
     },
     {
       "id": "5x14-012",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "Bridgerton",
       "parte": "",
       "tipo": "serie",
@@ -595,7 +595,7 @@
     },
     {
       "id": "5x14-026",
-      "autor": "desconocido",
+      "autor": "sin determinar",
       "obra": "",
       "parte": "",
       "tipo": "otro",
@@ -1461,5 +1461,6 @@
       "datos_nuevos": [],
       "confianza": "alta"
     }
-  ]
+  ],
+  "id": "2026-04-09_patrimonio-formar-parte-darle-vida"
 }
