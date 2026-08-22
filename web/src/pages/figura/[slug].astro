@@ -1,0 +1,84 @@
+---
+import Base from "../../layouts/Base.astro";
+import { figurasBuild, indexBuild } from "../../lib/datosBuild";
+import { minutoLegible, enlaceYoutube } from "../../lib/datos";
+import { slugificar } from "../../lib/slugs";
+
+export function getStaticPaths() {
+  // orden alfabetico solo para la navegacion anterior/siguiente: el orden de
+  // figurasBuild() es por numero de menciones, util para otras cosas pero
+  // no para hojear la lista de figuras de forma predecible.
+  const figuras = [...figurasBuild()].sort((a, b) => a.figura.localeCompare(b.figura, "es"));
+  return figuras.map((f, i) => ({
+    params: { slug: slugificar(f.figura) },
+    props: { figura: f, anterior: figuras[i - 1] ?? null, siguiente: figuras[i + 1] ?? null },
+  }));
+}
+
+const { figura, anterior, siguiente } = Astro.props;
+const index = indexBuild();
+
+const descripcion = `«${figura.figura}», figura de Fragmentos de un discurso amoroso de Roland Barthes: ${figura.menciones} menciones en Punzadas Sonoras, en diálogo con ${figura.en_dialogo_con.length} obra(s).`;
+---
+
+<Base titulo={`${figura.figura} — Fragmentos de un discurso amoroso`} descripcion={descripcion}>
+  <div class="envoltura" style="max-width: 42rem; padding-block: var(--space-section);">
+    <p style="color: var(--color-texto-tenue);">
+      Figura de <a href="/obra/roland-barthes--fragmentos-de-un-discurso-amoroso">Fragmentos de un discurso amoroso</a>, de Roland Barthes
+    </p>
+    <h1>{figura.figura}</h1>
+    <p style="color: var(--color-texto-tenue);">{figura.menciones} menciones en {figura.episodios.length} episodios</p>
+
+    {figura.en_dialogo_con.length > 0 && (
+      <div>
+        <h2>En diálogo con</h2>
+        <ul style="display: flex; flex-wrap: wrap; gap: 0.4rem; list-style: none; padding: 0;">
+          {figura.en_dialogo_con.map((titulo) => (
+            <li>
+              <a href={`/buscar?q=${encodeURIComponent(titulo)}&tab=obras`} class="chip" style="text-decoration: none;">
+                {titulo}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    <h2>Citas</h2>
+    <ul style="list-style: none; padding: 0; display: flex; flex-direction: column; gap: 1rem;">
+      {figura.citas.map((c) => {
+        const ep = index.eps.find((e) => e[0] === c.episodio);
+        const enlace = ep ? enlaceYoutube(ep[6], c.inicio_s) : null;
+        return (
+          <li style="border-bottom: 1px solid var(--color-borde); padding-block: 0.75rem;">
+            <p style="margin: 0 0 0.3rem; color: var(--color-texto-tenue); font-size: 0.85em;">
+              <a href={`/episodio/${c.episodio}`}>{ep ? ep[2] : c.episodio}</a>
+              {c.inicio_s != null && (
+                <>
+                  {" · "}
+                  {enlace ? <a href={enlace} target="_blank" rel="noopener noreferrer">{minutoLegible(c.inicio_s)}</a> : minutoLegible(c.inicio_s)}
+                </>
+              )}
+            </p>
+            <p style="margin: 0;">«{c.cita}»</p>
+            {c.contexto && <p style="margin: 0.3rem 0 0; color: var(--color-texto-tenue); font-size: 0.9em;">{c.contexto}</p>}
+            {c.en_dialogo_con.length > 0 && (
+              <p style="margin: 0.3rem 0 0; font-size: 0.85em;">
+                En diálogo con: {c.en_dialogo_con.join(", ")}
+              </p>
+            )}
+          </li>
+        );
+      })}
+    </ul>
+
+    <nav style="display: flex; justify-content: space-between; margin-top: 2rem; border-top: 1px solid var(--color-borde); padding-top: 1rem;">
+      {anterior ? (
+        <a href={`/figura/${slugificar(anterior.figura)}`}>← {anterior.figura}</a>
+      ) : <span />}
+      {siguiente ? (
+        <a href={`/figura/${slugificar(siguiente.figura)}`}>{siguiente.figura} →</a>
+      ) : <span />}
+    </nav>
+  </div>
+</Base>

@@ -1,0 +1,16 @@
+---
+import Base from "../layouts/Base.astro";
+import BarraFiltros from "../components/BarraFiltros.tsx";
+import Buscador from "../components/Buscador.tsx";
+---
+
+<Base
+  titulo="Buscar"
+  descripcion="Busca por autora, obra o cita literal entre las menciones de Punzadas Sonoras, con tolerancia a erratas."
+>
+  <div class="envoltura" style="padding-top: 1.25rem;">
+    <img class="marca" src="/images/marca/buscador-referencias-letras.svg" alt="Buscador de referencias" style="height:1.5rem;" />
+  </div>
+  <BarraFiltros client:load />
+  <Buscador client:load />
+</Base>

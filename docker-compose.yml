@@ -1,0 +1,8 @@
+services:
+  web:
+    build: .
+    image: universopunzadas:latest
+    container_name: universopunzadas
+    restart: unless-stopped
+    ports:
+      - "8082:80"

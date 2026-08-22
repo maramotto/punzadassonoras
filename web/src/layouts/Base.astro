@@ -1,0 +1,53 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  titulo: string;
+  descripcion: string;
+}
+
+const { titulo, descripcion } = Astro.props;
+const tituloCompleto = titulo === "universopunzadas" ? titulo : `${titulo} · universopunzadas`;
+---
+
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{tituloCompleto}</title>
+    <meta name="description" content={descripcion} />
+    <meta property="og:title" content={tituloCompleto} />
+    <meta property="og:description" content={descripcion} />
+    <meta property="og:type" content="website" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preload" href="/fonts/m-plus-1-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin />
+  </head>
+  <body>
+    <a href="#contenido" class="chip" style="position:absolute; left:-999px; top:0;"
+       onfocus="this.style.left='0.5rem'" onblur="this.style.left='-999px'">Saltar al contenido</a>
+    <header class="envoltura" style="display:flex; align-items:center; justify-content:space-between; padding:0.75rem 1.25rem; gap:1rem; flex-wrap:wrap;">
+      <a href="/" style="text-decoration:none;">
+        <img class="marca" src="/images/marca/universo-punzadas-letras.svg" alt="universopunzadas" style="height:1.6rem;" />
+      </a>
+      <nav aria-label="Navegación principal" style="display:flex; gap:1.1rem; align-items:center;">
+        <a href="/buscar"><img class="marca" src="/images/marca/buscar-letras.svg" alt="Buscar" style="height:1.15rem;" /></a>
+        <a href="/explorar"><img class="marca" src="/images/marca/explorar-letras.svg" alt="Explorar" style="height:1rem;" /></a>
+        <a href="/sobre"><img class="marca" src="/images/marca/sobre-u-punzadas.svg" alt="Sobre esto" style="height:1rem;" /></a>
+      </nav>
+    </header>
+    <main id="contenido">
+      <slot />
+    </main>
+    <footer class="envoltura" style="padding:2rem 1.25rem; color:var(--color-texto-tenue); font-size:0.85em;">
+      <p style="display:flex; align-items:center; flex-wrap:wrap; gap:0.3em;">
+        Proyecto aficionado, creado por
+        <a href="https://maramotto.com" target="_blank" rel="noopener noreferrer" aria-label="maramotto.com" style="display:inline-flex; align-items:center;">
+          <img class="marca" src="/images/marca/maramotto-com-letras.svg" alt="maramotto.com" style="height:0.95rem;" />
+        </a>
+        (Mara Crespo), sin relación oficial con Punzadas Sonoras, Paula Ducay, Inés García ni Radio
+        Primavera Sound. <a href="/sobre">Más sobre este proyecto</a>.
+      </p>
+    </footer>
+  </body>
+</html>

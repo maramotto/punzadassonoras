@@ -1,0 +1,398 @@
+/* M PLUS 1, autohospedada (Google Fonts, licencia OFL en public/fonts/).
+   Fuente variable: un solo fichero cubre todo el eje de grosor (100-900), asi
+   que no hace falta declarar @font-face por cada peso. Dos subconjuntos nada
+   mas -latin y latin-ext-, suficientes para castellano y la mayoria de
+   nombres propios europeos; se deja fuera japones/vietnamita, que forman la
+   mayor parte del paquete original y aqui no hacen falta. */
+@font-face {
+  font-family: "M PLUS 1 Variable";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100 900;
+  src: url("/fonts/m-plus-1-latin-wght-normal.woff2") format("woff2-variations");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "M PLUS 1 Variable";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100 900;
+  src: url("/fonts/m-plus-1-latin-ext-wght-normal.woff2") format("woff2-variations");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* Paleta categorica: 8 tonos repartidos cada 45 grados en el circulo de
+   matices, para maxima distincion perceptual (nada de tonos vecinos que se
+   confunden). Croma y luminosidad moderados a proposito -evitar el efecto
+   "caramelo". Un solo tema, claro: el lettering a mano (marca/*.svg) trae su
+   tinta horneada en el propio SVG, pensada para leerse sobre papel claro. */
+:root {
+  --color-fondo: oklch(98% 0.005 260);
+  --color-superficie: oklch(100% 0 0);
+  --color-superficie-alta: oklch(95% 0.006 260);
+  --color-borde: oklch(88% 0.008 260);
+  --color-texto: oklch(20% 0.01 260);
+  --color-texto-tenue: oklch(42% 0.012 260);
+  --color-acento: oklch(52% 0.16 55);
+
+  /* rampa secuencial de un solo tono, clara a oscura, para las matrices */
+  --color-secuencial-1: oklch(94% 0.02 55);
+  --color-secuencial-2: oklch(82% 0.06 55);
+  --color-secuencial-3: oklch(66% 0.11 55);
+  --color-secuencial-4: oklch(50% 0.14 55);
+  --color-secuencial-5: oklch(36% 0.13 55);
+
+  --color-cat-1: oklch(68% 0.1 25);
+  --color-cat-2: oklch(68% 0.1 70);
+  --color-cat-3: oklch(68% 0.1 115);
+  --color-cat-4: oklch(68% 0.1 160);
+  --color-cat-5: oklch(68% 0.1 205);
+  --color-cat-6: oklch(68% 0.1 250);
+  --color-cat-7: oklch(68% 0.1 295);
+  --color-cat-8: oklch(68% 0.1 340);
+
+  --color-tono-entusiasta: oklch(42% 0.14 145);
+  --color-tono-neutro: oklch(45% 0.01 260);
+  --color-tono-critico: oklch(45% 0.18 25);
+  --color-tono-ambivalente: oklch(46% 0.12 75);
+
+  --text-base: clamp(1rem, 0.94rem + 0.3vw, 1.0625rem);
+  --text-hero: clamp(2.5rem, 1.2rem + 5vw, 5.5rem);
+  --space-section: clamp(2.5rem, 2rem + 2.5vw, 5rem);
+  --duration-fast: 120ms;
+  --duration-normal: 220ms;
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --radio: 0.5rem;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+  background: var(--color-fondo);
+  color: var(--color-texto);
+  font-family: "M PLUS 1 Variable", system-ui, sans-serif;
+  font-size: var(--text-base);
+  line-height: 1.5;
+  transition: background var(--duration-normal) var(--ease-out-expo), color var(--duration-normal) var(--ease-out-expo);
+}
+
+a {
+  color: inherit;
+}
+
+.envoltura {
+  max-width: 78rem;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+.barra-filtros {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  background: color-mix(in oklch, var(--color-superficie) 92%, transparent);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--color-borde);
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  background: var(--color-superficie-alta);
+  border: 1px solid var(--color-borde);
+  font-size: 0.85em;
+}
+
+.chip button {
+  all: unset;
+  cursor: pointer;
+  opacity: 0.7;
+}
+.chip button:hover,
+.chip button:focus-visible {
+  opacity: 1;
+}
+
+.faceta {
+  cursor: pointer;
+  border: 1px solid var(--color-borde);
+  background: var(--color-superficie);
+  color: var(--color-texto);
+  border-radius: var(--radio);
+  padding: 0.25rem 0.65rem;
+  font: inherit;
+  font-size: 0.85em;
+}
+.faceta[aria-pressed="true"] {
+  background: var(--color-acento);
+  border-color: var(--color-acento);
+  color: var(--color-fondo);
+}
+.faceta:focus-visible,
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--color-acento);
+  outline-offset: 2px;
+}
+
+.opcion-combo {
+  all: unset;
+  cursor: pointer;
+  padding: 0.3rem 0.4rem;
+  border-radius: calc(var(--radio) / 2);
+  font-size: 0.9em;
+}
+.opcion-combo[data-activa="true"] {
+  background: var(--color-acento);
+  color: var(--color-fondo);
+}
+.opcion-combo:not([data-activa="true"]):hover {
+  background: var(--color-superficie);
+}
+
+/* --- Tabla de menciones ------------------------------------------------ */
+
+.cabecera-tabla {
+  text-align: left;
+  padding: 0.55rem 1rem;
+  background: var(--color-superficie-alta);
+  border-bottom: 1px solid var(--color-borde);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-texto-tenue);
+}
+
+.fila-tabla {
+  border-bottom: 1px solid var(--color-borde);
+  transition: background var(--duration-fast) var(--ease-out-expo);
+}
+.fila-tabla:hover {
+  background: var(--color-superficie-alta);
+}
+
+.celda-tabla {
+  padding: 0.85rem 1rem;
+  vertical-align: top;
+  font-size: 0.9rem;
+  line-height: 1.45;
+  overflow: hidden;
+}
+.celda-tabla a {
+  text-decoration: none;
+  border-bottom: 1px solid color-mix(in oklch, var(--color-texto) 25%, transparent);
+}
+.celda-tabla a:hover {
+  border-bottom-color: var(--color-acento);
+  color: var(--color-acento);
+}
+
+.celda-cita {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  font-size: 1.02rem;
+  line-height: 1.5;
+  color: var(--color-texto);
+}
+
+.celda-vacia {
+  color: var(--color-texto-tenue);
+}
+
+.celda-tono {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  white-space: nowrap;
+}
+.punto-tono {
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+/* --- Tarjetas de grafico (Paso 5) --------------------------------------- */
+
+.tarjeta-grafico {
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio);
+  background: var(--color-superficie);
+  padding: 1.25rem;
+  margin-block: 1.5rem;
+}
+
+.cabecera-grafico {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.75rem;
+}
+.cabecera-grafico h3 {
+  margin: 0 0 0.2rem;
+  font-size: 1.05rem;
+}
+
+.nota-grafico {
+  margin: 0;
+  color: var(--color-texto-tenue);
+  font-size: 0.85rem;
+}
+
+.tabla-gemela {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+}
+.tabla-gemela th {
+  text-align: left;
+  padding: 0.4rem 0.6rem;
+  border-bottom: 1px solid var(--color-borde);
+  position: sticky;
+  top: 0;
+  background: var(--color-superficie);
+  font-size: 0.72rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--color-texto-tenue);
+}
+.tabla-gemela td {
+  padding: 0.4rem 0.6rem;
+  border-bottom: 1px solid var(--color-borde);
+  vertical-align: top;
+}
+
+.enlace-tabla {
+  all: unset;
+  cursor: pointer;
+  color: inherit;
+  border-bottom: 1px solid color-mix(in oklch, var(--color-texto) 25%, transparent);
+}
+.enlace-tabla:hover {
+  border-bottom-color: var(--color-acento);
+  color: var(--color-acento);
+}
+
+/* Observable Plot genera SVG dentro de estos contenedores; que herede
+   tipografia y color del sitio en vez del estilo por defecto del navegador. */
+.tarjeta-grafico svg text {
+  fill: currentColor;
+  font-family: inherit;
+}
+.tarjeta-grafico svg {
+  overflow: visible;
+}
+
+/* Los graficos fijan un ancho minimo legible (los nombres de autoria no caben
+   en 375px) y se dejan desplazar en horizontal en vez de encogerse hasta ser
+   ilegibles: mismo patron en todos, con scroll con inercia en iOS. */
+.contenedor-grafico-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.contenedor-tabla-scroll {
+  overflow: auto;
+  max-height: 26rem;
+  -webkit-overflow-scrolling: touch;
+}
+
+@media (max-width: 640px) {
+  .tarjeta-grafico {
+    padding: 0.85rem;
+  }
+  .cabecera-grafico {
+    gap: 0.5rem;
+  }
+}
+
+/* --- Buscador (Paso 4) --------------------------------------------------- */
+
+.pestana-buscador {
+  all: unset;
+  cursor: pointer;
+  padding: 0.5rem 0.9rem;
+  font-size: 0.9rem;
+  color: var(--color-texto-tenue);
+  border-bottom: 2px solid transparent;
+}
+.pestana-buscador[aria-selected="true"] {
+  color: var(--color-texto);
+  border-bottom-color: var(--color-acento);
+}
+.pestana-buscador:hover {
+  color: var(--color-texto);
+}
+
+.lista-resultados {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.tarjeta-resultado {
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio);
+  padding: 0.85rem 1rem;
+  background: var(--color-superficie);
+}
+
+.titulo-resultado {
+  font-size: 1rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+.titulo-resultado:hover {
+  color: var(--color-acento);
+}
+
+mark {
+  background: color-mix(in oklch, var(--color-acento) 40%, transparent);
+  color: inherit;
+  border-radius: 0.15em;
+  padding: 0 0.1em;
+}
+
+/* --- Panel de nodo seleccionado (grafo de dialogo) ---------------------- */
+
+.panel-nodo-grafo {
+  margin-top: 0.75rem;
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio);
+  background: var(--color-superficie);
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.lista-vecinos-grafo {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+/* --- Lettering a mano (marca/*.svg) -------------------------------------- */
+
+.marca {
+  display: block;
+  width: auto;
+}

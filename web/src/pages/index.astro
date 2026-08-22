@@ -1,0 +1,27 @@
+---
+import Base from "../layouts/Base.astro";
+import MatrizTemasEpisodios from "../components/MatrizTemasEpisodios.astro";
+import { indexBuild } from "../lib/datosBuild";
+
+const index = indexBuild();
+---
+
+<Base
+  titulo="universopunzadas"
+  descripcion="Catálogo navegable de las referencias culturales citadas en Punzadas Sonoras: qué se cita, quién lo cita y en qué episodio, con la cita literal y el minuto exacto."
+>
+  <div class="envoltura" style="padding-block: 1.5rem;">
+    <p style="max-width: 38rem;">
+      {index.eps.length} episodios de Punzadas Sonoras, {index.refs.length.toLocaleString("es")} menciones.
+      Cada fila es un tema, cada columna un episodio en orden cronológico.
+    </p>
+
+    <div style="margin-top: 1rem;">
+      <MatrizTemasEpisodios index={index} />
+    </div>
+
+    <p style="margin-top: 1.5rem;">
+      <a href="/buscar">Ir al buscador</a> · <a href="/explorar">Ver los gráficos</a>
+    </p>
+  </div>
+</Base>

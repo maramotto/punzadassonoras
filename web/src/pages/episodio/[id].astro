@@ -1,0 +1,75 @@
+---
+import Base from "../../layouts/Base.astro";
+import Regleta from "../../components/Regleta.tsx";
+import { fichaEpisodioBuild, idsEpisodiosBuild } from "../../lib/datosBuild";
+import { minutoLegible, enlaceYoutube } from "../../lib/datos";
+import { slugObra, slugificar } from "../../lib/slugs";
+
+export function getStaticPaths() {
+  return idsEpisodiosBuild().map((id) => ({ params: { id } }));
+}
+
+const { id } = Astro.params;
+const ep = fichaEpisodioBuild(id!);
+const marcas = ep.menciones
+  .filter((m) => m.inicio_s != null)
+  .map((m) => ({ inicioS: m.inicio_s as number, tono: m.tono, cita: m.cita }));
+
+const descripcion = `${ep.menciones.length} referencias citadas en "${ep.titulo}"${ep.codigo ? " (" + ep.codigo + ")" : ""}, con cita literal y minuto.`;
+---
+
+<Base titulo={ep.titulo} descripcion={descripcion}>
+  <div class="envoltura" style="padding-block: var(--space-section);">
+    <p style="color: var(--color-texto-tenue);">
+      {ep.codigo && <span>{ep.codigo} · </span>}
+      {ep.fecha}
+      {ep.tags.length > 0 && (
+        <>
+          {" · "}
+          {ep.tags.map((t) => (
+            <a href={`/tema/${slugificar(t)}`} style="margin-right: 0.4rem;">
+              {t}
+            </a>
+          ))}
+        </>
+      )}
+    </p>
+    <h1>{ep.titulo}</h1>
+
+    <Regleta client:load duracionS={ep.duracion_s} codigo={ep.codigo} videoId={ep.video_id} marcas={marcas} />
+
+    <p style="margin-top: 1.5rem; color: var(--color-texto-tenue);">
+      {ep.menciones.length} menciones
+      {ep.video_id && (
+        <>
+          {" · "}
+          <a href={`https://www.youtube.com/watch?v=${ep.video_id}`} target="_blank" rel="noopener noreferrer">
+            Ver en YouTube
+          </a>
+        </>
+      )}
+    </p>
+
+    <ul style="list-style: none; padding: 0; display: flex; flex-direction: column; gap: 1rem;">
+      {ep.menciones.map((m) => {
+        const enlace = enlaceYoutube(ep.video_id, m.inicio_s);
+        return (
+          <li style="border-bottom: 1px solid var(--color-borde); padding-block: 0.75rem;">
+            <p style="margin: 0 0 0.3rem; color: var(--color-texto-tenue); font-size: 0.85em;">
+              {m.inicio_s != null && (enlace ? <a href={enlace} target="_blank" rel="noopener noreferrer">{minutoLegible(m.inicio_s)}</a> : <span>{minutoLegible(m.inicio_s)}</span>)}
+              {" · "}{m.tipo}{" · "}{m.funcion}{" · "}{m.tono}
+              {m.confianza !== "alta" && <span> · confianza {m.confianza}</span>}
+            </p>
+            <p style="margin: 0 0 0.3rem;">
+              <a href={`/autor/${slugificar(m.autor)}`}>{m.autor}</a>
+              {m.obra && <> — <a href={`/obra/${slugObra(m.autor, m.obra)}`}><em>{m.obra}</em></a></>}
+              {m.parte && <> — <a href={`/figura/${slugificar(m.parte)}`}>{m.parte}</a></>}
+            </p>
+            {m.cita && <p style="margin: 0;">«{m.cita}»</p>}
+            {m.contexto && <p style="margin: 0.3rem 0 0; color: var(--color-texto-tenue); font-size: 0.9em;">{m.contexto}</p>}
+          </li>
+        );
+      })}
+    </ul>
+  </div>
+</Base>

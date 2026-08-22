@@ -1,0 +1,42 @@
+---
+import Base from "../../layouts/Base.astro";
+import { indexBuild } from "../../lib/datosBuild";
+import { slugObra, slugificar } from "../../lib/slugs";
+
+export function getStaticPaths() {
+  const index = indexBuild();
+  return index.tip.filter(Boolean).map((tipo) => ({ params: { slug: slugificar(tipo) }, props: { tipo } }));
+}
+
+const { tipo } = Astro.props;
+const index = indexBuild();
+
+const obrasDelTipo = new Map<string, { autor: string; obra: string; menciones: number }>();
+for (const r of index.refs) {
+  if (index.tip[r[4]] !== tipo) continue;
+  const autor = index.aut[r[1]];
+  const obra = index.obr[r[2]];
+  if (!obra) continue;
+  const clave = `${autor}||${obra}`;
+  const actual = obrasDelTipo.get(clave) ?? { autor, obra, menciones: 0 };
+  actual.menciones += 1;
+  obrasDelTipo.set(clave, actual);
+}
+const obras = [...obrasDelTipo.values()].sort((a, b) => b.menciones - a.menciones);
+
+const descripcion = `Todas las obras de tipo «${tipo}» citadas en Punzadas Sonoras: ${obras.length} títulos distintos.`;
+---
+
+<Base titulo={`Tipo: ${tipo}`} descripcion={descripcion}>
+  <div class="envoltura" style="max-width: 42rem; padding-block: var(--space-section);">
+    <h1>{tipo}</h1>
+    <p style="color: var(--color-texto-tenue);">{obras.length} obras distintas</p>
+    <ul>
+      {obras.map((o) => (
+        <li>
+          <a href={`/obra/${slugObra(o.autor, o.obra)}`}>{o.obra}</a> — {o.autor} ({o.menciones})
+        </li>
+      ))}
+    </ul>
+  </div>
+</Base>

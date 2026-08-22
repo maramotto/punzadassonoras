@@ -1,0 +1,18 @@
+.git/
+.idea/
+.claude/
+.DS_Store
+
+# Material pesado y regenerable, no hace falta en la imagen
+podcast-data/raw/
+podcast-data/transcripts/
+podcast-data/transcribir/audio/
+podcast-data/transcribir/.venv/
+podcast-data/PILOTO_esquema_blando.md
+
+# web/: node_modules y build se generan dentro del propio Dockerfile
+web/node_modules/
+web/dist/
+web/.astro/
+
+*.log

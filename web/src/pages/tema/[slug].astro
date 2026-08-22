@@ -1,0 +1,121 @@
+---
+import Base from "../../layouts/Base.astro";
+import { indexBuild } from "../../lib/datosBuild";
+import { slugObra, slugificar } from "../../lib/slugs";
+import { minutoLegible } from "../../lib/datos";
+
+export function getStaticPaths() {
+  const index = indexBuild();
+  return index.temas.map((tema) => ({ params: { slug: slugificar(tema) }, props: { tema } }));
+}
+
+const { tema } = Astro.props;
+const index = indexBuild();
+const temaIdx = index.temas.indexOf(tema);
+const epIdxsDelTema = new Set(index.eps.map((e, i) => (e[7].includes(temaIdx) ? i : -1)).filter((i) => i >= 0));
+const episodios = [...epIdxsDelTema].map((i) => index.eps[i]).sort((a, b) => a[3].localeCompare(b[3]));
+const menciones = index.refs.filter((r) => epIdxsDelTema.has(r[0]));
+
+const conteoAutores = new Map<string, number>();
+const conteoObras = new Map<string, { autor: string; obra: string; n: number }>();
+for (const r of menciones) {
+  const autor = index.aut[r[1]];
+  const obra = index.obr[r[2]];
+  if (autor && autor !== "sin determinar") conteoAutores.set(autor, (conteoAutores.get(autor) ?? 0) + 1);
+  if (autor && obra) {
+    const clave = `${autor}||${obra}`;
+    const actual = conteoObras.get(clave) ?? { autor, obra, n: 0 };
+    actual.n += 1;
+    conteoObras.set(clave, actual);
+  }
+}
+const topAutores = [...conteoAutores.entries()].sort((a, b) => b[1] - a[1]).slice(0, 12);
+const topObras = [...conteoObras.values()].sort((a, b) => b.n - a.n).slice(0, 12);
+
+const MAX_TABLA = 200;
+const descripcion = `${episodios.length} episodios de Punzadas Sonoras sobre «${tema}», con las obras y autorías más citadas en ellos.`;
+---
+
+<Base titulo={tema} descripcion={descripcion}>
+  <div class="envoltura" style="max-width: 56rem; padding-block: var(--space-section);">
+    <h1>{tema}</h1>
+    <p style="color: var(--color-texto-tenue);">
+      {episodios.length} episodios · {menciones.length} menciones ·{" "}
+      <a href={`/explorar?tema=${encodeURIComponent(tema)}`}>ver en los gráficos, filtrado</a>
+    </p>
+
+    <h2>Episodios, en orden cronológico</h2>
+    <ol style="padding-left: 1.2rem;">
+      {episodios.map((e) => (
+        <li>
+          <a href={`/episodio/${e[0]}`}>{e[1] ? `${e[1]} — ` : ""}{e[2]}</a>
+          <span style="color: var(--color-texto-tenue);"> — {e[3]}</span>
+        </li>
+      ))}
+    </ol>
+
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem;">
+      {topAutores.length > 0 && (
+        <div>
+          <h2>Autorías más citadas</h2>
+          <ol>
+            {topAutores.map(([autor, n]) => (
+              <li>
+                <a href={`/autor/${slugificar(autor)}`}>{autor}</a> ({n})
+              </li>
+            ))}
+          </ol>
+        </div>
+      )}
+      {topObras.length > 0 && (
+        <div>
+          <h2>Obras más citadas</h2>
+          <ol>
+            {topObras.map((o) => (
+              <li>
+                <a href={`/obra/${slugObra(o.autor, o.obra)}`}>{o.obra}</a> ({o.n})
+              </li>
+            ))}
+          </ol>
+        </div>
+      )}
+    </div>
+
+    <h2>Menciones</h2>
+    <div style="overflow: auto; max-height: 34rem;">
+      <table class="tabla-gemela">
+        <thead>
+          <tr>
+            <th>Episodio</th>
+            <th>Autoría</th>
+            <th>Obra</th>
+            <th>Cita</th>
+            <th>Minuto</th>
+          </tr>
+        </thead>
+        <tbody>
+          {menciones.slice(0, MAX_TABLA).map((r) => {
+            const ep = index.eps[r[0]];
+            const autor = index.aut[r[1]];
+            const obra = index.obr[r[2]];
+            return (
+              <tr>
+                <td><a href={`/episodio/${ep[0]}`}>{ep[2]}</a></td>
+                <td><a href={`/autor/${slugificar(autor)}`}>{autor}</a></td>
+                <td>{obra && <a href={`/obra/${slugObra(autor, obra)}`}>{obra}</a>}</td>
+                <td>«{r[11]}»</td>
+                <td>{minutoLegible(r[10])}</td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+    </div>
+    {menciones.length > MAX_TABLA && (
+      <p class="nota-grafico">
+        Mostrando las primeras {MAX_TABLA} de {menciones.length} menciones —{" "}
+        <a href={`/explorar?tema=${encodeURIComponent(tema)}`}>ver todas, filtrado, en los gráficos</a>.
+      </p>
+    )}
+  </div>
+</Base>

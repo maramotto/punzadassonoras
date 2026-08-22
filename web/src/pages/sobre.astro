@@ -1,0 +1,40 @@
+---
+import Base from "../layouts/Base.astro";
+import { indexBuild } from "../lib/datosBuild";
+
+const index = indexBuild();
+const totalMenciones = index.refs.length;
+const totalEpisodios = index.eps.length;
+---
+
+<Base
+  titulo="Sobre este proyecto"
+  descripcion="Qué es universopunzadas, cómo se ha construido y con qué criterio, y el aviso de que es un proyecto aficionado sin relación oficial con Punzadas Sonoras."
+>
+  <div class="envoltura" style="max-width: 42rem; padding-block: var(--space-section);">
+    <h1>Sobre universopunzadas</h1>
+    <p>
+      Un catálogo navegable de las referencias culturales citadas en <strong>Punzadas Sonoras</strong>,
+      el podcast de Paula Ducay e Inés García producido por Radio Primavera Sound. Recoge
+      {totalMenciones.toLocaleString("es")} menciones a lo largo de {totalEpisodios} episodios,
+      extraídas a mano de la transcripción de cada uno.
+    </p>
+
+    <h2>Cómo se ha hecho</h2>
+    <p>
+      Las transcripciones se generaron con mlx-whisper (large-v3) y diarización con pyannote 3.1.
+      Son automáticas y contienen errores; las etiquetas de hablante no están emparejadas con
+      personas concretas. Cada referencia cultural se extrajo leyendo la transcripción completa,
+      episodio a episodio, siguiendo un criterio editorial documentado que exige que toda cita sea
+      literal y que ningún dato se complete por conocimiento externo si no se dice en el audio.
+    </p>
+
+    <h2>Aviso</h2>
+    <p>
+      Proyecto aficionado, creado por <a href="https://github.com/maramotto" target="_blank" rel="noopener noreferrer">maramotto</a> (Mara Crespo),
+      sin relación oficial con Punzadas Sonoras, Paula Ducay, Inés García ni Radio Primavera
+      Sound. Si el criterio de extracción da lugar a algún error, o si las autoras del podcast
+      prefieren que se retire algún contenido, se atenderá la petición.
+    </p>
+  </div>
+</Base>

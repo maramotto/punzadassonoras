@@ -1,0 +1,111 @@
+---
+import Base from "../../layouts/Base.astro";
+import { obrasBuild, indexBuild } from "../../lib/datosBuild";
+import { slugObra, slugificar } from "../../lib/slugs";
+import { minutoLegible, enlaceYoutube } from "../../lib/datos";
+
+export function getStaticPaths() {
+  return obrasBuild().map((o) => ({
+    params: { slug: slugObra(o.autor, o.obra) },
+    props: { obra: o },
+  }));
+}
+
+const { obra } = Astro.props;
+const index = indexBuild();
+const episodios = obra.episodios.map((id) => index.eps.find((e) => e[0] === id)).filter(Boolean);
+
+const descripcion = `${obra.obra}, de ${obra.autor}: ${obra.menciones} menciones en Punzadas Sonoras` +
+  (obra.anio ? `. Publicada en ${obra.anio}${obra.editorial ? " (" + obra.editorial + ")" : ""}.` : ".") +
+  (obra.en_dialogo_con.length ? ` En diálogo con ${obra.en_dialogo_con.length} obra(s).` : "");
+---
+
+<Base titulo={`${obra.obra} — ${obra.autor}`} descripcion={descripcion}>
+  <div class="envoltura" style="max-width: 42rem; padding-block: var(--space-section);">
+    <p style="color: var(--color-texto-tenue);">
+      <a href={`/autor/${slugificar(obra.autor)}`}>{obra.autor}</a>
+    </p>
+    <h1>{obra.obra}</h1>
+    <p style="color: var(--color-texto-tenue);">
+      {obra.tipo}{obra.subtipo && ` · ${obra.subtipo}`} · {obra.menciones} menciones en {episodios.length} episodios
+    </p>
+
+    {(obra.anio || obra.editorial) && (
+      <p>
+        {obra.anio && <span>{obra.anio}</span>}
+        {obra.anio && obra.editorial && <span> · </span>}
+        {obra.editorial && <span>{obra.editorial}</span>}
+      </p>
+    )}
+
+    {obra.editoriales_mencionadas_en_audio.length > 0 && (
+      <div>
+        <h2>Editorial dicha en el episodio</h2>
+        <p style="color: var(--color-texto-tenue); font-size: 0.9em;">
+          Información que no está en ningún catálogo: lo dicen ellas mismas.
+        </p>
+        <ul>
+          {obra.editoriales_mencionadas_en_audio.map((e) => (
+            <li>
+              <strong>{e.editorial}</strong> — «{e.cita}»
+            </li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    {obra.partes.length > 0 && (
+      <div>
+        <h2>Partes citadas</h2>
+        <ul>
+          {obra.partes.map((p) => (
+            <li>
+              <a href={`/figura/${slugificar(p)}`}>{p}</a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    {obra.en_dialogo_con.length > 0 && (
+      <div>
+        <h2>En diálogo con</h2>
+        <ul style="display: flex; flex-wrap: wrap; gap: 0.4rem; list-style: none; padding: 0;">
+          {obra.en_dialogo_con.map((titulo) => (
+            <li>
+              <a href={`/buscar?q=${encodeURIComponent(titulo)}&tab=obras`} class="chip" style="text-decoration: none;">
+                {titulo}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    <h2>Menciones</h2>
+    <ul style="list-style: none; padding: 0; display: flex; flex-direction: column; gap: 1rem;">
+      {obra.citas.map((c) => {
+        const ep = index.eps.find((e) => e[0] === c.episodio_id);
+        const enlace = ep ? enlaceYoutube(ep[6], c.inicio_s) : null;
+        return (
+          <li style="border-bottom: 1px solid var(--color-borde); padding-block: 0.75rem;">
+            <p style="margin: 0 0 0.3rem; color: var(--color-texto-tenue); font-size: 0.85em;">
+              <a href={`/episodio/${c.episodio_id}`}>{c.episodio_titulo}</a>
+              {c.inicio_s != null && (
+                <>
+                  {" · "}
+                  {enlace ? <a href={enlace} target="_blank" rel="noopener noreferrer">{minutoLegible(c.inicio_s)}</a> : minutoLegible(c.inicio_s)}
+                </>
+              )}
+              {c.parte && ` · ${c.parte}`}
+              {c.funcion && ` · ${c.funcion}`}
+              {c.tono && ` · ${c.tono}`}
+            </p>
+            {c.cita && <p style="margin: 0;">«{c.cita}»</p>}
+            {c.contexto && <p style="margin: 0.3rem 0 0; color: var(--color-texto-tenue); font-size: 0.9em;">{c.contexto}</p>}
+          </li>
+        );
+      })}
+    </ul>
+  </div>
+</Base>

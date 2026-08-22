@@ -1,0 +1,102 @@
+---
+import Base from "../../layouts/Base.astro";
+import { indexBuild } from "../../lib/datosBuild";
+import { etiquetaTemporada } from "../../lib/store";
+
+export function getStaticPaths() {
+  return ["1", "2", "3", "4", "5", "Glosas", "Especial"].map((n) => ({ params: { n } }));
+}
+
+const { n } = Astro.params!;
+const index = indexBuild();
+
+function episodiosDe(etiqueta: string) {
+  return index.eps.filter((e) => etiquetaTemporada(e[5], e[1]) === etiqueta).sort((a, b) => a[3].localeCompare(b[3]));
+}
+
+function temasDe(eps: typeof index.eps) {
+  const conteo = new Map<number, number>();
+  for (const e of eps) for (const t of e[7]) conteo.set(t, (conteo.get(t) ?? 0) + 1);
+  return conteo;
+}
+
+const episodios = episodiosDe(n!);
+const conteoTemas = temasDe(episodios);
+const temasDominantes = [...conteoTemas.entries()]
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 8)
+  .map(([t, c]) => ({ tema: index.temas[t], episodios: c }));
+
+// "entra y sale" solo tiene sentido entre temporadas numeradas consecutivas:
+// Las Glosas y los especiales no forman una secuencia con las demas.
+let entran: string[] = [];
+let salen: string[] = [];
+const numeroActual = Number(n);
+if (!Number.isNaN(numeroActual) && numeroActual > 1) {
+  const temasAnterior = new Set(temasDe(episodiosDe(String(numeroActual - 1))).keys());
+  const temasActual = new Set(conteoTemas.keys());
+  entran = [...temasActual].filter((t) => !temasAnterior.has(t)).map((t) => index.temas[t]);
+  salen = [...temasAnterior].filter((t) => !temasActual.has(t)).map((t) => index.temas[t]);
+}
+
+const nombre = n === "Glosas" ? "Las Glosas" : n === "Especial" ? "Especiales" : `Temporada ${n}`;
+const descripcion = `${nombre}: ${episodios.length} episodios de Punzadas Sonoras. Temas dominantes: ${temasDominantes.slice(0, 3).map((t) => t.tema).join(", ")}.`;
+---
+
+<Base titulo={nombre} descripcion={descripcion}>
+  <div class="envoltura" style="max-width: 48rem; padding-block: var(--space-section);">
+    <h1>{nombre}</h1>
+    <p style="color: var(--color-texto-tenue);">{episodios.length} episodios</p>
+
+    {temasDominantes.length > 0 && (
+      <div>
+        <h2>Temas dominantes</h2>
+        <ul style="display: flex; flex-wrap: wrap; gap: 0.4rem; list-style: none; padding: 0;">
+          {temasDominantes.map((t) => (
+            <li>
+              <a href={`/tema/${encodeURIComponent(t.tema)}`} class="chip" style="text-decoration: none;">
+                {t.tema} ({t.episodios})
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    {(entran.length > 0 || salen.length > 0) && (
+      <div>
+        <h2>Respecto a la temporada {numeroActual - 1}</h2>
+        {entran.length > 0 && (
+          <p>
+            <strong>Entran:</strong> {entran.map((t, i) => (
+              <>
+                {i > 0 && ", "}
+                <a href={`/tema/${encodeURIComponent(t)}`}>{t}</a>
+              </>
+            ))}
+          </p>
+        )}
+        {salen.length > 0 && (
+          <p>
+            <strong>Salen:</strong> {salen.map((t, i) => (
+              <>
+                {i > 0 && ", "}
+                <a href={`/tema/${encodeURIComponent(t)}`}>{t}</a>
+              </>
+            ))}
+          </p>
+        )}
+      </div>
+    )}
+
+    <h2>Episodios</h2>
+    <ol style="padding-left: 1.2rem;">
+      {episodios.map((e) => (
+        <li>
+          <a href={`/episodio/${e[0]}`}>{e[1] ? `${e[1]} — ` : ""}{e[2]}</a>
+          <span style="color: var(--color-texto-tenue);"> — {e[3]}</span>
+        </li>
+      ))}
+    </ol>
+  </div>
+</Base>
