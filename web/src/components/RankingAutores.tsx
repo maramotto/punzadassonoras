@@ -73,7 +73,7 @@ export default function RankingAutores() {
           sort: { y: "-x" },
           title: (d: FilaAutor) => `${d.autor} · ${d.menciones} mención(es) · ${d.obras} obra(s) · ${d.episodios} episodio(s) — clic para filtrar`,
         }),
-        Plot.ruleX([0]),
+        Plot.ruleX([0], { ariaHidden: "true" }),
       ],
     });
 
@@ -98,7 +98,7 @@ export default function RankingAutores() {
     <div className="tarjeta-grafico">
       <div className="cabecera-grafico">
         <div>
-          <h3>Ranking de autorías</h3>
+          <h2>Ranking de autorías</h2>
           <p className="nota-grafico">
             Las {TOP_N} autorías más citadas, de {totalAutorias.toLocaleString("es")} con los filtros activos ({total.toLocaleString("es")}{" "}
             mención(es)). Clic en una barra: filtra por esa autoría.

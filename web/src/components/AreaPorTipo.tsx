@@ -35,6 +35,37 @@ export default function AreaPorTipo() {
   const [comoTabla, setComoTabla] = useState(false);
   const [seleccion, setSeleccion] = useState<{ temporada: string; tipo: string } | null>(null);
   const contenedorRef = useRef<HTMLDivElement>(null);
+  const dialogoRef = useRef<HTMLDivElement>(null);
+
+  // Escape cierra, el foco entra en el dialogo al abrirse y queda atrapado
+  // ahi mientras esta abierto (patron estandar de dialogo modal accesible).
+  useEffect(() => {
+    if (!seleccion) return;
+    const nodo = dialogoRef.current;
+    const foco = nodo?.querySelector<HTMLElement>("button, a[href]");
+    foco?.focus();
+
+    function alTeclado(e: KeyboardEvent) {
+      if (e.key === "Escape") {
+        setSeleccion(null);
+        return;
+      }
+      if (e.key !== "Tab" || !nodo) return;
+      const focosables = Array.from(nodo.querySelectorAll<HTMLElement>("button, a[href]"));
+      if (focosables.length === 0) return;
+      const primero = focosables[0];
+      const ultimo = focosables[focosables.length - 1];
+      if (e.shiftKey && document.activeElement === primero) {
+        e.preventDefault();
+        ultimo.focus();
+      } else if (!e.shiftKey && document.activeElement === ultimo) {
+        e.preventDefault();
+        primero.focus();
+      }
+    }
+    document.addEventListener("keydown", alTeclado);
+    return () => document.removeEventListener("keydown", alTeclado);
+  }, [seleccion]);
 
   useEffect(() => {
     cargarIndex().then(setIndex);
@@ -118,7 +149,7 @@ export default function AreaPorTipo() {
           order: tiposOrdenados,
           title: (d: Segmento) => `${NOMBRE_TEMPORADA[d.temporada]} · ${d.tipo}: ${d.n} mención(es) — clic para ver la lista`,
         }),
-        Plot.ruleY([0]),
+        Plot.ruleY([0], { ariaHidden: "true" }),
       ],
     });
 
@@ -145,7 +176,7 @@ export default function AreaPorTipo() {
     <div className="tarjeta-grafico">
       <div className="cabecera-grafico">
         <div>
-          <h3>Área por tipo</h3>
+          <h2>Área por tipo</h2>
           <p className="nota-grafico">
             Menciones por tipo de obra, una barra por temporada. Clic en un tramo de color: lista de obras de ese
             tipo en esa temporada. {total.toLocaleString("es")} mención(es) con los filtros activos.
@@ -193,6 +224,7 @@ export default function AreaPorTipo() {
 
       {seleccion && (
         <div
+          ref={dialogoRef}
           role="dialog"
           aria-modal="true"
           aria-label={`Obras de tipo ${seleccion.tipo} en ${NOMBRE_TEMPORADA[seleccion.temporada]}`}
