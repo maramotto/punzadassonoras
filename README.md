@@ -57,6 +57,8 @@ punzadassonoras/
 ├── Dockerfile                build multi-etapa: datos (Python) -> Astro -> nginx
 ├── docker-compose.yml        despliegue del contenedor
 ├── nginx.conf                config de nginx dentro del contenedor
+├── scripts/
+│   └── desplegar.sh          git pull + build + up -d en el servidor, por SSH
 ├── web/                      sitio Astro + React
 │   ├── src/
 │   │   ├── components/        gráficos (Observable Plot, sigma.js), buscador, tablas
@@ -107,7 +109,10 @@ no se duplican aquí para no desincronizarse.
 ## Despliegue
 
 El sitio corre en un contenedor Docker, detrás de un nginx que hace de proxy inverso y
-termina el HTTPS (Let's Encrypt / Certbot), en un servidor propio.
+termina el HTTPS (Let's Encrypt / Certbot), en un servidor propio. Esta sección es la
+receta completa, paso a paso, para no depender de la memoria.
+
+### Cómo está montado
 
 `Dockerfile` en la raíz hace un build de tres etapas, con la raíz del repo como contexto
 (necesita `podcast-data/` y `web/` a la vez):
@@ -119,19 +124,162 @@ termina el HTTPS (Let's Encrypt / Certbot), en un servidor propio.
    larga e inmutable para los assets con hash de Astro, cache corta para `/data/`, que
    cambia en cada despliegue).
 
-Para actualizar el sitio en producción, en el servidor:
+El contenedor se publica en un puerto local (`8082:80`, ver `docker-compose.yml`), no
+directamente en internet. Un `nginx` **a nivel de sistema** (no el de dentro del
+contenedor — no lo confundas con `nginx.conf` de la raíz) hace de proxy inverso desde
+`universopunzadas.com` hacia ese puerto local y gestiona el certificado TLS con Certbot.
+Esa parte del sistema —el vhost del host y las credenciales del servidor— es específica
+de la máquina y no vive en este repositorio.
+
+### Requisitos previos
+
+- Acceso SSH al servidor, con un usuario que pueda ejecutar `docker` y (para los pasos
+  de nginx/Certbot) `sudo`.
+- El servidor ya tiene instalados: Docker + Docker Compose, `nginx`, `certbot` con el
+  plugin de nginx (`certbot python3-certbot-nginx` o equivalente).
+- El repo ya está clonado en el servidor (ver más abajo si es la primera vez).
+
+### Actualizar el sitio ya desplegado (el caso de cada vez)
+
+1. En tu máquina: fusiona la rama con los cambios a `master` (por PR, como el resto del
+   código).
+2. Ejecuta el script de despliegue, indicando el alias SSH del servidor que tengas en tu
+   `~/.ssh/config` (o `usuario@host` directamente):
+
+   ```bash
+   scripts/desplegar.sh mi-servidor
+   ```
+
+   Hace `git pull` + `docker compose build` + `docker compose up -d` en el servidor, y
+   al final muestra el estado del contenedor. Si el repo no está en `/opt/universopunzadas`
+   en tu servidor, pásale la ruta como segundo argumento:
+
+   ```bash
+   scripts/desplegar.sh mi-servidor /ruta/al/repo
+   ```
+
+3. Verifica en el navegador, o:
+
+   ```bash
+   curl -s -o /dev/null -w "%{http_code}\n" https://universopunzadas.com/
+   ```
+
+Si prefieres hacerlo a mano en vez de con el script, son los mismos tres comandos por
+SSH, desde la carpeta del repo en el servidor:
 
 ```bash
-cd /ruta/al/repo
 git pull
 docker compose build
 docker compose up -d
 ```
 
-El contenedor se publica en un puerto local; un `nginx` a nivel de sistema (no el de
-dentro del contenedor) hace de proxy inverso desde `universopunzadas.com` hacia ese
-puerto y gestiona el certificado TLS. Esa parte —el vhost del host y las credenciales del
-servidor— es específica de la máquina y no vive en este repositorio.
+### Desplegar en un servidor nuevo, desde cero
+
+Para cuando haya que montar esto en otra máquina (o reconstruirlo si se pierde el
+servidor actual):
+
+1. **DNS**: crea un registro `A` para el dominio (y `www`, o un comodín `*` que los
+   cubra a los dos) apuntando a la IP del servidor. Espera a que propague
+   (`dig +short tudominio.com` debería devolver esa IP).
+
+2. **Clona el repo** en el servidor, donde vayas a tener todos tus proyectos (aquí se
+   usa `/opt/<nombre-del-proyecto>/` por convención):
+
+   ```bash
+   cd /opt
+   git clone https://github.com/maramotto/punzadassonoras.git universopunzadas
+   ```
+
+3. **Construye y levanta el contenedor**:
+
+   ```bash
+   cd /opt/universopunzadas
+   docker compose build
+   docker compose up -d
+   ```
+
+   Con esto el sitio ya responde en `http://localhost:8082` **dentro del servidor**,
+   pero todavía no es accesible desde fuera ni tiene HTTPS — falta el proxy inverso.
+
+4. **Crea el vhost de nginx del sistema** (distinto del `nginx.conf` del repo, que es
+   solo para dentro del contenedor). Crea
+   `/etc/nginx/sites-available/universopunzadas` con este contenido, cambiando el
+   dominio y el puerto si hace falta:
+
+   ```nginx
+   server {
+       listen 80;
+       server_name tudominio.com www.tudominio.com;
+
+       location / {
+           proxy_pass http://localhost:8082;
+           proxy_set_header Host $host;
+           proxy_set_header X-Real-IP $remote_addr;
+           proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+           proxy_set_header X-Forwarded-Proto $scheme;
+       }
+   }
+   ```
+
+   Actívalo y recarga nginx:
+
+   ```bash
+   sudo ln -s /etc/nginx/sites-available/universopunzadas /etc/nginx/sites-enabled/
+   sudo nginx -t   # comprueba que la sintaxis es correcta antes de recargar
+   sudo systemctl reload nginx
+   ```
+
+5. **Emite el certificado HTTPS** con Certbot (necesita que el DNS del paso 1 ya
+   resuelva; si no, fallará la validación):
+
+   ```bash
+   sudo certbot --nginx -d tudominio.com -d www.tudominio.com \
+     --non-interactive --agree-tos --redirect
+   ```
+
+   Certbot reescribe el vhost del paso 4 para añadir el bloque HTTPS y la redirección
+   automática desde HTTP. La renovación queda programada sola (systemd timer / cron,
+   según cómo se instalase Certbot).
+
+6. **Verifica**:
+
+   ```bash
+   curl -s -o /dev/null -w "%{http_code}\n" https://tudominio.com/
+   ```
+
+### Comandos útiles ya en marcha
+
+```bash
+# Logs del contenedor en vivo
+docker logs universopunzadas --tail 50 -f
+
+# Reiniciar sin reconstruir la imagen
+docker compose restart
+
+# Parar el contenedor
+docker compose down
+
+# Ver todos los contenedores del servidor (por si hay varios proyectos)
+docker ps
+
+# Comprobar los certificados TLS y cuándo caducan
+sudo certbot certificates
+```
+
+### Analítica (Umami)
+
+La analítica del sitio (Umami, autoalojado) es un contenedor **aparte**, fuera de este
+repositorio, en `/opt/umami/` del servidor — no es código de `universopunzadas`, es
+infraestructura compartida. Para actualizarlo:
+
+```bash
+cd /opt/umami
+docker compose pull   # trae la imagen mas reciente, no hay build local que hacer
+docker compose up -d
+```
+
+El panel está en `https://stats.universopunzadas.com` (usuario `admin`; la contraseña
+la tienes guardada en tu gestor de contraseñas, no está en ningún sitio del repo).
 
 ---
 
