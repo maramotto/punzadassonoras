@@ -64,7 +64,7 @@ export function enlaceYoutube(videoId: string, inicioS: number | null): string |
 }
 
 /** Colores fijos por entidad, no por posicion en el ranking: filtrar nunca
- * repinta a las supervivientes. Maximo 8 tonos categoricos. */
+ * repinta a las supervivientes. Maximo 6 tonos categoricos. */
 const PALETA_CATEGORICA = [
   "var(--color-cat-1)",
   "var(--color-cat-2)",
@@ -72,8 +72,6 @@ const PALETA_CATEGORICA = [
   "var(--color-cat-4)",
   "var(--color-cat-5)",
   "var(--color-cat-6)",
-  "var(--color-cat-7)",
-  "var(--color-cat-8)",
 ];
 
 const cacheColor = new Map<string, string>();

@@ -21,11 +21,15 @@
   unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 
-/* Paleta categorica: 8 tonos repartidos cada 45 grados en el circulo de
-   matices, para maxima distincion perceptual (nada de tonos vecinos que se
-   confunden). Croma y luminosidad moderados a proposito -evitar el efecto
-   "caramelo". Un solo tema, claro: el lettering a mano (marca/*.svg) trae su
-   tinta horneada en el propio SVG, pensada para leerse sobre papel claro. */
+/* Paleta categorica: 6 tonos dentro de la familia rojo-rosa-ciruela del
+   lettering, en vez de repartidos cada 45 grados en todo el circulo de
+   matices. Solo caben 6 categorias distinguibles en esta familia (separadas
+   tambien por luminosidad, no solo por matiz); una setima entrada,
+   --color-cat-otros, agrupa lo que sobra. Par mas proximo en ΔE Oklab:
+   0.115, por encima del umbral de confusion 0.10 (ver
+   docs/paleta-universo-punzadas.md, seccion 3-4). Un solo tema, claro: el
+   lettering a mano (marca/*.svg) trae su tinta horneada en el propio SVG,
+   pensada para leerse sobre papel claro. */
 :root {
   /* Semanticos. Derivados de la tinta del lettering a mano (marca/*.svg),
      verificados en gamut sRGB y contraste WCAG contra --color-fondo (ver
@@ -51,14 +55,13 @@
   --color-secuencial-4: oklch(50% 0.180 22);
   --color-secuencial-5: oklch(33% 0.133 24);
 
-  --color-cat-1: oklch(68% 0.1 25);
-  --color-cat-2: oklch(68% 0.1 70);
-  --color-cat-3: oklch(68% 0.1 115);
-  --color-cat-4: oklch(68% 0.1 160);
-  --color-cat-5: oklch(68% 0.1 205);
-  --color-cat-6: oklch(68% 0.1 250);
-  --color-cat-7: oklch(68% 0.1 295);
-  --color-cat-8: oklch(68% 0.1 340);
+  --color-cat-1: oklch(45% 0.175 25);
+  --color-cat-2: oklch(62% 0.150 15);
+  --color-cat-3: oklch(80% 0.085 5);
+  --color-cat-4: oklch(40% 0.135 348);
+  --color-cat-5: oklch(58% 0.145 332);
+  --color-cat-6: oklch(70% 0.095 315);
+  --color-cat-otros: oklch(58% 0.015 340);
 
   --color-tono-entusiasta: oklch(42% 0.14 145);
   --color-tono-neutro: oklch(45% 0.01 260);
