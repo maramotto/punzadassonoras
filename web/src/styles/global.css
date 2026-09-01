@@ -43,12 +43,13 @@
   --color-tinta: oklch(15% 0.020 15);
   --color-tinta-texto: oklch(95% 0.010 15);
 
-  /* rampa secuencial de un solo tono, clara a oscura, para las matrices */
-  --color-secuencial-1: oklch(94% 0.02 55);
-  --color-secuencial-2: oklch(82% 0.06 55);
-  --color-secuencial-3: oklch(66% 0.11 55);
-  --color-secuencial-4: oklch(50% 0.14 55);
-  --color-secuencial-5: oklch(36% 0.13 55);
+  /* rampa secuencial de un solo tono, clara a oscura, para las matrices.
+     El peldano 5 ES la tinta del lettering (#69000f del SVG). */
+  --color-secuencial-1: oklch(95% 0.020 15);
+  --color-secuencial-2: oklch(84% 0.065 15);
+  --color-secuencial-3: oklch(68% 0.130 18);
+  --color-secuencial-4: oklch(50% 0.180 22);
+  --color-secuencial-5: oklch(33% 0.133 24);
 
   --color-cat-1: oklch(68% 0.1 25);
   --color-cat-2: oklch(68% 0.1 70);
