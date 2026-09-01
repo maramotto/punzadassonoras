@@ -27,13 +27,21 @@
    "caramelo". Un solo tema, claro: el lettering a mano (marca/*.svg) trae su
    tinta horneada en el propio SVG, pensada para leerse sobre papel claro. */
 :root {
-  --color-fondo: oklch(98% 0.005 260);
+  /* Semanticos. Derivados de la tinta del lettering a mano (marca/*.svg),
+     verificados en gamut sRGB y contraste WCAG contra --color-fondo (ver
+     docs/paleta-universo-punzadas.md, seccion 4). */
+  --color-fondo: oklch(98% 0.008 15);
   --color-superficie: oklch(100% 0 0);
-  --color-superficie-alta: oklch(95% 0.006 260);
-  --color-borde: oklch(88% 0.008 260);
-  --color-texto: oklch(20% 0.01 260);
-  --color-texto-tenue: oklch(42% 0.012 260);
-  --color-acento: oklch(52% 0.16 55);
+  --color-superficie-alta: oklch(95% 0.012 15);
+  --color-borde: oklch(87% 0.020 10);
+  --color-texto: oklch(18% 0.030 15);
+  --color-texto-tenue: oklch(43% 0.045 10);
+  --color-acento: oklch(45% 0.175 22);
+
+  /* Negro de banda: barra de filtros, pie, cabeceras de seccion. No se usa
+     como fondo de pagina, ver seccion 2 del documento de paleta. */
+  --color-tinta: oklch(15% 0.020 15);
+  --color-tinta-texto: oklch(95% 0.010 15);
 
   /* rampa secuencial de un solo tono, clara a oscura, para las matrices */
   --color-secuencial-1: oklch(94% 0.02 55);
