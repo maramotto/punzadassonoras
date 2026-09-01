@@ -61,7 +61,14 @@
   --color-cat-4: oklch(40% 0.135 348);
   --color-cat-5: oklch(58% 0.145 332);
   --color-cat-6: oklch(70% 0.095 315);
-  --color-cat-otros: oklch(58% 0.015 340);
+  /* Mas oscuro que el resto a proposito: bajo simulacion de daltonismo, el
+     mismo nivel de luminosidad que cat-2/cat-5 (58-62%) los confundia con
+     "otros" (dE simulado 0.03-0.09, por debajo del umbral 0.10) aunque en
+     color normal no eran el par mas proximo. Verificado con matrices de
+     Machado/Oliveira/Fito (deuteranopia y protanopia): a 25% de luminosidad
+     el peor caso sube a dE=0.12, por encima del umbral en ambas
+     simulaciones y en color normal. */
+  --color-cat-otros: oklch(25% 0.030 20);
 
   /* Divergente por LUMINOSIDAD dentro de la familia roja, no por matiz (antes
      verde entusiasta <-> rojo critico). El matiz ya no distingue, asi que
