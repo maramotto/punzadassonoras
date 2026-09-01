@@ -7,11 +7,11 @@ import { slugObra } from "../lib/slugs";
 import { comoTablaPorDefecto } from "../lib/movil";
 import type { Index } from "../lib/tipos";
 
-const MAX_TIPOS = 7; // + "otros" = 8, el maximo de colores categoricos que permite el plan
-const PALETA = [
-  "var(--color-cat-1)", "var(--color-cat-2)", "var(--color-cat-3)", "var(--color-cat-4)",
-  "var(--color-cat-5)", "var(--color-cat-6)", "var(--color-cat-7)", "var(--color-cat-8)",
+const MAX_TIPOS = 5; // + "otros" = 6, el maximo de colores categoricos que permite el plan
+const PALETA_REALES = [
+  "var(--color-cat-1)", "var(--color-cat-2)", "var(--color-cat-3)", "var(--color-cat-4)", "var(--color-cat-5)",
 ];
+const COLOR_OTROS = "var(--color-cat-otros)";
 const TEMPORADAS = ["1", "2", "3", "4", "5", "Glosas", "Especial"];
 const NOMBRE_TEMPORADA: Record<string, string> = {
   "1": "Temporada 1", "2": "Temporada 2", "3": "Temporada 3", "4": "Temporada 4", "5": "Temporada 5",
@@ -79,6 +79,24 @@ export default function AreaPorTipo() {
     if (comoTablaPorDefecto()) setComoTabla(true);
   }, []);
 
+  // Color fijo por tipo, calculado sobre TODO el corpus (no el subconjunto
+  // filtrado): asi ningun tipo cambia de color al filtrar, solo puede dejar
+  // de tener barra si su conteo en el filtro actual es cero. Los 5 tipos mas
+  // citados en el conjunto completo son los que tienen color propio; el
+  // resto siempre cae en "otros".
+  const { tiposReales, topSet, colorPorTipo } = useMemo(() => {
+    if (!index) return { tiposReales: [] as string[], topSet: new Set<string>(), colorPorTipo: new Map<string, string>() };
+    const totalGlobal = new Map<string, number>();
+    for (const fila of index.refs) {
+      const tipo = index.tip[fila[4]];
+      if (!tipo) continue;
+      totalGlobal.set(tipo, (totalGlobal.get(tipo) ?? 0) + 1);
+    }
+    const tiposReales = [...totalGlobal.entries()].sort((a, b) => b[1] - a[1]).slice(0, MAX_TIPOS).map(([t]) => t);
+    const colorPorTipo = new Map<string, string>(tiposReales.map((t, i) => [t, PALETA_REALES[i]]));
+    return { tiposReales, topSet: new Set(tiposReales), colorPorTipo };
+  }, [index]);
+
   const { segmentos, tiposOrdenados, obrasPorSegmento, total } = useMemo(() => {
     if (!index)
       return { segmentos: [] as Segmento[], tiposOrdenados: [] as string[], obrasPorSegmento: new Map<string, ObraDelSegmento[]>(), total: 0 };
@@ -91,9 +109,9 @@ export default function AreaPorTipo() {
       if (!tipo) continue;
       totalPorTipo.set(tipo, (totalPorTipo.get(tipo) ?? 0) + 1);
     }
-    const top = [...totalPorTipo.entries()].sort((a, b) => b[1] - a[1]).slice(0, MAX_TIPOS).map(([t]) => t);
-    const topSet = new Set(top);
-    const tiposOrdenados = [...top, "otros"];
+    const presentes = tiposReales.filter((t) => (totalPorTipo.get(t) ?? 0) > 0);
+    const hayOtros = [...totalPorTipo.keys()].some((t) => !topSet.has(t));
+    const tiposOrdenados = hayOtros ? [...presentes, "otros"] : presentes;
 
     const conteoSegmento = new Map<string, number>(); // `${temporada}|${tipoAgrupado}` -> n
     const obrasPorSegmento = new Map<string, Map<string, ObraDelSegmento>>(); // `${temporada}|${tipoAgrupado}` -> autor||obra -> detalle
@@ -131,7 +149,7 @@ export default function AreaPorTipo() {
     }
 
     return { segmentos, tiposOrdenados, obrasPorSegmento: obrasPorSegmentoOrdenadas, total: idxsFiltrados.length };
-  }, [index, filtro]);
+  }, [index, filtro, tiposReales, topSet]);
 
   useEffect(() => {
     if (!index || !contenedorRef.current || comoTabla) return;
@@ -148,7 +166,11 @@ export default function AreaPorTipo() {
       style: { background: "transparent", color: "var(--color-texto)" },
       x: { domain: TEMPORADAS.map((t) => NOMBRE_TEMPORADA[t]), label: null },
       y: { label: "menciones", grid: true },
-      color: { domain: tiposOrdenados, range: PALETA.slice(0, tiposOrdenados.length), legend: true },
+      color: {
+        domain: tiposOrdenados,
+        range: tiposOrdenados.map((t) => (t === "otros" ? COLOR_OTROS : colorPorTipo.get(t)!)),
+        legend: true,
+      },
       marks: [
         Plot.barY(segmentos, {
           x: (d: Segmento) => NOMBRE_TEMPORADA[d.temporada],
@@ -175,7 +197,7 @@ export default function AreaPorTipo() {
 
     contenedor.appendChild(figura);
     return () => figura.remove();
-  }, [segmentos, tiposOrdenados, comoTabla, index]);
+  }, [segmentos, tiposOrdenados, comoTabla, index, colorPorTipo]);
 
   const claveSeleccion = seleccion ? `${seleccion.temporada}|${seleccion.tipo}` : null;
   const obrasSeleccion = claveSeleccion ? obrasPorSegmento.get(claveSeleccion) ?? [] : [];

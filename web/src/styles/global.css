@@ -21,40 +21,63 @@
   unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 
-/* Paleta categorica: 8 tonos repartidos cada 45 grados en el circulo de
-   matices, para maxima distincion perceptual (nada de tonos vecinos que se
-   confunden). Croma y luminosidad moderados a proposito -evitar el efecto
-   "caramelo". Un solo tema, claro: el lettering a mano (marca/*.svg) trae su
-   tinta horneada en el propio SVG, pensada para leerse sobre papel claro. */
+/* Paleta categorica: 6 tonos dentro de la familia rojo-rosa-ciruela del
+   lettering, en vez de repartidos cada 45 grados en todo el circulo de
+   matices. Solo caben 6 categorias distinguibles en esta familia (separadas
+   tambien por luminosidad, no solo por matiz); una setima entrada,
+   --color-cat-otros, agrupa lo que sobra. Par mas proximo en ΔE Oklab:
+   0.115, por encima del umbral de confusion 0.10 (ver
+   docs/paleta-universo-punzadas.md, seccion 3-4). Un solo tema, claro: el
+   lettering a mano (marca/*.svg) trae su tinta horneada en el propio SVG,
+   pensada para leerse sobre papel claro. */
 :root {
-  --color-fondo: oklch(98% 0.005 260);
+  /* Semanticos. Derivados de la tinta del lettering a mano (marca/*.svg),
+     verificados en gamut sRGB y contraste WCAG contra --color-fondo (ver
+     docs/paleta-universo-punzadas.md, seccion 4). */
+  --color-fondo: oklch(98% 0.008 15);
   --color-superficie: oklch(100% 0 0);
-  --color-superficie-alta: oklch(95% 0.006 260);
-  --color-borde: oklch(88% 0.008 260);
-  --color-texto: oklch(20% 0.01 260);
-  --color-texto-tenue: oklch(42% 0.012 260);
-  --color-acento: oklch(52% 0.16 55);
+  --color-superficie-alta: oklch(95% 0.012 15);
+  --color-borde: oklch(87% 0.020 10);
+  --color-texto: oklch(18% 0.030 15);
+  --color-texto-tenue: oklch(43% 0.045 10);
+  --color-acento: oklch(45% 0.175 22);
 
-  /* rampa secuencial de un solo tono, clara a oscura, para las matrices */
-  --color-secuencial-1: oklch(94% 0.02 55);
-  --color-secuencial-2: oklch(82% 0.06 55);
-  --color-secuencial-3: oklch(66% 0.11 55);
-  --color-secuencial-4: oklch(50% 0.14 55);
-  --color-secuencial-5: oklch(36% 0.13 55);
+  /* Negro de banda: barra de filtros, pie, cabeceras de seccion. No se usa
+     como fondo de pagina, ver seccion 2 del documento de paleta. */
+  --color-tinta: oklch(15% 0.020 15);
+  --color-tinta-texto: oklch(95% 0.010 15);
 
-  --color-cat-1: oklch(68% 0.1 25);
-  --color-cat-2: oklch(68% 0.1 70);
-  --color-cat-3: oklch(68% 0.1 115);
-  --color-cat-4: oklch(68% 0.1 160);
-  --color-cat-5: oklch(68% 0.1 205);
-  --color-cat-6: oklch(68% 0.1 250);
-  --color-cat-7: oklch(68% 0.1 295);
-  --color-cat-8: oklch(68% 0.1 340);
+  /* rampa secuencial de un solo tono, clara a oscura, para las matrices.
+     El peldano 5 ES la tinta del lettering (#69000f del SVG). */
+  --color-secuencial-1: oklch(95% 0.020 15);
+  --color-secuencial-2: oklch(84% 0.065 15);
+  --color-secuencial-3: oklch(68% 0.130 18);
+  --color-secuencial-4: oklch(50% 0.180 22);
+  --color-secuencial-5: oklch(33% 0.133 24);
 
-  --color-tono-entusiasta: oklch(42% 0.14 145);
-  --color-tono-neutro: oklch(45% 0.01 260);
-  --color-tono-critico: oklch(45% 0.18 25);
-  --color-tono-ambivalente: oklch(46% 0.12 75);
+  --color-cat-1: oklch(45% 0.175 25);
+  --color-cat-2: oklch(62% 0.150 15);
+  --color-cat-3: oklch(80% 0.085 5);
+  --color-cat-4: oklch(40% 0.135 348);
+  --color-cat-5: oklch(58% 0.145 332);
+  --color-cat-6: oklch(70% 0.095 315);
+  /* Mas oscuro que el resto a proposito: bajo simulacion de daltonismo, el
+     mismo nivel de luminosidad que cat-2/cat-5 (58-62%) los confundia con
+     "otros" (dE simulado 0.03-0.09, por debajo del umbral 0.10) aunque en
+     color normal no eran el par mas proximo. Verificado con matrices de
+     Machado/Oliveira/Fito (deuteranopia y protanopia): a 25% de luminosidad
+     el peor caso sube a dE=0.12, por encima del umbral en ambas
+     simulaciones y en color normal. */
+  --color-cat-otros: oklch(25% 0.030 20);
+
+  /* Divergente por LUMINOSIDAD dentro de la familia roja, no por matiz (antes
+     verde entusiasta <-> rojo critico). El matiz ya no distingue, asi que
+     .punto-tono anade forma redundante: ver esa regla mas abajo. Par mas
+     proximo en ΔE Oklab: ambivalente/neutro, 0.125. */
+  --color-tono-entusiasta: oklch(60% 0.150 5);    /* circulo relleno */
+  --color-tono-ambivalente: oklch(48% 0.130 345); /* circulo medio relleno */
+  --color-tono-neutro: oklch(52% 0.012 340);      /* anillo */
+  --color-tono-critico: oklch(27% 0.100 25);      /* circulo relleno oscuro */
 
   --text-base: clamp(1rem, 0.94rem + 0.3vw, 1.0625rem);
   --text-hero: clamp(2.5rem, 1.2rem + 5vw, 5.5rem);
@@ -218,11 +241,25 @@ button:focus-visible {
   gap: 0.4rem;
   white-space: nowrap;
 }
+/* Redundancia de forma ademas de color: en una paleta roja monocroma, el
+   tono ya no se distingue solo por matiz (ver --color-tono-* en :root).
+   Cada estado tiene ademas una forma distinta, para que no dependa del
+   color solo (deuteranopia/protanopia comprimen justo ese eje). */
 .punto-tono {
-  width: 0.55rem;
-  height: 0.55rem;
+  --color-punto: currentColor;
+  width: 0.6rem;
+  height: 0.6rem;
   border-radius: 50%;
   flex-shrink: 0;
+  background: var(--color-punto);
+  border: 1.5px solid var(--color-punto);
+  box-sizing: border-box;
+}
+.punto-tono[data-tono="neutro"] {
+  background: transparent; /* anillo: solo borde */
+}
+.punto-tono[data-tono="ambivalente"] {
+  background: linear-gradient(90deg, var(--color-punto) 50%, transparent 50%); /* medio relleno */
 }
 
 /* --- Tarjetas de grafico (Paso 5) --------------------------------------- */
