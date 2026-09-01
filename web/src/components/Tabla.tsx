@@ -53,7 +53,12 @@ const columnas = [
       const tono = info.getValue();
       return (
         <span className="celda-tono">
-          <span aria-hidden="true" className="punto-tono" style={{ background: colorPorTono(tono) }} />
+          <span
+            aria-hidden="true"
+            className="punto-tono"
+            data-tono={tono}
+            style={{ "--color-punto": colorPorTono(tono) } as React.CSSProperties}
+          />
           {tono}
         </span>
       );

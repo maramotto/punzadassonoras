@@ -63,10 +63,14 @@
   --color-cat-6: oklch(70% 0.095 315);
   --color-cat-otros: oklch(58% 0.015 340);
 
-  --color-tono-entusiasta: oklch(42% 0.14 145);
-  --color-tono-neutro: oklch(45% 0.01 260);
-  --color-tono-critico: oklch(45% 0.18 25);
-  --color-tono-ambivalente: oklch(46% 0.12 75);
+  /* Divergente por LUMINOSIDAD dentro de la familia roja, no por matiz (antes
+     verde entusiasta <-> rojo critico). El matiz ya no distingue, asi que
+     .punto-tono anade forma redundante: ver esa regla mas abajo. Par mas
+     proximo en ΔE Oklab: ambivalente/neutro, 0.125. */
+  --color-tono-entusiasta: oklch(60% 0.150 5);    /* circulo relleno */
+  --color-tono-ambivalente: oklch(48% 0.130 345); /* circulo medio relleno */
+  --color-tono-neutro: oklch(52% 0.012 340);      /* anillo */
+  --color-tono-critico: oklch(27% 0.100 25);      /* circulo relleno oscuro */
 
   --text-base: clamp(1rem, 0.94rem + 0.3vw, 1.0625rem);
   --text-hero: clamp(2.5rem, 1.2rem + 5vw, 5.5rem);
@@ -230,11 +234,25 @@ button:focus-visible {
   gap: 0.4rem;
   white-space: nowrap;
 }
+/* Redundancia de forma ademas de color: en una paleta roja monocroma, el
+   tono ya no se distingue solo por matiz (ver --color-tono-* en :root).
+   Cada estado tiene ademas una forma distinta, para que no dependa del
+   color solo (deuteranopia/protanopia comprimen justo ese eje). */
 .punto-tono {
-  width: 0.55rem;
-  height: 0.55rem;
+  --color-punto: currentColor;
+  width: 0.6rem;
+  height: 0.6rem;
   border-radius: 50%;
   flex-shrink: 0;
+  background: var(--color-punto);
+  border: 1.5px solid var(--color-punto);
+  box-sizing: border-box;
+}
+.punto-tono[data-tono="neutro"] {
+  background: transparent; /* anillo: solo borde */
+}
+.punto-tono[data-tono="ambivalente"] {
+  background: linear-gradient(90deg, var(--color-punto) 50%, transparent 50%); /* medio relleno */
 }
 
 /* --- Tarjetas de grafico (Paso 5) --------------------------------------- */
