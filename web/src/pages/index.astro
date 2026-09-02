@@ -10,19 +10,33 @@ const index = indexBuild();
   titulo="universopunzadas"
   descripcion="Catálogo navegable de las referencias culturales citadas en Punzadas Sonoras: qué se cita, quién lo cita y en qué episodio, con la cita literal y el minuto exacto."
 >
-  <div class="envoltura" style="padding-block: 1.5rem;">
-    <h1 style="font-size: 1.15rem; font-weight: 600; margin: 0 0 0.6rem;">Catálogo de referencias culturales</h1>
-    <p style="max-width: 38rem;">
-      {index.eps.length} episodios de Punzadas Sonoras, {index.refs.length.toLocaleString("es")} menciones.
-      Cada fila es un tema, cada columna un episodio en orden cronológico.
+  <section class="hero-home envoltura">
+    <h1 class="hero-home__titulo">
+      <img class="marca hero-home__wordmark" src="/images/marca/universo-punzadas-letras.svg" alt="universopunzadas" />
+    </h1>
+    <p class="hero-home__intro">
+      Catálogo navegable de las referencias culturales citadas en <strong>Punzadas Sonoras</strong>: qué se
+      cita, quién lo cita y en qué episodio, con la cita literal y el minuto exacto. {index.eps.length} episodios,
+      {" "}{index.refs.length.toLocaleString("es")} menciones.
     </p>
 
-    <div style="margin-top: 1rem;">
-      <MatrizTemasGrafico client:visible />
+    <div class="hero-home__accesos">
+      <a href="/buscar" class="tarjeta-acceso">
+        <span class="tarjeta-acceso__titulo">Buscador</span>
+        <span class="tarjeta-acceso__desc">
+          Texto libre, o filtra por temporada, autoría, tema, tipo, función y confianza.
+        </span>
+      </a>
+      <a href="/explorar" class="tarjeta-acceso">
+        <span class="tarjeta-acceso__titulo">Explorar</span>
+        <span class="tarjeta-acceso__desc">
+          Matrices, ranking de autorías y el grafo de obras en diálogo: el archivo visto de otra manera.
+        </span>
+      </a>
     </div>
+  </section>
 
-    <p style="margin-top: 1.5rem;">
-      <a href="/buscar">Ir al buscador</a> · <a href="/explorar">Ver los gráficos</a>
-    </p>
-  </div>
+  <section class="envoltura seccion-home-matriz">
+    <MatrizTemasGrafico client:visible />
+  </section>
 </Base>

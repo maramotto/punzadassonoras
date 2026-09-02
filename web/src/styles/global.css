@@ -434,6 +434,117 @@ mark {
   width: auto;
 }
 
+/* --- Cabecera del sitio (Base.astro, todas las paginas) ------------------ */
+
+.cabecera-sitio {
+  border-bottom: 1px solid var(--color-borde);
+}
+
+.cabecera-sitio__interior {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  padding-block: 1.1rem;
+}
+
+.cabecera-sitio__logo {
+  display: block;
+  line-height: 0;
+}
+.cabecera-sitio__logo .marca {
+  height: 1.5rem;
+  transition: opacity var(--duration-fast) var(--ease-out-expo);
+}
+.cabecera-sitio__logo:hover .marca,
+.cabecera-sitio__logo:focus-visible .marca {
+  opacity: 0.7;
+}
+
+.cabecera-sitio__nav {
+  display: flex;
+  align-items: center;
+  gap: 1.75rem;
+}
+.cabecera-sitio__nav a {
+  display: block;
+  line-height: 0;
+  padding-block: 0.4rem;
+  opacity: 0.8;
+  transition: opacity var(--duration-fast) var(--ease-out-expo);
+}
+.cabecera-sitio__nav a:hover,
+.cabecera-sitio__nav a:focus-visible {
+  opacity: 1;
+}
+.cabecera-sitio__nav .marca {
+  height: 1.05rem;
+}
+
+/* --- Hero de portada (index.astro) ---------------------------------------- */
+
+.hero-home {
+  padding-block: var(--space-section) calc(var(--space-section) * 0.6);
+}
+
+.hero-home__titulo {
+  margin: 0 0 1.25rem;
+  line-height: 0;
+}
+.hero-home__wordmark {
+  width: clamp(16rem, 8rem + 32vw, 44rem);
+  height: auto;
+}
+
+.hero-home__intro {
+  max-width: 38rem;
+  font-size: 1.05rem;
+  color: var(--color-texto-tenue);
+}
+
+.hero-home__accesos {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  gap: 1rem;
+  margin-top: 1.75rem;
+  max-width: 42rem;
+}
+
+.tarjeta-acceso {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 1.1rem 1.25rem;
+  border: 1px solid var(--color-borde);
+  border-radius: var(--radio);
+  background: var(--color-superficie);
+  text-decoration: none;
+  color: inherit;
+  transition: border-color var(--duration-fast) var(--ease-out-expo), transform var(--duration-fast) var(--ease-out-expo);
+}
+.tarjeta-acceso:hover,
+.tarjeta-acceso:focus-visible {
+  border-color: var(--color-acento);
+  transform: translateY(-2px);
+}
+
+.tarjeta-acceso__titulo {
+  font-weight: 600;
+  font-size: 1.05rem;
+  color: var(--color-acento);
+}
+
+.tarjeta-acceso__desc {
+  font-size: 0.9rem;
+  color: var(--color-texto-tenue);
+  line-height: 1.45;
+}
+
+.seccion-home-matriz {
+  padding-bottom: var(--space-section);
+}
+
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,

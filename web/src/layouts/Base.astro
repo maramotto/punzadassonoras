@@ -29,15 +29,17 @@ const tituloCompleto = titulo === "universopunzadas" ? titulo : `${titulo} · un
   <body>
     <a href="#contenido" class="chip" style="position:absolute; left:-999px; top:0;"
        onfocus="this.style.left='0.5rem'" onblur="this.style.left='-999px'">Saltar al contenido</a>
-    <header class="envoltura" style="display:flex; align-items:center; justify-content:space-between; padding:0.75rem 1.25rem; gap:1rem; flex-wrap:wrap;">
-      <a href="/" style="text-decoration:none;">
-        <img class="marca" src="/images/marca/universo-punzadas-letras.svg" alt="universopunzadas" style="height:1.6rem;" />
-      </a>
-      <nav aria-label="Navegación principal" style="display:flex; gap:1.1rem; align-items:center;">
-        <a href="/buscar"><img class="marca" src="/images/marca/buscar-letras.svg" alt="Buscar" style="height:1.15rem;" /></a>
-        <a href="/explorar"><img class="marca" src="/images/marca/explorar-letras.svg" alt="Explorar" style="height:1rem;" /></a>
-        <a href="/sobre"><img class="marca" src="/images/marca/sobre-u-punzadas.svg" alt="Sobre esto" style="height:1rem;" /></a>
-      </nav>
+    <header class="cabecera-sitio">
+      <div class="envoltura cabecera-sitio__interior">
+        <a href="/" class="cabecera-sitio__logo">
+          <img class="marca" src="/images/marca/universo-punzadas-letras.svg" alt="universopunzadas" />
+        </a>
+        <nav class="cabecera-sitio__nav" aria-label="Navegación principal">
+          <a href="/buscar"><img class="marca" src="/images/marca/buscar-letras.svg" alt="Buscar" /></a>
+          <a href="/explorar"><img class="marca" src="/images/marca/explorar-letras.svg" alt="Explorar" /></a>
+          <a href="/sobre"><img class="marca" src="/images/marca/sobre-u-punzadas.svg" alt="Sobre esto" /></a>
+        </nav>
+      </div>
     </header>
     <main id="contenido">
       <slot />
