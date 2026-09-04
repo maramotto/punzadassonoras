@@ -42,10 +42,22 @@
   --color-texto-tenue: oklch(43% 0.045 10);
   --color-acento: oklch(45% 0.175 22);
 
-  /* Negro de banda: barra de filtros, pie, cabeceras de seccion. No se usa
-     como fondo de pagina, ver seccion 2 del documento de paleta. */
+  /* Negro de banda: pie, cabeceras de seccion. No se usa como fondo de
+     pagina, ver seccion 2 del documento de paleta. Se descarto para la
+     barra de filtros/titulo (ver --color-banda) porque el lettering a
+     mano de esas zonas tiene tinta oscura y se volveria ilegible. */
   --color-tinta: oklch(15% 0.020 15);
   --color-tinta-texto: oklch(95% 0.010 15);
+
+  /* Banda de titulo y filtros en /buscar y /explorar: --color-acento
+     mezclado 25% en blanco en OKLCH. Mucho mas saturada que
+     --color-superficie-alta a proposito, para que las 5 zonas de esas
+     paginas (menu, titulo, busqueda, filtros, resto) se lean claramente
+     distintas usando solo 3 colores alternados. Contraste contra la tinta
+     oscura del lettering: 4.4-8.4:1 (holgado); solo el trazo mas claro del
+     SVG (#9c94a4, minoritario) baja a 1.88:1, igual que ya aceptamos para
+     --color-fondo en el documento de paleta. */
+  --color-banda: oklch(86% 0.044 22);
 
   /* rampa secuencial de un solo tono, clara a oscura, para las matrices.
      El peldano 5 ES la tinta del lettering (#69000f del SVG). */
@@ -122,18 +134,23 @@ a {
   z-index: 40;
 }
 
-/* Zona de titulo + busqueda: comparten clase (y por tanto fondo) el bloque
-   de titulo en buscar.astro/explorar.astro y la fila de busqueda de aqui
-   dentro, para que se lean como una sola banda continua sin costura. */
+/* 5 zonas con solo 3 colores, alternados: menu (--color-fondo) / titulo
+   (--color-banda) / busqueda (--color-superficie) / filtros
+   (--color-banda, se repite) / resto de la pagina (--color-fondo, se
+   repite). Cada frontera entre zonas contiguas usa dos colores distintos;
+   solo se reutiliza color entre zonas NO contiguas (menu/resto,
+   titulo/filtros). Borde en cada costura, ademas del cambio de color. */
+.zona-titulo {
+  background: var(--color-banda);
+  border-bottom: 1px solid var(--color-borde);
+}
+
 .zona-busqueda {
   background: var(--color-superficie);
 }
 
-/* Zona de filtros: fondo distinto de busqueda (arriba) y del resto de la
-   pagina (abajo), con borde a los dos lados para que la banda se note
-   incluso si el contraste de color por si solo no basta. */
 .zona-filtros {
-  background: var(--color-superficie-alta);
+  background: var(--color-banda);
   border-block: 1px solid var(--color-borde);
 }
 
