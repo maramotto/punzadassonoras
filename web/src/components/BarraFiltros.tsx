@@ -172,40 +172,45 @@ export default function BarraFiltros() {
 
   return (
     <div className="barra-filtros">
-      <div className="envoltura" style={{ display: "flex", flexDirection: "column", gap: "0.6rem", padding: "0.75rem 1.25rem" }}>
-        <div style={{ display: "flex", gap: "0.6rem", alignItems: "center", flexWrap: "wrap" }}>
-          <input
-            type="search"
-            aria-label="Buscar en autoras, obras, menciones y episodios"
-            placeholder="Buscar…"
-            value={filtro.q}
-            onChange={(e) => actualizarFiltro({ q: e.target.value })}
-            style={{
-              flex: "1 1 16rem",
-              padding: "0.5rem 0.75rem",
-              borderRadius: "var(--radio)",
-              border: "1px solid var(--color-borde)",
-              background: "var(--color-superficie)",
-              color: "var(--color-texto)",
-              font: "inherit",
-            }}
-          />
-          {index && (
-            <span aria-live="polite" style={{ color: "var(--color-texto-tenue)", fontSize: "0.9em", whiteSpace: "nowrap" }}>
-              {`${activos.toLocaleString("es")} de ${total.toLocaleString("es")} menciones`}
-            </span>
-          )}
-          {hayFiltrosActivos(filtro) && (
-            <button className="faceta" onClick={limpiarFiltro} type="button">
-              Limpiar filtros
-            </button>
-          )}
+      <div className="zona-busqueda">
+        <div className="envoltura" style={{ padding: "0.75rem 1.25rem" }}>
+          <div style={{ display: "flex", gap: "0.6rem", alignItems: "center", flexWrap: "wrap" }}>
+            <input
+              type="search"
+              aria-label="Buscar en autoras, obras, menciones y episodios"
+              placeholder="Buscar…"
+              value={filtro.q}
+              onChange={(e) => actualizarFiltro({ q: e.target.value })}
+              style={{
+                flex: "1 1 16rem",
+                padding: "0.5rem 0.75rem",
+                borderRadius: "var(--radio)",
+                border: "1px solid var(--color-borde)",
+                background: "var(--color-superficie)",
+                color: "var(--color-texto)",
+                font: "inherit",
+              }}
+            />
+            {index && (
+              <span aria-live="polite" style={{ color: "var(--color-texto-tenue)", fontSize: "0.9em", whiteSpace: "nowrap" }}>
+                {`${activos.toLocaleString("es")} de ${total.toLocaleString("es")} menciones`}
+              </span>
+            )}
+            {hayFiltrosActivos(filtro) && (
+              <button className="faceta" onClick={limpiarFiltro} type="button">
+                Limpiar filtros
+              </button>
+            )}
+          </div>
         </div>
+      </div>
 
+      <div className="zona-filtros">
+        <div className="envoltura" style={{ display: "flex", flexDirection: "column", gap: "0.6rem", padding: "0.75rem 1.25rem" }}>
         <img
           src="/images/marca/filtros-letras.svg"
           alt="Filtros"
-          style={{ height: "1.1rem", width: "auto", display: "block", alignSelf: "flex-start", marginTop: "0.5rem" }}
+          style={{ height: "1.1rem", width: "auto", display: "block", alignSelf: "flex-start" }}
         />
 
         <div style={{ display: "flex", gap: "0.4rem", flexWrap: "wrap" }}>
@@ -240,7 +245,7 @@ export default function BarraFiltros() {
                         position: "absolute",
                         top: "calc(100% + 0.3rem)",
                         left: 0,
-                        background: "var(--color-superficie-alta)",
+                        background: "var(--color-superficie)",
                         border: "1px solid var(--color-borde)",
                         borderRadius: "var(--radio)",
                         padding: "0.5rem",
@@ -329,7 +334,7 @@ export default function BarraFiltros() {
                       position: "absolute",
                       top: "calc(100% + 0.3rem)",
                       left: 0,
-                      background: "var(--color-superficie-alta)",
+                      background: "var(--color-superficie)",
                       border: "1px solid var(--color-borde)",
                       borderRadius: "var(--radio)",
                       padding: "0.5rem",
@@ -393,6 +398,7 @@ export default function BarraFiltros() {
             )}
           </div>
         )}
+        </div>
       </div>
     </div>
   );

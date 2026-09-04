@@ -120,9 +120,21 @@ a {
   position: sticky;
   top: 0;
   z-index: 40;
-  background: color-mix(in oklch, var(--color-superficie) 92%, transparent);
-  backdrop-filter: blur(10px);
-  border-bottom: 1px solid var(--color-borde);
+}
+
+/* Zona de titulo + busqueda: comparten clase (y por tanto fondo) el bloque
+   de titulo en buscar.astro/explorar.astro y la fila de busqueda de aqui
+   dentro, para que se lean como una sola banda continua sin costura. */
+.zona-busqueda {
+  background: var(--color-superficie);
+}
+
+/* Zona de filtros: fondo distinto de busqueda (arriba) y del resto de la
+   pagina (abajo), con borde a los dos lados para que la banda se note
+   incluso si el contraste de color por si solo no basta. */
+.zona-filtros {
+  background: var(--color-superficie-alta);
+  border-block: 1px solid var(--color-borde);
 }
 
 .chip {
@@ -131,7 +143,7 @@ a {
   gap: 0.35rem;
   padding: 0.2rem 0.6rem;
   border-radius: 999px;
-  background: var(--color-superficie-alta);
+  background: var(--color-superficie);
   border: 1px solid var(--color-borde);
   font-size: 0.85em;
 }
@@ -180,7 +192,7 @@ button:focus-visible {
   color: var(--color-fondo);
 }
 .opcion-combo:not([data-activa="true"]):hover {
-  background: var(--color-superficie);
+  background: var(--color-superficie-alta);
 }
 
 /* --- Tabla de menciones ------------------------------------------------ */
