@@ -1,24 +1,49 @@
-/* M PLUS 1, autohospedada (Google Fonts, licencia OFL en public/fonts/).
-   Fuente variable: un solo fichero cubre todo el eje de grosor (100-900), asi
-   que no hace falta declarar @font-face por cada peso. Dos subconjuntos nada
-   mas -latin y latin-ext-, suficientes para castellano y la mayoria de
-   nombres propios europeos; se deja fuera japones/vietnamita, que forman la
-   mayor parte del paquete original y aqui no hacen falta. */
+/* Syne + DM Sans, autohospedadas (Google Fonts, licencia OFL en
+   public/fonts/), los mismos ficheros que usa maramotto.com -misma
+   creadora, mismo aire tipografico-. Syne para titulos y etiquetas (h1-h3,
+   cabeceras de tabla en mayusculas, titulos de tarjeta); DM Sans para todo
+   lo demas. Dos familias en total, no tres: sustituyen a M PLUS 1 en vez
+   de sumarse. El lettering a mano (marca/*.svg) no es texto, no le afecta
+   ningun font-family. */
 @font-face {
-  font-family: "M PLUS 1 Variable";
+  font-family: "Syne";
   font-style: normal;
   font-display: swap;
-  font-weight: 100 900;
-  src: url("/fonts/m-plus-1-latin-wght-normal.woff2") format("woff2-variations");
+  font-weight: 700;
+  src: url("/fonts/syne-700.woff2") format("woff2");
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 @font-face {
-  font-family: "M PLUS 1 Variable";
+  font-family: "DM Sans";
   font-style: normal;
   font-display: swap;
-  font-weight: 100 900;
-  src: url("/fonts/m-plus-1-latin-ext-wght-normal.woff2") format("woff2-variations");
-  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+  font-weight: 400;
+  src: url("/fonts/dm-sans-400.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url("/fonts/dm-sans-500.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url("/fonts/dm-sans-700.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "DM Sans";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 400;
+  src: url("/fonts/dm-sans-400-italic.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
 /* Paleta categorica: 6 tonos dentro de la familia rojo-rosa-ciruela del
@@ -42,10 +67,22 @@
   --color-texto-tenue: oklch(43% 0.045 10);
   --color-acento: oklch(45% 0.175 22);
 
-  /* Negro de banda: barra de filtros, pie, cabeceras de seccion. No se usa
-     como fondo de pagina, ver seccion 2 del documento de paleta. */
+  /* Negro de banda: pie, cabeceras de seccion. No se usa como fondo de
+     pagina, ver seccion 2 del documento de paleta. Se descarto para la
+     barra de filtros/titulo (ver --color-banda) porque el lettering a
+     mano de esas zonas tiene tinta oscura y se volveria ilegible. */
   --color-tinta: oklch(15% 0.020 15);
   --color-tinta-texto: oklch(95% 0.010 15);
+
+  /* Banda de titulo y filtros en /buscar y /explorar: --color-acento
+     mezclado 25% en blanco en OKLCH. Mucho mas saturada que
+     --color-superficie-alta a proposito, para que las 5 zonas de esas
+     paginas (menu, titulo, busqueda, filtros, resto) se lean claramente
+     distintas usando solo 3 colores alternados. Contraste contra la tinta
+     oscura del lettering: 4.4-8.4:1 (holgado); solo el trazo mas claro del
+     SVG (#9c94a4, minoritario) baja a 1.88:1, igual que ya aceptamos para
+     --color-fondo en el documento de paleta. */
+  --color-banda: oklch(86% 0.044 22);
 
   /* rampa secuencial de un solo tono, clara a oscura, para las matrices.
      El peldano 5 ES la tinta del lettering (#69000f del SVG). */
@@ -100,10 +137,16 @@ body {
   margin: 0;
   background: var(--color-fondo);
   color: var(--color-texto);
-  font-family: "M PLUS 1 Variable", system-ui, sans-serif;
+  font-family: "DM Sans", system-ui, sans-serif;
   font-size: var(--text-base);
   line-height: 1.5;
   transition: background var(--duration-normal) var(--ease-out-expo), color var(--duration-normal) var(--ease-out-expo);
+}
+
+h1, h2, h3 {
+  font-family: "Syne", "DM Sans", system-ui, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.01em;
 }
 
 a {
@@ -120,9 +163,26 @@ a {
   position: sticky;
   top: 0;
   z-index: 40;
-  background: color-mix(in oklch, var(--color-superficie) 92%, transparent);
-  backdrop-filter: blur(10px);
+}
+
+/* 5 zonas con solo 3 colores, alternados: menu (--color-fondo) / titulo
+   (--color-banda) / busqueda (--color-superficie) / filtros
+   (--color-banda, se repite) / resto de la pagina (--color-fondo, se
+   repite). Cada frontera entre zonas contiguas usa dos colores distintos;
+   solo se reutiliza color entre zonas NO contiguas (menu/resto,
+   titulo/filtros). Borde en cada costura, ademas del cambio de color. */
+.zona-titulo {
+  background: var(--color-banda);
   border-bottom: 1px solid var(--color-borde);
+}
+
+.zona-busqueda {
+  background: var(--color-superficie);
+}
+
+.zona-filtros {
+  background: var(--color-banda);
+  border-block: 1px solid var(--color-borde);
 }
 
 .chip {
@@ -131,7 +191,7 @@ a {
   gap: 0.35rem;
   padding: 0.2rem 0.6rem;
   border-radius: 999px;
-  background: var(--color-superficie-alta);
+  background: var(--color-superficie);
   border: 1px solid var(--color-borde);
   font-size: 0.85em;
 }
@@ -180,7 +240,7 @@ button:focus-visible {
   color: var(--color-fondo);
 }
 .opcion-combo:not([data-activa="true"]):hover {
-  background: var(--color-superficie);
+  background: var(--color-superficie-alta);
 }
 
 /* --- Tabla de menciones ------------------------------------------------ */
@@ -190,8 +250,9 @@ button:focus-visible {
   padding: 0.55rem 1rem;
   background: var(--color-superficie-alta);
   border-bottom: 1px solid var(--color-borde);
+  font-family: "Syne", "DM Sans", system-ui, sans-serif;
   font-size: 0.72rem;
-  font-weight: 600;
+  font-weight: 700;
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: var(--color-texto-tenue);
@@ -393,8 +454,9 @@ button:focus-visible {
 }
 
 .titulo-resultado {
+  font-family: "Syne", "DM Sans", system-ui, sans-serif;
   font-size: 1rem;
-  font-weight: 600;
+  font-weight: 700;
   text-decoration: none;
 }
 .titulo-resultado:hover {
@@ -530,7 +592,8 @@ mark {
 }
 
 .tarjeta-acceso__titulo {
-  font-weight: 600;
+  font-family: "Syne", "DM Sans", system-ui, sans-serif;
+  font-weight: 700;
   font-size: 1.05rem;
   color: var(--color-acento);
 }
