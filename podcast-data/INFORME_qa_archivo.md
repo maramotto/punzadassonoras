@@ -1,6 +1,6 @@
 # Informe de QA del archivo
 
-Generado por `15_qa_archivo.py` sobre 118 episodios y 5874 menciones. Solo diagnostico: no se ha corregido nada automaticamente.
+Generado por `15_qa_archivo.py` sobre 120 episodios y 5931 menciones. Solo diagnostico: no se ha corregido nada automaticamente.
 ## 1. Titulos de obra que normalizados coinciden pero se escriben distinto
 Mismo titulo (sin mayusculas/tildes/puntuacion) escrito de mas de una forma. Decide cual variante se queda; el resto hay que fundirlas.
 
@@ -200,9 +200,9 @@ Mismo titulo normalizado con mas de un autor distinto. Puede ser una atribucion 
 Total de obras con autoria en conflicto: 44
 
 ## 3. Menciones con autor "sin determinar"
-Total: 263. Agrupadas por obra para ver cuales se pueden completar a mano y cuales quedan fuera de rankings de autoria.
+Total: 269. Agrupadas por obra para ver cuales se pueden completar a mano y cuales quedan fuera de rankings de autoria.
 
-**(sin obra)** (91)
+**(sin obra)** (92)
 - Glosas 1x02: 'esto también nos lo contaba Jorge Richman'
 - Glosas 1x02: 'o sea, recuerdo un artículo'
 - Glosas 1x05: 'Seguro que habéis visto a muchos energúmenos diciendo con ironía si ahora había que firmar un contrato antes de follar p…'
@@ -294,6 +294,7 @@ Total: 263. Agrupadas por obra para ver cuales se pueden completar a mano y cual
 - 5x13: 'nos preguntábamos si sirven de algo las razones'
 - 5x13: 'que es que la culpa es un gesto femenino.'
 - 5x14: 'que creo que le pasa a mucha gente'
+- 6x01: 'antes de ser empleo salario o productividad, el trabajo fue gesto, mano que talla cuerpo que cultiva, voz que enseña cui…'
 
 **101 formas de expresar amor** (4)
 - 1x11: 'Y el segundo es mi favorito Que es 101 formas'
@@ -361,6 +362,11 @@ Total: 263. Agrupadas por obra para ver cuales se pueden completar a mano y cual
 - 3x16: 'entonces en las almas que están saliendo del infierno'
 - 3x16: 'Y nos parece interesante porque son gestos paralelos'
 
+**No es el fin del mundo** (3)
+- 4x02: 'Tienen un podcast de la geopolítica del Mediterráneo'
+- 5x01: 'me está recordando un poco a la punzada mundial'
+- 6x01: 'Este ejemplo lo pusimos hace poco en un episodio con No es el fin del mundo, el de los moderadores de contenido'
+
 **La bella y la bestia** (3)
 - 4x03: 'en este caso ya sí la película, no el texto, claro, serían el azul y el amarillo.'
 - 4x03: 'I want adventure in the great white somewhere...'
@@ -413,10 +419,6 @@ Total: 263. Agrupadas por obra para ver cuales se pueden completar a mano y cual
 **Amiga, date cuenta** (2)
 - 3x21: 'y de hecho quería traer uno de mis podcast favoritos que se llama Amiga date cuenta.'
 - 4x16: 'porque para eso escuchamos a gente que sí que saben, como Noelia y Begoña en Amiga Date Cuenta. Que tienen el episodio d…'
-
-**No es el fin del mundo** (2)
-- 4x02: 'Tienen un podcast de la geopolítica del Mediterráneo'
-- 5x01: 'me está recordando un poco a la punzada mundial'
 
 **Blancanieves** (2)
 - 4x03: 'Blancanieves es una bruja negra'
@@ -715,8 +717,20 @@ Total: 263. Agrupadas por obra para ver cuales se pueden completar a mano y cual
 **Las mil y una noches** (1)
 - 5x22: 'Tiene una serie de ensayos breves dedicados a sus traducciones de Joyce, a la traducción de Las mil y una noches'
 
+**documental de Rafa Nadal en Netflix** (1)
+- 6x01: '¿Habéis visto el documental de Rafa Nadal en Netflix, chicas?'
+
+**documental de Beckham en Netflix** (1)
+- 6x01: 'A lo tonto me he visto el de Beckham, el de Nadal'
+
+**Glosas Emilianenses** (1)
+- Glosas 1x10: 'la referencia un poco de este nombre viene de las glosas emilianenses, de San Villán de la Cogolla'
+
+**Escritores españoles exiliados en Francia** (1)
+- Glosas 1x10: 'Escritores españoles exiliados en Francia. Agustín Gómez Arcos.'
+
 ## 4. Menciones con confianza "baja"
-Total: 102.
+Total: 104.
 - **1x01** [14:31] Roland Barthes — *(sin obra)* — 'pues a Barney, como todos los días'
 - **1x05** [24:09] Blanca Junyent — *La princesa, sois vos* — 'nos va a leer un fragmento de un libro que se llama La princesa, sois vos de Blanca Jung Vidal que es un librito pequeño que mi librero favorito los libreros con su magia me recomendó'
 - **1x05** [33:12] Chanya Button — *Vita y Virginia* — 'vengo a recomendaros la lindísima película de Vita y Virginia sobre la historia de amor que hubo en el Londres de los años 20 entre estas dos increíbles escritoras'
@@ -819,24 +833,26 @@ Total: 102.
 - **Glosas 1x05** [34:47] sin determinar — *(sin obra)* — 'También leí uno de unas chicas de Ecuador que hablaban de ellos, los dejaremos por ahí.'
 - **Glosas 1x06** [07:00] Fina Miralles — *(sin obra)* — 'como Remedios Varo, Pina Baus, Leonora Carrington, me hizo mucha ilusión ver los cuadros allí, Picasso Finamiralles y también autores'
 - **Glosas 1x09** [38:58] María Herrera — *(sin obra)* — 'me veo el corto de María Herrera'
+- **Glosas 1x10** [10:57] Annie Ernaux — *(sin obra)* — 'Y encima publican a Anier, ¿no?'
+- **Glosas 1x10** [51:00] sin determinar — *Escritores españoles exiliados en Francia* — 'Escritores españoles exiliados en Francia. Agustín Gómez Arcos.'
 
 ## 5. Nombres de autoria muy parecidos entre si
 Comparados solo dentro del mismo grupo de letra inicial (normalizada), asi que no detecta deformaciones que cambien la primera letra. Distancia de edicion pequena entre nombres normalizados; suele ser la misma persona transcrita de dos formas.
 - (distancia 1) 'Rafael Andúgar Sousa' / 'Rafael Andújar Sousa'
 - (distancia 1) 'Ana Pacheco' / 'Anna Pacheco'
-- (distancia 1) 'Simone Veil' / 'Simone Weil'
-- (distancia 1) 'Marta Nussbaum' / 'Martha Nussbaum'
 - (distancia 1) 'Dahlia de la Cerda' / 'Dalia de la Cerda'
-- (distancia 1) 'Mirta Dermisache' / 'Mirtha Dermisache'
-- (distancia 1) 'Lidia Feito' / 'Lydia Feito'
+- (distancia 1) 'Simone Veil' / 'Simone Weil'
 - (distancia 1) 'Laurence Joseph' / 'Lawrence Joseph'
+- (distancia 1) 'Mirta Dermisache' / 'Mirtha Dermisache'
+- (distancia 1) 'Marta Nussbaum' / 'Martha Nussbaum'
+- (distancia 1) 'Lidia Feito' / 'Lydia Feito'
+- (distancia 2) 'Paul Ricoeur' / 'Paul Ricœur'
+- (distancia 2) 'Denise Riley' / 'Dennis Riley'
+- (distancia 2) 'Raina Fisher-Quann' / 'Rayne Fisher-Quann'
 - (distancia 2) 'Eduardo Said' / 'Edward Said'
 - (distancia 2) 'Amaral' / 'Amaya'
 - (distancia 2) 'Tomás Pollán' / 'Tomás Poyán'
 - (distancia 2) 'ALIZZZ' / 'Aliz'
-- (distancia 2) 'Denise Riley' / 'Dennis Riley'
-- (distancia 2) 'Paul Ricoeur' / 'Paul Ricœur'
-- (distancia 2) 'Raina Fisher-Quann' / 'Rayne Fisher-Quann'
 - (distancia 2) 'Marta' / 'Maya'
 
 Total de parejas sospechosas: 16

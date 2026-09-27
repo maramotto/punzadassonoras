@@ -7734,5 +7734,111 @@
   ],
   "notas_episodio": "Fila añadida el 2026-08-19, tras completar la extracción de los 118 episodios: no existía en refs_all.json porque el episodio se dio de alta por el procedimiento A0 y su descripción quedó guardada en data/desc_nuevos.md sin fundirse nunca en este fichero. Descripción recuperada de ahí, tal cual. Tema asignado a mano (Literatura y lectura) por ser el único episodio del archivo sin tema, decisión de Mara.",
   "id": "2026-07-30_admiracion-literaria-vivir-con-los-textos"
+ },
+ {
+  "clave": "J4R3doOdkUM",
+  "serie": "Punzadas Sonoras",
+  "temporada": 6,
+  "codigo": "6x01",
+  "titulo": "El trabajo como gesto",
+  "fecha": "2026-09-17",
+  "duracion_s": 3880,
+  "descripcion": "Paula e Inés arrancan esta nueva temporada desde el Festival de Filosofía de Envigado 2026, ¡en Colombia! En el contexto del Festival, que busca pensar acerca del futuro del trabajo, plantean la idea del trabajo como gesto. Este concepto busca pensar en el proceso en vez del resultado: importa el hacer en sí mismo. Las chicas hablan de «Notas sobre el gesto», un texto de Giorgio Agamben incluido en el libro «Medios sin fin. Notas sobre la política de Giorgio Agamben»; de «Gestus. El lugar del gesto en el pensamiento filosófico contemporáneo» de Nicolás Ried Soto y de «Trabajo, acción e intelecto» de Paolo Virno. Estos textos llevan a pensar sobre la dicotomía entre medios y fines, relacionando el gesto como pura medialidad. A través de estas ideas piensan el futuro del trabajo no apelando al resultado (¿el resultado sería el mismo si lo hiciera un humano o una máquina?) sino transformar la pregunta: ¿Qué gestos queremos conservar? ¿Cuáles no nos importa perder? Para contestar estas preguntas proponen dos gestos concretos: la matanza de animales y la traducción. Todo ello a través de distintas lecturas: «Cuestión de lugar» de John Berger, «Una exposición» de Ieda Magri, «Generative IA and Creative Work: Narratives, Values and Impacts» de Baptiste Caramiaux, Kate Crawford, Q. Vera Liao, Gonzalo Ramos, Jenny Williams y «Se vive y se traduce» de Laura Wittner. Reivindican también el sello de traducción humana, una propuesta de ACE Traductores.",
+  "url_youtube": "https://www.youtube.com/watch?v=J4R3doOdkUM",
+  "url_spotify": "https://open.spotify.com/show/444xAKuV4A4WUlSXqyl51P",
+  "url_audio": "https://traffic.megaphone.fm/PMSL1479095690.mp3",
+  "tiene_transcripcion": true,
+  "fuente_datos": "descripción de YouTube",
+  "orden": [
+   6,
+   1
+  ],
+  "tags": [
+   "Capitalismo, trabajo y economía",
+   "Cuerpo y mirada",
+   "Filosofía y epistemología",
+   "Formato especial y evento"
+  ],
+  "tags_originales": [],
+  "refs": [
+   {
+    "autor": "Giorgio Agamben",
+    "obra": "Medios sin fin. Notas sobre la política",
+    "tipo": "libro"
+   },
+   {
+    "autor": "Nicolás Ried Soto",
+    "obra": "Gestus. El lugar del gesto en el pensamiento filosófico contemporáneo",
+    "tipo": "libro"
+   },
+   {
+    "autor": "Paolo Virno",
+    "obra": "Trabajo, acción e intelecto",
+    "tipo": "libro"
+   },
+   {
+    "autor": "John Berger",
+    "obra": "Cuestión de lugar",
+    "tipo": "libro"
+   },
+   {
+    "autor": "Ieda Magri",
+    "obra": "Una exposición",
+    "tipo": "libro"
+   },
+   {
+    "autor": "Baptiste Caramiaux, Kate Crawford, Q. Vera Liao, Gonzalo Ramos, Jenny Williams",
+    "obra": "Generative IA and Creative Work: Narratives, Values and Impacts",
+    "tipo": "artículo"
+   },
+   {
+    "autor": "Laura Wittner",
+    "obra": "Se vive y se traduce",
+    "tipo": "libro"
+   },
+   {
+    "autor": "ACE Traductores",
+    "obra": "Sello de traducción humana",
+    "tipo": "proyecto"
+   }
+  ],
+  "notas_episodio": "Alta como episodio nuevo el 2026-09-27, vía scripts/17_nuevo_episodio.py (comando alta). Extracción completa desde el audio en podcast-data/extraccion/6x01.json (24 menciones, criterio v2). Grabado en directo en el Festival de Filosofía de Envigado (Colombia); abre la temporada 6.",
+  "id": "2026-09-17_el-trabajo-como-gesto"
+ },
+ {
+  "clave": "Glosas 1x10",
+  "serie": "Las Glosas",
+  "temporada": null,
+  "codigo": "Glosas 1x10",
+  "titulo": "Las Glosas: «El cordero carnívoro», Agustín Gómez Arcos",
+  "fecha": "2026-09-24",
+  "duracion_s": 3374,
+  "descripcion": "En este episodio en vivo de Las Glosas desde el centro de Madrid y en el marco del Festival de las Ideas, Inés y Paula analizan los capítulos 7 y 8 de «El cordero carnívoro» de Agustín Gómez Arcos (Cabaret Voltaire).",
+  "url_youtube": "",
+  "url_spotify": "https://open.spotify.com/show/444xAKuV4A4WUlSXqyl51P",
+  "url_audio": "https://traffic.megaphone.fm/PMSL6300653165.mp3",
+  "tiene_transcripcion": true,
+  "fuente_datos": "feed RSS (fuera de la playlist)",
+  "orden": [
+   9,
+   10
+  ],
+  "tags": [
+   "Sexualidad y disidencia sexual",
+   "Cuerpo y mirada",
+   "Memoria e historia",
+   "Familia y maternidad",
+   "Monográfico de autor/a"
+  ],
+  "tags_originales": [],
+  "refs": [
+   {
+    "autor": "Agustín Gómez Arcos",
+    "obra": "El cordero carnívoro",
+    "tipo": "libro"
+   }
+  ],
+  "notas_episodio": "Alta como episodio nuevo el 2026-09-27, vía scripts/17_nuevo_episodio.py (comando alta). Extracción completa desde el audio en podcast-data/extraccion/Glosas 1x10.json (33 menciones, criterio v2). Grabado en directo en el Festival de las Ideas (Madrid); no está en YouTube todavía, por eso url_youtube queda vacío y la numeración es la siguiente por orden cronológico tras Glosas 1x09.",
+  "id": "2026-09-24_las-glosas-el-cordero-carnivoro-agustin-gomez-arcos"
  }
 ]

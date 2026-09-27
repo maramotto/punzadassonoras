@@ -1178,5 +1178,25 @@
   "duracion_s": 4099,
   "slug": "2026-07-30_5x22",
   "id": "2026-07-30_admiracion-literaria-vivir-con-los-textos"
+ },
+ {
+  "codigo": "6x01",
+  "titulo": "El trabajo como gesto",
+  "fecha": "2026-09-17",
+  "video_id": "J4R3doOdkUM",
+  "url_audio": "https://traffic.megaphone.fm/PMSL1479095690.mp3",
+  "duracion_s": 3880,
+  "slug": "2026-09-17_6x01",
+  "id": "2026-09-17_el-trabajo-como-gesto"
+ },
+ {
+  "codigo": "Glosas 1x10",
+  "titulo": "Las Glosas: «El cordero carnívoro», Agustín Gómez Arcos",
+  "fecha": "2026-09-24",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL6300653165.mp3",
+  "duracion_s": 3374,
+  "slug": "2026-09-24_Glosas 1x10",
+  "id": "2026-09-24_las-glosas-el-cordero-carnivoro-agustin-gomez-arcos"
  }
 ]
