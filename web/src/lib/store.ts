@@ -116,7 +116,7 @@ export function filtrarIndices(index: Index, f: Filtro): number[] {
   return resultado;
 }
 
-/** "1".."5" para temporadas numeradas, "Especial" para sueltos sin numerar
+/** "1".."6" para temporadas numeradas, "Especial" para sueltos sin numerar
  * y sin "Glosas" en el codigo, "Glosas" para los episodios de Las Glosas. */
 export function etiquetaTemporada(temporada: number | null, codigo: string): string {
   if (codigo.startsWith("Glosas")) return "Glosas";
