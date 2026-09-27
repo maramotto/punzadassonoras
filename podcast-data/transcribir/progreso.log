@@ -533,3 +533,21 @@
 [13:22:44]   diarizado: 664 turnos en 614s
 [13:22:44]   → ok
 [13:22:44] listo. transcripciones completas: 118/118
+[17:53:15] motor: mlx-whisper (GPU Apple)
+[17:53:15] pendientes: 2 episodios (2.0 h de audio)
+[17:53:15] [1/2] 6x01 — El trabajo como gesto
+[17:53:21]   ERROR: ModuleNotFoundError: No module named 'mlx_whisper'
+[17:53:21] [2/2] Glosas 1x10 — Las Glosas: «El cordero carnívoro», Agustín Gómez Arcos
+[17:53:25]   ERROR: ModuleNotFoundError: No module named 'mlx_whisper'
+[17:53:25] listo. transcripciones completas: 118/120
+[17:55:08] motor: mlx-whisper (GPU Apple)
+[17:55:08] pendientes: 2 episodios (2.0 h de audio)
+[17:55:08] [1/2] 6x01 — El trabajo como gesto
+[18:07:21]   transcrito: 1033 segmentos en 730s
+[18:14:37]   diarizado: 602 turnos en 436s
+[18:14:37]   → ok
+[18:14:37] [2/2] Glosas 1x10 — Las Glosas: «El cordero carnívoro», Agustín Gómez Arcos
+[18:26:40]   transcrito: 780 segmentos en 720s
+[18:32:32]   diarizado: 365 turnos en 352s
+[18:32:32]   → ok
+[18:32:32] listo. transcripciones completas: 120/120
