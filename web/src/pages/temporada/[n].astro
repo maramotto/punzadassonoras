@@ -4,7 +4,7 @@ import { indexBuild } from "../../lib/datosBuild";
 import { etiquetaTemporada } from "../../lib/store";
 
 export function getStaticPaths() {
-  return ["1", "2", "3", "4", "5", "Glosas", "Especial"].map((n) => ({ params: { n } }));
+  return ["1", "2", "3", "4", "5", "6", "Glosas", "Especial"].map((n) => ({ params: { n } }));
 }
 
 const { n } = Astro.params!;

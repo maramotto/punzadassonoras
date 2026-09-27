@@ -12,10 +12,10 @@ const PALETA_REALES = [
   "var(--color-cat-1)", "var(--color-cat-2)", "var(--color-cat-3)", "var(--color-cat-4)", "var(--color-cat-5)",
 ];
 const COLOR_OTROS = "var(--color-cat-otros)";
-const TEMPORADAS = ["1", "2", "3", "4", "5", "Glosas", "Especial"];
+const TEMPORADAS = ["1", "2", "3", "4", "5", "6", "Glosas", "Especial"];
 const NOMBRE_TEMPORADA: Record<string, string> = {
   "1": "Temporada 1", "2": "Temporada 2", "3": "Temporada 3", "4": "Temporada 4", "5": "Temporada 5",
-  Glosas: "Las Glosas", Especial: "Especiales",
+  "6": "Temporada 6", Glosas: "Las Glosas", Especial: "Especiales",
 };
 
 interface Segmento {

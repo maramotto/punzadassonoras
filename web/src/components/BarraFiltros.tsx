@@ -77,7 +77,7 @@ function mencionesPorAutor(index: Index): Map<string, number> {
 }
 
 function opcionesDe(index: Index, campo: CampoMulti): string[] {
-  if (campo === "temporada") return ["1", "2", "3", "4", "5", "Glosas", "Especial"];
+  if (campo === "temporada") return ["1", "2", "3", "4", "5", "6", "Glosas", "Especial"];
   if (campo === "tema") return ordenarPorPresencia(index.temas, episodiosPorTema(index));
   if (campo === "tipo") return ordenarPorPresencia(index.tip.filter(Boolean), episodiosPorTipo(index));
   const tabla: Record<string, string[]> = {
