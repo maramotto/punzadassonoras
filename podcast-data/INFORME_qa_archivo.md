@@ -1,6 +1,6 @@
 # Informe de QA del archivo
 
-Generado por `15_qa_archivo.py` sobre 120 episodios y 5931 menciones. Solo diagnostico: no se ha corregido nada automaticamente.
+Generado por `15_qa_archivo.py` sobre 123 episodios y 6011 menciones. Solo diagnostico: no se ha corregido nada automaticamente.
 ## 1. Titulos de obra que normalizados coinciden pero se escriben distinto
 Mismo titulo (sin mayusculas/tildes/puntuacion) escrito de mas de una forma. Decide cual variante se queda; el resto hay que fundirlas.
 
@@ -200,9 +200,9 @@ Mismo titulo normalizado con mas de un autor distinto. Puede ser una atribucion 
 Total de obras con autoria en conflicto: 44
 
 ## 3. Menciones con autor "sin determinar"
-Total: 269. Agrupadas por obra para ver cuales se pueden completar a mano y cuales quedan fuera de rankings de autoria.
+Total: 276. Agrupadas por obra para ver cuales se pueden completar a mano y cuales quedan fuera de rankings de autoria.
 
-**(sin obra)** (92)
+**(sin obra)** (93)
 - Glosas 1x02: 'esto también nos lo contaba Jorge Richman'
 - Glosas 1x02: 'o sea, recuerdo un artículo'
 - Glosas 1x05: 'Seguro que habéis visto a muchos energúmenos diciendo con ironía si ahora había que firmar un contrato antes de follar p…'
@@ -295,6 +295,7 @@ Total: 269. Agrupadas por obra para ver cuales se pueden completar a mano y cual
 - 5x13: 'que es que la culpa es un gesto femenino.'
 - 5x14: 'que creo que le pasa a mucha gente'
 - 6x01: 'antes de ser empleo salario o productividad, el trabajo fue gesto, mano que talla cuerpo que cultiva, voz que enseña cui…'
+- 6x02: 'San Sebastián es el santo queer, el santo gay'
 
 **101 formas de expresar amor** (4)
 - 1x11: 'Y el segundo es mi favorito Que es 101 formas'
@@ -723,6 +724,24 @@ Total: 269. Agrupadas por obra para ver cuales se pueden completar a mano y cual
 **documental de Beckham en Netflix** (1)
 - 6x01: 'A lo tonto me he visto el de Beckham, el de Nadal'
 
+**Paquita Salas** (1)
+- 6x02: 'en Paquita Salas hay un capítulo entero que es La Casa de Bernardo Alba'
+
+**La cocaína** (1)
+- 6x02: 'hay canciones que habla de una que se llama la cocaína, otra que se llama el sátiro del ABC'
+
+**El sátiro del ABC** (1)
+- 6x02: 'hay canciones que habla de una que se llama la cocaína, otra que se llama el sátiro del ABC'
+
+**Frozen** (1)
+- 6x02: 'desde San Sebastián hasta Elsa de Frozen'
+
+**Paris is Burning** (1)
+- 6x02: 'Como que siempre pienso en Paris is Burning'
+
+**The Rest is History** (1)
+- 6x03: 'escucho mucho un podcast que se llama The Rest is History que está en inglés'
+
 **Glosas Emilianenses** (1)
 - Glosas 1x10: 'la referencia un poco de este nombre viene de las glosas emilianenses, de San Villán de la Cogolla'
 
@@ -838,21 +857,21 @@ Total: 104.
 
 ## 5. Nombres de autoria muy parecidos entre si
 Comparados solo dentro del mismo grupo de letra inicial (normalizada), asi que no detecta deformaciones que cambien la primera letra. Distancia de edicion pequena entre nombres normalizados; suele ser la misma persona transcrita de dos formas.
-- (distancia 1) 'Rafael Andúgar Sousa' / 'Rafael Andújar Sousa'
-- (distancia 1) 'Ana Pacheco' / 'Anna Pacheco'
-- (distancia 1) 'Dahlia de la Cerda' / 'Dalia de la Cerda'
-- (distancia 1) 'Simone Veil' / 'Simone Weil'
-- (distancia 1) 'Laurence Joseph' / 'Lawrence Joseph'
 - (distancia 1) 'Mirta Dermisache' / 'Mirtha Dermisache'
+- (distancia 1) 'Rafael Andúgar Sousa' / 'Rafael Andújar Sousa'
+- (distancia 1) 'Laurence Joseph' / 'Lawrence Joseph'
 - (distancia 1) 'Marta Nussbaum' / 'Martha Nussbaum'
+- (distancia 1) 'Dahlia de la Cerda' / 'Dalia de la Cerda'
 - (distancia 1) 'Lidia Feito' / 'Lydia Feito'
-- (distancia 2) 'Paul Ricoeur' / 'Paul Ricœur'
+- (distancia 1) 'Ana Pacheco' / 'Anna Pacheco'
+- (distancia 1) 'Simone Veil' / 'Simone Weil'
 - (distancia 2) 'Denise Riley' / 'Dennis Riley'
 - (distancia 2) 'Raina Fisher-Quann' / 'Rayne Fisher-Quann'
 - (distancia 2) 'Eduardo Said' / 'Edward Said'
 - (distancia 2) 'Amaral' / 'Amaya'
-- (distancia 2) 'Tomás Pollán' / 'Tomás Poyán'
 - (distancia 2) 'ALIZZZ' / 'Aliz'
+- (distancia 2) 'Tomás Pollán' / 'Tomás Poyán'
 - (distancia 2) 'Marta' / 'Maya'
+- (distancia 2) 'Paul Ricoeur' / 'Paul Ricœur'
 
 Total de parejas sospechosas: 16

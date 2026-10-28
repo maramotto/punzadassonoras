@@ -551,3 +551,28 @@
 [18:32:32]   diarizado: 365 turnos en 352s
 [18:32:32]   → ok
 [18:32:32] listo. transcripciones completas: 120/120
+[12:47:39] motor: mlx-whisper (GPU Apple)
+[12:47:39] pendientes: 2 episodios (2.2 h de audio)
+[12:47:39] [1/2] 6x03 — Paraíso: una fantasía política
+[13:33:07]   transcrito: 1497 segmentos en 2721s
+[13:43:52]   diarizado: 749 turnos en 645s
+[13:43:52]   → ok
+[13:43:52] [2/2] Glosas 1x11 — Las Glosas: «Hogaza de mi pan, agua que corres, jinete 
+[14:31:38]   transcrito: 1259 segmentos en 2861s
+[14:36:29]   diarizado: 614 turnos en 290s
+[14:36:29]   → ok
+[14:36:29] listo. transcripciones completas: 122/123
+[14:37:05] motor: mlx-whisper (GPU Apple)
+[14:37:05] pendientes: 1 episodios (1.5 h de audio)
+[14:37:05] [1/1] 6x02 — Sobre «La bola negra»
+[15:17:41]   transcrito: 2014 segmentos en 2428s
+[15:33:10]   diarizado: 930 turnos en 929s
+[15:33:10]   → ok
+[15:33:10] listo. transcripciones completas: 123/123
+[16:40:03] motor: mlx-whisper (GPU Apple)
+[16:40:03] pendientes: 1 episodios (1.5 h de audio)
+[16:40:03] [1/1] 6x02 — Sobre «La bola negra»
+[16:56:26]   transcrito: 2014 segmentos en 969s
+[17:06:05]   diarizado: 930 turnos en 579s
+[17:06:05]   → ok
+[17:06:05] listo. transcripciones completas: 123/123

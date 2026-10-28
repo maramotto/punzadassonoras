@@ -1198,5 +1198,35 @@
   "duracion_s": 3374,
   "slug": "2026-09-24_Glosas 1x10",
   "id": "2026-09-24_las-glosas-el-cordero-carnivoro-agustin-gomez-arcos"
+ },
+ {
+  "codigo": "6x02",
+  "titulo": "Sobre «La bola negra»",
+  "fecha": "2026-10-01",
+  "video_id": "nG3VXk-uIxM",
+  "url_audio": "https://traffic.megaphone.fm/PMSL9673636461.mp3",
+  "duracion_s": 5355,
+  "slug": "2026-10-01_6x02",
+  "id": "2026-10-01_sobre-la-bola-negra"
+ },
+ {
+  "codigo": "6x03",
+  "titulo": "Paraíso: una fantasía política",
+  "fecha": "2026-10-15",
+  "video_id": "VAl0tHElLsE",
+  "url_audio": "https://traffic.megaphone.fm/PMSL2420750831.mp3",
+  "duracion_s": 4181,
+  "slug": "2026-10-15_6x03",
+  "id": "2026-10-15_paraiso-una-fantasia-politica"
+ },
+ {
+  "codigo": "Glosas 1x11",
+  "titulo": "Las Glosas: «Hogaza de mi pan, agua que corres, jinete cabalgando, cebra sola»",
+  "fecha": "2026-10-22",
+  "video_id": "",
+  "url_audio": "https://traffic.megaphone.fm/PMSL9986361281.mp3",
+  "duracion_s": 3852,
+  "slug": "2026-10-22_Glosas 1x11",
+  "id": "2026-10-22_las-glosas-hogaza-de-mi-pan-agua-que-corres-jinete-cabalgando-cebra-sola"
  }
 ]
