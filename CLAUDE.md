@@ -13,12 +13,12 @@ deben quedar acreditadas y las fuentes citadas con claridad.
 
 | | |
 |---|---|
-| Episodios catalogados | **117 de 117** ✅ |
-| Transcripciones | **117 de 117** ✅ (mlx-whisper large-v3 + pyannote 3.1, con hablante) |
-| Referencias extraídas | **671** |
-| Autores distintos | **469** |
-| Enriquecimiento bibliográfico | **272 de 671 filas (41%)** con editorial/año, vía Open Library + Dialnet + MCU. Sobre las 465 filas que sí tienen obra concreta: **58%** |
-| Fuente de las referencias | Solo texto (descripciones + newsletter). **Ninguna del audio todavía.** |
+| Episodios catalogados | **123 de 123** ✅ |
+| Transcripciones | **123 de 123** ✅ (mlx-whisper large-v3 + pyannote 3.1, con hablante) |
+| Referencias extraídas | **703** |
+| Autores distintos | **491** |
+| Enriquecimiento bibliográfico | **272 de 671 filas (41%)** con editorial/año, vía Open Library + Dialnet + MCU. Sobre las 465 filas que sí tienen obra concreta: **58%**. Cifra pendiente de recalcular sobre las 703 filas actuales. |
+| Fuente de las referencias | Mayoritariamente texto (descripciones + newsletter). 5 episodios (6x01, 6x02, 6x03, Glosas 1x10, Glosas 1x11) tienen además extracción completa desde el audio, en `podcast-data/extraccion/`. |
 | Entregable actual | `Punzadas_Sonoras_referencias.xlsx` (4 pestañas: Referencias, Episodios, Autores, Leyenda) |
 
 Barthes es el eje del podcast: 55 menciones, presente en las cinco temporadas. Ernaux, 20.
@@ -53,7 +53,7 @@ punzadassonoras/                  repo: github.com/maramotto/punzadassonoras
     ├── PILOTO_esquema_blando.md  esquema pendiente con ejemplos — LÉELO PRIMERO
     ├── Punzadas_Sonoras_referencias.xlsx    entregable actual
     ├── data/
-    │   ├── refs_all.json         ← DATASET PRINCIPAL. 102 episodios con sus referencias.
+    │   ├── refs_all.json         ← DATASET PRINCIPAL. 123 episodios con sus referencias.
     │   ├── episodios.json        índice de los 66 vídeos de YouTube
     │   ├── episodios_t1t2.json   índice de los 36 episodios de T1-T2 desde el RSS
     │   ├── cache_openlibrary.json  cache del enriquecimiento (225 entradas)

@@ -7840,5 +7840,164 @@
   ],
   "notas_episodio": "Alta como episodio nuevo el 2026-09-27, vía scripts/17_nuevo_episodio.py (comando alta). Extracción completa desde el audio en podcast-data/extraccion/Glosas 1x10.json (33 menciones, criterio v2). Grabado en directo en el Festival de las Ideas (Madrid); no está en YouTube todavía, por eso url_youtube queda vacío y la numeración es la siguiente por orden cronológico tras Glosas 1x09.",
   "id": "2026-09-24_las-glosas-el-cordero-carnivoro-agustin-gomez-arcos"
+ },
+ {
+  "clave": "nG3VXk-uIxM",
+  "serie": "Punzadas Sonoras",
+  "temporada": 6,
+  "codigo": "6x02",
+  "titulo": "Sobre «La bola negra»",
+  "fecha": "2026-10-01",
+  "duracion_s": 5355,
+  "descripcion": "Inés y Paula dedican este episodio a pensar filosóficamente sobre «La bola negra», una película de Javier Calvo y Javier Ambrossi. Con ayuda de las voces y reflexiones de los directores, las chicas piensan sobre distintos temas: la relación entre Historia y ficción, lo inacabado, el teatro y la herencia. Todo ello a través de lecturas como «La piedra oscura» de Alberto Conejero, la tesis doctoral «El sentido de un comienzo: Pensamiento contrafactual, ucronía e imaginación histórica» de Alberto Murcia, «A pesar de Platón» de Adriana Cavarero, «Las muertes de Federico» de Manuel Bernal Romero, «El concepto de ficción» de Juan José Saer, «La compasión difícil» de Chantal Maillard, «Gran manual del fracaso» de Juanpe Sánchez López y la exposición «Cuestión de ambiente: diversidad en el madrid literario y artístico de los años 20» de Joaquín García Martín.",
+  "url_youtube": "https://www.youtube.com/watch?v=nG3VXk-uIxM",
+  "url_spotify": "https://open.spotify.com/show/444xAKuV4A4WUlSXqyl51P",
+  "url_audio": "https://traffic.megaphone.fm/PMSL9673636461.mp3",
+  "tiene_transcripcion": true,
+  "fuente_datos": "descripción de YouTube",
+  "orden": [
+   6,
+   2
+  ],
+  "tags": [
+   "Memoria e historia",
+   "Sexualidad y disidencia sexual",
+   "Narración, ficción y autoficción",
+   "Muerte y duelo"
+  ],
+  "tags_originales": [],
+  "refs": [
+   {
+    "autor": "Alberto Conejero",
+    "obra": "La piedra oscura",
+    "tipo": "obra de teatro"
+   },
+   {
+    "autor": "Alberto Murcia",
+    "obra": "El sentido de un comienzo: Pensamiento contrafactual, ucronía e imaginación histórica",
+    "tipo": "tesis doctoral"
+   },
+   {
+    "autor": "Adriana Cavarero",
+    "obra": "A pesar de Platón",
+    "tipo": "libro"
+   },
+   {
+    "autor": "Manuel Bernal Romero",
+    "obra": "Las muertes de Federico",
+    "tipo": "libro"
+   },
+   {
+    "autor": "Juan José Saer",
+    "obra": "El concepto de ficción",
+    "tipo": "libro"
+   },
+   {
+    "autor": "Chantal Maillard",
+    "obra": "La compasión difícil",
+    "tipo": "libro"
+   },
+   {
+    "autor": "Juanpe Sánchez López",
+    "obra": "Gran manual del fracaso",
+    "tipo": "libro"
+   },
+   {
+    "autor": "Joaquín García Martín",
+    "obra": "Cuestión de ambiente: diversidad en el madrid literario y artístico de los años 20",
+    "tipo": "exposición"
+   }
+  ],
+  "notas_episodio": "Alta como episodio nuevo el 2026-10-27, vía scripts/17_nuevo_episodio.py (comando alta). Extracción completa desde el audio en podcast-data/extraccion/6x02.json (34 menciones, criterio v2). Incluye cortes de audio de los directores de la película, Javier Calvo y Javier Ambrossi, dentro de la conversación; no son invitados en directo, y sus voces se mezclan con la de la cuña del programa bajo la misma etiqueta de hablante en la diarización.",
+  "id": "2026-10-01_sobre-la-bola-negra"
+ },
+ {
+  "clave": "VAl0tHElLsE",
+  "serie": "Punzadas Sonoras",
+  "temporada": 6,
+  "codigo": "6x03",
+  "titulo": "Paraíso: una fantasía política",
+  "fecha": "2026-10-15",
+  "duracion_s": 4181,
+  "descripcion": "Paula e Inés abordan en este episodio el concepto de «Paraíso» y se preguntan cómo ha servido para articular proyectos políticos y coloniales a lo largo de la historia y en la actualidad. Empiezan haciendo un repaso de varios mitos para ver qué tienen en común las distintas concepciones de paraíso a través del artículo «El mito del paraíso perdido: de la concepción trágica a su desmitificación», de José Manuel Losada. ¿Qué es exactamente el paraíso? ¿Qué consecuencias tiene intentar buscar el paraíso en la tierra? Las chicas distinguen dos maneras de utilizar el paraíso: como fantasía política y en relación a la idea de tierra prometida. Articulan estas ideas con varios ejemplos de cómo el paraíso y algunos elementos míticos se han utilizado para legitimar conquistas como la de América, el oeste del actual territorio de EEUU y cómo el mito de la tierra prometida ha sido clave para el sionismo político a la hora de dibujar Palestina como una tierra sin pueblo. Para ello utilizan los textos: «Paradise», Ivan Hofman; «Cómo ocultar un imperio», de Daniel Immerwahr; «Un país de desolación, sílices y cenizas: el mito de Palestina como tierra virgen en el discurso sionista», de Jorge Ramos Tolosa y la película «Palestina 36», de Annemarie Jacir.",
+  "url_youtube": "https://www.youtube.com/watch?v=VAl0tHElLsE",
+  "url_spotify": "https://open.spotify.com/show/444xAKuV4A4WUlSXqyl51P",
+  "url_audio": "https://traffic.megaphone.fm/PMSL2420750831.mp3",
+  "tiene_transcripcion": true,
+  "fuente_datos": "descripción de YouTube",
+  "orden": [
+   6,
+   3
+  ],
+  "tags": [
+   "Colonialismo y poscolonialismo",
+   "Política y actualidad",
+   "Mito y relato"
+  ],
+  "tags_originales": [],
+  "refs": [
+   {
+    "autor": "José Manuel Losada",
+    "obra": "El mito del paraíso perdido: de la concepción trágica a su desmitificación",
+    "tipo": "artículo"
+   },
+   {
+    "autor": "Ivan Hofman",
+    "obra": "Paradise",
+    "tipo": "artículo"
+   },
+   {
+    "autor": "Daniel Immerwahr",
+    "obra": "Cómo ocultar un imperio",
+    "tipo": "libro"
+   },
+   {
+    "autor": "Jorge Ramos Tolosa",
+    "obra": "Un país de desolación, sílices y cenizas: el mito de Palestina como tierra virgen en el discurso sionista",
+    "tipo": "artículo"
+   },
+   {
+    "autor": "Annemarie Jacir",
+    "obra": "Palestina 36",
+    "tipo": "película"
+   }
+  ],
+  "notas_episodio": "Alta como episodio nuevo el 2026-10-27, vía scripts/17_nuevo_episodio.py (comando alta). Extracción completa desde el audio en podcast-data/extraccion/6x03.json (18 menciones, criterio v2).",
+  "id": "2026-10-15_paraiso-una-fantasia-politica"
+ },
+ {
+  "clave": "Glosas 1x11",
+  "serie": "Las Glosas",
+  "temporada": null,
+  "codigo": "Glosas 1x11",
+  "titulo": "Las Glosas: «Hogaza de mi pan, agua que corres, jinete cabalgando, cebra sola»",
+  "fecha": "2026-10-22",
+  "duracion_s": 3852,
+  "descripcion": "En este episodio en vivo de Las Glosas desde el Festival Irreconciliables, el Festival Internacional de Poesía de Málaga, Paula e Inés glosan Hogaza de mi pan, agua que corres, jinete cabalgando, cebra sola del poeta malagueño Paco Cumpián. El poema está recogido en el libro Confín (Letraversal).",
+  "url_youtube": "",
+  "url_spotify": "https://open.spotify.com/show/444xAKuV4A4WUlSXqyl51P",
+  "url_audio": "https://traffic.megaphone.fm/PMSL9986361281.mp3",
+  "tiene_transcripcion": true,
+  "fuente_datos": "feed RSS (fuera de la playlist)",
+  "orden": [
+   9,
+   11
+  ],
+  "tags": [
+   "Literatura y lectura",
+   "Lenguaje y escritura",
+   "Formato especial y evento",
+   "Monográfico de autor/a"
+  ],
+  "tags_originales": [],
+  "refs": [
+   {
+    "autor": "Paco Cumpián",
+    "obra": "Hogaza de mi pan, agua que corres, jinete cabalgando, cebra sola",
+    "tipo": "poema"
+   }
+  ],
+  "notas_episodio": "Alta como episodio nuevo el 2026-10-27, vía scripts/17_nuevo_episodio.py (comando alta). Extracción completa desde el audio en podcast-data/extraccion/Glosas 1x11.json (28 menciones, criterio v2). Grabado en directo en el Festival Irreconciliables (Festival Internacional de Poesía de Málaga); no está en YouTube, por eso url_youtube queda vacío y la numeración es la siguiente por orden cronológico tras Glosas 1x10.",
+  "id": "2026-10-22_las-glosas-hogaza-de-mi-pan-agua-que-corres-jinete-cabalgando-cebra-sola"
  }
 ]
